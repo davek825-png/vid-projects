@@ -1,0 +1,4760 @@
+{
+ "project": "ows-1",
+ "style": "natural-slow",
+ "units": "ms",
+ "source": "master-natural-slow-h264.mp4 (1920x1080@30, narration-only on a blank espresso background)",
+ "note": "Word times in the FINAL master timeline, from a fresh AssemblyAI pass over the master (keyterms applied). Text fix: the word before 'current' is forced to 'churning' (creator decision; the audio is ambiguous turning/churning). Re-apply after any re-transcription (see work/analysis/token-time-fixes.json).",
+ "duration_ms": 389533,
+ "words": [
+  {
+   "text": "Welcome",
+   "start": 96,
+   "end": 528
+  },
+  {
+   "text": "to",
+   "start": 528,
+   "end": 593
+  },
+  {
+   "text": "Old",
+   "start": 593,
+   "end": 993
+  },
+  {
+   "text": "West",
+   "start": 993,
+   "end": 1234
+  },
+  {
+   "text": "Stories.",
+   "start": 1234,
+   "end": 1763
+  },
+  {
+   "text": "Ride",
+   "start": 2676,
+   "end": 2917
+  },
+  {
+   "text": "with",
+   "start": 2917,
+   "end": 3093
+  },
+  {
+   "text": "us",
+   "start": 3141,
+   "end": 3350
+  },
+  {
+   "text": "through",
+   "start": 3478,
+   "end": 3702
+  },
+  {
+   "text": "the",
+   "start": 3702,
+   "end": 3879
+  },
+  {
+   "text": "true",
+   "start": 3879,
+   "end": 4279
+  },
+  {
+   "text": "tales",
+   "start": 4360,
+   "end": 4696
+  },
+  {
+   "text": "of",
+   "start": 4696,
+   "end": 4760
+  },
+  {
+   "text": "the",
+   "start": 4760,
+   "end": 4857
+  },
+  {
+   "text": "frontier,",
+   "start": 4857,
+   "end": 5353
+  },
+  {
+   "text": "one",
+   "start": 6187,
+   "end": 6331
+  },
+  {
+   "text": "good",
+   "start": 6604,
+   "end": 6940
+  },
+  {
+   "text": "story",
+   "start": 6940,
+   "end": 7453
+  },
+  {
+   "text": "at",
+   "start": 7566,
+   "end": 7646
+  },
+  {
+   "text": "a",
+   "start": 7646,
+   "end": 7662
+  },
+  {
+   "text": "time.",
+   "start": 7662,
+   "end": 7918
+  },
+  {
+   "text": "In",
+   "start": 9024,
+   "end": 9072
+  },
+  {
+   "text": "Lewis",
+   "start": 9088,
+   "end": 9345
+  },
+  {
+   "text": "and",
+   "start": 9409,
+   "end": 9569
+  },
+  {
+   "text": "Clark's",
+   "start": 9569,
+   "end": 9970
+  },
+  {
+   "text": "Expedition",
+   "start": 10050,
+   "end": 10499
+  },
+  {
+   "text": "Journal,",
+   "start": 10611,
+   "end": 10900
+  },
+  {
+   "text": "one",
+   "start": 11477,
+   "end": 11541
+  },
+  {
+   "text": "person",
+   "start": 11637,
+   "end": 11974
+  },
+  {
+   "text": "kept",
+   "start": 11974,
+   "end": 12214
+  },
+  {
+   "text": "appearing.",
+   "start": 12214,
+   "end": 12503
+  },
+  {
+   "text": "She",
+   "start": 13336,
+   "end": 13497
+  },
+  {
+   "text": "was",
+   "start": 13497,
+   "end": 13609
+  },
+  {
+   "text": "there",
+   "start": 13737,
+   "end": 13913
+  },
+  {
+   "text": "through",
+   "start": 13978,
+   "end": 14154
+  },
+  {
+   "text": "the",
+   "start": 14154,
+   "end": 14266
+  },
+  {
+   "text": "rivers,",
+   "start": 14298,
+   "end": 14667
+  },
+  {
+   "text": "the",
+   "start": 15019,
+   "end": 15164
+  },
+  {
+   "text": "storms,",
+   "start": 15164,
+   "end": 15757
+  },
+  {
+   "text": "and",
+   "start": 15885,
+   "end": 16061
+  },
+  {
+   "text": "the",
+   "start": 16061,
+   "end": 16190
+  },
+  {
+   "text": "hunger.",
+   "start": 16206,
+   "end": 16542
+  },
+  {
+   "text": "Yet",
+   "start": 17424,
+   "end": 17584
+  },
+  {
+   "text": "the",
+   "start": 17584,
+   "end": 17664
+  },
+  {
+   "text": "journal",
+   "start": 17729,
+   "end": 18017
+  },
+  {
+   "text": "almost",
+   "start": 18209,
+   "end": 18514
+  },
+  {
+   "text": "never",
+   "start": 18546,
+   "end": 19123
+  },
+  {
+   "text": "gives",
+   "start": 19171,
+   "end": 19412
+  },
+  {
+   "text": "her",
+   "start": 19428,
+   "end": 19588
+  },
+  {
+   "text": "a",
+   "start": 19588,
+   "end": 19748
+  },
+  {
+   "text": "name.",
+   "start": 19748,
+   "end": 20037
+  },
+  {
+   "text": "Instead,",
+   "start": 20630,
+   "end": 21063
+  },
+  {
+   "text": "she",
+   "start": 21191,
+   "end": 21431
+  },
+  {
+   "text": "is,",
+   "start": 21431,
+   "end": 21560
+  },
+  {
+   "text": "quote,",
+   "start": 21832,
+   "end": 22297
+  },
+  {
+   "text": "\"the",
+   "start": 22778,
+   "end": 22938
+  },
+  {
+   "text": "wife",
+   "start": 22954,
+   "end": 23147
+  },
+  {
+   "text": "of",
+   "start": 23211,
+   "end": 23355
+  },
+  {
+   "text": "our",
+   "start": 23355,
+   "end": 23515
+  },
+  {
+   "text": "interpreter.\"",
+   "start": 23515,
+   "end": 24140
+  },
+  {
+   "text": "Sometimes",
+   "start": 24798,
+   "end": 25263
+  },
+  {
+   "text": "she",
+   "start": 25263,
+   "end": 25439
+  },
+  {
+   "text": "is",
+   "start": 25439,
+   "end": 25487
+  },
+  {
+   "text": "simply,",
+   "start": 25535,
+   "end": 25968
+  },
+  {
+   "text": "quote,",
+   "start": 26224,
+   "end": 26641
+  },
+  {
+   "text": "The",
+   "start": 27186,
+   "end": 27362
+  },
+  {
+   "text": "Indian",
+   "start": 27362,
+   "end": 27651
+  },
+  {
+   "text": "woman.",
+   "start": 27763,
+   "end": 28067
+  },
+  {
+   "text": "Why",
+   "start": 28885,
+   "end": 28997
+  },
+  {
+   "text": "would",
+   "start": 29109,
+   "end": 29221
+  },
+  {
+   "text": "men",
+   "start": 29285,
+   "end": 29478
+  },
+  {
+   "text": "who",
+   "start": 29670,
+   "end": 29750
+  },
+  {
+   "text": "wrote",
+   "start": 29910,
+   "end": 30151
+  },
+  {
+   "text": "down",
+   "start": 30151,
+   "end": 30455
+  },
+  {
+   "text": "nearly",
+   "start": 30487,
+   "end": 30856
+  },
+  {
+   "text": "every",
+   "start": 31112,
+   "end": 31336
+  },
+  {
+   "text": "mile",
+   "start": 31369,
+   "end": 31721
+  },
+  {
+   "text": "of",
+   "start": 31849,
+   "end": 31977
+  },
+  {
+   "text": "their",
+   "start": 32010,
+   "end": 32234
+  },
+  {
+   "text": "journey",
+   "start": 32234,
+   "end": 32538
+  },
+  {
+   "text": "forget",
+   "start": 32554,
+   "end": 32971
+  },
+  {
+   "text": "a",
+   "start": 32971,
+   "end": 32987
+  },
+  {
+   "text": "name?",
+   "start": 32987,
+   "end": 33340
+  },
+  {
+   "text": "Keep",
+   "start": 34253,
+   "end": 34413
+  },
+  {
+   "text": "that",
+   "start": 34413,
+   "end": 34573
+  },
+  {
+   "text": "question",
+   "start": 34573,
+   "end": 35022
+  },
+  {
+   "text": "close.",
+   "start": 35038,
+   "end": 35359
+  },
+  {
+   "text": "The",
+   "start": 36080,
+   "end": 36224
+  },
+  {
+   "text": "answer",
+   "start": 36320,
+   "end": 36657
+  },
+  {
+   "text": "is",
+   "start": 37202,
+   "end": 37282
+  },
+  {
+   "text": "the",
+   "start": 37394,
+   "end": 37522
+  },
+  {
+   "text": "story.",
+   "start": 37522,
+   "end": 37939
+  },
+  {
+   "text": "Pull",
+   "start": 38740,
+   "end": 38964
+  },
+  {
+   "text": "up",
+   "start": 38964,
+   "end": 38996
+  },
+  {
+   "text": "a",
+   "start": 38996,
+   "end": 39060
+  },
+  {
+   "text": "chair.",
+   "start": 39060,
+   "end": 39397
+  },
+  {
+   "text": "This",
+   "start": 40022,
+   "end": 40198
+  },
+  {
+   "text": "is",
+   "start": 40198,
+   "end": 40310
+  },
+  {
+   "text": "Old",
+   "start": 40407,
+   "end": 40711
+  },
+  {
+   "text": "West",
+   "start": 40727,
+   "end": 40919
+  },
+  {
+   "text": "Stories,",
+   "start": 40919,
+   "end": 41432
+  },
+  {
+   "text": "and",
+   "start": 41544,
+   "end": 41672
+  },
+  {
+   "text": "this",
+   "start": 42089,
+   "end": 42297
+  },
+  {
+   "text": "one's",
+   "start": 42330,
+   "end": 42634
+  },
+  {
+   "text": "gonna",
+   "start": 43051,
+   "end": 43243
+  },
+  {
+   "text": "be",
+   "start": 43243,
+   "end": 43467
+  },
+  {
+   "text": "good.",
+   "start": 43467,
+   "end": 43676
+  },
+  {
+   "text": "In",
+   "start": 43964,
+   "end": 44156
+  },
+  {
+   "text": "1803,",
+   "start": 44333,
+   "end": 46095
+  },
+  {
+   "text": "President",
+   "start": 46111,
+   "end": 46672
+  },
+  {
+   "text": "Thomas",
+   "start": 46672,
+   "end": 47105
+  },
+  {
+   "text": "Jefferson",
+   "start": 47137,
+   "end": 47522
+  },
+  {
+   "text": "sent",
+   "start": 47650,
+   "end": 47970
+  },
+  {
+   "text": "a",
+   "start": 47970,
+   "end": 48034
+  },
+  {
+   "text": "small",
+   "start": 48034,
+   "end": 48467
+  },
+  {
+   "text": "expedition",
+   "start": 48595,
+   "end": 49188
+  },
+  {
+   "text": "west",
+   "start": 49316,
+   "end": 49637
+  },
+  {
+   "text": "to",
+   "start": 49637,
+   "end": 49765
+  },
+  {
+   "text": "explore",
+   "start": 49797,
+   "end": 50310
+  },
+  {
+   "text": "the",
+   "start": 50438,
+   "end": 50598
+  },
+  {
+   "text": "land",
+   "start": 50598,
+   "end": 50919
+  },
+  {
+   "text": "the",
+   "start": 50919,
+   "end": 51079
+  },
+  {
+   "text": "country",
+   "start": 51079,
+   "end": 51448
+  },
+  {
+   "text": "had",
+   "start": 51480,
+   "end": 51672
+  },
+  {
+   "text": "just",
+   "start": 51800,
+   "end": 52281
+  },
+  {
+   "text": "bought.",
+   "start": 52281,
+   "end": 52521
+  },
+  {
+   "text": "The",
+   "start": 53323,
+   "end": 53484
+  },
+  {
+   "text": "Louisiana",
+   "start": 53484,
+   "end": 54366
+  },
+  {
+   "text": "Purchase.",
+   "start": 54366,
+   "end": 54735
+  },
+  {
+   "text": "It",
+   "start": 55730,
+   "end": 55794
+  },
+  {
+   "text": "was",
+   "start": 55794,
+   "end": 55858
+  },
+  {
+   "text": "a",
+   "start": 55906,
+   "end": 55922
+  },
+  {
+   "text": "vast",
+   "start": 55970,
+   "end": 56291
+  },
+  {
+   "text": "stretch",
+   "start": 56291,
+   "end": 56612
+  },
+  {
+   "text": "of",
+   "start": 56612,
+   "end": 56692
+  },
+  {
+   "text": "frontier",
+   "start": 56692,
+   "end": 57125
+  },
+  {
+   "text": "beyond",
+   "start": 57254,
+   "end": 57591
+  },
+  {
+   "text": "the",
+   "start": 57591,
+   "end": 57655
+  },
+  {
+   "text": "Mississippi",
+   "start": 57655,
+   "end": 58296
+  },
+  {
+   "text": "River,",
+   "start": 58296,
+   "end": 58681
+  },
+  {
+   "text": "and",
+   "start": 59339,
+   "end": 59419
+  },
+  {
+   "text": "most",
+   "start": 59419,
+   "end": 59676
+  },
+  {
+   "text": "of",
+   "start": 59676,
+   "end": 59820
+  },
+  {
+   "text": "what",
+   "start": 59885,
+   "end": 59997
+  },
+  {
+   "text": "was",
+   "start": 59997,
+   "end": 60205
+  },
+  {
+   "text": "known",
+   "start": 60221,
+   "end": 60494
+  },
+  {
+   "text": "about",
+   "start": 60542,
+   "end": 60879
+  },
+  {
+   "text": "it",
+   "start": 60879,
+   "end": 61184
+  },
+  {
+   "text": "was",
+   "start": 61264,
+   "end": 61393
+  },
+  {
+   "text": "just",
+   "start": 61489,
+   "end": 61729
+  },
+  {
+   "text": "rumor.",
+   "start": 61745,
+   "end": 62066
+  },
+  {
+   "text": "Railroads",
+   "start": 63253,
+   "end": 63831
+  },
+  {
+   "text": "were",
+   "start": 63831,
+   "end": 64023
+  },
+  {
+   "text": "decades",
+   "start": 64296,
+   "end": 64713
+  },
+  {
+   "text": "away",
+   "start": 64713,
+   "end": 65034
+  },
+  {
+   "text": "from",
+   "start": 65034,
+   "end": 65259
+  },
+  {
+   "text": "crossing",
+   "start": 65259,
+   "end": 65644
+  },
+  {
+   "text": "the",
+   "start": 65660,
+   "end": 65756
+  },
+  {
+   "text": "West,",
+   "start": 65756,
+   "end": 66093
+  },
+  {
+   "text": "so",
+   "start": 66638,
+   "end": 66863
+  },
+  {
+   "text": "Jefferson",
+   "start": 67039,
+   "end": 67569
+  },
+  {
+   "text": "hoped",
+   "start": 67601,
+   "end": 67922
+  },
+  {
+   "text": "for",
+   "start": 67922,
+   "end": 68050
+  },
+  {
+   "text": "something",
+   "start": 68082,
+   "end": 68596
+  },
+  {
+   "text": "better—a",
+   "start": 68724,
+   "end": 69719
+  },
+  {
+   "text": "practical",
+   "start": 69847,
+   "end": 70376
+  },
+  {
+   "text": "water",
+   "start": 70633,
+   "end": 70970
+  },
+  {
+   "text": "route",
+   "start": 70970,
+   "end": 71162
+  },
+  {
+   "text": "to",
+   "start": 71756,
+   "end": 71900
+  },
+  {
+   "text": "the",
+   "start": 71916,
+   "end": 72013
+  },
+  {
+   "text": "Pacific.",
+   "start": 72013,
+   "end": 72654
+  },
+  {
+   "text": "The",
+   "start": 73360,
+   "end": 73440
+  },
+  {
+   "text": "men",
+   "start": 73440,
+   "end": 73569
+  },
+  {
+   "text": "who",
+   "start": 73617,
+   "end": 73761
+  },
+  {
+   "text": "left",
+   "start": 73777,
+   "end": 74002
+  },
+  {
+   "text": "St.",
+   "start": 74002,
+   "end": 74178
+  },
+  {
+   "text": "Louis",
+   "start": 74258,
+   "end": 74547
+  },
+  {
+   "text": "in",
+   "start": 74579,
+   "end": 74692
+  },
+  {
+   "text": "May",
+   "start": 74740,
+   "end": 74948
+  },
+  {
+   "text": "1804",
+   "start": 74948,
+   "end": 76119
+  },
+  {
+   "text": "called",
+   "start": 76665,
+   "end": 76905
+  },
+  {
+   "text": "themselves",
+   "start": 76905,
+   "end": 77515
+  },
+  {
+   "text": "the",
+   "start": 77611,
+   "end": 77692
+  },
+  {
+   "text": "Corps",
+   "start": 77788,
+   "end": 78060
+  },
+  {
+   "text": "of",
+   "start": 78269,
+   "end": 78397
+  },
+  {
+   "text": "Discovery.",
+   "start": 78413,
+   "end": 78991
+  },
+  {
+   "text": "Meriwether",
+   "start": 79890,
+   "end": 80421
+  },
+  {
+   "text": "Lewis",
+   "start": 80501,
+   "end": 81240
+  },
+  {
+   "text": "and",
+   "start": 81240,
+   "end": 81369
+  },
+  {
+   "text": "William",
+   "start": 81401,
+   "end": 81803
+  },
+  {
+   "text": "Clark",
+   "start": 81803,
+   "end": 82269
+  },
+  {
+   "text": "led",
+   "start": 82269,
+   "end": 82413
+  },
+  {
+   "text": "them.",
+   "start": 82510,
+   "end": 82638
+  },
+  {
+   "text": "By",
+   "start": 83570,
+   "end": 83731
+  },
+  {
+   "text": "November,",
+   "start": 83731,
+   "end": 84245
+  },
+  {
+   "text": "about",
+   "start": 84679,
+   "end": 85000
+  },
+  {
+   "text": "6",
+   "start": 85000,
+   "end": 85322
+  },
+  {
+   "text": "months",
+   "start": 85322,
+   "end": 85531
+  },
+  {
+   "text": "into",
+   "start": 85579,
+   "end": 85739
+  },
+  {
+   "text": "the",
+   "start": 85804,
+   "end": 85900
+  },
+  {
+   "text": "journey,",
+   "start": 85964,
+   "end": 86270
+  },
+  {
+   "text": "the",
+   "start": 86864,
+   "end": 87009
+  },
+  {
+   "text": "explorers",
+   "start": 87009,
+   "end": 87555
+  },
+  {
+   "text": "had",
+   "start": 87587,
+   "end": 87796
+  },
+  {
+   "text": "reached",
+   "start": 87828,
+   "end": 88150
+  },
+  {
+   "text": "the",
+   "start": 88150,
+   "end": 88246
+  },
+  {
+   "text": "Dakotas.",
+   "start": 88310,
+   "end": 88841
+  },
+  {
+   "text": "Winter",
+   "start": 89837,
+   "end": 90142
+  },
+  {
+   "text": "was",
+   "start": 90142,
+   "end": 90255
+  },
+  {
+   "text": "coming",
+   "start": 90303,
+   "end": 90528
+  },
+  {
+   "text": "on,",
+   "start": 90624,
+   "end": 90849
+  },
+  {
+   "text": "and",
+   "start": 90946,
+   "end": 91123
+  },
+  {
+   "text": "they",
+   "start": 91123,
+   "end": 91219
+  },
+  {
+   "text": "needed",
+   "start": 91219,
+   "end": 91524
+  },
+  {
+   "text": "a",
+   "start": 91524,
+   "end": 91685
+  },
+  {
+   "text": "guide",
+   "start": 91685,
+   "end": 92103
+  },
+  {
+   "text": "for",
+   "start": 92151,
+   "end": 92392
+  },
+  {
+   "text": "the",
+   "start": 92392,
+   "end": 92488
+  },
+  {
+   "text": "country",
+   "start": 92488,
+   "end": 92970
+  },
+  {
+   "text": "ahead.",
+   "start": 92970,
+   "end": 93388
+  },
+  {
+   "text": "They",
+   "start": 94256,
+   "end": 94336
+  },
+  {
+   "text": "hired",
+   "start": 94336,
+   "end": 94674
+  },
+  {
+   "text": "an",
+   "start": 94674,
+   "end": 94754
+  },
+  {
+   "text": "Indian",
+   "start": 94818,
+   "end": 95124
+  },
+  {
+   "text": "man",
+   "start": 95140,
+   "end": 95349
+  },
+  {
+   "text": "to",
+   "start": 95381,
+   "end": 95461
+  },
+  {
+   "text": "be",
+   "start": 95461,
+   "end": 95606
+  },
+  {
+   "text": "their",
+   "start": 95606,
+   "end": 95799
+  },
+  {
+   "text": "guide",
+   "start": 95847,
+   "end": 96345
+  },
+  {
+   "text": "and",
+   "start": 96425,
+   "end": 96586
+  },
+  {
+   "text": "interpreter",
+   "start": 96586,
+   "end": 97197
+  },
+  {
+   "text": "and",
+   "start": 97775,
+   "end": 97871
+  },
+  {
+   "text": "to",
+   "start": 97871,
+   "end": 97968
+  },
+  {
+   "text": "lead",
+   "start": 98032,
+   "end": 98273
+  },
+  {
+   "text": "them",
+   "start": 98273,
+   "end": 98386
+  },
+  {
+   "text": "the",
+   "start": 98514,
+   "end": 98659
+  },
+  {
+   "text": "rest",
+   "start": 98659,
+   "end": 98916
+  },
+  {
+   "text": "of",
+   "start": 98916,
+   "end": 98980
+  },
+  {
+   "text": "the",
+   "start": 98980,
+   "end": 99077
+  },
+  {
+   "text": "way.",
+   "start": 99077,
+   "end": 99269
+  },
+  {
+   "text": "He",
+   "start": 100266,
+   "end": 100442
+  },
+  {
+   "text": "agreed",
+   "start": 100442,
+   "end": 101005
+  },
+  {
+   "text": "on",
+   "start": 101005,
+   "end": 101198
+  },
+  {
+   "text": "one",
+   "start": 101471,
+   "end": 101599
+  },
+  {
+   "text": "condition:",
+   "start": 101808,
+   "end": 102339
+  },
+  {
+   "text": "his",
+   "start": 103078,
+   "end": 103206
+  },
+  {
+   "text": "wife",
+   "start": 103335,
+   "end": 103528
+  },
+  {
+   "text": "could",
+   "start": 103656,
+   "end": 103801
+  },
+  {
+   "text": "come",
+   "start": 103801,
+   "end": 103929
+  },
+  {
+   "text": "along",
+   "start": 103978,
+   "end": 104267
+  },
+  {
+   "text": "too.",
+   "start": 104460,
+   "end": 104636
+  },
+  {
+   "text": "Lewis",
+   "start": 105262,
+   "end": 105503
+  },
+  {
+   "text": "and",
+   "start": 105503,
+   "end": 105583
+  },
+  {
+   "text": "Clark",
+   "start": 105583,
+   "end": 105968
+  },
+  {
+   "text": "readily",
+   "start": 105968,
+   "end": 106273
+  },
+  {
+   "text": "agreed.",
+   "start": 106305,
+   "end": 106706
+  },
+  {
+   "text": "In",
+   "start": 107668,
+   "end": 107732
+  },
+  {
+   "text": "May",
+   "start": 107748,
+   "end": 107941
+  },
+  {
+   "text": "1805,",
+   "start": 108117,
+   "end": 108999
+  },
+  {
+   "text": "one",
+   "start": 109336,
+   "end": 109400
+  },
+  {
+   "text": "of",
+   "start": 109496,
+   "end": 109528
+  },
+  {
+   "text": "the",
+   "start": 109528,
+   "end": 109689
+  },
+  {
+   "text": "explorers'",
+   "start": 109689,
+   "end": 110282
+  },
+  {
+   "text": "boats",
+   "start": 110314,
+   "end": 110795
+  },
+  {
+   "text": "tipped",
+   "start": 110795,
+   "end": 111036
+  },
+  {
+   "text": "over",
+   "start": 111100,
+   "end": 111260
+  },
+  {
+   "text": "in",
+   "start": 111340,
+   "end": 111373
+  },
+  {
+   "text": "the",
+   "start": 111373,
+   "end": 111501
+  },
+  {
+   "text": "river.",
+   "start": 111501,
+   "end": 111757
+  },
+  {
+   "text": "Crates",
+   "start": 112463,
+   "end": 112784
+  },
+  {
+   "text": "of",
+   "start": 112784,
+   "end": 112864
+  },
+  {
+   "text": "supplies",
+   "start": 112864,
+   "end": 113490
+  },
+  {
+   "text": "and",
+   "start": 113522,
+   "end": 113618
+  },
+  {
+   "text": "important",
+   "start": 113618,
+   "end": 114083
+  },
+  {
+   "text": "papers",
+   "start": 114083,
+   "end": 114420
+  },
+  {
+   "text": "were",
+   "start": 114468,
+   "end": 114660
+  },
+  {
+   "text": "tossed",
+   "start": 114724,
+   "end": 115141
+  },
+  {
+   "text": "into",
+   "start": 115189,
+   "end": 115318
+  },
+  {
+   "text": "the",
+   "start": 115430,
+   "end": 115526
+  },
+  {
+   "text": "churning",
+   "start": 115526,
+   "end": 116055
+  },
+  {
+   "text": "current.",
+   "start": 116392,
+   "end": 116809
+  },
+  {
+   "text": "Among",
+   "start": 117611,
+   "end": 117980
+  },
+  {
+   "text": "the",
+   "start": 118092,
+   "end": 118172
+  },
+  {
+   "text": "things",
+   "start": 118172,
+   "end": 118541
+  },
+  {
+   "text": "washed",
+   "start": 118638,
+   "end": 118910
+  },
+  {
+   "text": "away",
+   "start": 118958,
+   "end": 119279
+  },
+  {
+   "text": "were",
+   "start": 119279,
+   "end": 119375
+  },
+  {
+   "text": "the",
+   "start": 119375,
+   "end": 119536
+  },
+  {
+   "text": "captain's",
+   "start": 119536,
+   "end": 120081
+  },
+  {
+   "text": "own",
+   "start": 120161,
+   "end": 120305
+  },
+  {
+   "text": "records",
+   "start": 120418,
+   "end": 120883
+  },
+  {
+   "text": "of",
+   "start": 120883,
+   "end": 120931
+  },
+  {
+   "text": "the",
+   "start": 120963,
+   "end": 121059
+  },
+  {
+   "text": "trip.",
+   "start": 121059,
+   "end": 121316
+  },
+  {
+   "text": "Lewis",
+   "start": 122727,
+   "end": 123048
+  },
+  {
+   "text": "wrote",
+   "start": 123064,
+   "end": 123288
+  },
+  {
+   "text": "that",
+   "start": 123385,
+   "end": 123721
+  },
+  {
+   "text": "the",
+   "start": 124186,
+   "end": 124411
+  },
+  {
+   "text": "Indian",
+   "start": 124491,
+   "end": 124764
+  },
+  {
+   "text": "woman,",
+   "start": 124828,
+   "end": 125052
+  },
+  {
+   "text": "whom",
+   "start": 125694,
+   "end": 125790
+  },
+  {
+   "text": "he",
+   "start": 125790,
+   "end": 126015
+  },
+  {
+   "text": "credited",
+   "start": 126015,
+   "end": 126400
+  },
+  {
+   "text": "with",
+   "start": 126416,
+   "end": 126640
+  },
+  {
+   "text": "equal",
+   "start": 126817,
+   "end": 127073
+  },
+  {
+   "text": "fortitude",
+   "start": 127073,
+   "end": 127859
+  },
+  {
+   "text": "and",
+   "start": 127859,
+   "end": 127987
+  },
+  {
+   "text": "resolution,",
+   "start": 128035,
+   "end": 128645
+  },
+  {
+   "text": "in",
+   "start": 129254,
+   "end": 129334
+  },
+  {
+   "text": "a",
+   "start": 129383,
+   "end": 129463
+  },
+  {
+   "text": "heroic",
+   "start": 129463,
+   "end": 130104
+  },
+  {
+   "text": "act,",
+   "start": 130104,
+   "end": 130441
+  },
+  {
+   "text": "caught",
+   "start": 130650,
+   "end": 130922
+  },
+  {
+   "text": "and",
+   "start": 130922,
+   "end": 131066
+  },
+  {
+   "text": "saved",
+   "start": 131066,
+   "end": 131548
+  },
+  {
+   "text": "most",
+   "start": 131548,
+   "end": 131900
+  },
+  {
+   "text": "of",
+   "start": 131900,
+   "end": 132013
+  },
+  {
+   "text": "the",
+   "start": 132045,
+   "end": 132125
+  },
+  {
+   "text": "light",
+   "start": 132125,
+   "end": 132381
+  },
+  {
+   "text": "articles",
+   "start": 132381,
+   "end": 132814
+  },
+  {
+   "text": "that",
+   "start": 132846,
+   "end": 133087
+  },
+  {
+   "text": "went",
+   "start": 133087,
+   "end": 133311
+  },
+  {
+   "text": "overboard.",
+   "start": 133311,
+   "end": 133873
+  },
+  {
+   "text": "By",
+   "start": 134771,
+   "end": 134851
+  },
+  {
+   "text": "the",
+   "start": 134851,
+   "end": 134947
+  },
+  {
+   "text": "summer",
+   "start": 134947,
+   "end": 135316
+  },
+  {
+   "text": "of",
+   "start": 135316,
+   "end": 135364
+  },
+  {
+   "text": "1805,",
+   "start": 135476,
+   "end": 136342
+  },
+  {
+   "text": "the",
+   "start": 136439,
+   "end": 136551
+  },
+  {
+   "text": "rivers",
+   "start": 136615,
+   "end": 136984
+  },
+  {
+   "text": "they",
+   "start": 137016,
+   "end": 137176
+  },
+  {
+   "text": "had",
+   "start": 137176,
+   "end": 137385
+  },
+  {
+   "text": "followed",
+   "start": 137401,
+   "end": 137786
+  },
+  {
+   "text": "were",
+   "start": 137818,
+   "end": 138010
+  },
+  {
+   "text": "running",
+   "start": 138122,
+   "end": 138331
+  },
+  {
+   "text": "thin.",
+   "start": 138443,
+   "end": 138748
+  },
+  {
+   "text": "Ahead",
+   "start": 139566,
+   "end": 139950
+  },
+  {
+   "text": "rose",
+   "start": 140608,
+   "end": 140752
+  },
+  {
+   "text": "a",
+   "start": 140848,
+   "end": 141009
+  },
+  {
+   "text": "line",
+   "start": 141009,
+   "end": 141394
+  },
+  {
+   "text": "of",
+   "start": 141586,
+   "end": 141682
+  },
+  {
+   "text": "formidable",
+   "start": 141746,
+   "end": 142532
+  },
+  {
+   "text": "mountains.",
+   "start": 142532,
+   "end": 143158
+  },
+  {
+   "text": "Crossing",
+   "start": 144056,
+   "end": 144360
+  },
+  {
+   "text": "those",
+   "start": 144392,
+   "end": 144601
+  },
+  {
+   "text": "mountains",
+   "start": 144633,
+   "end": 145082
+  },
+  {
+   "text": "would",
+   "start": 145178,
+   "end": 145290
+  },
+  {
+   "text": "require",
+   "start": 145339,
+   "end": 145707
+  },
+  {
+   "text": "horses",
+   "start": 145836,
+   "end": 146285
+  },
+  {
+   "text": "to",
+   "start": 146317,
+   "end": 146445
+  },
+  {
+   "text": "carry",
+   "start": 146461,
+   "end": 146686
+  },
+  {
+   "text": "their",
+   "start": 146702,
+   "end": 146830
+  },
+  {
+   "text": "belongings—horses",
+   "start": 146862,
+   "end": 148450
+  },
+  {
+   "text": "they",
+   "start": 148562,
+   "end": 148754
+  },
+  {
+   "text": "didn't",
+   "start": 148947,
+   "end": 149219
+  },
+  {
+   "text": "have.",
+   "start": 149412,
+   "end": 149813
+  },
+  {
+   "text": "You",
+   "start": 150646,
+   "end": 150743
+  },
+  {
+   "text": "see,",
+   "start": 150743,
+   "end": 151128
+  },
+  {
+   "text": "the",
+   "start": 151689,
+   "end": 151833
+  },
+  {
+   "text": "expedition",
+   "start": 151833,
+   "end": 152459
+  },
+  {
+   "text": "had",
+   "start": 152491,
+   "end": 152635
+  },
+  {
+   "text": "been",
+   "start": 152651,
+   "end": 152875
+  },
+  {
+   "text": "searching",
+   "start": 152875,
+   "end": 153180
+  },
+  {
+   "text": "for",
+   "start": 153292,
+   "end": 153405
+  },
+  {
+   "text": "a",
+   "start": 153453,
+   "end": 153597
+  },
+  {
+   "text": "water",
+   "start": 153677,
+   "end": 153934
+  },
+  {
+   "text": "route",
+   "start": 153934,
+   "end": 154239
+  },
+  {
+   "text": "to",
+   "start": 154239,
+   "end": 154303
+  },
+  {
+   "text": "the",
+   "start": 154319,
+   "end": 154415
+  },
+  {
+   "text": "Pacific,",
+   "start": 154415,
+   "end": 154992
+  },
+  {
+   "text": "and",
+   "start": 155457,
+   "end": 155521
+  },
+  {
+   "text": "horses",
+   "start": 155537,
+   "end": 155986
+  },
+  {
+   "text": "were",
+   "start": 156019,
+   "end": 156211
+  },
+  {
+   "text": "not",
+   "start": 156243,
+   "end": 156371
+  },
+  {
+   "text": "part",
+   "start": 156484,
+   "end": 156660
+  },
+  {
+   "text": "of",
+   "start": 156660,
+   "end": 156740
+  },
+  {
+   "text": "the",
+   "start": 156740,
+   "end": 156820
+  },
+  {
+   "text": "plan.",
+   "start": 156820,
+   "end": 157109
+  },
+  {
+   "text": "Lewis",
+   "start": 158327,
+   "end": 158648
+  },
+  {
+   "text": "wrote",
+   "start": 158648,
+   "end": 158904
+  },
+  {
+   "text": "in",
+   "start": 158904,
+   "end": 158984
+  },
+  {
+   "text": "his",
+   "start": 158984,
+   "end": 159113
+  },
+  {
+   "text": "journal",
+   "start": 159145,
+   "end": 159513
+  },
+  {
+   "text": "that",
+   "start": 159529,
+   "end": 159882
+  },
+  {
+   "text": "without",
+   "start": 159946,
+   "end": 160266
+  },
+  {
+   "text": "horses,",
+   "start": 160266,
+   "end": 160715
+  },
+  {
+   "text": "the",
+   "start": 161292,
+   "end": 161469
+  },
+  {
+   "text": "Corps",
+   "start": 161469,
+   "end": 161741
+  },
+  {
+   "text": "would",
+   "start": 161789,
+   "end": 161997
+  },
+  {
+   "text": "have",
+   "start": 161997,
+   "end": 162078
+  },
+  {
+   "text": "to",
+   "start": 162110,
+   "end": 162190
+  },
+  {
+   "text": "leave",
+   "start": 162190,
+   "end": 162382
+  },
+  {
+   "text": "a",
+   "start": 162446,
+   "end": 162623
+  },
+  {
+   "text": "great",
+   "start": 162671,
+   "end": 163151
+  },
+  {
+   "text": "part",
+   "start": 163151,
+   "end": 163408
+  },
+  {
+   "text": "of",
+   "start": 163408,
+   "end": 163536
+  },
+  {
+   "text": "its",
+   "start": 163536,
+   "end": 163648
+  },
+  {
+   "text": "supplies",
+   "start": 163648,
+   "end": 164161
+  },
+  {
+   "text": "behind,",
+   "start": 164257,
+   "end": 164850
+  },
+  {
+   "text": "and",
+   "start": 165475,
+   "end": 165539
+  },
+  {
+   "text": "those",
+   "start": 165620,
+   "end": 165812
+  },
+  {
+   "text": "supplies",
+   "start": 165812,
+   "end": 166405
+  },
+  {
+   "text": "were",
+   "start": 167062,
+   "end": 167190
+  },
+  {
+   "text": "already",
+   "start": 167303,
+   "end": 167767
+  },
+  {
+   "text": "running",
+   "start": 167944,
+   "end": 168248
+  },
+  {
+   "text": "thin",
+   "start": 168360,
+   "end": 168649
+  },
+  {
+   "text": "for",
+   "start": 169017,
+   "end": 169306
+  },
+  {
+   "text": "the",
+   "start": 169306,
+   "end": 169354
+  },
+  {
+   "text": "voyage",
+   "start": 169386,
+   "end": 169931
+  },
+  {
+   "text": "still",
+   "start": 169947,
+   "end": 170187
+  },
+  {
+   "text": "ahead.",
+   "start": 170187,
+   "end": 170572
+  },
+  {
+   "text": "The",
+   "start": 171406,
+   "end": 171470
+  },
+  {
+   "text": "Indian",
+   "start": 171550,
+   "end": 171854
+  },
+  {
+   "text": "woman",
+   "start": 172031,
+   "end": 172239
+  },
+  {
+   "text": "knew",
+   "start": 172287,
+   "end": 172543
+  },
+  {
+   "text": "where",
+   "start": 173008,
+   "end": 173185
+  },
+  {
+   "text": "to",
+   "start": 173185,
+   "end": 173265
+  },
+  {
+   "text": "go",
+   "start": 173329,
+   "end": 173569
+  },
+  {
+   "text": "to",
+   "start": 173729,
+   "end": 173826
+  },
+  {
+   "text": "buy",
+   "start": 173826,
+   "end": 173970
+  },
+  {
+   "text": "the",
+   "start": 173970,
+   "end": 174114
+  },
+  {
+   "text": "horses",
+   "start": 174114,
+   "end": 174499
+  },
+  {
+   "text": "they",
+   "start": 174611,
+   "end": 174851
+  },
+  {
+   "text": "desperately",
+   "start": 174851,
+   "end": 175460
+  },
+  {
+   "text": "needed.",
+   "start": 175493,
+   "end": 175781
+  },
+  {
+   "text": "The",
+   "start": 177175,
+   "end": 177207
+  },
+  {
+   "text": "question",
+   "start": 177207,
+   "end": 177656
+  },
+  {
+   "text": "was",
+   "start": 177656,
+   "end": 177945
+  },
+  {
+   "text": "whether",
+   "start": 178618,
+   "end": 178922
+  },
+  {
+   "text": "anyone",
+   "start": 179019,
+   "end": 179387
+  },
+  {
+   "text": "would",
+   "start": 179563,
+   "end": 179676
+  },
+  {
+   "text": "be",
+   "start": 179724,
+   "end": 179836
+  },
+  {
+   "text": "willing",
+   "start": 179900,
+   "end": 180189
+  },
+  {
+   "text": "to",
+   "start": 180221,
+   "end": 180349
+  },
+  {
+   "text": "trade",
+   "start": 180381,
+   "end": 180669
+  },
+  {
+   "text": "with",
+   "start": 180701,
+   "end": 180846
+  },
+  {
+   "text": "them.",
+   "start": 180846,
+   "end": 180974
+  },
+  {
+   "text": "On",
+   "start": 181984,
+   "end": 182032
+  },
+  {
+   "text": "August",
+   "start": 182128,
+   "end": 182448
+  },
+  {
+   "text": "8th,",
+   "start": 182448,
+   "end": 182593
+  },
+  {
+   "text": "she",
+   "start": 182769,
+   "end": 183057
+  },
+  {
+   "text": "pointed",
+   "start": 183090,
+   "end": 183506
+  },
+  {
+   "text": "to",
+   "start": 183506,
+   "end": 183634
+  },
+  {
+   "text": "a",
+   "start": 183731,
+   "end": 183747
+  },
+  {
+   "text": "high",
+   "start": 183891,
+   "end": 184099
+  },
+  {
+   "text": "plain",
+   "start": 184388,
+   "end": 184917
+  },
+  {
+   "text": "to",
+   "start": 184949,
+   "end": 185077
+  },
+  {
+   "text": "the",
+   "start": 185109,
+   "end": 185253
+  },
+  {
+   "text": "right",
+   "start": 185253,
+   "end": 185446
+  },
+  {
+   "text": "of",
+   "start": 185446,
+   "end": 185510
+  },
+  {
+   "text": "the",
+   "start": 185510,
+   "end": 185590
+  },
+  {
+   "text": "mountain",
+   "start": 185590,
+   "end": 185974
+  },
+  {
+   "text": "peaks.",
+   "start": 185974,
+   "end": 186263
+  },
+  {
+   "text": "A",
+   "start": 186888,
+   "end": 186904
+  },
+  {
+   "text": "place",
+   "start": 187016,
+   "end": 187273
+  },
+  {
+   "text": "to",
+   "start": 187273,
+   "end": 187369
+  },
+  {
+   "text": "trade",
+   "start": 187417,
+   "end": 187721
+  },
+  {
+   "text": "for",
+   "start": 187737,
+   "end": 187898
+  },
+  {
+   "text": "horses",
+   "start": 187898,
+   "end": 188362
+  },
+  {
+   "text": "lay",
+   "start": 188459,
+   "end": 188667
+  },
+  {
+   "text": "just",
+   "start": 188779,
+   "end": 189292
+  },
+  {
+   "text": "beyond",
+   "start": 189356,
+   "end": 189677
+  },
+  {
+   "text": "the",
+   "start": 189677,
+   "end": 189757
+  },
+  {
+   "text": "mountains,",
+   "start": 189757,
+   "end": 190286
+  },
+  {
+   "text": "not",
+   "start": 190799,
+   "end": 191039
+  },
+  {
+   "text": "far",
+   "start": 191039,
+   "end": 191231
+  },
+  {
+   "text": "from",
+   "start": 191360,
+   "end": 191488
+  },
+  {
+   "text": "her",
+   "start": 191520,
+   "end": 191680
+  },
+  {
+   "text": "people's",
+   "start": 191680,
+   "end": 192017
+  },
+  {
+   "text": "summer",
+   "start": 192017,
+   "end": 192385
+  },
+  {
+   "text": "camp.",
+   "start": 192385,
+   "end": 192722
+  },
+  {
+   "text": "Now",
+   "start": 193764,
+   "end": 193876
+  },
+  {
+   "text": "Lewis",
+   "start": 193988,
+   "end": 194212
+  },
+  {
+   "text": "faced",
+   "start": 194324,
+   "end": 194581
+  },
+  {
+   "text": "a",
+   "start": 194581,
+   "end": 194709
+  },
+  {
+   "text": "choice,",
+   "start": 194709,
+   "end": 195078
+  },
+  {
+   "text": "and",
+   "start": 195270,
+   "end": 195350
+  },
+  {
+   "text": "both",
+   "start": 195527,
+   "end": 195831
+  },
+  {
+   "text": "options",
+   "start": 195831,
+   "end": 196264
+  },
+  {
+   "text": "were",
+   "start": 196312,
+   "end": 196472
+  },
+  {
+   "text": "bad.",
+   "start": 196472,
+   "end": 196777
+  },
+  {
+   "text": "The",
+   "start": 198011,
+   "end": 198171
+  },
+  {
+   "text": "Corps",
+   "start": 198171,
+   "end": 198363
+  },
+  {
+   "text": "could",
+   "start": 198475,
+   "end": 198572
+  },
+  {
+   "text": "stay",
+   "start": 198588,
+   "end": 198812
+  },
+  {
+   "text": "together,",
+   "start": 198812,
+   "end": 199293
+  },
+  {
+   "text": "moving",
+   "start": 199918,
+   "end": 200222
+  },
+  {
+   "text": "at",
+   "start": 200238,
+   "end": 200335
+  },
+  {
+   "text": "its",
+   "start": 200335,
+   "end": 200495
+  },
+  {
+   "text": "own",
+   "start": 200495,
+   "end": 200703
+  },
+  {
+   "text": "slow",
+   "start": 200799,
+   "end": 201136
+  },
+  {
+   "text": "pace",
+   "start": 201136,
+   "end": 201617
+  },
+  {
+   "text": "while",
+   "start": 201617,
+   "end": 201745
+  },
+  {
+   "text": "supplies",
+   "start": 201857,
+   "end": 202466
+  },
+  {
+   "text": "continued",
+   "start": 202562,
+   "end": 203043
+  },
+  {
+   "text": "to",
+   "start": 203043,
+   "end": 203107
+  },
+  {
+   "text": "dwindle.",
+   "start": 203203,
+   "end": 203604
+  },
+  {
+   "text": "Or",
+   "start": 204566,
+   "end": 204838
+  },
+  {
+   "text": "he",
+   "start": 204918,
+   "end": 205079
+  },
+  {
+   "text": "could",
+   "start": 205143,
+   "end": 205351
+  },
+  {
+   "text": "ride",
+   "start": 205607,
+   "end": 205880
+  },
+  {
+   "text": "faster",
+   "start": 206040,
+   "end": 206617
+  },
+  {
+   "text": "with",
+   "start": 206649,
+   "end": 206793
+  },
+  {
+   "text": "fewer",
+   "start": 206826,
+   "end": 207034
+  },
+  {
+   "text": "men",
+   "start": 207162,
+   "end": 207435
+  },
+  {
+   "text": "into",
+   "start": 208252,
+   "end": 208380
+  },
+  {
+   "text": "country",
+   "start": 208428,
+   "end": 208845
+  },
+  {
+   "text": "none",
+   "start": 208845,
+   "end": 209278
+  },
+  {
+   "text": "of",
+   "start": 209310,
+   "end": 209390
+  },
+  {
+   "text": "them",
+   "start": 209390,
+   "end": 209502
+  },
+  {
+   "text": "knew,",
+   "start": 209566,
+   "end": 209726
+  },
+  {
+   "text": "toward",
+   "start": 210351,
+   "end": 210832
+  },
+  {
+   "text": "people",
+   "start": 210912,
+   "end": 211313
+  },
+  {
+   "text": "who",
+   "start": 211313,
+   "end": 211521
+  },
+  {
+   "text": "might",
+   "start": 211714,
+   "end": 211954
+  },
+  {
+   "text": "not",
+   "start": 211954,
+   "end": 212114
+  },
+  {
+   "text": "be",
+   "start": 212114,
+   "end": 212275
+  },
+  {
+   "text": "friendly",
+   "start": 212275,
+   "end": 212643
+  },
+  {
+   "text": "and",
+   "start": 213381,
+   "end": 213525
+  },
+  {
+   "text": "who",
+   "start": 213541,
+   "end": 213605
+  },
+  {
+   "text": "might",
+   "start": 214022,
+   "end": 214150
+  },
+  {
+   "text": "not",
+   "start": 214262,
+   "end": 214502
+  },
+  {
+   "text": "even",
+   "start": 214502,
+   "end": 214807
+  },
+  {
+   "text": "have",
+   "start": 214823,
+   "end": 215047
+  },
+  {
+   "text": "horses",
+   "start": 215144,
+   "end": 215448
+  },
+  {
+   "text": "to",
+   "start": 215560,
+   "end": 215688
+  },
+  {
+   "text": "trade.",
+   "start": 215704,
+   "end": 216169
+  },
+  {
+   "text": "Lewis",
+   "start": 216924,
+   "end": 217245
+  },
+  {
+   "text": "chose",
+   "start": 217245,
+   "end": 217534
+  },
+  {
+   "text": "speed.",
+   "start": 217566,
+   "end": 218016
+  },
+  {
+   "text": "Clark",
+   "start": 218932,
+   "end": 219269
+  },
+  {
+   "text": "and",
+   "start": 219269,
+   "end": 219333
+  },
+  {
+   "text": "the",
+   "start": 219333,
+   "end": 219414
+  },
+  {
+   "text": "main",
+   "start": 219414,
+   "end": 219606
+  },
+  {
+   "text": "party",
+   "start": 219655,
+   "end": 219944
+  },
+  {
+   "text": "would",
+   "start": 220040,
+   "end": 220201
+  },
+  {
+   "text": "continue",
+   "start": 220201,
+   "end": 220586
+  },
+  {
+   "text": "more",
+   "start": 220618,
+   "end": 220795
+  },
+  {
+   "text": "slowly",
+   "start": 220795,
+   "end": 221277
+  },
+  {
+   "text": "while",
+   "start": 221341,
+   "end": 221598
+  },
+  {
+   "text": "Lewis",
+   "start": 221727,
+   "end": 221984
+  },
+  {
+   "text": "took",
+   "start": 221984,
+   "end": 222209
+  },
+  {
+   "text": "3",
+   "start": 222225,
+   "end": 222546
+  },
+  {
+   "text": "men",
+   "start": 222546,
+   "end": 222739
+  },
+  {
+   "text": "ahead.",
+   "start": 222851,
+   "end": 223188
+  },
+  {
+   "text": "2",
+   "start": 224232,
+   "end": 224377
+  },
+  {
+   "text": "days",
+   "start": 224377,
+   "end": 224602
+  },
+  {
+   "text": "into",
+   "start": 224634,
+   "end": 224795
+  },
+  {
+   "text": "the",
+   "start": 224811,
+   "end": 224939
+  },
+  {
+   "text": "ride,",
+   "start": 224939,
+   "end": 225325
+  },
+  {
+   "text": "a",
+   "start": 226080,
+   "end": 226224
+  },
+  {
+   "text": "rider",
+   "start": 226224,
+   "end": 226594
+  },
+  {
+   "text": "appeared",
+   "start": 226642,
+   "end": 227108
+  },
+  {
+   "text": "on",
+   "start": 227108,
+   "end": 227156
+  },
+  {
+   "text": "the",
+   "start": 227204,
+   "end": 227284
+  },
+  {
+   "text": "horizon.",
+   "start": 227284,
+   "end": 227814
+  },
+  {
+   "text": "He",
+   "start": 229116,
+   "end": 229276
+  },
+  {
+   "text": "sat",
+   "start": 229276,
+   "end": 229533
+  },
+  {
+   "text": "small",
+   "start": 229533,
+   "end": 229967
+  },
+  {
+   "text": "against",
+   "start": 230111,
+   "end": 230449
+  },
+  {
+   "text": "the",
+   "start": 230481,
+   "end": 230577
+  },
+  {
+   "text": "sky,",
+   "start": 230577,
+   "end": 230931
+  },
+  {
+   "text": "then",
+   "start": 231123,
+   "end": 231348
+  },
+  {
+   "text": "grew",
+   "start": 231445,
+   "end": 231798
+  },
+  {
+   "text": "as",
+   "start": 232007,
+   "end": 232151
+  },
+  {
+   "text": "he",
+   "start": 232167,
+   "end": 232328
+  },
+  {
+   "text": "came",
+   "start": 232328,
+   "end": 232601
+  },
+  {
+   "text": "down",
+   "start": 232649,
+   "end": 232794
+  },
+  {
+   "text": "the",
+   "start": 232890,
+   "end": 232971
+  },
+  {
+   "text": "slope.",
+   "start": 232971,
+   "end": 233372
+  },
+  {
+   "text": "Lewis",
+   "start": 234272,
+   "end": 234481
+  },
+  {
+   "text": "rode",
+   "start": 234673,
+   "end": 234962
+  },
+  {
+   "text": "toward",
+   "start": 234995,
+   "end": 235557
+  },
+  {
+   "text": "him",
+   "start": 235557,
+   "end": 235830
+  },
+  {
+   "text": "until",
+   "start": 235878,
+   "end": 236231
+  },
+  {
+   "text": "they",
+   "start": 236280,
+   "end": 236408
+  },
+  {
+   "text": "were",
+   "start": 236440,
+   "end": 236601
+  },
+  {
+   "text": "about",
+   "start": 236601,
+   "end": 236890
+  },
+  {
+   "text": "100",
+   "start": 236890,
+   "end": 237324
+  },
+  {
+   "text": "paces",
+   "start": 237324,
+   "end": 237693
+  },
+  {
+   "text": "apart.",
+   "start": 237789,
+   "end": 238207
+  },
+  {
+   "text": "Then",
+   "start": 239315,
+   "end": 239380
+  },
+  {
+   "text": "the",
+   "start": 239428,
+   "end": 239540
+  },
+  {
+   "text": "stranger",
+   "start": 239556,
+   "end": 240022
+  },
+  {
+   "text": "wheeled",
+   "start": 240038,
+   "end": 240311
+  },
+  {
+   "text": "his",
+   "start": 240311,
+   "end": 240424
+  },
+  {
+   "text": "horse,",
+   "start": 240520,
+   "end": 240665
+  },
+  {
+   "text": "splashed",
+   "start": 240713,
+   "end": 241291
+  },
+  {
+   "text": "across",
+   "start": 241355,
+   "end": 241677
+  },
+  {
+   "text": "a",
+   "start": 241677,
+   "end": 241693
+  },
+  {
+   "text": "creek,",
+   "start": 241741,
+   "end": 242126
+  },
+  {
+   "text": "and",
+   "start": 242383,
+   "end": 242576
+  },
+  {
+   "text": "vanished",
+   "start": 242624,
+   "end": 243235
+  },
+  {
+   "text": "into",
+   "start": 243428,
+   "end": 243620
+  },
+  {
+   "text": "the",
+   "start": 243652,
+   "end": 243717
+  },
+  {
+   "text": "willows.",
+   "start": 243813,
+   "end": 244199
+  },
+  {
+   "text": "Lewis",
+   "start": 245259,
+   "end": 245596
+  },
+  {
+   "text": "wrote",
+   "start": 245596,
+   "end": 245982
+  },
+  {
+   "text": "that",
+   "start": 245982,
+   "end": 246143
+  },
+  {
+   "text": "with",
+   "start": 246705,
+   "end": 246866
+  },
+  {
+   "text": "him",
+   "start": 246866,
+   "end": 247219
+  },
+  {
+   "text": "went",
+   "start": 247766,
+   "end": 247958
+  },
+  {
+   "text": "all",
+   "start": 248232,
+   "end": 248280
+  },
+  {
+   "text": "hope",
+   "start": 248489,
+   "end": 248874
+  },
+  {
+   "text": "of",
+   "start": 249131,
+   "end": 249228
+  },
+  {
+   "text": "obtaining",
+   "start": 249228,
+   "end": 249646
+  },
+  {
+   "text": "horses.",
+   "start": 249694,
+   "end": 250144
+  },
+  {
+   "text": "Morale",
+   "start": 250979,
+   "end": 251558
+  },
+  {
+   "text": "sank",
+   "start": 251558,
+   "end": 251879
+  },
+  {
+   "text": "a",
+   "start": 251879,
+   "end": 252056
+  },
+  {
+   "text": "little",
+   "start": 252088,
+   "end": 252377
+  },
+  {
+   "text": "lower",
+   "start": 252425,
+   "end": 252763
+  },
+  {
+   "text": "each",
+   "start": 252763,
+   "end": 253116
+  },
+  {
+   "text": "day.",
+   "start": 253229,
+   "end": 253470
+  },
+  {
+   "text": "On",
+   "start": 254434,
+   "end": 254482
+  },
+  {
+   "text": "August",
+   "start": 254578,
+   "end": 254836
+  },
+  {
+   "text": "13th,",
+   "start": 254836,
+   "end": 255318
+  },
+  {
+   "text": "the",
+   "start": 255334,
+   "end": 255430
+  },
+  {
+   "text": "search",
+   "start": 255462,
+   "end": 255703
+  },
+  {
+   "text": "party",
+   "start": 255719,
+   "end": 255928
+  },
+  {
+   "text": "found",
+   "start": 255944,
+   "end": 256201
+  },
+  {
+   "text": "3",
+   "start": 256201,
+   "end": 256587
+  },
+  {
+   "text": "Indian",
+   "start": 256587,
+   "end": 256892
+  },
+  {
+   "text": "women.",
+   "start": 256924,
+   "end": 257165
+  },
+  {
+   "text": "Lewis",
+   "start": 257969,
+   "end": 258226
+  },
+  {
+   "text": "wrote",
+   "start": 258290,
+   "end": 258531
+  },
+  {
+   "text": "that",
+   "start": 258531,
+   "end": 258628
+  },
+  {
+   "text": "the",
+   "start": 258628,
+   "end": 258772
+  },
+  {
+   "text": "party's",
+   "start": 258772,
+   "end": 259174
+  },
+  {
+   "text": "hunter,",
+   "start": 259174,
+   "end": 259608
+  },
+  {
+   "text": "George",
+   "start": 260202,
+   "end": 260684
+  },
+  {
+   "text": "Drouillard,",
+   "start": 260765,
+   "end": 261215
+  },
+  {
+   "text": "knew",
+   "start": 261986,
+   "end": 262130
+  },
+  {
+   "text": "hand",
+   "start": 262211,
+   "end": 262532
+  },
+  {
+   "text": "signs",
+   "start": 262532,
+   "end": 262998
+  },
+  {
+   "text": "they",
+   "start": 263030,
+   "end": 263143
+  },
+  {
+   "text": "could",
+   "start": 263191,
+   "end": 263352
+  },
+  {
+   "text": "use",
+   "start": 263352,
+   "end": 263593
+  },
+  {
+   "text": "to",
+   "start": 263593,
+   "end": 263721
+  },
+  {
+   "text": "communicate",
+   "start": 263737,
+   "end": 264235
+  },
+  {
+   "text": "with",
+   "start": 264235,
+   "end": 264396
+  },
+  {
+   "text": "the",
+   "start": 264396,
+   "end": 264476
+  },
+  {
+   "text": "Indians,",
+   "start": 264476,
+   "end": 264878
+  },
+  {
+   "text": "but",
+   "start": 265505,
+   "end": 265601
+  },
+  {
+   "text": "his",
+   "start": 265601,
+   "end": 265730
+  },
+  {
+   "text": "sign",
+   "start": 265778,
+   "end": 266164
+  },
+  {
+   "text": "language",
+   "start": 266164,
+   "end": 266501
+  },
+  {
+   "text": "was",
+   "start": 266646,
+   "end": 266774
+  },
+  {
+   "text": "severely",
+   "start": 266887,
+   "end": 267690
+  },
+  {
+   "text": "limited.",
+   "start": 267690,
+   "end": 268108
+  },
+  {
+   "text": "Signs",
+   "start": 268976,
+   "end": 269345
+  },
+  {
+   "text": "could",
+   "start": 269377,
+   "end": 269506
+  },
+  {
+   "text": "say",
+   "start": 269522,
+   "end": 269699
+  },
+  {
+   "text": "hello,",
+   "start": 269699,
+   "end": 270100
+  },
+  {
+   "text": "They",
+   "start": 270887,
+   "end": 271048
+  },
+  {
+   "text": "could",
+   "start": 271048,
+   "end": 271160
+  },
+  {
+   "text": "say,",
+   "start": 271160,
+   "end": 271417
+  },
+  {
+   "text": "\"We",
+   "start": 271546,
+   "end": 271706
+  },
+  {
+   "text": "are",
+   "start": 271706,
+   "end": 271851
+  },
+  {
+   "text": "friends",
+   "start": 271851,
+   "end": 272397
+  },
+  {
+   "text": "and",
+   "start": 272573,
+   "end": 272798
+  },
+  {
+   "text": "we",
+   "start": 272830,
+   "end": 272926
+  },
+  {
+   "text": "want",
+   "start": 273055,
+   "end": 273232
+  },
+  {
+   "text": "to",
+   "start": 273232,
+   "end": 273360
+  },
+  {
+   "text": "trade.\"",
+   "start": 273376,
+   "end": 273729
+  },
+  {
+   "text": "But",
+   "start": 274516,
+   "end": 274741
+  },
+  {
+   "text": "could",
+   "start": 274741,
+   "end": 274901
+  },
+  {
+   "text": "a",
+   "start": 274901,
+   "end": 274917
+  },
+  {
+   "text": "few",
+   "start": 274917,
+   "end": 275126
+  },
+  {
+   "text": "hand",
+   "start": 275223,
+   "end": 275463
+  },
+  {
+   "text": "movements",
+   "start": 275496,
+   "end": 275961
+  },
+  {
+   "text": "explain",
+   "start": 275961,
+   "end": 276619
+  },
+  {
+   "text": "their",
+   "start": 276619,
+   "end": 276764
+  },
+  {
+   "text": "need",
+   "start": 276780,
+   "end": 277085
+  },
+  {
+   "text": "to",
+   "start": 277085,
+   "end": 277214
+  },
+  {
+   "text": "cross",
+   "start": 277230,
+   "end": 277438
+  },
+  {
+   "text": "a",
+   "start": 277487,
+   "end": 277503
+  },
+  {
+   "text": "mountain",
+   "start": 277551,
+   "end": 277904
+  },
+  {
+   "text": "range?",
+   "start": 277968,
+   "end": 278257
+  },
+  {
+   "text": "Could",
+   "start": 279253,
+   "end": 279397
+  },
+  {
+   "text": "they",
+   "start": 279397,
+   "end": 279558
+  },
+  {
+   "text": "trade",
+   "start": 279558,
+   "end": 279991
+  },
+  {
+   "text": "for",
+   "start": 280040,
+   "end": 280136
+  },
+  {
+   "text": "horses",
+   "start": 280136,
+   "end": 280585
+  },
+  {
+   "text": "and",
+   "start": 280618,
+   "end": 280907
+  },
+  {
+   "text": "earn",
+   "start": 281003,
+   "end": 281131
+  },
+  {
+   "text": "the",
+   "start": 281180,
+   "end": 281324
+  },
+  {
+   "text": "trust",
+   "start": 281324,
+   "end": 281645
+  },
+  {
+   "text": "of",
+   "start": 281645,
+   "end": 281742
+  },
+  {
+   "text": "strangers",
+   "start": 281742,
+   "end": 282352
+  },
+  {
+   "text": "on",
+   "start": 282448,
+   "end": 282496
+  },
+  {
+   "text": "hand",
+   "start": 282689,
+   "end": 282994
+  },
+  {
+   "text": "signals",
+   "start": 283026,
+   "end": 283476
+  },
+  {
+   "text": "alone?",
+   "start": 283492,
+   "end": 283797
+  },
+  {
+   "text": "Drouillard",
+   "start": 284953,
+   "end": 285226
+  },
+  {
+   "text": "had",
+   "start": 285418,
+   "end": 285740
+  },
+  {
+   "text": "his",
+   "start": 285740,
+   "end": 285884
+  },
+  {
+   "text": "doubts,",
+   "start": 285997,
+   "end": 286510
+  },
+  {
+   "text": "and",
+   "start": 286703,
+   "end": 286767
+  },
+  {
+   "text": "Lewis",
+   "start": 287040,
+   "end": 287329
+  },
+  {
+   "text": "had",
+   "start": 287426,
+   "end": 287602
+  },
+  {
+   "text": "his",
+   "start": 287602,
+   "end": 287747
+  },
+  {
+   "text": "doubts",
+   "start": 287843,
+   "end": 288180
+  },
+  {
+   "text": "too.",
+   "start": 288228,
+   "end": 288341
+  },
+  {
+   "text": "The",
+   "start": 289690,
+   "end": 289754
+  },
+  {
+   "text": "rest",
+   "start": 289754,
+   "end": 290011
+  },
+  {
+   "text": "of",
+   "start": 290011,
+   "end": 290091
+  },
+  {
+   "text": "the",
+   "start": 290091,
+   "end": 290171
+  },
+  {
+   "text": "party,",
+   "start": 290171,
+   "end": 290541
+  },
+  {
+   "text": "with",
+   "start": 290733,
+   "end": 290894
+  },
+  {
+   "text": "the",
+   "start": 290894,
+   "end": 291038
+  },
+  {
+   "text": "interpreter",
+   "start": 291038,
+   "end": 291632
+  },
+  {
+   "text": "guide",
+   "start": 291697,
+   "end": 292162
+  },
+  {
+   "text": "and",
+   "start": 292162,
+   "end": 292467
+  },
+  {
+   "text": "his",
+   "start": 292483,
+   "end": 292628
+  },
+  {
+   "text": "wife,",
+   "start": 292724,
+   "end": 293077
+  },
+  {
+   "text": "was",
+   "start": 293286,
+   "end": 293399
+  },
+  {
+   "text": "still",
+   "start": 293399,
+   "end": 293977
+  },
+  {
+   "text": "behind",
+   "start": 294105,
+   "end": 294667
+  },
+  {
+   "text": "on",
+   "start": 294667,
+   "end": 294796
+  },
+  {
+   "text": "the",
+   "start": 294812,
+   "end": 294844
+  },
+  {
+   "text": "slower",
+   "start": 294844,
+   "end": 295341
+  },
+  {
+   "text": "route.",
+   "start": 295390,
+   "end": 295759
+  },
+  {
+   "text": "So",
+   "start": 297057,
+   "end": 297169
+  },
+  {
+   "text": "Lewis",
+   "start": 297298,
+   "end": 297506
+  },
+  {
+   "text": "sent",
+   "start": 297554,
+   "end": 297875
+  },
+  {
+   "text": "for",
+   "start": 297875,
+   "end": 298035
+  },
+  {
+   "text": "the",
+   "start": 298035,
+   "end": 298115
+  },
+  {
+   "text": "interpreter's",
+   "start": 298115,
+   "end": 298756
+  },
+  {
+   "text": "wife",
+   "start": 298756,
+   "end": 299108
+  },
+  {
+   "text": "while",
+   "start": 299221,
+   "end": 299349
+  },
+  {
+   "text": "her",
+   "start": 299461,
+   "end": 299653
+  },
+  {
+   "text": "husband",
+   "start": 299701,
+   "end": 300038
+  },
+  {
+   "text": "stayed",
+   "start": 300038,
+   "end": 300358
+  },
+  {
+   "text": "behind",
+   "start": 300358,
+   "end": 300807
+  },
+  {
+   "text": "with",
+   "start": 300839,
+   "end": 300983
+  },
+  {
+   "text": "the",
+   "start": 300983,
+   "end": 301144
+  },
+  {
+   "text": "main",
+   "start": 301144,
+   "end": 301352
+  },
+  {
+   "text": "party",
+   "start": 301400,
+   "end": 301768
+  },
+  {
+   "text": "to",
+   "start": 302345,
+   "end": 302442
+  },
+  {
+   "text": "make",
+   "start": 302442,
+   "end": 302586
+  },
+  {
+   "text": "sure",
+   "start": 302602,
+   "end": 302778
+  },
+  {
+   "text": "they",
+   "start": 302842,
+   "end": 302922
+  },
+  {
+   "text": "kept",
+   "start": 303307,
+   "end": 303547
+  },
+  {
+   "text": "moving",
+   "start": 303547,
+   "end": 303772
+  },
+  {
+   "text": "in",
+   "start": 303804,
+   "end": 303884
+  },
+  {
+   "text": "the",
+   "start": 303884,
+   "end": 304028
+  },
+  {
+   "text": "right",
+   "start": 304028,
+   "end": 304204
+  },
+  {
+   "text": "direction.",
+   "start": 304204,
+   "end": 304589
+  },
+  {
+   "text": "When",
+   "start": 305486,
+   "end": 305566
+  },
+  {
+   "text": "she",
+   "start": 305566,
+   "end": 305743
+  },
+  {
+   "text": "reached",
+   "start": 305807,
+   "end": 306111
+  },
+  {
+   "text": "the",
+   "start": 306111,
+   "end": 306223
+  },
+  {
+   "text": "Indian",
+   "start": 306223,
+   "end": 306496
+  },
+  {
+   "text": "camp,",
+   "start": 306528,
+   "end": 306832
+  },
+  {
+   "text": "she",
+   "start": 306912,
+   "end": 307105
+  },
+  {
+   "text": "stepped",
+   "start": 307105,
+   "end": 307489
+  },
+  {
+   "text": "into",
+   "start": 307489,
+   "end": 307601
+  },
+  {
+   "text": "the",
+   "start": 307650,
+   "end": 307730
+  },
+  {
+   "text": "council",
+   "start": 307730,
+   "end": 308130
+  },
+  {
+   "text": "tent.",
+   "start": 308130,
+   "end": 308451
+  },
+  {
+   "text": "The",
+   "start": 309252,
+   "end": 309316
+  },
+  {
+   "text": "men",
+   "start": 309316,
+   "end": 309605
+  },
+  {
+   "text": "inside",
+   "start": 309717,
+   "end": 310278
+  },
+  {
+   "text": "turned",
+   "start": 310278,
+   "end": 310646
+  },
+  {
+   "text": "to",
+   "start": 310646,
+   "end": 310694
+  },
+  {
+   "text": "look",
+   "start": 310758,
+   "end": 310951
+  },
+  {
+   "text": "at",
+   "start": 310951,
+   "end": 311015
+  },
+  {
+   "text": "her.",
+   "start": 311015,
+   "end": 311191
+  },
+  {
+   "text": "She",
+   "start": 311896,
+   "end": 312313
+  },
+  {
+   "text": "sat",
+   "start": 312313,
+   "end": 312697
+  },
+  {
+   "text": "down.",
+   "start": 312697,
+   "end": 312906
+  },
+  {
+   "text": "Then",
+   "start": 314220,
+   "end": 314364
+  },
+  {
+   "text": "she",
+   "start": 314364,
+   "end": 314540
+  },
+  {
+   "text": "began",
+   "start": 314540,
+   "end": 314780
+  },
+  {
+   "text": "to",
+   "start": 314780,
+   "end": 314909
+  },
+  {
+   "text": "translate.",
+   "start": 314925,
+   "end": 315389
+  },
+  {
+   "text": "Then",
+   "start": 316463,
+   "end": 316623
+  },
+  {
+   "text": "she",
+   "start": 316623,
+   "end": 316848
+  },
+  {
+   "text": "stopped",
+   "start": 316848,
+   "end": 317344
+  },
+  {
+   "text": "mid-sentence.",
+   "start": 318146,
+   "end": 319027
+  },
+  {
+   "text": "She",
+   "start": 319732,
+   "end": 319972
+  },
+  {
+   "text": "had",
+   "start": 319972,
+   "end": 320149
+  },
+  {
+   "text": "recognized",
+   "start": 320149,
+   "end": 321094
+  },
+  {
+   "text": "the",
+   "start": 321094,
+   "end": 321158
+  },
+  {
+   "text": "chief.",
+   "start": 321254,
+   "end": 321607
+  },
+  {
+   "text": "The",
+   "start": 322618,
+   "end": 322714
+  },
+  {
+   "text": "account",
+   "start": 322714,
+   "end": 323099
+  },
+  {
+   "text": "published",
+   "start": 323099,
+   "end": 323324
+  },
+  {
+   "text": "in",
+   "start": 323324,
+   "end": 323420
+  },
+  {
+   "text": "1814,",
+   "start": 323420,
+   "end": 324528
+  },
+  {
+   "text": "drawn",
+   "start": 324641,
+   "end": 324914
+  },
+  {
+   "text": "from",
+   "start": 325026,
+   "end": 325154
+  },
+  {
+   "text": "the",
+   "start": 325203,
+   "end": 325347
+  },
+  {
+   "text": "explorer's",
+   "start": 325347,
+   "end": 325813
+  },
+  {
+   "text": "journal,",
+   "start": 325829,
+   "end": 326166
+  },
+  {
+   "text": "says",
+   "start": 326262,
+   "end": 326503
+  },
+  {
+   "text": "she",
+   "start": 326503,
+   "end": 326712
+  },
+  {
+   "text": "jumped",
+   "start": 326792,
+   "end": 327193
+  },
+  {
+   "text": "up,",
+   "start": 327193,
+   "end": 327434
+  },
+  {
+   "text": "ran",
+   "start": 327996,
+   "end": 328221
+  },
+  {
+   "text": "to",
+   "start": 328253,
+   "end": 328397
+  },
+  {
+   "text": "him,",
+   "start": 328397,
+   "end": 328526
+  },
+  {
+   "text": "threw",
+   "start": 329120,
+   "end": 329296
+  },
+  {
+   "text": "her",
+   "start": 329296,
+   "end": 329377
+  },
+  {
+   "text": "blanket",
+   "start": 329441,
+   "end": 329762
+  },
+  {
+   "text": "around",
+   "start": 329762,
+   "end": 330083
+  },
+  {
+   "text": "him,",
+   "start": 330083,
+   "end": 330179
+  },
+  {
+   "text": "and",
+   "start": 330260,
+   "end": 330388
+  },
+  {
+   "text": "wept.",
+   "start": 330420,
+   "end": 330629
+  },
+  {
+   "text": "The",
+   "start": 331464,
+   "end": 331624
+  },
+  {
+   "text": "chief",
+   "start": 331624,
+   "end": 331929
+  },
+  {
+   "text": "was",
+   "start": 331929,
+   "end": 332074
+  },
+  {
+   "text": "moved",
+   "start": 332170,
+   "end": 332427
+  },
+  {
+   "text": "too.",
+   "start": 332427,
+   "end": 332668
+  },
+  {
+   "text": "The",
+   "start": 332764,
+   "end": 332909
+  },
+  {
+   "text": "account",
+   "start": 332909,
+   "end": 333246
+  },
+  {
+   "text": "says",
+   "start": 333246,
+   "end": 333599
+  },
+  {
+   "text": "he",
+   "start": 334193,
+   "end": 334370
+  },
+  {
+   "text": "embraced",
+   "start": 334370,
+   "end": 334819
+  },
+  {
+   "text": "her",
+   "start": 334819,
+   "end": 334996
+  },
+  {
+   "text": "back.",
+   "start": 334996,
+   "end": 335301
+  },
+  {
+   "text": "The",
+   "start": 336120,
+   "end": 336200
+  },
+  {
+   "text": "tent",
+   "start": 336264,
+   "end": 336617
+  },
+  {
+   "text": "went",
+   "start": 336746,
+   "end": 337051
+  },
+  {
+   "text": "silent",
+   "start": 337259,
+   "end": 337998
+  },
+  {
+   "text": "for",
+   "start": 338672,
+   "end": 338801
+  },
+  {
+   "text": "a",
+   "start": 338833,
+   "end": 338865
+  },
+  {
+   "text": "moment.",
+   "start": 338865,
+   "end": 339331
+  },
+  {
+   "text": "Nobody",
+   "start": 340214,
+   "end": 340583
+  },
+  {
+   "text": "in",
+   "start": 340695,
+   "end": 340743
+  },
+  {
+   "text": "it",
+   "start": 340856,
+   "end": 341048
+  },
+  {
+   "text": "needed",
+   "start": 341578,
+   "end": 341883
+  },
+  {
+   "text": "a",
+   "start": 341963,
+   "end": 342044
+  },
+  {
+   "text": "translator.",
+   "start": 342044,
+   "end": 342702
+  },
+  {
+   "text": "The",
+   "start": 344067,
+   "end": 344211
+  },
+  {
+   "text": "tribe",
+   "start": 344211,
+   "end": 344404
+  },
+  {
+   "text": "had",
+   "start": 344404,
+   "end": 344548
+  },
+  {
+   "text": "every",
+   "start": 344548,
+   "end": 344757
+  },
+  {
+   "text": "reason",
+   "start": 344853,
+   "end": 345062
+  },
+  {
+   "text": "to",
+   "start": 345062,
+   "end": 345126
+  },
+  {
+   "text": "be",
+   "start": 345190,
+   "end": 345319
+  },
+  {
+   "text": "wary",
+   "start": 345415,
+   "end": 345640
+  },
+  {
+   "text": "of",
+   "start": 345736,
+   "end": 345784
+  },
+  {
+   "text": "strangers.",
+   "start": 345817,
+   "end": 346330
+  },
+  {
+   "text": "Without",
+   "start": 346876,
+   "end": 347181
+  },
+  {
+   "text": "the",
+   "start": 347181,
+   "end": 347278
+  },
+  {
+   "text": "interpreter's",
+   "start": 347278,
+   "end": 347775
+  },
+  {
+   "text": "wife,",
+   "start": 347823,
+   "end": 348112
+  },
+  {
+   "text": "the",
+   "start": 348450,
+   "end": 348498
+  },
+  {
+   "text": "negotiation",
+   "start": 348498,
+   "end": 349252
+  },
+  {
+   "text": "likely",
+   "start": 349429,
+   "end": 349814
+  },
+  {
+   "text": "would",
+   "start": 349846,
+   "end": 350023
+  },
+  {
+   "text": "have",
+   "start": 350023,
+   "end": 350103
+  },
+  {
+   "text": "failed",
+   "start": 350103,
+   "end": 350697
+  },
+  {
+   "text": "and",
+   "start": 351372,
+   "end": 351436
+  },
+  {
+   "text": "the",
+   "start": 351452,
+   "end": 351532
+  },
+  {
+   "text": "dozens",
+   "start": 351693,
+   "end": 352062
+  },
+  {
+   "text": "of",
+   "start": 352094,
+   "end": 352175
+  },
+  {
+   "text": "horses",
+   "start": 352175,
+   "end": 352544
+  },
+  {
+   "text": "the",
+   "start": 352640,
+   "end": 352737
+  },
+  {
+   "text": "Corps",
+   "start": 352737,
+   "end": 353010
+  },
+  {
+   "text": "needed",
+   "start": 353138,
+   "end": 353427
+  },
+  {
+   "text": "probably",
+   "start": 353539,
+   "end": 354230
+  },
+  {
+   "text": "would",
+   "start": 354326,
+   "end": 354487
+  },
+  {
+   "text": "never",
+   "start": 354824,
+   "end": 355065
+  },
+  {
+   "text": "have",
+   "start": 355065,
+   "end": 355274
+  },
+  {
+   "text": "changed",
+   "start": 355290,
+   "end": 355611
+  },
+  {
+   "text": "hands.",
+   "start": 355611,
+   "end": 355996
+  },
+  {
+   "text": "But",
+   "start": 356831,
+   "end": 356976
+  },
+  {
+   "text": "she",
+   "start": 356976,
+   "end": 357088
+  },
+  {
+   "text": "bridged",
+   "start": 357297,
+   "end": 357634
+  },
+  {
+   "text": "the",
+   "start": 357634,
+   "end": 357730
+  },
+  {
+   "text": "cultural",
+   "start": 357794,
+   "end": 358308
+  },
+  {
+   "text": "and",
+   "start": 358517,
+   "end": 358581
+  },
+  {
+   "text": "communication",
+   "start": 358678,
+   "end": 359368
+  },
+  {
+   "text": "gap",
+   "start": 359400,
+   "end": 359737
+  },
+  {
+   "text": "and",
+   "start": 360203,
+   "end": 360267
+  },
+  {
+   "text": "the",
+   "start": 360347,
+   "end": 360444
+  },
+  {
+   "text": "trade",
+   "start": 360444,
+   "end": 360829
+  },
+  {
+   "text": "succeeded.",
+   "start": 360829,
+   "end": 361423
+  },
+  {
+   "text": "Through",
+   "start": 362290,
+   "end": 362531
+  },
+  {
+   "text": "the",
+   "start": 362531,
+   "end": 362611
+  },
+  {
+   "text": "negotiation,",
+   "start": 362611,
+   "end": 363350
+  },
+  {
+   "text": "she",
+   "start": 363414,
+   "end": 363591
+  },
+  {
+   "text": "learned",
+   "start": 363880,
+   "end": 364346
+  },
+  {
+   "text": "that",
+   "start": 364859,
+   "end": 365100
+  },
+  {
+   "text": "most",
+   "start": 365100,
+   "end": 365357
+  },
+  {
+   "text": "of",
+   "start": 365357,
+   "end": 365421
+  },
+  {
+   "text": "her",
+   "start": 365421,
+   "end": 365566
+  },
+  {
+   "text": "family",
+   "start": 365566,
+   "end": 366031
+  },
+  {
+   "text": "had",
+   "start": 366048,
+   "end": 366176
+  },
+  {
+   "text": "died,",
+   "start": 366224,
+   "end": 366706
+  },
+  {
+   "text": "but",
+   "start": 367653,
+   "end": 367766
+  },
+  {
+   "text": "two",
+   "start": 367814,
+   "end": 367974
+  },
+  {
+   "text": "brothers",
+   "start": 367974,
+   "end": 368328
+  },
+  {
+   "text": "were",
+   "start": 368376,
+   "end": 368456
+  },
+  {
+   "text": "still",
+   "start": 368456,
+   "end": 368681
+  },
+  {
+   "text": "alive.",
+   "start": 368713,
+   "end": 369163
+  },
+  {
+   "text": "One",
+   "start": 370062,
+   "end": 370174
+  },
+  {
+   "text": "of",
+   "start": 370222,
+   "end": 370270
+  },
+  {
+   "text": "them",
+   "start": 370319,
+   "end": 370559
+  },
+  {
+   "text": "was",
+   "start": 371025,
+   "end": 371137
+  },
+  {
+   "text": "sitting",
+   "start": 371137,
+   "end": 371571
+  },
+  {
+   "text": "right",
+   "start": 372229,
+   "end": 372550
+  },
+  {
+   "text": "in",
+   "start": 372567,
+   "end": 372615
+  },
+  {
+   "text": "front",
+   "start": 372727,
+   "end": 373048
+  },
+  {
+   "text": "of",
+   "start": 373048,
+   "end": 373129
+  },
+  {
+   "text": "her.",
+   "start": 373129,
+   "end": 373305
+  },
+  {
+   "text": "He",
+   "start": 374076,
+   "end": 374253
+  },
+  {
+   "text": "sold",
+   "start": 374253,
+   "end": 374640
+  },
+  {
+   "text": "Lewis",
+   "start": 374640,
+   "end": 374898
+  },
+  {
+   "text": "and",
+   "start": 374898,
+   "end": 374979
+  },
+  {
+   "text": "Clark",
+   "start": 374979,
+   "end": 375317
+  },
+  {
+   "text": "the",
+   "start": 375317,
+   "end": 375462
+  },
+  {
+   "text": "horses",
+   "start": 375462,
+   "end": 375833
+  },
+  {
+   "text": "they",
+   "start": 375946,
+   "end": 376139
+  },
+  {
+   "text": "desperately",
+   "start": 376268,
+   "end": 376719
+  },
+  {
+   "text": "needed.",
+   "start": 376768,
+   "end": 377122
+  },
+  {
+   "text": "Her",
+   "start": 377944,
+   "end": 378122
+  },
+  {
+   "text": "name",
+   "start": 378122,
+   "end": 378428
+  },
+  {
+   "text": "was",
+   "start": 379411,
+   "end": 379540
+  },
+  {
+   "text": "Sacagawea.",
+   "start": 379588,
+   "end": 380781
+  },
+  {
+   "text": "What",
+   "start": 381732,
+   "end": 381780
+  },
+  {
+   "text": "do",
+   "start": 381780,
+   "end": 381829
+  },
+  {
+   "text": "you",
+   "start": 381829,
+   "end": 381925
+  },
+  {
+   "text": "think",
+   "start": 381925,
+   "end": 382135
+  },
+  {
+   "text": "she",
+   "start": 382135,
+   "end": 382264
+  },
+  {
+   "text": "felt",
+   "start": 382377,
+   "end": 382618
+  },
+  {
+   "text": "when",
+   "start": 382618,
+   "end": 382715
+  },
+  {
+   "text": "she",
+   "start": 382715,
+   "end": 382876
+  },
+  {
+   "text": "saw",
+   "start": 382876,
+   "end": 383037
+  },
+  {
+   "text": "her",
+   "start": 383037,
+   "end": 383183
+  },
+  {
+   "text": "brother?",
+   "start": 383183,
+   "end": 383505
+  },
+  {
+   "text": "Drop",
+   "start": 384085,
+   "end": 384262
+  },
+  {
+   "text": "your",
+   "start": 384262,
+   "end": 384407
+  },
+  {
+   "text": "answers",
+   "start": 384407,
+   "end": 384778
+  },
+  {
+   "text": "in",
+   "start": 384875,
+   "end": 384907
+  },
+  {
+   "text": "the",
+   "start": 384907,
+   "end": 385084
+  },
+  {
+   "text": "comment",
+   "start": 385133,
+   "end": 385536
+  },
+  {
+   "text": "below,",
+   "start": 385536,
+   "end": 385826
+  },
+  {
+   "text": "and",
+   "start": 386019,
+   "end": 386197
+  },
+  {
+   "text": "we'll",
+   "start": 386986,
+   "end": 387147
+  },
+  {
+   "text": "see",
+   "start": 387147,
+   "end": 387309
+  },
+  {
+   "text": "you",
+   "start": 387373,
+   "end": 387470
+  },
+  {
+   "text": "again",
+   "start": 387470,
+   "end": 387744
+  },
+  {
+   "text": "in",
+   "start": 387792,
+   "end": 387889
+  },
+  {
+   "text": "the",
+   "start": 387937,
+   "end": 387969
+  },
+  {
+   "text": "next",
+   "start": 387969,
+   "end": 388211
+  },
+  {
+   "text": "story.",
+   "start": 388211,
+   "end": 388517
+  }
+ ]
+}

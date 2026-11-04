@@ -1,0 +1,56 @@
+{
+ "note": "ASR token starts corrected against the RMS envelope (qa-report hard entries). Re-apply after any transcribe.py --force (fix_onsets).",
+ "fixes": [
+  {
+   "clip": "narr",
+   "word": "Meriwether",
+   "from_ms": 91860,
+   "to_ms": 91590,
+   "late_s": 0.25
+  },
+  {
+   "clip": "narr",
+   "word": "Crossing",
+   "from_ms": 164564,
+   "to_ms": 164200,
+   "late_s": 0.34
+  },
+  {
+   "clip": "narr",
+   "word": "Lewis",
+   "from_ms": 273276,
+   "to_ms": 273010,
+   "late_s": 0.25
+  },
+  {
+   "clip": "narr",
+   "word": "Signs",
+   "from_ms": 300180,
+   "to_ms": 299890,
+   "late_s": 0.27
+  },
+  {
+   "clip": "narr",
+   "word": "Then",
+   "from_ms": 352660,
+   "to_ms": 352470,
+   "late_s": 0.17
+  },
+  {
+   "clip": "narr",
+   "word": "He",
+   "from_ms": 420721,
+   "to_ms": 420580,
+   "late_s": 0.12
+  }
+ ],
+ "text_fixes": [
+  {
+   "clip": "narr",
+   "from_ms": 133209,
+   "was": "turning",
+   "now": "churning",
+   "why": "audio is ambiguous turning/churning (ASR 0.58 vs 0.70); creator chose churning. Re-apply to edited-transcript.json after any re-transcription."
+  }
+ ]
+}

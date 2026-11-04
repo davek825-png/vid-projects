@@ -1,0 +1,483 @@
+{
+  "project": "ows-1",
+  "clip_order": [
+    "narr"
+  ],
+  "clips": [
+    {
+      "id": "narr",
+      "file": "Sacagawea.mov",
+      "duration": 440.9,
+      "keeps": [
+        {
+          "s": 3.04,
+          "e": 4.78,
+          "text": "Welcome to Old West Stories."
+        },
+        {
+          "s": 5.85,
+          "e": 8.49,
+          "text": "Ride with us through the true tales of the frontier,"
+        },
+        {
+          "s": 9.34,
+          "e": 11.31,
+          "text": "one good story at a time."
+        },
+        {
+          "s": 12.93,
+          "e": 16.54,
+          "text": "In Lewis and Clark's Expedition Journal, one person kept appearing."
+        },
+        {
+          "s": 17.45,
+          "e": 20.55,
+          "text": "She was there through the rivers, the storms, and the hunger,"
+        },
+        {
+          "s": 21.47,
+          "e": 32.28,
+          "text": "yet the journal almost never gives her a name. Instead, she is, quote, the wife of our interpreter. Sometimes she is simply, quote, \"the Indian woman.\""
+        },
+        {
+          "s": 34.39,
+          "e": 38.8,
+          "text": "Why would men who wrote down nearly every mile of their journey forget a name?"
+        },
+        {
+          "s": 39.79,
+          "e": 40.81,
+          "text": "Keep that question close."
+        },
+        {
+          "s": 41.87,
+          "e": 43.74,
+          "text": "The answer is the story."
+        },
+        {
+          "s": 45.2,
+          "e": 50.25,
+          "text": "Pull up a chair. This is Old West Stories, and this one's gonna be good."
+        },
+        {
+          "s": 54.61,
+          "e": 64.46,
+          "text": "In 1803, President Thomas Jefferson sent a small expedition west to explore the land the country had just bought—the Louisiana Purchase."
+        },
+        {
+          "s": 65.62,
+          "e": 71.92,
+          "text": "It was a vast stretch of frontier beyond the Mississippi River, and most of what was known about it was just rumor."
+        },
+        {
+          "s": 73.19,
+          "e": 82.46,
+          "text": "Railroads were decades away from crossing the West, so Jefferson hoped for something better. A practical water route to the Pacific."
+        },
+        {
+          "s": 85.16,
+          "e": 90.68,
+          "text": "The men who left St. Louis in May 1804 called themselves the Corps of Discovery."
+        },
+        {
+          "s": 91.59,
+          "e": 94.51,
+          "text": "Meriwether Lewis and William Clark led them."
+        },
+        {
+          "s": 97.17,
+          "e": 102.28,
+          "text": "By November, about 6 months into the journey, the explorers had reached the Dakotas."
+        },
+        {
+          "s": 103.42,
+          "e": 106.71,
+          "text": "Winter was coming on, and they needed a guide for the country ahead."
+        },
+        {
+          "s": 107.89,
+          "e": 112.75,
+          "text": "They hired an Indian man to be their guide and interpreter and to lead them the rest of the way."
+        },
+        {
+          "s": 114.63,
+          "e": 116.7,
+          "text": "He agreed on one condition:"
+        },
+        {
+          "s": 118.35,
+          "e": 119.81,
+          "text": "his wife could come along too."
+        },
+        {
+          "s": 121.56,
+          "e": 122.97,
+          "text": "Lewis and Clark readily agreed."
+        },
+        {
+          "s": 125.2,
+          "e": 134.31,
+          "text": "In May 1805, one of the explorers' boats tipped over in the river. Crates of supplies and important papers were tossed into the churning current."
+        },
+        {
+          "s": 135.23,
+          "e": 139.04,
+          "text": "Among the things washed away were the captain's own records of the trip."
+        },
+        {
+          "s": 140.39,
+          "e": 151.53,
+          "text": "Lewis wrote that \"the Indian woman, whom he credited with equal fortitude and resolution, in a heroic act caught and saved most of the light articles that went overboard.\""
+        },
+        {
+          "s": 154.29,
+          "e": 158.23,
+          "text": "By the summer of 1805, the rivers they had followed were running thin."
+        },
+        {
+          "s": 159.21,
+          "e": 162.71,
+          "text": "Ahead, rose a line of formidable mountains."
+        },
+        {
+          "s": 164.2,
+          "e": 170.04,
+          "text": "Crossing those mountains would require horses to carry their belongings—horses they didn't have."
+        },
+        {
+          "s": 170.86,
+          "e": 177.2,
+          "text": "You see, the expedition had been searching for a water route to the Pacific, and horses were not part of the plan."
+        },
+        {
+          "s": 178.52,
+          "e": 190.46,
+          "text": "Lewis wrote in his journal that without horses, the Corps would have to leave a great part of its supplies behind, and those supplies were already running thin for the voyage still ahead."
+        },
+        {
+          "s": 193.07,
+          "e": 197.52,
+          "text": "The Indian woman knew where to go to buy the horses they desperately needed."
+        },
+        {
+          "s": 199.46,
+          "e": 203.43,
+          "text": "The question was whether anyone would be willing to trade with them."
+        },
+        {
+          "s": 205.75,
+          "e": 216.23,
+          "text": "On August 8th, she pointed to a high plain to the right of the mountain peaks. A place to trade for horses lay just beyond the mountains. Not far from her people's summer camp."
+        },
+        {
+          "s": 217.95,
+          "e": 221.05,
+          "text": "Now Lewis faced a choice, and both options were bad."
+        },
+        {
+          "s": 222.55,
+          "e": 227.91,
+          "text": "The Corps could stay together, moving at its own slow pace while supplies continued to dwindle."
+        },
+        {
+          "s": 229.15,
+          "e": 231.87,
+          "text": "Or he could ride faster with fewer men"
+        },
+        {
+          "s": 232.72,
+          "e": 240.74,
+          "text": "into country none of them knew, toward people who might not be friendly and who might not even have horses to trade."
+        },
+        {
+          "s": 242.06,
+          "e": 243.15,
+          "text": "Lewis chose speed."
+        },
+        {
+          "s": 244.18,
+          "e": 248.38,
+          "text": "Clark and the main party would continue more slowly while Lewis took 3 men ahead."
+        },
+        {
+          "s": 250.55,
+          "e": 254.21,
+          "text": "2 days into the ride, a rider appeared on the horizon."
+        },
+        {
+          "s": 255.59,
+          "e": 259.87,
+          "text": "He sat small against the sky, then grew as he came down the slope."
+        },
+        {
+          "s": 260.77,
+          "e": 262.18,
+          "text": "Lewis rode toward him"
+        },
+        {
+          "s": 263.32,
+          "e": 265.57,
+          "text": "until they were about 100 paces apart."
+        },
+        {
+          "s": 267.06,
+          "e": 271.99,
+          "text": "Then the stranger wheeled his horse, splashed across a creek, and vanished into the willows."
+        },
+        {
+          "s": 273.01,
+          "e": 278.26,
+          "text": "Lewis wrote that with him went all hope of obtaining horses."
+        },
+        {
+          "s": 279.43,
+          "e": 281.94,
+          "text": "Morale sank a little lower each day."
+        },
+        {
+          "s": 284.28,
+          "e": 286.98,
+          "text": "On August 13th, the search party found 3 Indian women."
+        },
+        {
+          "s": 287.83,
+          "e": 297.92,
+          "text": "Lewis wrote that the party's hunter, George Drouillard, knew hand signs they could use to communicate with the Indians. But his sign language was severely limited."
+        },
+        {
+          "s": 299.89,
+          "e": 300.92,
+          "text": "Signs could say hello."
+        },
+        {
+          "s": 302.38,
+          "e": 309.86,
+          "text": "They could say, \"We are friends and we want to trade.\" But could a few hand movements explain their need to cross a mountain range?"
+        },
+        {
+          "s": 310.95,
+          "e": 315.52,
+          "text": "Could they trade for horses and earn the trust of strangers on hand signals alone?"
+        },
+        {
+          "s": 317.64,
+          "e": 321.0,
+          "text": "Drouillard had his doubts, and Lewis had his doubts too."
+        },
+        {
+          "s": 322.36,
+          "e": 328.51,
+          "text": "The rest of the party, with the interpreter guide and his wife, was still behind on the slower route."
+        },
+        {
+          "s": 329.84,
+          "e": 337.29,
+          "text": "So Lewis sent for the interpreter's wife while her husband stayed behind with the main party to make sure they kept moving in the right direction."
+        },
+        {
+          "s": 340.47,
+          "e": 343.47,
+          "text": "When she reached the Indian camp, she stepped into the council tent."
+        },
+        {
+          "s": 344.27,
+          "e": 347.95,
+          "text": "The men inside turned to look at her, and she sat down."
+        },
+        {
+          "s": 349.39,
+          "e": 350.61,
+          "text": "Then she began to translate."
+        },
+        {
+          "s": 352.47,
+          "e": 353.42,
+          "text": "Then she stopped"
+        },
+        {
+          "s": 354.48,
+          "e": 355.31,
+          "text": "mid-sentence."
+        },
+        {
+          "s": 356.9,
+          "e": 358.8,
+          "text": "She had recognized the chief."
+        },
+        {
+          "s": 362.29,
+          "e": 370.07,
+          "text": "The account published in 1814, drawn from the explorer's journal, says she jumped up, ran to him, threw her blanket around him, and wept."
+        },
+        {
+          "s": 371.19,
+          "e": 374.75,
+          "text": "The chief was moved too. The account says he embraced her back."
+        },
+        {
+          "s": 376.13,
+          "e": 377.91,
+          "text": "The tent went silent."
+        },
+        {
+          "s": 379.36,
+          "e": 379.99,
+          "text": "For a moment,"
+        },
+        {
+          "s": 380.91,
+          "e": 383.47,
+          "text": "nobody in it needed a translator."
+        },
+        {
+          "s": 386.16,
+          "e": 398.17,
+          "text": "The tribe had every reason to be wary of strangers. Without the interpreter's wife, the negotiation likely would have failed, and the dozens of horses the Corps needed probably would never have changed hands."
+        },
+        {
+          "s": 400.14,
+          "e": 404.79,
+          "text": "But she bridged the cultural and communication gap. And the trade succeeded."
+        },
+        {
+          "s": 407.42,
+          "e": 411.84,
+          "text": "Through the negotiation, she learned that most of her family had died,"
+        },
+        {
+          "s": 413.23,
+          "e": 414.74,
+          "text": "but two brothers were still alive."
+        },
+        {
+          "s": 415.98,
+          "e": 419.12,
+          "text": "One of them was sitting right in front of her."
+        },
+        {
+          "s": 420.58,
+          "e": 423.69,
+          "text": "He sold Lewis and Clark the horses they desperately needed."
+        },
+        {
+          "s": 426.06,
+          "e": 426.69,
+          "text": "Her name"
+        },
+        {
+          "s": 427.8,
+          "e": 429.04,
+          "text": "was Sacagawea."
+        },
+        {
+          "s": 430.43,
+          "e": 431.55,
+          "text": "How about them apples?"
+        },
+        {
+          "s": 432.45,
+          "e": 439.29,
+          "text": "What do you think she felt when she saw her brother? Drop your answers in the comment below, and we'll see you again in the next story."
+        }
+      ],
+      "cuts": [
+        {
+          "s": 0.0,
+          "e": 2.99,
+          "cat": "dead_air",
+          "text": "",
+          "note": "lead-in silence before 'Welcome to Old West Stories'"
+        },
+        {
+          "s": 262.19,
+          "e": 263.14,
+          "cat": "false_start",
+          "text": "until,",
+          "note": "doubled 'until, until' (not in the script) — cut the FIRST; second 'until' onset at ~263.16 by the envelope (ASR says 263.32)"
+        },
+        {
+          "s": 440.19,
+          "e": 440.9,
+          "cat": "dead_air",
+          "text": "",
+          "note": "trailing silence after the sign-off"
+        }
+      ],
+      "fluff_suggestions": [
+        {
+          "s": 430.43,
+          "e": 431.55,
+          "crit": "evaluative-aside",
+          "text": "How about them apples?",
+          "note": "a playful aside right after the 'Her name was Sacagawea' reveal; cutting it lets the reveal land and goes straight to the comment question. It IS in your script, so it stays unless you choose to drop it. — user chose to REMOVE it (2026-11-04).",
+          "status": "auto_applied"
+        }
+      ]
+    }
+  ],
+  "styles": {
+    "tight": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.14,
+      "max_tail": 0.4,
+      "head": 0.15
+    },
+    "natural": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.26,
+      "max_tail": 0.45,
+      "head": 0.17
+    },
+    "story": {
+      "internal_gap": 0.6,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 1.2,
+      "soft_margin": 3.0,
+      "min_tail": 0.4,
+      "max_tail": 0.6,
+      "head": 0.35
+    },
+    "natural-slow": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.5,
+      "max_tail": 0.7,
+      "head": 0.31
+    }
+  },
+  "flags": [
+    {
+      "id": 1,
+      "clip": "narr",
+      "at": "00:00-00:50",
+      "issue": "The intro names the channel twice: 'Welcome to Old West Stories...' at 0:03 and 'This is Old West Stories, and this one's gonna be good' at 0:45. Both are in the script, so both are kept.",
+      "default": "keep both (user confirmed)"
+    },
+    {
+      "id": 2,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "Your read has long dramatic pauses (0.8-4.4s, e.g. 3.5s after 'She had recognized the chief'). tight/natural compress every pause to ~0.4-0.8s of breathing, which suits a talking head but may rush a suspense story. A third style, 'story', keeps more air (~0.8-1.2s) for comparison.",
+      "default": "natural (user chose)"
+    },
+    {
+      "id": 3,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "User asked for ~7-8% slower. A 0.95 voice time-stretch was tried and REJECTED (too wobbly). Slow-down now comes from pauses only: natural-slow = natural with head 0.31, min_tail 0.50, max_tail 0.70.",
+      "default": "natural-slow, no stretch (user chose)"
+    }
+  ]
+}
