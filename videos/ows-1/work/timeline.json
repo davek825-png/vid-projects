@@ -1,0 +1,239 @@
+{
+  "note": "Narration-only video: the master picture is blank, so cutaways tile 0..end with no gaps. Shot durations must equal master_out_s - master_in_s.",
+  "master": "videos/ows-1/output/master-natural-slow-h264.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "OwsColdOpen",
+      "type": "cutaway",
+      "master_in_s": 0.0,
+      "master_out_s": 8.6,
+      "cue": "Welcome to Old West Stories"
+    },
+    {
+      "id": "OwsJournalOpen",
+      "type": "cutaway",
+      "master_in_s": 8.6,
+      "master_out_s": 13.0,
+      "cue": "In Lewis and Clark's Expedition Journal"
+    },
+    {
+      "id": "OwsRiversStorms",
+      "type": "cutaway",
+      "master_in_s": 13.0,
+      "master_out_s": 17.2,
+      "cue": "the rivers, the storms, and the hunger"
+    },
+    {
+      "id": "OwsNoName",
+      "type": "cutaway",
+      "master_in_s": 17.2,
+      "master_out_s": 28.6,
+      "cue": "never gives her a name"
+    },
+    {
+      "id": "OwsQuestion",
+      "type": "cutaway",
+      "master_in_s": 28.6,
+      "master_out_s": 38.5,
+      "cue": "Why would men ... forget a name?"
+    },
+    {
+      "id": "OwsTitle",
+      "type": "cutaway",
+      "master_in_s": 38.5,
+      "master_out_s": 43.8,
+      "cue": "Pull up a chair"
+    },
+    {
+      "id": "OwsJefferson",
+      "type": "cutaway",
+      "master_in_s": 43.8,
+      "master_out_s": 53.2,
+      "cue": "In 1803, President Thomas Jefferson"
+    },
+    {
+      "id": "OwsLouisiana",
+      "type": "cutaway",
+      "master_in_s": 53.2,
+      "master_out_s": 63.1,
+      "cue": "The Louisiana Purchase"
+    },
+    {
+      "id": "OwsWaterRoute",
+      "type": "cutaway",
+      "master_in_s": 63.1,
+      "master_out_s": 73.3,
+      "cue": "Railroads were decades away"
+    },
+    {
+      "id": "OwsCorps",
+      "type": "cutaway",
+      "master_in_s": 73.3,
+      "master_out_s": 79.8,
+      "cue": "left St. Louis in May 1804"
+    },
+    {
+      "id": "OwsCaptains",
+      "type": "cutaway",
+      "master_in_s": 79.8,
+      "master_out_s": 83.5,
+      "cue": "Meriwether Lewis and William Clark"
+    },
+    {
+      "id": "OwsDakotas",
+      "type": "cutaway",
+      "master_in_s": 83.5,
+      "master_out_s": 94.1,
+      "cue": "By November ... the Dakotas"
+    },
+    {
+      "id": "OwsCondition",
+      "type": "cutaway",
+      "master_in_s": 94.1,
+      "master_out_s": 107.4,
+      "cue": "They hired an Indian man"
+    },
+    {
+      "id": "OwsCapsize",
+      "type": "cutaway",
+      "master_in_s": 107.4,
+      "master_out_s": 122.5,
+      "cue": "In May 1805, one of the boats tipped over"
+    },
+    {
+      "id": "OwsFortitude",
+      "type": "cutaway",
+      "master_in_s": 122.5,
+      "master_out_s": 134.6,
+      "cue": "Lewis wrote that the Indian woman"
+    },
+    {
+      "id": "OwsMountains",
+      "type": "cutaway",
+      "master_in_s": 134.6,
+      "master_out_s": 150.4,
+      "cue": "By the summer of 1805"
+    },
+    {
+      "id": "OwsNoHorsesPlan",
+      "type": "cutaway",
+      "master_in_s": 150.4,
+      "master_out_s": 171.2,
+      "cue": "You see, the expedition"
+    },
+    {
+      "id": "OwsSheKnew",
+      "type": "cutaway",
+      "master_in_s": 171.2,
+      "master_out_s": 181.8,
+      "cue": "The Indian woman knew where to go"
+    },
+    {
+      "id": "OwsPointing",
+      "type": "cutaway",
+      "master_in_s": 181.8,
+      "master_out_s": 193.5,
+      "cue": "On August 8th, she pointed"
+    },
+    {
+      "id": "OwsChoice",
+      "type": "cutaway",
+      "master_in_s": 193.5,
+      "master_out_s": 218.7,
+      "cue": "Now Lewis faced a choice"
+    },
+    {
+      "id": "OwsSplit",
+      "type": "cutaway",
+      "master_in_s": 218.7,
+      "master_out_s": 224.1,
+      "cue": "Clark and the main party"
+    },
+    {
+      "id": "OwsRider",
+      "type": "cutaway",
+      "master_in_s": 224.1,
+      "master_out_s": 245.1,
+      "cue": "2 days into the ride"
+    },
+    {
+      "id": "OwsAllHope",
+      "type": "cutaway",
+      "master_in_s": 245.1,
+      "master_out_s": 254.3,
+      "cue": "with him went all hope"
+    },
+    {
+      "id": "OwsSigns",
+      "type": "cutaway",
+      "master_in_s": 254.3,
+      "master_out_s": 289.6,
+      "cue": "On August 13th"
+    },
+    {
+      "id": "OwsSentFor",
+      "type": "cutaway",
+      "master_in_s": 289.6,
+      "master_out_s": 305.4,
+      "cue": "The rest of the party"
+    },
+    {
+      "id": "OwsTent",
+      "type": "cutaway",
+      "master_in_s": 305.4,
+      "master_out_s": 322.5,
+      "cue": "When she reached the Indian camp"
+    },
+    {
+      "id": "OwsEmbrace",
+      "type": "cutaway",
+      "master_in_s": 322.5,
+      "master_out_s": 343.9,
+      "cue": "The account published in 1814"
+    },
+    {
+      "id": "OwsTrade",
+      "type": "cutaway",
+      "master_in_s": 343.9,
+      "master_out_s": 362.1,
+      "cue": "The tribe had every reason"
+    },
+    {
+      "id": "OwsBrother",
+      "type": "cutaway",
+      "master_in_s": 362.1,
+      "master_out_s": 377.8,
+      "cue": "Through the negotiation"
+    },
+    {
+      "id": "OwsHerName",
+      "type": "cutaway",
+      "master_in_s": 377.8,
+      "master_out_s": 381.6,
+      "cue": "Her name was Sacagawea"
+    },
+    {
+      "id": "OwsComment",
+      "type": "cutaway",
+      "master_in_s": 381.6,
+      "master_out_s": 386.9,
+      "cue": "What do you think she felt"
+    },
+    {
+      "id": "OwsEndCard",
+      "type": "cutaway",
+      "master_in_s": 386.9,
+      "master_out_s": 389.533,
+      "cue": "we'll see you again in the next story"
+    }
+  ],
+  "preview": {
+    "end_s": 389.533,
+    "out": "videos/ows-1/output/ows-1-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

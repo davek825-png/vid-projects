@@ -141,6 +141,18 @@ Same energy as the motion: **subtle, atmospheric, felt-not-heard.** Every sound 
 bed sit **under the voice** — the story is the show, sound is the seasoning. Lean on period/Western
 textures (wind, wood, leather, metal, horses, distant gunfire) over modern UI sounds.
 
+**Creator rules (ows-1 review, 2026-11-04) — these OVERRIDE the function table below:**
+- **Diegetic only.** A sound must match something physically on screen (the AGREED rubber stamp
+  hitting paper ✓). If nothing on screen makes the sound, use silence.
+- **No sounds on scene changes.** No whoosh, boom or swell on a cut or chapter turn, the title drop,
+  or the end card. A cue must not run across a cut either.
+- **No modern sounds.** No cinematic booms (`impact-deep-soft`), risers (`riser-soft`), UI pops
+  (`pop-reveal`), shimmers/chimes, or soft cinematic thuds. Not even on the big reveal.
+- **No page-turn sounds** unless a book's page is shown turning on screen.
+- Result on ows-1: 31 proposed cues → 1 kept. Sparse is correct for this channel. Period clips
+  (hooves, splash, gunshot, door creak) don't exist in the library yet; generating them needs an
+  ElevenLabs key.
+
 **Choose every cue by its FUNCTION** (3+1 foundational sounds do the heavy lifting; thousands of
 files are a trap). Ask what the beat needs:
 

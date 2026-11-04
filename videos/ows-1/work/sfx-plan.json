@@ -1,0 +1,18 @@
+{
+  "note": "ows-1 SFX pass v2 (creator notes 2026-11-04): only DIEGETIC, period-plausible sounds that match something physically on screen. No page-turn sounds unless a book page is shown turning; no sounds on scene changes; no modern sounds (booms, risers, UI pops, shimmers, cinematic thuds). v1 had 31 cues; 29 were removed under these rules. Library clips only (no ElevenLabs key), so there is no hoof / splash / gunshot clip yet.",
+  "master": "videos/ows-1/output/master-natural-slow-h264.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/ows-1/output/ows-1-preview.mp4",
+    "out": "videos/ows-1/output/ows-1-preview-sfx.mp4",
+    "end_s": 389.533,
+    "duck": true
+  },
+  "events": [
+    { "at_s": 106.20, "sfx_id": "stamp-hit", "gain_db": -3, "shot": "OwsCondition", "cue": "the AGREED stamp lands on the document on 'readily agreed' (local st+8)", "note": "diegetic: a rubber stamp hitting paper, on screen. Percussive clip catalogs ~5 dB quiet, so gain is set high." }
+  ],
+  "dropped": [
+    { "at_s": 242.60, "sfx_id": "wind-soft", "why": "breeze under 'vanished into the willows' measured +0.6 dB even at -6 dB (masked by continuous speech + duck); the only gap after it would carry the 2.2s clip across the scene change, which the creator rules out." }
+  ]
+}

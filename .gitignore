@@ -55,3 +55,6 @@ media/library/faces/*.webp
 .idea/
 .DS_Store
 Thumbs.db
+
+# ows-1 source media stays local (creator decision 2026-11-04): images, web copies, music, outro
+media/projects/ows-1/
