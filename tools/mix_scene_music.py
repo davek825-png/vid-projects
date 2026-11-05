@@ -10,7 +10,8 @@ Usage (from the repo root):
   python tools/mix_scene_music.py videos/ows-1/work/music-plan.json
 
 Schema: see videos/ows-1/work/music-plan.json (base, out, bed_lufs, duck, highpass_hz,
-segments[{file, track_lufs, at_s, from_s, dur_s, fade_in, fade_out, compress?}], outro{...}).
+segments[{file, track_lufs, at_s, from_s, dur_s, fade_in, fade_out, compress?}], outro{...},
+optional base_gain_db (lift a quiet narration to channel loudness) + limit (limiter ceiling, linear)).
 track_lufs = the track's integrated loudness (measure: ffmpeg -i x -af ebur128 -f null -).
 Needs ffmpeg/ffprobe on PATH.
 """
@@ -39,9 +40,12 @@ for i, s in enumerate(segs):
 fc.append("".join(labels) + f"amix=inputs={len(labels)}:normalize=0:dropout_transition=0,highpass=f={P['highpass_hz']},"
           f"apad,atrim=0:{dur_base:.3f}[bed]")
 dk = P["duck"]
-fc.append("[0:a]aformat=sample_rates=48000:channel_layouts=stereo,asplit=2[v1][v2]")
+# optional base_gain_db: lift a quiet narration (voice + SFX) to channel loudness BEFORE the duck,
+# so bed_lufs and the sidechain see the final voice level; "limit" = limiter ceiling (linear)
+bg = P.get("base_gain_db", 0)
+fc.append(f"[0:a]aformat=sample_rates=48000:channel_layouts=stereo,volume={bg}dB,asplit=2[v1][v2]")
 fc.append(f"[bed][v1]sidechaincompress=threshold={dk['threshold']}:ratio={dk['ratio']}:attack={dk['attack']}:release={dk['release']}[bedd]")
-fc.append("[v2][bedd]amix=inputs=2:normalize=0,alimiter=limit=0.97:level=0[a]")
+fc.append(f"[v2][bedd]amix=inputs=2:normalize=0,alimiter=limit={P.get('limit', 0.97)}:level=0[a]")
 cmd += ["-filter_complex", ";".join(fc), "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "pcm_s16le", tmp.replace(".mp4", ".mov")]
 subprocess.run(cmd, check=True)
 

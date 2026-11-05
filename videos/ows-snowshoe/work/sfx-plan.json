@@ -1,0 +1,24 @@
+{
+  "note": "ows-snowshoe SFX pass under the brand.md §10 creator rules: diegetic only (a sound must match something physically on screen), no sounds on scene changes, no modern sounds, no page turns unless a page turns on screen. Library clips only (no ElevenLabs). Proposed: the five rubber stamps that hit a DOCUMENT on screen. Stamp hit = cue + 0.12s: the Stamp appears at its cue frame and its easeOut scale-down has visibly landed ~3-4 frames later (frame-checked at 136.93-137.03); the stamp-hit clip has no leading silence. (ows-1 used +8f, ~0.1s late.)",
+  "master": "videos/ows-snowshoe/output/master-natural-slow-h264.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/ows-snowshoe/output/ows-snowshoe-preview.mp4",
+    "out": "videos/ows-snowshoe/output/ows-snowshoe-preview-sfx.mp4",
+    "end_s": 377.933,
+    "duck": true
+  },
+  "events": [
+    { "at_s": 137.03, "sfx_id": "stamp-hit", "gain_db": -3, "shot": "SnNoAuthority", "cue": "YES stamp lands on the post-office ledger on 'finally said yes' (cue 136.91 + ~4f)", "note": "diegetic stamp on paper" },
+    { "at_s": 266.24, "sfx_id": "stamp-hit", "gain_db": -3, "shot": "SnNoChloroform", "cue": "NO ANESTHESIA stamp on the doctor's ledger on 'anesthesia' (cue 266.12 + ~4f)", "note": "diegetic stamp on paper" },
+    { "at_s": 315.95, "sfx_id": "stamp-hit", "gain_db": -3, "shot": "SnLegislature", "cue": "NOT PAID stamp on the petition on 'Congress did not pay' (cue 315.83 + ~4f)", "note": "diegetic; starts the payment-arc stamp motif" },
+    { "at_s": 329.20, "sfx_id": "stamp-hit", "gain_db": -3, "shot": "SnNoContract", "cue": "NO CLAIM FOR PAY stamp on the contract on 'no claim' (cue 329.08 + ~4f)", "note": "diegetic; payment-arc motif" },
+    { "at_s": 354.76, "sfx_id": "stamp-hit", "gain_db": -3, "shot": "SnBill", "cue": "DIED WITH HIM stamp on the bill on 'died with him' (cue 354.64 + ~4f)", "note": "diegetic; closes the payment-arc motif" }
+  ],
+  "not_proposed": [
+    { "what": "map stamps (MAIL STOPPED 34.3, FAILED 97.1, TODAY: SKIS 164.4, UP TO 45 MILES 227.0, NONE 274.6)", "why": "stamp-styled labels on maps, not a stamp hitting a document; ten stamp hits would wear the motif out" },
+    { "what": "pencil scribble on the 5 tally marks (133.0)", "why": "brand §10: scribbles under speech are texture, not a cue" },
+    { "what": "wind on the Sierra images", "why": "ambient bed belongs to the music step; on ows-1 it measured inaudible under speech" }
+  ]
+}

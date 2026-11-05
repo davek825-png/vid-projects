@@ -1,0 +1,27 @@
+{
+  "note": "ows-snowshoe music pass. Creator-supplied tracks (media/projects/ows-snowshoe/), chosen by mood and loudness envelope. Silence is deliberate over the Sisson rescue (228-288) for suspense, as ows-1 left its tense stretches silent. The narration is 3.8 dB quieter than ows-1 (-26.3 vs -22.5 LUFS), so base_gain_db lifts voice + SFX to channel loudness before the duck; voice peaks -4.3 dBFS -> -0.5, the limiter at -1 dBFS only touches the stamps. Beds then sit ~9.5 LU under the voice (same as ows-1). Outro: the channel end screen + outro music from ows-1, appended after the master (377.933s).",
+  "base": "videos/ows-snowshoe/output/ows-snowshoe-preview-sfx.mp4",
+  "out": "videos/ows-snowshoe/output/ows-snowshoe-preview-music.mp4",
+  "base_gain_db": 3.8,
+  "limit": 0.89,
+  "bed_lufs": -32,
+  "duck": { "threshold": 0.05, "ratio": 4, "attack": 30, "release": 600 },
+  "highpass_hz": 110,
+  "segments": [
+    { "file": "media/projects/ows-snowshoe/openmindaudio-cinematic-western-music-western-drama-608472.mp3", "track_lufs": -13.8, "at_s": 0.0, "from_s": 0.0, "dur_s": 66.5, "fade_in": 0.5, "fade_out": 3.5,
+      "scenes": "the letter, the vanishing road, drifts, Carson Valley waits, the 1855 notice, the ad, title", "why": "cinematic drama under the problem; fades out over the title card" },
+    { "file": "media/projects/ows-snowshoe/kaazoom-just-me-and-my-horse-cowboy-movie-music-410506.mp3", "track_lufs": -11.9, "at_s": 66.0, "from_s": 0.0, "dur_s": 73.5, "fade_in": 2.0, "fade_out": 3.0,
+      "scenes": "Placerville postmaster, the Sierra between, waiting, John Thompson, the gold, no authority, five mornings, YES", "why": "a lone-rider theme for the man who shows up; ends on the YES" },
+    { "file": "media/projects/ows-snowshoe/roybushband-western-acoustic-guitar-149685.mp3", "track_lufs": -15.0, "at_s": 138.0, "from_s": 0.0, "dur_s": 90.0, "fade_in": 2.0, "fade_out": 3.0,
+      "scenes": "the nickname, snowshoes vs skis, the pole, sliding, 90 miles, misnomer, the load, the crossing", "why": "light acoustic guitar for the explainer stretch; fades out before Sisson" },
+    { "file": "media/projects/ows-snowshoe/openmindaudio-cinematic-western-music-frontier-return-608473.mp3", "track_lufs": -13.1, "at_s": 288.4, "from_s": 0.0, "dur_s": 89.533, "fade_in": 2.5, "fade_out": 3.0,
+      "scenes": "'just in time', 20 winters, the Legislature, Washington, no contract, Uncle Sam, his death, the bill, the legacy, never paid, end card", "why": "quiet for its first ~35 s, then builds from ~323 s (the no-contract beat) through the ending" }
+  ],
+  "outro": {
+    "slide": "media/projects/ows-1/OWS_outro_subscribe_1920x1080.png",
+    "music": "media/projects/ows-1/mus_outro.mp3",
+    "music_lufs": -15.0, "target_lufs": -22, "dur_s": 16.176, "fade_in": 0.6, "fade_out": 1.5,
+    "why": "the channel end screen (like / subscribe / @storiesoldwest) reused from ows-1 for consistency; 16 s fits YouTube's end-screen window"
+  },
+  "unused": ["kaazoom-way-out-west-cowboy-movie-music-410505.mp3", "melodyayresgriffiths-wagon-train-hopeful-upbeat-country-western-theme-219749.mp3 (upbeat, -7.4 LUFS; too bright for this story's somber ending)"]
+}
