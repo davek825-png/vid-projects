@@ -98,7 +98,9 @@ export const KenBurns: React.FC<{
   position?: string; dim?: number; illustration?: boolean;
   /** pan the cropped area of a wide image: objectPosition x% from -> to (panoramas) */
   panFrom?: number; panTo?: number;
-}> = ({ src, from = { s: 1.04, x: 0, y: 0 }, to = { s: 1.12, x: 0, y: 0 }, start = 0, end, position = 'center', dim = 0, illustration = false, panFrom, panTo }) => {
+  /** CSS filter to pull a modern color photo into the period palette, e.g. 'sepia(0.4) saturate(0.8)' */
+  grade?: string;
+}> = ({ src, from = { s: 1.04, x: 0, y: 0 }, to = { s: 1.12, x: 0, y: 0 }, start = 0, end, position = 'center', dim = 0, illustration = false, panFrom, panTo, grade }) => {
   const frame = useCurrentFrame();
   const { durationInFrames } = useVideoConfig();
   const e = end ?? durationInFrames;
@@ -109,7 +111,7 @@ export const KenBurns: React.FC<{
     <AbsoluteFill style={{ overflow: 'hidden', backgroundColor: COLORS.d900 }}>
       <Img src={src} style={{
         width: '100%', height: '100%', objectFit: 'cover', objectPosition: objPos,
-        transform: `translate(${t('x')}%, ${t('y')}%) scale(${t('s')})`,
+        transform: `translate(${t('x')}%, ${t('y')}%) scale(${t('s')})`, filter: grade,
       }} />
       {dim > 0 && <AbsoluteFill style={{ backgroundColor: COLORS.d900, opacity: dim }} />}
       <Vignette />
@@ -357,6 +359,50 @@ export const InkNameTag: React.FC<{ name: string; role?: string; at: number; out
       <div style={{ transform: riseAt(frame, at + 3, 12).transform }}>
         <div style={{ fontFamily: FONT_DISPLAY, fontWeight: 700, fontSize: 52, color: COLORS.ink }}>{name}</div>
         {role && <div style={{ fontFamily: FONT_BODY, fontStyle: 'italic', fontSize: 30, color: COLORS.muted }}>{role}</div>}
+      </div>
+    </div>
+  );
+};
+
+/** Courier ledger row: KEY (muted) then value, each rising on its own cue. */
+export const LedgerRow: React.FC<{ k: string; v: React.ReactNode; at: number; vAt?: number; hot?: boolean; keyWidth?: number; size?: number; dark?: boolean }> = ({ k, v, at, vAt, hot, keyWidth = 360, size = 40, dark = false }) => {
+  const frame = useCurrentFrame();
+  const base = dark ? COLORS.cream : COLORS.ink;
+  return (
+    <div style={{ display: 'flex', gap: 30, alignItems: 'baseline', marginBottom: 30 }}>
+      <div style={{ ...riseAt(frame, at, 8, 12), width: keyWidth, flexShrink: 0, fontFamily: FONT_MONO, fontWeight: 700, fontSize: size * 0.85, letterSpacing: 3, color: dark ? COLORS.d400 : COLORS.muted }}>{k}</div>
+      <div style={{ ...riseAt(frame, vAt ?? at + 6, 8, 12), fontFamily: FONT_MONO, fontSize: size, color: hot ? (dark ? COLORS.warn : COLORS.accent) : base, fontWeight: hot ? 700 : 400 }}>{v}</div>
+    </div>
+  );
+};
+
+/** Rubber stamp that slams in at `at` (AGREED, NOT PAID, NONE...). */
+export const Stamp: React.FC<{ text: string; at: number; color?: string; size?: number; rotate?: number; style?: React.CSSProperties }> = ({ text, at, color = COLORS.danger, size = 92, rotate = -12, style }) => {
+  const frame = useCurrentFrame();
+  return (
+    <div style={{
+      opacity: ramp(frame, at, at + 4), transform: `rotate(${rotate}deg) scale(${ramp(frame, at, at + 8, 1.8, 1, EASINGS.easeOut)})`,
+      fontFamily: FONT_DISPLAY, fontWeight: 900, fontSize: size, letterSpacing: 6, color, whiteSpace: 'nowrap',
+      border: `${Math.round(size / 11)}px solid ${color}`, padding: '4px 30px', borderRadius: 10, display: 'inline-block', ...style,
+    }}>{text}</div>
+  );
+};
+
+/** A sealed period envelope: address lines are abstract ink strokes, rust wax seal. */
+export const Envelope: React.FC<{ at?: number; width?: number; rotate?: number; style?: React.CSSProperties }> = ({ at = 0, width = 620, rotate = -3, style }) => {
+  const frame = useCurrentFrame();
+  const h = Math.round(width * 0.6);
+  return (
+    <div style={{ ...riseAt(frame, at, 30, 24), ...style }}>
+      <div style={{ position: 'relative', width, height: h, transform: `rotate(${rotate}deg)`, background: COLORS.cream, border: `1px solid ${COLORS.line}`, boxShadow: '0 24px 60px rgba(26,11,6,0.5)' }}>
+        <svg width={width} height={h} style={{ position: 'absolute', inset: 0 }}>
+          <path d={`M 0 0 L ${width / 2} ${h * 0.52} L ${width} 0`} fill="none" stroke={COLORS.line} strokeWidth={3} />
+          {[0.62, 0.72, 0.82].map((y, i) => (
+            <line key={i} x1={width * 0.34} y1={h * y} x2={width * (0.86 - i * 0.08)} y2={h * y} stroke={COLORS.ink} strokeOpacity={0.22} strokeWidth={7} strokeLinecap="round" />
+          ))}
+          <rect x={width - 96} y={22} width={64} height={78} fill="none" stroke={COLORS.accent} strokeOpacity={0.5} strokeWidth={3} strokeDasharray="5 4" />
+        </svg>
+        <div style={{ position: 'absolute', left: width / 2 - 34, top: h * 0.52 - 34, width: 68, height: 68, borderRadius: '50%', background: COLORS.danger, boxShadow: 'inset 0 -6px 12px rgba(0,0,0,0.35), 0 3px 8px rgba(26,11,6,0.4)' }} />
       </div>
     </div>
   );

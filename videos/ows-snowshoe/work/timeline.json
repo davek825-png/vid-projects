@@ -1,0 +1,281 @@
+{
+  "note": "Narration-only video: the master picture is blank, so cutaways tile 0..end with no gaps. Shot durations must equal master_out_s - master_in_s.",
+  "master": "videos/ows-snowshoe/output/master-natural-slow-h264.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "SnLetter",
+      "type": "cutaway",
+      "master_in_s": 0.0,
+      "master_out_s": 5.45,
+      "cue": "A letter does not weigh very much"
+    },
+    {
+      "id": "SnSierra",
+      "type": "cutaway",
+      "master_in_s": 5.45,
+      "master_out_s": 13.0,
+      "cue": "Every winter, the road... disappeared"
+    },
+    {
+      "id": "SnDrifts",
+      "type": "cutaway",
+      "master_in_s": 13.0,
+      "master_out_s": 21.1,
+      "cue": "Snow piled up in drifts"
+    },
+    {
+      "id": "SnCarson",
+      "type": "cutaway",
+      "master_in_s": 21.1,
+      "master_out_s": 33.9,
+      "cue": "On the Nevada side... In winter, the mail stopped"
+    },
+    {
+      "id": "SnNotice",
+      "type": "cutaway",
+      "master_in_s": 33.9,
+      "master_out_s": 49.75,
+      "cue": "a notice ran in the Sacramento Union"
+    },
+    {
+      "id": "SnAdCheck",
+      "type": "cutaway",
+      "master_in_s": 49.75,
+      "master_out_s": 62.55,
+      "cue": "The employment ad identified the customer"
+    },
+    {
+      "id": "SnTitle",
+      "type": "cutaway",
+      "master_in_s": 62.55,
+      "master_out_s": 68.25,
+      "cue": "Pull up a chair"
+    },
+    {
+      "id": "SnPostmaster",
+      "type": "cutaway",
+      "master_in_s": 68.25,
+      "master_out_s": 81.9,
+      "cue": "The Placerville, California postmaster had a problem"
+    },
+    {
+      "id": "SnBetween",
+      "type": "cutaway",
+      "master_in_s": 81.9,
+      "master_out_s": 96.9,
+      "cue": "The Sierra Nevada mountain range stood between"
+    },
+    {
+      "id": "SnWaiting",
+      "type": "cutaway",
+      "master_in_s": 96.9,
+      "master_out_s": 106.55,
+      "cue": "For a person waiting on the other side"
+    },
+    {
+      "id": "SnThompson",
+      "type": "cutaway",
+      "master_in_s": 106.55,
+      "master_out_s": 114.7,
+      "cue": "A Norwegian immigrant named John Thompson"
+    },
+    {
+      "id": "SnGold",
+      "type": "cutaway",
+      "master_in_s": 114.7,
+      "master_out_s": 121.75,
+      "cue": "He had come to California to dig for gold"
+    },
+    {
+      "id": "SnNoAuthority",
+      "type": "cutaway",
+      "master_in_s": 121.75,
+      "master_out_s": 138.1,
+      "cue": "The postmaster told him the situation plainly"
+    },
+    {
+      "id": "SnNickname",
+      "type": "cutaway",
+      "master_in_s": 138.1,
+      "master_out_s": 145.3,
+      "cue": "he earned the nickname Snowshoe Thompson"
+    },
+    {
+      "id": "SnSnowshoes",
+      "type": "cutaway",
+      "master_in_s": 145.3,
+      "master_out_s": 151.2,
+      "cue": "he did not carry snowshoes"
+    },
+    {
+      "id": "SnBoards",
+      "type": "cutaway",
+      "master_in_s": 151.2,
+      "master_out_s": 164.0,
+      "cue": "He used long wooden boards"
+    },
+    {
+      "id": "SnPole",
+      "type": "cutaway",
+      "master_in_s": 164.0,
+      "master_out_s": 171.65,
+      "cue": "He also carried a single long pole"
+    },
+    {
+      "id": "SnSlide",
+      "type": "cutaway",
+      "master_in_s": 171.65,
+      "master_out_s": 184.95,
+      "cue": "The method was different from walking"
+    },
+    {
+      "id": "SnRoute",
+      "type": "cutaway",
+      "master_in_s": 184.95,
+      "master_out_s": 196.95,
+      "cue": "the nearly 90 miles between Placerville and Carson Valley"
+    },
+    {
+      "id": "SnMisnomer",
+      "type": "cutaway",
+      "master_in_s": 196.95,
+      "master_out_s": 205.05,
+      "cue": "So the nickname was a misnomer"
+    },
+    {
+      "id": "SnLoad",
+      "type": "cutaway",
+      "master_in_s": 205.05,
+      "master_out_s": 219.55,
+      "cue": "Then there was the load"
+    },
+    {
+      "id": "SnCrossing",
+      "type": "cutaway",
+      "master_in_s": 219.55,
+      "master_out_s": 228.4,
+      "cue": "The crossing took about 3 days going east"
+    },
+    {
+      "id": "SnSisson",
+      "type": "cutaway",
+      "master_in_s": 228.4,
+      "master_out_s": 239.85,
+      "cue": "In the winter of 1856... James Sisson"
+    },
+    {
+      "id": "SnTwelveDays",
+      "type": "cutaway",
+      "master_in_s": 239.85,
+      "master_out_s": 248.85,
+      "cue": "He had been there for 12 days"
+    },
+    {
+      "id": "SnSled",
+      "type": "cutaway",
+      "master_in_s": 248.85,
+      "master_out_s": 259.95,
+      "cue": "went to the town of Genoa... a team of men and a sled"
+    },
+    {
+      "id": "SnNoChloroform",
+      "type": "cutaway",
+      "master_in_s": 259.95,
+      "master_out_s": 267.8,
+      "cue": "The doctor in Genoa said Sisson's feet"
+    },
+    {
+      "id": "SnSearch",
+      "type": "cutaway",
+      "master_in_s": 267.8,
+      "master_out_s": 283.9,
+      "cue": "he set out to search for it"
+    },
+    {
+      "id": "SnJustInTime",
+      "type": "cutaway",
+      "master_in_s": 283.9,
+      "master_out_s": 290.55,
+      "cue": "A 2005 public television investigation"
+    },
+    {
+      "id": "SnTwentyWinters",
+      "type": "cutaway",
+      "master_in_s": 290.55,
+      "master_out_s": 306.7,
+      "cue": "For 20 winters from 1856 to 1876"
+    },
+    {
+      "id": "SnLegislature",
+      "type": "cutaway",
+      "master_in_s": 306.7,
+      "master_out_s": 316.9,
+      "cue": "In 1869, the Nevada Legislature"
+    },
+    {
+      "id": "SnWashington",
+      "type": "cutaway",
+      "master_in_s": 316.9,
+      "master_out_s": 324.35,
+      "cue": "in 1872, Thompson went to Washington"
+    },
+    {
+      "id": "SnNoContract",
+      "type": "cutaway",
+      "master_in_s": 324.35,
+      "master_out_s": 332.65,
+      "cue": "he did not have a written contract"
+    },
+    {
+      "id": "SnUncleSam",
+      "type": "cutaway",
+      "master_in_s": 332.65,
+      "master_out_s": 338.7,
+      "cue": "Uncle Sam would pay him"
+    },
+    {
+      "id": "SnDied",
+      "type": "cutaway",
+      "master_in_s": 338.7,
+      "master_out_s": 347.1,
+      "cue": "Thompson died in 1876"
+    },
+    {
+      "id": "SnBill",
+      "type": "cutaway",
+      "master_in_s": 347.1,
+      "master_out_s": 356.3,
+      "cue": "a bill to approve his payment was in Congress"
+    },
+    {
+      "id": "SnLegacy",
+      "type": "cutaway",
+      "master_in_s": 356.3,
+      "master_out_s": 366.95,
+      "cue": "The mail got through for 20 years"
+    },
+    {
+      "id": "SnNeverPaid",
+      "type": "cutaway",
+      "master_in_s": 366.95,
+      "master_out_s": 370.7,
+      "cue": "And he never received payment"
+    },
+    {
+      "id": "SnEndCard",
+      "type": "cutaway",
+      "master_in_s": 370.7,
+      "master_out_s": 377.933,
+      "cue": "If you like this story"
+    }
+  ],
+  "preview": {
+    "end_s": 377.933,
+    "out": "videos/ows-snowshoe/output/ows-snowshoe-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}
