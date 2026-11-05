@@ -1,0 +1,367 @@
+{
+  "project": "ows-snowshoe",
+  "clip_order": [
+    "narr"
+  ],
+  "clips": [
+    {
+      "id": "narr",
+      "file": "Snowshoe.mov",
+      "duration": 412.37,
+      "keeps": [
+        {
+          "s": 1.5,
+          "e": 6.3,
+          "text": "A letter does not weigh very much until somebody has to carry it across a mountain."
+        },
+        {
+          "s": 7.7,
+          "e": 14.43,
+          "text": "Every winter, the road over the Sierra Nevada mountain range disappeared, not for a day or two, for months."
+        },
+        {
+          "s": 15.63,
+          "e": 22.73,
+          "text": "Snow piled up in drifts so deep that a wagon stopped being a practical idea, and a horse could sink out of sight."
+        },
+        {
+          "s": 24.29,
+          "e": 33.55,
+          "text": "On the Nevada side of the mountains in Carson Valley, People waited for word from the west. Their mail came from Sacramento on the far side of the range."
+        },
+        {
+          "s": 35.3,
+          "e": 37.14,
+          "text": "In winter, the mail stopped."
+        },
+        {
+          "s": 38.67,
+          "e": 43.78,
+          "text": "Then, in 1855, a notice ran in the Sacramento Union."
+        },
+        {
+          "s": 44.63,
+          "e": 45.76,
+          "text": "The headline was blunt:"
+        },
+        {
+          "s": 46.97,
+          "e": 50.6,
+          "text": "\"People Lost to the World. Uncle Sam Needs a Mail Carrier.\""
+        },
+        {
+          "s": 51.97,
+          "e": 54.65,
+          "text": "That is an unusually candid employment advertisement."
+        },
+        {
+          "s": 55.64,
+          "e": 67.47,
+          "text": "The employment ad identified the customer. It identified the problem. It did not identify how a mail carrier would get the job done in the snowy winter months over tall mountain passes."
+        },
+        {
+          "s": 68.96,
+          "e": 73.8,
+          "text": "Pull up a chair. This is Old West Stories, and this one is gonna be good."
+        },
+        {
+          "s": 75.78,
+          "e": 78.19,
+          "text": "The Placerville, California postmaster had a problem."
+        },
+        {
+          "s": 79.01,
+          "e": 88.5,
+          "text": "Letters were stacking up in his office. And the mail carrier who had been hauling them over the mountains had vanished, and the postmaster could find no one to take his place."
+        },
+        {
+          "s": 90.33,
+          "e": 99.02,
+          "text": "The Sierra Nevada mountain range stood between the two communities. Winter snow cut off the routes that carried supplies, business, and news from home."
+        },
+        {
+          "s": 100.29,
+          "e": 104.6,
+          "text": "Those who had tried to cross the Sierra with pack mules and regular snowshoes had failed."
+        },
+        {
+          "s": 106.39,
+          "e": 115.22,
+          "text": "For a person waiting on the other side, The distance was not simply a matter of miles. It was a matter of not knowing about the people they loved."
+        },
+        {
+          "s": 118.34,
+          "e": 130.68,
+          "text": "A Norwegian immigrant named John Thompson came into the post office to ask about the job. He was about 28 years old. He had come to California to dig for gold, and the gold had not paid off."
+        },
+        {
+          "s": 131.9,
+          "e": 133.09,
+          "text": "He wanted the mail job."
+        },
+        {
+          "s": 135.35,
+          "e": 150.91,
+          "text": "The postmaster told him the situation plainly. The contract was not his to give. He had no authority to hire Thompson and no authority to pay him. One account says Thompson came back every morning for 5 days until the postmaster finally said yes."
+        },
+        {
+          "s": 152.65,
+          "e": 159.12,
+          "text": "Over time, he earned the nickname Snowshoe Thompson, but his actual equipment is where the nickname goes wrong."
+        },
+        {
+          "s": 160.16,
+          "e": 165.13,
+          "text": "People called him \"Snowshoe,\" but he did not carry snowshoes, the woven kind most people picture."
+        },
+        {
+          "s": 165.94,
+          "e": 171.92,
+          "text": "He used long wooden boards about 10 feet long, weighing roughly 25 pounds each."
+        },
+        {
+          "s": 172.72,
+          "e": 178.1,
+          "text": "The Sacramento paper called them \"Norwegian skates.\" Today, we call them skis."
+        },
+        {
+          "s": 179.59,
+          "e": 186.38,
+          "text": "He also carried a single long pole. It helped him push, balance, and slow himself when going downhill."
+        },
+        {
+          "s": 187.75,
+          "e": 192.12,
+          "text": "The method was different from walking across the snow. It allowed him to slide over."
+        },
+        {
+          "s": 192.97,
+          "e": 211.67,
+          "text": "But that did not remove the climb over the mountains. It did not shorten the distance. And it did not make the mail carry itself. But it gave him a workable way to cover the nearly 90 miles between Placerville and Carson Valley in what was then Utah Territory and is now Nevada."
+        },
+        {
+          "s": 213.53,
+          "e": 220.78,
+          "text": "So the nickname was a misnomer. Snowshoes are built to stay on top of the snow. Thompson's boards were built to slide across it."
+        },
+        {
+          "s": 222.22,
+          "e": 223.14,
+          "text": "Then there was the load."
+        },
+        {
+          "s": 223.99,
+          "e": 227.67,
+          "text": "He carried 60 to 80 pounds of letters and packages, sometimes more."
+        },
+        {
+          "s": 229.16,
+          "e": 236.55,
+          "text": "He carried little food. He melted snow for water. He went without a blanket because a blanket would have taken room the mail needed."
+        },
+        {
+          "s": 238.28,
+          "e": 241.96,
+          "text": "The crossing took about 3 days going east and about 2 days coming back."
+        },
+        {
+          "s": 243.49,
+          "e": 247.06,
+          "text": "On some days, he covered close to 45 miles."
+        },
+        {
+          "s": 249.93,
+          "e": 257.06,
+          "text": "In the winter of 1856, on one of those crossings, Thompson came upon a prospector named James Sisson."
+        },
+        {
+          "s": 258.09,
+          "e": 260.71,
+          "text": "Sisson was alone in a cabin south of Lake Tahoe."
+        },
+        {
+          "s": 261.61,
+          "e": 269.89,
+          "text": "He had been there for 12 days. Living on raw flour with no fire and his boots frozen to his feet."
+        },
+        {
+          "s": 271.53,
+          "e": 281.77,
+          "text": "Thompson couldn't move the man himself, so he went to the town of Genoa and came back with a team of men and a sled. Together, they hauled Sisson out through the snowdrifts."
+        },
+        {
+          "s": 283.31,
+          "e": 290.21,
+          "text": "The doctor in Genoa said Sisson's feet would need to be amputated, and there was no chloroform or anesthesia in town."
+        },
+        {
+          "s": 291.62,
+          "e": 295.09,
+          "text": "Thompson couldn't let that happen to the man, so he set out to search for it."
+        },
+        {
+          "s": 296.28,
+          "e": 307.38,
+          "text": "He went to Placerville, found none there, and kept going another 45 miles to Sacramento and brought back anesthesia so the operation could proceed."
+        },
+        {
+          "s": 308.49,
+          "e": 314.22,
+          "text": "A 2005 public television investigation says he arrived just in time."
+        },
+        {
+          "s": 316.26,
+          "e": 331.84,
+          "text": "For 20 winters from 1856 to 1876, he carried that mail over the Sierra Nevada Mountains. The letters arrived. The people in Carson Valley got their news. The road disappeared every winter, but the mail still arrived."
+        },
+        {
+          "s": 333.52,
+          "e": 340.59,
+          "text": "In 1869, the Nevada Legislature asked Congress to pay Thompson $6,000 for his service."
+        },
+        {
+          "s": 342.02,
+          "e": 343.28,
+          "text": "Congress did not pay."
+        },
+        {
+          "s": 345.41,
+          "e": 351.66,
+          "text": "3 years later, in 1872, Thompson went to Washington himself to make the case for being paid to do the job."
+        },
+        {
+          "s": 352.61,
+          "e": 357.93,
+          "text": "He was told since he did not have a written contract to carry the mail, he had no claim for pay."
+        },
+        {
+          "s": 359.11,
+          "e": 360.54,
+          "text": "He had never signed one."
+        },
+        {
+          "s": 361.78,
+          "e": 366.99,
+          "text": "He is often quoted as saying that if he did his job and got the mail through, Uncle Sam would pay him."
+        },
+        {
+          "s": 369.31,
+          "e": 372.7,
+          "text": "Thompson died in 1876 at the age of 49."
+        },
+        {
+          "s": 373.69,
+          "e": 377.04,
+          "text": "Accounts say appendicitis, which may have developed into pneumonia."
+        },
+        {
+          "s": 378.24,
+          "e": 386.42,
+          "text": "Ironically, a bill to approve his payment was in Congress when he died. Accounts say the bill died with him."
+        },
+        {
+          "s": 388.87,
+          "e": 390.55,
+          "text": "The mail got through for 20 years."
+        },
+        {
+          "s": 391.37,
+          "e": 398.5,
+          "text": "He carried news from loved ones. Enabled business transactions by mail, and got a freezing man out of the snow."
+        },
+        {
+          "s": 400.07,
+          "e": 402.97,
+          "text": "And he never received payment for any of it."
+        },
+        {
+          "s": 405.43,
+          "e": 411.6,
+          "text": "If you like this story, give it a like and subscribe to Old West Stories, and we'll see you at the next story."
+        }
+      ],
+      "cuts": [
+        {
+          "s": 0.0,
+          "e": 1.45,
+          "cat": "dead_air",
+          "text": "",
+          "note": "lead-in silence before 'A letter does not weigh very much'"
+        },
+        {
+          "s": 412.5,
+          "e": 412.37,
+          "cat": "dead_air",
+          "text": "",
+          "note": "trailing silence after the sign-off"
+        }
+      ],
+      "fluff_suggestions": []
+    }
+  ],
+  "styles": {
+    "tight": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.14,
+      "max_tail": 0.4,
+      "head": 0.15
+    },
+    "natural": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.26,
+      "max_tail": 0.45,
+      "head": 0.17
+    },
+    "story": {
+      "internal_gap": 0.6,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 1.2,
+      "soft_margin": 3.0,
+      "min_tail": 0.4,
+      "max_tail": 0.6,
+      "head": 0.35
+    },
+    "natural-slow": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.5,
+      "max_tail": 0.7,
+      "head": 0.31
+    }
+  },
+  "flags": [
+    {
+      "id": 1,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "Clean single read: no retakes, false starts, fillers or doubled phrases found. Only pauses are compressed.",
+      "default": "keep every line"
+    },
+    {
+      "id": 2,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "The read differs from script v3 in a few places (e.g. adds the chloroform search via Placerville/Sacramento, 'winter of 1856'). The read is treated as final; nothing is cut to match the script.",
+      "default": "keep the read as spoken (user: the narration rules wherever it differs from the script)"
+    },
+    {
+      "id": 3,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "ows-1 shipped on natural-slow (natural + longer pauses). Rendering natural and natural-slow to compare.",
+      "default": "natural-slow (user approved 2026-11-05)"
+    }
+  ]
+}

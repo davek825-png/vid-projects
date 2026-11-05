@@ -1,0 +1,11 @@
+A dramatic, high-contrast YouTube thumbnail, 16:9, painted in a rich realistic oil-painting style like a historical documentary illustration.
+
+REFERENCE ROLES: Image 1 is a STYLE reference only — match its painterly oil-on-canvas brushwork and natural Western landscape palette. Do not copy its people or composition.
+
+SUBJECT & ACTION: on a high grassy ridge at sunset, a long line of about a dozen frontier explorers from 1805 walks in single file, seen as dark silhouettes against the sky — buckskin coats, rifles, heavy packs. At the front of the line, slightly apart and larger in frame on the right third, one Native American woman walks in silhouette with a cradleboard on her back, her arm raised, pointing toward distant snow-capped mountains. Her face is turned away from the viewer toward the mountains, entirely in shadow; only her silhouette and outline are visible.
+
+SETTING & LIGHTING: a blazing golden-orange sunset sky (warm gold #F7BD6A fading to deep amber and rust #9E431B) behind jagged blue-violet mountains; strong rim light outlines every silhouette. Bright, saturated, glowing.
+
+TEXT: one headline, "1 WOMAN" (characters 1  W-O-M-A-N), in a heavy bold condensed slab-serif Western wood-type font, bright cream-white fill with a thick dark-brown outline and soft drop shadow, huge in the upper-left sky — the single dominant focal element and the only text in the image.
+
+STYLE: bold, uncluttered, high-CTR history-channel thumbnail — one headline, one clear silhouette story, epic sunset light, bright and saturated, painterly realism.

@@ -78,7 +78,10 @@ def video_duration(path: Path) -> float:
 def render_audio_segment(src: Path, start: float, dur: float, out: Path) -> None:
     """Raw audio cut to a SAMPLE-EXACT length matching the segment's video."""
     n = round(dur * SR)
-    fades = (f"atrim=end_sample={n},"
+    # resample FIRST: atrim counts samples at the stream's current rate, so on a 44.1 kHz
+    # source an un-resampled end_sample=n (computed at SR=48k) ran ~9% long per segment
+    # (capped by the +0.2s read window) -> audio ~20s longer than video over 109 cuts.
+    fades = (f"aresample={SR},atrim=end_sample={n},"
              f"afade=t=in:d=0.01,afade=t=out:st={max(n / SR - 0.01, 0):.4f}:d=0.01")
     cmd = ["ffmpeg", "-y", "-loglevel", "error",
            "-ss", f"{start:.3f}", "-t", f"{dur + 0.2:.3f}", "-i", str(src),

@@ -1,0 +1,13 @@
+{
+  "clip": "narr",
+  "time_fixes": [],
+  "text_fixes": [
+    {
+      "start": 98774,
+      "from": "Hope.",
+      "to": "home.",
+      "note": "ASR mishear; script line 32 reads 'news from home'"
+    }
+  ],
+  "warning": "transcribe.py --force wipes these; re-apply after any re-transcription"
+}

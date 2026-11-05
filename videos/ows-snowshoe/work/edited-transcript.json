@@ -1,0 +1,4890 @@
+{
+ "project": "ows-snowshoe",
+ "style": "natural-slow",
+ "units": "ms",
+ "source": "master-natural-slow-h264.mp4 (1920x1080@30, narration-only on a blank espresso background)",
+ "note": "Word times in the FINAL master timeline, from a fresh AssemblyAI pass over the master (keyterms applied). Text fix: 'Hope' -> 'home' in 'news from home' (creator confirmed). The narration is canonical where it differs from script v3.",
+ "duration_ms": 377933,
+ "words": [
+  {
+   "text": "A",
+   "start": 96,
+   "end": 112
+  },
+  {
+   "text": "letter",
+   "start": 112,
+   "end": 353
+  },
+  {
+   "text": "does",
+   "start": 353,
+   "end": 562
+  },
+  {
+   "text": "not",
+   "start": 578,
+   "end": 706
+  },
+  {
+   "text": "weigh",
+   "start": 819,
+   "end": 995
+  },
+  {
+   "text": "very",
+   "start": 995,
+   "end": 1284
+  },
+  {
+   "text": "much",
+   "start": 1317,
+   "end": 1686
+  },
+  {
+   "text": "until",
+   "start": 2280,
+   "end": 2586
+  },
+  {
+   "text": "somebody",
+   "start": 2618,
+   "end": 3453
+  },
+  {
+   "text": "has",
+   "start": 3485,
+   "end": 3662
+  },
+  {
+   "text": "to",
+   "start": 3710,
+   "end": 3822
+  },
+  {
+   "text": "carry",
+   "start": 3951,
+   "end": 4127
+  },
+  {
+   "text": "it",
+   "start": 4127,
+   "end": 4224
+  },
+  {
+   "text": "across",
+   "start": 4224,
+   "end": 4641
+  },
+  {
+   "text": "a",
+   "start": 4754,
+   "end": 4770
+  },
+  {
+   "text": "mountain.",
+   "start": 4770,
+   "end": 5059
+  },
+  {
+   "text": "Every",
+   "start": 5798,
+   "end": 6023
+  },
+  {
+   "text": "winter,",
+   "start": 6119,
+   "end": 6376
+  },
+  {
+   "text": "the",
+   "start": 6537,
+   "end": 6730
+  },
+  {
+   "text": "road",
+   "start": 6762,
+   "end": 7083
+  },
+  {
+   "text": "over",
+   "start": 7083,
+   "end": 7260
+  },
+  {
+   "text": "the",
+   "start": 7260,
+   "end": 7356
+  },
+  {
+   "text": "Sierra",
+   "start": 7356,
+   "end": 7774
+  },
+  {
+   "text": "Nevada",
+   "start": 7822,
+   "end": 8384
+  },
+  {
+   "text": "mountain",
+   "start": 8448,
+   "end": 8769
+  },
+  {
+   "text": "range",
+   "start": 8769,
+   "end": 9107
+  },
+  {
+   "text": "disappeared.",
+   "start": 9107,
+   "end": 9797
+  },
+  {
+   "text": "Not",
+   "start": 10392,
+   "end": 10568
+  },
+  {
+   "text": "for",
+   "start": 10600,
+   "end": 10681
+  },
+  {
+   "text": "a",
+   "start": 10713,
+   "end": 10793
+  },
+  {
+   "text": "day",
+   "start": 10793,
+   "end": 10874
+  },
+  {
+   "text": "or",
+   "start": 10938,
+   "end": 11098
+  },
+  {
+   "text": "two,",
+   "start": 11098,
+   "end": 11259
+  },
+  {
+   "text": "for",
+   "start": 11902,
+   "end": 11966
+  },
+  {
+   "text": "months.",
+   "start": 11982,
+   "end": 12416
+  },
+  {
+   "text": "Snow",
+   "start": 13299,
+   "end": 13620
+  },
+  {
+   "text": "piled",
+   "start": 13749,
+   "end": 14102
+  },
+  {
+   "text": "up",
+   "start": 14150,
+   "end": 14263
+  },
+  {
+   "text": "in",
+   "start": 14263,
+   "end": 14375
+  },
+  {
+   "text": "drifts",
+   "start": 14471,
+   "end": 14953
+  },
+  {
+   "text": "so",
+   "start": 14953,
+   "end": 15210
+  },
+  {
+   "text": "deep",
+   "start": 15275,
+   "end": 15516
+  },
+  {
+   "text": "that",
+   "start": 15516,
+   "end": 15676
+  },
+  {
+   "text": "a",
+   "start": 15676,
+   "end": 15837
+  },
+  {
+   "text": "wagon",
+   "start": 15853,
+   "end": 16270
+  },
+  {
+   "text": "stopped",
+   "start": 16270,
+   "end": 16576
+  },
+  {
+   "text": "being",
+   "start": 16576,
+   "end": 16833
+  },
+  {
+   "text": "a",
+   "start": 16833,
+   "end": 16849
+  },
+  {
+   "text": "practical",
+   "start": 16897,
+   "end": 17411
+  },
+  {
+   "text": "idea,",
+   "start": 17523,
+   "end": 18005
+  },
+  {
+   "text": "and",
+   "start": 18583,
+   "end": 18648
+  },
+  {
+   "text": "a",
+   "start": 18728,
+   "end": 18808
+  },
+  {
+   "text": "horse",
+   "start": 18808,
+   "end": 19178
+  },
+  {
+   "text": "could",
+   "start": 19386,
+   "end": 19643
+  },
+  {
+   "text": "sink",
+   "start": 19884,
+   "end": 20141
+  },
+  {
+   "text": "out",
+   "start": 20190,
+   "end": 20334
+  },
+  {
+   "text": "of",
+   "start": 20334,
+   "end": 20366
+  },
+  {
+   "text": "sight.",
+   "start": 20366,
+   "end": 20623
+  },
+  {
+   "text": "On",
+   "start": 21475,
+   "end": 21555
+  },
+  {
+   "text": "the",
+   "start": 21555,
+   "end": 21699
+  },
+  {
+   "text": "Nevada",
+   "start": 21699,
+   "end": 22037
+  },
+  {
+   "text": "side",
+   "start": 22037,
+   "end": 22358
+  },
+  {
+   "text": "of",
+   "start": 22358,
+   "end": 22422
+  },
+  {
+   "text": "the",
+   "start": 22422,
+   "end": 22503
+  },
+  {
+   "text": "mountains",
+   "start": 22503,
+   "end": 22936
+  },
+  {
+   "text": "in",
+   "start": 22984,
+   "end": 23129
+  },
+  {
+   "text": "Carson",
+   "start": 23145,
+   "end": 23450
+  },
+  {
+   "text": "Valley,",
+   "start": 23563,
+   "end": 23852
+  },
+  {
+   "text": "people",
+   "start": 24510,
+   "end": 24735
+  },
+  {
+   "text": "waited",
+   "start": 24767,
+   "end": 25056
+  },
+  {
+   "text": "for",
+   "start": 25153,
+   "end": 25442
+  },
+  {
+   "text": "word",
+   "start": 25956,
+   "end": 26277
+  },
+  {
+   "text": "from",
+   "start": 26277,
+   "end": 26454
+  },
+  {
+   "text": "the",
+   "start": 26454,
+   "end": 26534
+  },
+  {
+   "text": "West.",
+   "start": 26534,
+   "end": 26951
+  },
+  {
+   "text": "Their",
+   "start": 27658,
+   "end": 27770
+  },
+  {
+   "text": "mail",
+   "start": 27818,
+   "end": 28091
+  },
+  {
+   "text": "came",
+   "start": 28220,
+   "end": 28445
+  },
+  {
+   "text": "from",
+   "start": 28445,
+   "end": 28637
+  },
+  {
+   "text": "Sacramento",
+   "start": 28637,
+   "end": 29344
+  },
+  {
+   "text": "on",
+   "start": 29344,
+   "end": 29472
+  },
+  {
+   "text": "the",
+   "start": 29488,
+   "end": 29537
+  },
+  {
+   "text": "far",
+   "start": 29585,
+   "end": 29858
+  },
+  {
+   "text": "side",
+   "start": 29922,
+   "end": 30243
+  },
+  {
+   "text": "of",
+   "start": 30243,
+   "end": 30307
+  },
+  {
+   "text": "the",
+   "start": 30307,
+   "end": 30452
+  },
+  {
+   "text": "range.",
+   "start": 30452,
+   "end": 30677
+  },
+  {
+   "text": "In",
+   "start": 31576,
+   "end": 31624
+  },
+  {
+   "text": "winter,",
+   "start": 31672,
+   "end": 32074
+  },
+  {
+   "text": "the",
+   "start": 32700,
+   "end": 32764
+  },
+  {
+   "text": "mail",
+   "start": 32764,
+   "end": 32989
+  },
+  {
+   "text": "stopped.",
+   "start": 33053,
+   "end": 33487
+  },
+  {
+   "text": "Then",
+   "start": 34322,
+   "end": 34450
+  },
+  {
+   "text": "in",
+   "start": 34466,
+   "end": 34530
+  },
+  {
+   "text": "1855,",
+   "start": 34530,
+   "end": 36457
+  },
+  {
+   "text": "a",
+   "start": 37051,
+   "end": 37068
+  },
+  {
+   "text": "notice",
+   "start": 37068,
+   "end": 37485
+  },
+  {
+   "text": "ran",
+   "start": 37613,
+   "end": 37886
+  },
+  {
+   "text": "in",
+   "start": 38095,
+   "end": 38143
+  },
+  {
+   "text": "the",
+   "start": 38175,
+   "end": 38256
+  },
+  {
+   "text": "Sacramento",
+   "start": 38256,
+   "end": 39107
+  },
+  {
+   "text": "Union.",
+   "start": 39123,
+   "end": 39492
+  },
+  {
+   "text": "The",
+   "start": 40327,
+   "end": 40407
+  },
+  {
+   "text": "headline",
+   "start": 40407,
+   "end": 40873
+  },
+  {
+   "text": "was",
+   "start": 40889,
+   "end": 41002
+  },
+  {
+   "text": "blunt:",
+   "start": 41066,
+   "end": 41387
+  },
+  {
+   "text": "\"People",
+   "start": 42270,
+   "end": 42575
+  },
+  {
+   "text": "Lost",
+   "start": 42575,
+   "end": 42896
+  },
+  {
+   "text": "to",
+   "start": 42896,
+   "end": 42961
+  },
+  {
+   "text": "the",
+   "start": 42993,
+   "end": 43137
+  },
+  {
+   "text": "World.",
+   "start": 43137,
+   "end": 43474
+  },
+  {
+   "text": "Uncle",
+   "start": 44020,
+   "end": 44197
+  },
+  {
+   "text": "Sam",
+   "start": 44197,
+   "end": 44695
+  },
+  {
+   "text": "Needs",
+   "start": 44759,
+   "end": 45032
+  },
+  {
+   "text": "a",
+   "start": 45080,
+   "end": 45096
+  },
+  {
+   "text": "Mail",
+   "start": 45096,
+   "end": 45273
+  },
+  {
+   "text": "Carrier.\"",
+   "start": 45385,
+   "end": 45787
+  },
+  {
+   "text": "That",
+   "start": 46589,
+   "end": 46702
+  },
+  {
+   "text": "is",
+   "start": 46702,
+   "end": 46814
+  },
+  {
+   "text": "an",
+   "start": 46846,
+   "end": 46991
+  },
+  {
+   "text": "unusually",
+   "start": 46991,
+   "end": 47617
+  },
+  {
+   "text": "candid",
+   "start": 47649,
+   "end": 48019
+  },
+  {
+   "text": "employment",
+   "start": 48051,
+   "end": 48693
+  },
+  {
+   "text": "advertisement.",
+   "start": 48693,
+   "end": 49351
+  },
+  {
+   "text": "The",
+   "start": 50138,
+   "end": 50218
+  },
+  {
+   "text": "employment",
+   "start": 50218,
+   "end": 50700
+  },
+  {
+   "text": "ad",
+   "start": 50700,
+   "end": 50829
+  },
+  {
+   "text": "identified",
+   "start": 50861,
+   "end": 51487
+  },
+  {
+   "text": "the",
+   "start": 51487,
+   "end": 51567
+  },
+  {
+   "text": "customer.",
+   "start": 51567,
+   "end": 52033
+  },
+  {
+   "text": "It",
+   "start": 52306,
+   "end": 52402
+  },
+  {
+   "text": "identified",
+   "start": 52402,
+   "end": 53045
+  },
+  {
+   "text": "the",
+   "start": 53045,
+   "end": 53173
+  },
+  {
+   "text": "problem.",
+   "start": 53173,
+   "end": 53639
+  },
+  {
+   "text": "It",
+   "start": 54072,
+   "end": 54169
+  },
+  {
+   "text": "did",
+   "start": 54233,
+   "end": 54393
+  },
+  {
+   "text": "not",
+   "start": 54409,
+   "end": 54859
+  },
+  {
+   "text": "identify",
+   "start": 54859,
+   "end": 55389
+  },
+  {
+   "text": "how",
+   "start": 55983,
+   "end": 56112
+  },
+  {
+   "text": "a",
+   "start": 56160,
+   "end": 56240
+  },
+  {
+   "text": "mail",
+   "start": 56240,
+   "end": 56433
+  },
+  {
+   "text": "carrier",
+   "start": 56561,
+   "end": 57059
+  },
+  {
+   "text": "would",
+   "start": 57364,
+   "end": 57605
+  },
+  {
+   "text": "get",
+   "start": 57605,
+   "end": 57765
+  },
+  {
+   "text": "the",
+   "start": 57765,
+   "end": 57862
+  },
+  {
+   "text": "job",
+   "start": 57990,
+   "end": 58328
+  },
+  {
+   "text": "done",
+   "start": 58328,
+   "end": 58617
+  },
+  {
+   "text": "in",
+   "start": 58809,
+   "end": 58841
+  },
+  {
+   "text": "the",
+   "start": 58954,
+   "end": 58986
+  },
+  {
+   "text": "snowy",
+   "start": 58986,
+   "end": 59468
+  },
+  {
+   "text": "winter",
+   "start": 59532,
+   "end": 59869
+  },
+  {
+   "text": "months",
+   "start": 59869,
+   "end": 60206
+  },
+  {
+   "text": "over",
+   "start": 60511,
+   "end": 60816
+  },
+  {
+   "text": "tall",
+   "start": 60816,
+   "end": 61089
+  },
+  {
+   "text": "mountain",
+   "start": 61218,
+   "end": 61587
+  },
+  {
+   "text": "passes.",
+   "start": 61684,
+   "end": 62149
+  },
+  {
+   "text": "Pull",
+   "start": 62968,
+   "end": 63129
+  },
+  {
+   "text": "up",
+   "start": 63129,
+   "end": 63225
+  },
+  {
+   "text": "a",
+   "start": 63225,
+   "end": 63241
+  },
+  {
+   "text": "chair.",
+   "start": 63289,
+   "end": 63627
+  },
+  {
+   "text": "This",
+   "start": 64012,
+   "end": 64189
+  },
+  {
+   "text": "is",
+   "start": 64189,
+   "end": 64333
+  },
+  {
+   "text": "Old",
+   "start": 64333,
+   "end": 64735
+  },
+  {
+   "text": "West",
+   "start": 64735,
+   "end": 64911
+  },
+  {
+   "text": "Stories,",
+   "start": 64911,
+   "end": 65361
+  },
+  {
+   "text": "and",
+   "start": 65537,
+   "end": 65682
+  },
+  {
+   "text": "this",
+   "start": 66035,
+   "end": 66164
+  },
+  {
+   "text": "one",
+   "start": 66340,
+   "end": 66469
+  },
+  {
+   "text": "is",
+   "start": 66742,
+   "end": 66806
+  },
+  {
+   "text": "gonna",
+   "start": 67079,
+   "end": 67320
+  },
+  {
+   "text": "be",
+   "start": 67320,
+   "end": 67513
+  },
+  {
+   "text": "good.",
+   "start": 67561,
+   "end": 67770
+  },
+  {
+   "text": "The",
+   "start": 68685,
+   "end": 68765
+  },
+  {
+   "text": "Placerville,",
+   "start": 68765,
+   "end": 69199
+  },
+  {
+   "text": "California",
+   "start": 69247,
+   "end": 69809
+  },
+  {
+   "text": "postmaster",
+   "start": 69809,
+   "end": 70435
+  },
+  {
+   "text": "had",
+   "start": 70451,
+   "end": 70628
+  },
+  {
+   "text": "a",
+   "start": 70628,
+   "end": 70692
+  },
+  {
+   "text": "problem.",
+   "start": 70692,
+   "end": 71029
+  },
+  {
+   "text": "Letters",
+   "start": 71880,
+   "end": 72201
+  },
+  {
+   "text": "were",
+   "start": 72201,
+   "end": 72298
+  },
+  {
+   "text": "stacking",
+   "start": 72298,
+   "end": 72828
+  },
+  {
+   "text": "up",
+   "start": 72844,
+   "end": 72892
+  },
+  {
+   "text": "in",
+   "start": 72956,
+   "end": 73020
+  },
+  {
+   "text": "his",
+   "start": 73020,
+   "end": 73149
+  },
+  {
+   "text": "office,",
+   "start": 73245,
+   "end": 73534
+  },
+  {
+   "text": "and",
+   "start": 74144,
+   "end": 74289
+  },
+  {
+   "text": "the",
+   "start": 74289,
+   "end": 74369
+  },
+  {
+   "text": "mail",
+   "start": 74369,
+   "end": 74626
+  },
+  {
+   "text": "carrier",
+   "start": 74626,
+   "end": 75076
+  },
+  {
+   "text": "who",
+   "start": 75092,
+   "end": 75140
+  },
+  {
+   "text": "had",
+   "start": 75188,
+   "end": 75349
+  },
+  {
+   "text": "been",
+   "start": 75349,
+   "end": 75558
+  },
+  {
+   "text": "hauling",
+   "start": 75574,
+   "end": 75959
+  },
+  {
+   "text": "them",
+   "start": 76071,
+   "end": 76184
+  },
+  {
+   "text": "over",
+   "start": 76232,
+   "end": 76409
+  },
+  {
+   "text": "the",
+   "start": 76409,
+   "end": 76521
+  },
+  {
+   "text": "mountains",
+   "start": 76521,
+   "end": 76922
+  },
+  {
+   "text": "had",
+   "start": 76939,
+   "end": 77051
+  },
+  {
+   "text": "vanished,",
+   "start": 77115,
+   "end": 77645
+  },
+  {
+   "text": "and",
+   "start": 77998,
+   "end": 78063
+  },
+  {
+   "text": "the",
+   "start": 78079,
+   "end": 78303
+  },
+  {
+   "text": "postmaster",
+   "start": 78303,
+   "end": 78914
+  },
+  {
+   "text": "could",
+   "start": 79042,
+   "end": 79251
+  },
+  {
+   "text": "find",
+   "start": 79267,
+   "end": 79684
+  },
+  {
+   "text": "no",
+   "start": 79684,
+   "end": 80006
+  },
+  {
+   "text": "one",
+   "start": 80070,
+   "end": 80134
+  },
+  {
+   "text": "to",
+   "start": 80407,
+   "end": 80632
+  },
+  {
+   "text": "take",
+   "start": 80632,
+   "end": 80824
+  },
+  {
+   "text": "his",
+   "start": 80824,
+   "end": 80937
+  },
+  {
+   "text": "place.",
+   "start": 81049,
+   "end": 81338
+  },
+  {
+   "text": "The",
+   "start": 82493,
+   "end": 82590
+  },
+  {
+   "text": "Sierra",
+   "start": 82590,
+   "end": 82910
+  },
+  {
+   "text": "Nevada",
+   "start": 82910,
+   "end": 83295
+  },
+  {
+   "text": "mountain",
+   "start": 83295,
+   "end": 83584
+  },
+  {
+   "text": "range",
+   "start": 83680,
+   "end": 84017
+  },
+  {
+   "text": "stood",
+   "start": 84017,
+   "end": 84418
+  },
+  {
+   "text": "between",
+   "start": 84418,
+   "end": 84819
+  },
+  {
+   "text": "the",
+   "start": 84819,
+   "end": 84979
+  },
+  {
+   "text": "two",
+   "start": 84979,
+   "end": 85139
+  },
+  {
+   "text": "communities.",
+   "start": 85139,
+   "end": 85669
+  },
+  {
+   "text": "Winter",
+   "start": 86262,
+   "end": 86583
+  },
+  {
+   "text": "snow",
+   "start": 86583,
+   "end": 87064
+  },
+  {
+   "text": "cut",
+   "start": 87144,
+   "end": 87369
+  },
+  {
+   "text": "off",
+   "start": 87369,
+   "end": 87465
+  },
+  {
+   "text": "the",
+   "start": 87465,
+   "end": 87577
+  },
+  {
+   "text": "routes",
+   "start": 87609,
+   "end": 88010
+  },
+  {
+   "text": "that",
+   "start": 88010,
+   "end": 88251
+  },
+  {
+   "text": "carried",
+   "start": 88267,
+   "end": 88635
+  },
+  {
+   "text": "supplies,",
+   "start": 88651,
+   "end": 89357
+  },
+  {
+   "text": "business,",
+   "start": 89790,
+   "end": 90143
+  },
+  {
+   "text": "and",
+   "start": 90335,
+   "end": 90576
+  },
+  {
+   "text": "news",
+   "start": 90576,
+   "end": 90800
+  },
+  {
+   "text": "from",
+   "start": 90961,
+   "end": 91041
+  },
+  {
+   "text": "home.",
+   "start": 91137,
+   "end": 91265
+  },
+  {
+   "text": "Those",
+   "start": 92115,
+   "end": 92324
+  },
+  {
+   "text": "who",
+   "start": 92340,
+   "end": 92420
+  },
+  {
+   "text": "had",
+   "start": 92420,
+   "end": 92564
+  },
+  {
+   "text": "tried",
+   "start": 92596,
+   "end": 92917
+  },
+  {
+   "text": "to",
+   "start": 92917,
+   "end": 92997
+  },
+  {
+   "text": "cross",
+   "start": 92997,
+   "end": 93190
+  },
+  {
+   "text": "the",
+   "start": 93318,
+   "end": 93398
+  },
+  {
+   "text": "Sierra",
+   "start": 93398,
+   "end": 93863
+  },
+  {
+   "text": "with",
+   "start": 93863,
+   "end": 94024
+  },
+  {
+   "text": "pack",
+   "start": 94040,
+   "end": 94280
+  },
+  {
+   "text": "mules",
+   "start": 94344,
+   "end": 94729
+  },
+  {
+   "text": "and",
+   "start": 94761,
+   "end": 94906
+  },
+  {
+   "text": "regular",
+   "start": 94906,
+   "end": 95259
+  },
+  {
+   "text": "snowshoes",
+   "start": 95259,
+   "end": 95852
+  },
+  {
+   "text": "had",
+   "start": 95868,
+   "end": 95996
+  },
+  {
+   "text": "failed.",
+   "start": 96109,
+   "end": 96461
+  },
+  {
+   "text": "For",
+   "start": 97343,
+   "end": 97520
+  },
+  {
+   "text": "a",
+   "start": 97568,
+   "end": 97648
+  },
+  {
+   "text": "person",
+   "start": 97648,
+   "end": 98017
+  },
+  {
+   "text": "waiting",
+   "start": 98033,
+   "end": 98338
+  },
+  {
+   "text": "on",
+   "start": 98354,
+   "end": 98418
+  },
+  {
+   "text": "the",
+   "start": 98450,
+   "end": 98594
+  },
+  {
+   "text": "other",
+   "start": 98674,
+   "end": 98851
+  },
+  {
+   "text": "side,",
+   "start": 98851,
+   "end": 99348
+  },
+  {
+   "text": "the",
+   "start": 99733,
+   "end": 99829
+  },
+  {
+   "text": "distance",
+   "start": 99893,
+   "end": 100246
+  },
+  {
+   "text": "was",
+   "start": 100294,
+   "end": 100406
+  },
+  {
+   "text": "not",
+   "start": 100454,
+   "end": 100615
+  },
+  {
+   "text": "simply",
+   "start": 100615,
+   "end": 101032
+  },
+  {
+   "text": "a",
+   "start": 101032,
+   "end": 101096
+  },
+  {
+   "text": "matter",
+   "start": 101096,
+   "end": 101417
+  },
+  {
+   "text": "of",
+   "start": 101417,
+   "end": 101513
+  },
+  {
+   "text": "miles.",
+   "start": 101513,
+   "end": 102026
+  },
+  {
+   "text": "It",
+   "start": 102523,
+   "end": 102603
+  },
+  {
+   "text": "was",
+   "start": 102603,
+   "end": 102668
+  },
+  {
+   "text": "a",
+   "start": 102700,
+   "end": 102764
+  },
+  {
+   "text": "matter",
+   "start": 102764,
+   "end": 103181
+  },
+  {
+   "text": "of",
+   "start": 103181,
+   "end": 103357
+  },
+  {
+   "text": "not",
+   "start": 103357,
+   "end": 103742
+  },
+  {
+   "text": "knowing",
+   "start": 103806,
+   "end": 104271
+  },
+  {
+   "text": "about",
+   "start": 104303,
+   "end": 104544
+  },
+  {
+   "text": "the",
+   "start": 104608,
+   "end": 104768
+  },
+  {
+   "text": "people",
+   "start": 104768,
+   "end": 105169
+  },
+  {
+   "text": "they",
+   "start": 105490,
+   "end": 105634
+  },
+  {
+   "text": "loved.",
+   "start": 105731,
+   "end": 106164
+  },
+  {
+   "text": "A",
+   "start": 106949,
+   "end": 106965
+  },
+  {
+   "text": "Norwegian",
+   "start": 106965,
+   "end": 107527
+  },
+  {
+   "text": "immigrant",
+   "start": 107671,
+   "end": 108200
+  },
+  {
+   "text": "named",
+   "start": 108232,
+   "end": 108553
+  },
+  {
+   "text": "John",
+   "start": 108553,
+   "end": 108842
+  },
+  {
+   "text": "Thompson",
+   "start": 109018,
+   "end": 109403
+  },
+  {
+   "text": "came",
+   "start": 109595,
+   "end": 109852
+  },
+  {
+   "text": "into",
+   "start": 109852,
+   "end": 110012
+  },
+  {
+   "text": "the",
+   "start": 110076,
+   "end": 110157
+  },
+  {
+   "text": "post",
+   "start": 110157,
+   "end": 110493
+  },
+  {
+   "text": "office",
+   "start": 110542,
+   "end": 110814
+  },
+  {
+   "text": "to",
+   "start": 110942,
+   "end": 111087
+  },
+  {
+   "text": "ask",
+   "start": 111183,
+   "end": 111375
+  },
+  {
+   "text": "about",
+   "start": 111375,
+   "end": 111600
+  },
+  {
+   "text": "the",
+   "start": 111600,
+   "end": 111712
+  },
+  {
+   "text": "job.",
+   "start": 111744,
+   "end": 112001
+  },
+  {
+   "text": "He",
+   "start": 112723,
+   "end": 112868
+  },
+  {
+   "text": "was",
+   "start": 112868,
+   "end": 112948
+  },
+  {
+   "text": "about",
+   "start": 112980,
+   "end": 113157
+  },
+  {
+   "text": "28",
+   "start": 113205,
+   "end": 113735
+  },
+  {
+   "text": "years",
+   "start": 113767,
+   "end": 113976
+  },
+  {
+   "text": "old.",
+   "start": 114024,
+   "end": 114394
+  },
+  {
+   "text": "He",
+   "start": 115117,
+   "end": 115165
+  },
+  {
+   "text": "had",
+   "start": 115181,
+   "end": 115261
+  },
+  {
+   "text": "come",
+   "start": 115293,
+   "end": 115534
+  },
+  {
+   "text": "to",
+   "start": 115534,
+   "end": 115631
+  },
+  {
+   "text": "California",
+   "start": 115679,
+   "end": 116257
+  },
+  {
+   "text": "to",
+   "start": 116257,
+   "end": 116353
+  },
+  {
+   "text": "dig",
+   "start": 116482,
+   "end": 116659
+  },
+  {
+   "text": "for",
+   "start": 116659,
+   "end": 116819
+  },
+  {
+   "text": "gold,",
+   "start": 116819,
+   "end": 117028
+  },
+  {
+   "text": "and",
+   "start": 117381,
+   "end": 117526
+  },
+  {
+   "text": "the",
+   "start": 117526,
+   "end": 117703
+  },
+  {
+   "text": "gold",
+   "start": 117703,
+   "end": 118024
+  },
+  {
+   "text": "had",
+   "start": 118024,
+   "end": 118233
+  },
+  {
+   "text": "not",
+   "start": 118409,
+   "end": 118715
+  },
+  {
+   "text": "paid",
+   "start": 118731,
+   "end": 118988
+  },
+  {
+   "text": "off.",
+   "start": 118988,
+   "end": 119213
+  },
+  {
+   "text": "He",
+   "start": 120096,
+   "end": 120208
+  },
+  {
+   "text": "wanted",
+   "start": 120273,
+   "end": 120626
+  },
+  {
+   "text": "the",
+   "start": 120674,
+   "end": 120738
+  },
+  {
+   "text": "mail",
+   "start": 120738,
+   "end": 120867
+  },
+  {
+   "text": "job.",
+   "start": 120995,
+   "end": 121317
+  },
+  {
+   "text": "The",
+   "start": 122184,
+   "end": 122280
+  },
+  {
+   "text": "postmaster",
+   "start": 122280,
+   "end": 122923
+  },
+  {
+   "text": "told",
+   "start": 122923,
+   "end": 123244
+  },
+  {
+   "text": "him",
+   "start": 123244,
+   "end": 123389
+  },
+  {
+   "text": "the",
+   "start": 123389,
+   "end": 123469
+  },
+  {
+   "text": "situation",
+   "start": 123469,
+   "end": 124096
+  },
+  {
+   "text": "plainly.",
+   "start": 124208,
+   "end": 124626
+  },
+  {
+   "text": "The",
+   "start": 125252,
+   "end": 125332
+  },
+  {
+   "text": "contract",
+   "start": 125332,
+   "end": 125879
+  },
+  {
+   "text": "was",
+   "start": 125879,
+   "end": 125943
+  },
+  {
+   "text": "not",
+   "start": 126039,
+   "end": 126168
+  },
+  {
+   "text": "his",
+   "start": 126280,
+   "end": 126344
+  },
+  {
+   "text": "to",
+   "start": 126457,
+   "end": 126585
+  },
+  {
+   "text": "give.",
+   "start": 126601,
+   "end": 126874
+  },
+  {
+   "text": "He",
+   "start": 127485,
+   "end": 127565
+  },
+  {
+   "text": "had",
+   "start": 127565,
+   "end": 127710
+  },
+  {
+   "text": "no",
+   "start": 127822,
+   "end": 128031
+  },
+  {
+   "text": "authority",
+   "start": 128047,
+   "end": 128433
+  },
+  {
+   "text": "to",
+   "start": 128465,
+   "end": 128593
+  },
+  {
+   "text": "hire",
+   "start": 128609,
+   "end": 128802
+  },
+  {
+   "text": "Thompson",
+   "start": 128866,
+   "end": 129236
+  },
+  {
+   "text": "and",
+   "start": 129332,
+   "end": 129477
+  },
+  {
+   "text": "no",
+   "start": 129589,
+   "end": 129718
+  },
+  {
+   "text": "authority",
+   "start": 129750,
+   "end": 130199
+  },
+  {
+   "text": "to",
+   "start": 130215,
+   "end": 130312
+  },
+  {
+   "text": "pay",
+   "start": 130312,
+   "end": 130553
+  },
+  {
+   "text": "him.",
+   "start": 130553,
+   "end": 130681
+  },
+  {
+   "text": "One",
+   "start": 131099,
+   "end": 131211
+  },
+  {
+   "text": "account",
+   "start": 131211,
+   "end": 131468
+  },
+  {
+   "text": "says",
+   "start": 131517,
+   "end": 131806
+  },
+  {
+   "text": "Thompson",
+   "start": 132159,
+   "end": 132528
+  },
+  {
+   "text": "came",
+   "start": 132561,
+   "end": 132705
+  },
+  {
+   "text": "back",
+   "start": 132721,
+   "end": 133026
+  },
+  {
+   "text": "every",
+   "start": 133026,
+   "end": 133251
+  },
+  {
+   "text": "morning",
+   "start": 133267,
+   "end": 133573
+  },
+  {
+   "text": "for",
+   "start": 133781,
+   "end": 133926
+  },
+  {
+   "text": "5",
+   "start": 133926,
+   "end": 134135
+  },
+  {
+   "text": "days",
+   "start": 134328,
+   "end": 134697
+  },
+  {
+   "text": "until",
+   "start": 134890,
+   "end": 135147
+  },
+  {
+   "text": "the",
+   "start": 135147,
+   "end": 135291
+  },
+  {
+   "text": "postmaster",
+   "start": 135291,
+   "end": 136014
+  },
+  {
+   "text": "finally",
+   "start": 136014,
+   "end": 136624
+  },
+  {
+   "text": "said",
+   "start": 136914,
+   "end": 137251
+  },
+  {
+   "text": "yes.",
+   "start": 137363,
+   "end": 137685
+  },
+  {
+   "text": "Over",
+   "start": 138488,
+   "end": 138664
+  },
+  {
+   "text": "time,",
+   "start": 138664,
+   "end": 139049
+  },
+  {
+   "text": "he",
+   "start": 139066,
+   "end": 139226
+  },
+  {
+   "text": "earned",
+   "start": 139226,
+   "end": 139387
+  },
+  {
+   "text": "the",
+   "start": 139387,
+   "end": 139467
+  },
+  {
+   "text": "nickname",
+   "start": 139467,
+   "end": 139981
+  },
+  {
+   "text": "\"Snowshoe",
+   "start": 140286,
+   "end": 140992
+  },
+  {
+   "text": "Thompson,\"",
+   "start": 140992,
+   "end": 141361
+  },
+  {
+   "text": "but",
+   "start": 142036,
+   "end": 142116
+  },
+  {
+   "text": "his",
+   "start": 142116,
+   "end": 142245
+  },
+  {
+   "text": "actual",
+   "start": 142357,
+   "end": 142614
+  },
+  {
+   "text": "equipment",
+   "start": 142614,
+   "end": 143272
+  },
+  {
+   "text": "is",
+   "start": 143320,
+   "end": 143417
+  },
+  {
+   "text": "where",
+   "start": 143465,
+   "end": 143577
+  },
+  {
+   "text": "the",
+   "start": 143577,
+   "end": 143657
+  },
+  {
+   "text": "nickname",
+   "start": 143657,
+   "end": 144107
+  },
+  {
+   "text": "goes",
+   "start": 144348,
+   "end": 144573
+  },
+  {
+   "text": "wrong.",
+   "start": 144605,
+   "end": 144797
+  },
+  {
+   "text": "People",
+   "start": 145729,
+   "end": 145969
+  },
+  {
+   "text": "called",
+   "start": 145969,
+   "end": 146194
+  },
+  {
+   "text": "him",
+   "start": 146194,
+   "end": 146291
+  },
+  {
+   "text": "\"Snowshoe,\"",
+   "start": 146307,
+   "end": 146933
+  },
+  {
+   "text": "but",
+   "start": 147077,
+   "end": 147174
+  },
+  {
+   "text": "he",
+   "start": 147174,
+   "end": 147398
+  },
+  {
+   "text": "did",
+   "start": 147398,
+   "end": 147495
+  },
+  {
+   "text": "not",
+   "start": 147495,
+   "end": 147687
+  },
+  {
+   "text": "carry",
+   "start": 147736,
+   "end": 147992
+  },
+  {
+   "text": "snowshoes,",
+   "start": 147992,
+   "end": 148586
+  },
+  {
+   "text": "the",
+   "start": 149181,
+   "end": 149261
+  },
+  {
+   "text": "woven",
+   "start": 149325,
+   "end": 149630
+  },
+  {
+   "text": "kind",
+   "start": 149662,
+   "end": 149983
+  },
+  {
+   "text": "most",
+   "start": 149983,
+   "end": 150224
+  },
+  {
+   "text": "people",
+   "start": 150224,
+   "end": 150449
+  },
+  {
+   "text": "picture.",
+   "start": 150529,
+   "end": 150802
+  },
+  {
+   "text": "He",
+   "start": 151573,
+   "end": 151733
+  },
+  {
+   "text": "used",
+   "start": 151733,
+   "end": 151958
+  },
+  {
+   "text": "long",
+   "start": 151974,
+   "end": 152360
+  },
+  {
+   "text": "wooden",
+   "start": 152456,
+   "end": 152761
+  },
+  {
+   "text": "boards",
+   "start": 152793,
+   "end": 153243
+  },
+  {
+   "text": "about",
+   "start": 153275,
+   "end": 153467
+  },
+  {
+   "text": "10",
+   "start": 153612,
+   "end": 153805
+  },
+  {
+   "text": "feet",
+   "start": 153837,
+   "end": 154142
+  },
+  {
+   "text": "long,",
+   "start": 154142,
+   "end": 154447
+  },
+  {
+   "text": "weighing",
+   "start": 155025,
+   "end": 155250
+  },
+  {
+   "text": "roughly",
+   "start": 155346,
+   "end": 155651
+  },
+  {
+   "text": "25",
+   "start": 155763,
+   "end": 156711
+  },
+  {
+   "text": "pounds",
+   "start": 156727,
+   "end": 157208
+  },
+  {
+   "text": "each.",
+   "start": 157208,
+   "end": 157465
+  },
+  {
+   "text": "The",
+   "start": 158412,
+   "end": 158493
+  },
+  {
+   "text": "Sacramento",
+   "start": 158493,
+   "end": 158974
+  },
+  {
+   "text": "paper",
+   "start": 159055,
+   "end": 159376
+  },
+  {
+   "text": "called",
+   "start": 159440,
+   "end": 159697
+  },
+  {
+   "text": "them",
+   "start": 159697,
+   "end": 159825
+  },
+  {
+   "text": "\"Norwegian",
+   "start": 159922,
+   "end": 160532
+  },
+  {
+   "text": "skates.\"",
+   "start": 160596,
+   "end": 161222
+  },
+  {
+   "text": "Today,",
+   "start": 161768,
+   "end": 161977
+  },
+  {
+   "text": "we",
+   "start": 162731,
+   "end": 162828
+  },
+  {
+   "text": "call",
+   "start": 162892,
+   "end": 163069
+  },
+  {
+   "text": "them",
+   "start": 163069,
+   "end": 163165
+  },
+  {
+   "text": "skis.",
+   "start": 163213,
+   "end": 163598
+  },
+  {
+   "text": "He",
+   "start": 164417,
+   "end": 164498
+  },
+  {
+   "text": "also",
+   "start": 164514,
+   "end": 164755
+  },
+  {
+   "text": "carried",
+   "start": 164755,
+   "end": 165140
+  },
+  {
+   "text": "a",
+   "start": 165140,
+   "end": 165156
+  },
+  {
+   "text": "single",
+   "start": 165156,
+   "end": 165670
+  },
+  {
+   "text": "long",
+   "start": 165783,
+   "end": 166007
+  },
+  {
+   "text": "pole.",
+   "start": 166184,
+   "end": 166313
+  },
+  {
+   "text": "It",
+   "start": 167148,
+   "end": 167212
+  },
+  {
+   "text": "helped",
+   "start": 167228,
+   "end": 167405
+  },
+  {
+   "text": "him",
+   "start": 167405,
+   "end": 167581
+  },
+  {
+   "text": "push,",
+   "start": 167581,
+   "end": 167822
+  },
+  {
+   "text": "balance,",
+   "start": 168368,
+   "end": 168786
+  },
+  {
+   "text": "and",
+   "start": 169155,
+   "end": 169268
+  },
+  {
+   "text": "slow",
+   "start": 169332,
+   "end": 169637
+  },
+  {
+   "text": "himself",
+   "start": 169653,
+   "end": 170199
+  },
+  {
+   "text": "when",
+   "start": 170199,
+   "end": 170264
+  },
+  {
+   "text": "going",
+   "start": 170376,
+   "end": 170665
+  },
+  {
+   "text": "downhill.",
+   "start": 170697,
+   "end": 171131
+  },
+  {
+   "text": "The",
+   "start": 172063,
+   "end": 172143
+  },
+  {
+   "text": "method",
+   "start": 172143,
+   "end": 172464
+  },
+  {
+   "text": "was",
+   "start": 172464,
+   "end": 172577
+  },
+  {
+   "text": "different",
+   "start": 172705,
+   "end": 173026
+  },
+  {
+   "text": "from",
+   "start": 173026,
+   "end": 173171
+  },
+  {
+   "text": "walking",
+   "start": 173267,
+   "end": 173588
+  },
+  {
+   "text": "across",
+   "start": 173588,
+   "end": 174054
+  },
+  {
+   "text": "the",
+   "start": 174054,
+   "end": 174134
+  },
+  {
+   "text": "snow.",
+   "start": 174134,
+   "end": 174456
+  },
+  {
+   "text": "It",
+   "start": 175034,
+   "end": 175114
+  },
+  {
+   "text": "allowed",
+   "start": 175114,
+   "end": 175451
+  },
+  {
+   "text": "him",
+   "start": 175451,
+   "end": 175596
+  },
+  {
+   "text": "to",
+   "start": 175596,
+   "end": 175692
+  },
+  {
+   "text": "slide",
+   "start": 175692,
+   "end": 176383
+  },
+  {
+   "text": "over.",
+   "start": 176383,
+   "end": 176576
+  },
+  {
+   "text": "But",
+   "start": 177427,
+   "end": 177523
+  },
+  {
+   "text": "that",
+   "start": 177523,
+   "end": 177700
+  },
+  {
+   "text": "did",
+   "start": 177700,
+   "end": 177829
+  },
+  {
+   "text": "not",
+   "start": 177829,
+   "end": 177957
+  },
+  {
+   "text": "remove",
+   "start": 178021,
+   "end": 178487
+  },
+  {
+   "text": "the",
+   "start": 178487,
+   "end": 178648
+  },
+  {
+   "text": "climb",
+   "start": 178648,
+   "end": 179001
+  },
+  {
+   "text": "over",
+   "start": 179049,
+   "end": 179226
+  },
+  {
+   "text": "the",
+   "start": 179226,
+   "end": 179290
+  },
+  {
+   "text": "mountains.",
+   "start": 179290,
+   "end": 179788
+  },
+  {
+   "text": "It",
+   "start": 180350,
+   "end": 180414
+  },
+  {
+   "text": "did",
+   "start": 180414,
+   "end": 180559
+  },
+  {
+   "text": "not",
+   "start": 180559,
+   "end": 180736
+  },
+  {
+   "text": "shorten",
+   "start": 180736,
+   "end": 181250
+  },
+  {
+   "text": "the",
+   "start": 181250,
+   "end": 181314
+  },
+  {
+   "text": "distance.",
+   "start": 181378,
+   "end": 181844
+  },
+  {
+   "text": "And",
+   "start": 182486,
+   "end": 182567
+  },
+  {
+   "text": "it",
+   "start": 182583,
+   "end": 182679
+  },
+  {
+   "text": "did",
+   "start": 182727,
+   "end": 182888
+  },
+  {
+   "text": "not",
+   "start": 182888,
+   "end": 183225
+  },
+  {
+   "text": "make",
+   "start": 183225,
+   "end": 183402
+  },
+  {
+   "text": "the",
+   "start": 183450,
+   "end": 183514
+  },
+  {
+   "text": "mail",
+   "start": 183514,
+   "end": 183739
+  },
+  {
+   "text": "carry",
+   "start": 183868,
+   "end": 184157
+  },
+  {
+   "text": "itself.",
+   "start": 184189,
+   "end": 184542
+  },
+  {
+   "text": "But",
+   "start": 185297,
+   "end": 185538
+  },
+  {
+   "text": "it",
+   "start": 186180,
+   "end": 186325
+  },
+  {
+   "text": "gave",
+   "start": 186341,
+   "end": 186518
+  },
+  {
+   "text": "him",
+   "start": 186518,
+   "end": 186630
+  },
+  {
+   "text": "a",
+   "start": 186678,
+   "end": 186839
+  },
+  {
+   "text": "workable",
+   "start": 186903,
+   "end": 187305
+  },
+  {
+   "text": "way",
+   "start": 187305,
+   "end": 187497
+  },
+  {
+   "text": "to",
+   "start": 187803,
+   "end": 188011
+  },
+  {
+   "text": "cover",
+   "start": 188027,
+   "end": 188333
+  },
+  {
+   "text": "the",
+   "start": 188349,
+   "end": 188445
+  },
+  {
+   "text": "nearly",
+   "start": 188445,
+   "end": 188895
+  },
+  {
+   "text": "90",
+   "start": 188927,
+   "end": 189505
+  },
+  {
+   "text": "miles",
+   "start": 189505,
+   "end": 190099
+  },
+  {
+   "text": "between",
+   "start": 190212,
+   "end": 190742
+  },
+  {
+   "text": "Placerville",
+   "start": 190935,
+   "end": 191529
+  },
+  {
+   "text": "and",
+   "start": 191641,
+   "end": 191802
+  },
+  {
+   "text": "Carson",
+   "start": 191818,
+   "end": 192107
+  },
+  {
+   "text": "Valley.",
+   "start": 192219,
+   "end": 192509
+  },
+  {
+   "text": "In",
+   "start": 192942,
+   "end": 192990
+  },
+  {
+   "text": "what",
+   "start": 193086,
+   "end": 193230
+  },
+  {
+   "text": "was",
+   "start": 193246,
+   "end": 193310
+  },
+  {
+   "text": "then",
+   "start": 193487,
+   "end": 193727
+  },
+  {
+   "text": "Utah",
+   "start": 193727,
+   "end": 194144
+  },
+  {
+   "text": "Territory",
+   "start": 194224,
+   "end": 194833
+  },
+  {
+   "text": "and",
+   "start": 195410,
+   "end": 195506
+  },
+  {
+   "text": "is",
+   "start": 195506,
+   "end": 195650
+  },
+  {
+   "text": "now",
+   "start": 195650,
+   "end": 195778
+  },
+  {
+   "text": "Nevada.",
+   "start": 195922,
+   "end": 196403
+  },
+  {
+   "text": "So",
+   "start": 197348,
+   "end": 197493
+  },
+  {
+   "text": "the",
+   "start": 197493,
+   "end": 197589
+  },
+  {
+   "text": "nickname",
+   "start": 197589,
+   "end": 197973
+  },
+  {
+   "text": "was",
+   "start": 197973,
+   "end": 198037
+  },
+  {
+   "text": "a",
+   "start": 198070,
+   "end": 198086
+  },
+  {
+   "text": "misnomer.",
+   "start": 198086,
+   "end": 198710
+  },
+  {
+   "text": "Snowshoes",
+   "start": 199255,
+   "end": 199736
+  },
+  {
+   "text": "are",
+   "start": 199736,
+   "end": 199832
+  },
+  {
+   "text": "built",
+   "start": 199832,
+   "end": 199976
+  },
+  {
+   "text": "to",
+   "start": 199976,
+   "end": 200073
+  },
+  {
+   "text": "stay",
+   "start": 200073,
+   "end": 200313
+  },
+  {
+   "text": "on",
+   "start": 200313,
+   "end": 200409
+  },
+  {
+   "text": "top",
+   "start": 200473,
+   "end": 200714
+  },
+  {
+   "text": "of",
+   "start": 200714,
+   "end": 200778
+  },
+  {
+   "text": "the",
+   "start": 200778,
+   "end": 200810
+  },
+  {
+   "text": "snow.",
+   "start": 200810,
+   "end": 201178
+  },
+  {
+   "text": "Thompson's",
+   "start": 201755,
+   "end": 202172
+  },
+  {
+   "text": "boards",
+   "start": 202236,
+   "end": 202684
+  },
+  {
+   "text": "were",
+   "start": 202781,
+   "end": 202957
+  },
+  {
+   "text": "built",
+   "start": 202957,
+   "end": 203133
+  },
+  {
+   "text": "to",
+   "start": 203197,
+   "end": 203309
+  },
+  {
+   "text": "slide",
+   "start": 203341,
+   "end": 203806
+  },
+  {
+   "text": "across",
+   "start": 203998,
+   "end": 204431
+  },
+  {
+   "text": "it.",
+   "start": 204479,
+   "end": 204559
+  },
+  {
+   "text": "Then",
+   "start": 205441,
+   "end": 205553
+  },
+  {
+   "text": "there",
+   "start": 205601,
+   "end": 205697
+  },
+  {
+   "text": "was",
+   "start": 205745,
+   "end": 205809
+  },
+  {
+   "text": "the",
+   "start": 205905,
+   "end": 205985
+  },
+  {
+   "text": "load.",
+   "start": 206066,
+   "end": 206338
+  },
+  {
+   "text": "He",
+   "start": 207187,
+   "end": 207348
+  },
+  {
+   "text": "carried",
+   "start": 207348,
+   "end": 207620
+  },
+  {
+   "text": "60",
+   "start": 207668,
+   "end": 208133
+  },
+  {
+   "text": "to",
+   "start": 208181,
+   "end": 208245
+  },
+  {
+   "text": "80",
+   "start": 208309,
+   "end": 208613
+  },
+  {
+   "text": "pounds",
+   "start": 208645,
+   "end": 208982
+  },
+  {
+   "text": "of",
+   "start": 208982,
+   "end": 209062
+  },
+  {
+   "text": "letters",
+   "start": 209110,
+   "end": 209415
+  },
+  {
+   "text": "and",
+   "start": 209447,
+   "end": 209591
+  },
+  {
+   "text": "packages,",
+   "start": 209591,
+   "end": 210056
+  },
+  {
+   "text": "sometimes",
+   "start": 210168,
+   "end": 210616
+  },
+  {
+   "text": "more.",
+   "start": 210713,
+   "end": 210841
+  },
+  {
+   "text": "He",
+   "start": 211610,
+   "end": 211754
+  },
+  {
+   "text": "carried",
+   "start": 211754,
+   "end": 212075
+  },
+  {
+   "text": "little",
+   "start": 212091,
+   "end": 212331
+  },
+  {
+   "text": "food.",
+   "start": 212331,
+   "end": 212748
+  },
+  {
+   "text": "He",
+   "start": 212956,
+   "end": 213116
+  },
+  {
+   "text": "melted",
+   "start": 213116,
+   "end": 213421
+  },
+  {
+   "text": "snow",
+   "start": 213437,
+   "end": 213773
+  },
+  {
+   "text": "for",
+   "start": 213773,
+   "end": 213917
+  },
+  {
+   "text": "water.",
+   "start": 213998,
+   "end": 214254
+  },
+  {
+   "text": "He",
+   "start": 214879,
+   "end": 214927
+  },
+  {
+   "text": "went",
+   "start": 215119,
+   "end": 215247
+  },
+  {
+   "text": "without",
+   "start": 215296,
+   "end": 215600
+  },
+  {
+   "text": "a",
+   "start": 215600,
+   "end": 215680
+  },
+  {
+   "text": "blanket",
+   "start": 215680,
+   "end": 216097
+  },
+  {
+   "text": "because",
+   "start": 216161,
+   "end": 216545
+  },
+  {
+   "text": "a",
+   "start": 216658,
+   "end": 216674
+  },
+  {
+   "text": "blanket",
+   "start": 216738,
+   "end": 217202
+  },
+  {
+   "text": "would",
+   "start": 217202,
+   "end": 217299
+  },
+  {
+   "text": "have",
+   "start": 217299,
+   "end": 217427
+  },
+  {
+   "text": "taken",
+   "start": 217459,
+   "end": 217827
+  },
+  {
+   "text": "room",
+   "start": 217859,
+   "end": 218164
+  },
+  {
+   "text": "the",
+   "start": 218340,
+   "end": 218468
+  },
+  {
+   "text": "mail",
+   "start": 218468,
+   "end": 218693
+  },
+  {
+   "text": "needed.",
+   "start": 218741,
+   "end": 219077
+  },
+  {
+   "text": "The",
+   "start": 219944,
+   "end": 220024
+  },
+  {
+   "text": "crossing",
+   "start": 220024,
+   "end": 220393
+  },
+  {
+   "text": "took",
+   "start": 220409,
+   "end": 220569
+  },
+  {
+   "text": "about",
+   "start": 220569,
+   "end": 220746
+  },
+  {
+   "text": "3",
+   "start": 220746,
+   "end": 221067
+  },
+  {
+   "text": "days",
+   "start": 221067,
+   "end": 221356
+  },
+  {
+   "text": "going",
+   "start": 221388,
+   "end": 221597
+  },
+  {
+   "text": "east",
+   "start": 221693,
+   "end": 222094
+  },
+  {
+   "text": "and",
+   "start": 222094,
+   "end": 222206
+  },
+  {
+   "text": "about",
+   "start": 222206,
+   "end": 222399
+  },
+  {
+   "text": "2",
+   "start": 222495,
+   "end": 222688
+  },
+  {
+   "text": "days",
+   "start": 222688,
+   "end": 222881
+  },
+  {
+   "text": "coming",
+   "start": 222993,
+   "end": 223202
+  },
+  {
+   "text": "back.",
+   "start": 223314,
+   "end": 223571
+  },
+  {
+   "text": "On",
+   "start": 224357,
+   "end": 224501
+  },
+  {
+   "text": "some",
+   "start": 224501,
+   "end": 224662
+  },
+  {
+   "text": "days,",
+   "start": 224758,
+   "end": 225047
+  },
+  {
+   "text": "he",
+   "start": 225641,
+   "end": 225769
+  },
+  {
+   "text": "covered",
+   "start": 225801,
+   "end": 226171
+  },
+  {
+   "text": "close",
+   "start": 226203,
+   "end": 226476
+  },
+  {
+   "text": "to",
+   "start": 226524,
+   "end": 226620
+  },
+  {
+   "text": "45",
+   "start": 226668,
+   "end": 227455
+  },
+  {
+   "text": "miles.",
+   "start": 227487,
+   "end": 227936
+  },
+  {
+   "text": "In",
+   "start": 228755,
+   "end": 228803
+  },
+  {
+   "text": "the",
+   "start": 228835,
+   "end": 228899
+  },
+  {
+   "text": "winter",
+   "start": 228915,
+   "end": 229108
+  },
+  {
+   "text": "of",
+   "start": 229108,
+   "end": 229220
+  },
+  {
+   "text": "1856,",
+   "start": 229220,
+   "end": 230536
+  },
+  {
+   "text": "on",
+   "start": 230680,
+   "end": 230745
+  },
+  {
+   "text": "one",
+   "start": 230921,
+   "end": 231050
+  },
+  {
+   "text": "of",
+   "start": 231082,
+   "end": 231130
+  },
+  {
+   "text": "those",
+   "start": 231178,
+   "end": 231387
+  },
+  {
+   "text": "crossings,",
+   "start": 231419,
+   "end": 232029
+  },
+  {
+   "text": "Thompson",
+   "start": 232606,
+   "end": 232911
+  },
+  {
+   "text": "came",
+   "start": 232943,
+   "end": 233136
+  },
+  {
+   "text": "upon",
+   "start": 233184,
+   "end": 233505
+  },
+  {
+   "text": "a",
+   "start": 233505,
+   "end": 233569
+  },
+  {
+   "text": "prospector",
+   "start": 233569,
+   "end": 234307
+  },
+  {
+   "text": "named",
+   "start": 234307,
+   "end": 234661
+  },
+  {
+   "text": "James",
+   "start": 234773,
+   "end": 235190
+  },
+  {
+   "text": "Sisson.",
+   "start": 235367,
+   "end": 235800
+  },
+  {
+   "text": "Sisson",
+   "start": 236651,
+   "end": 236988
+  },
+  {
+   "text": "was",
+   "start": 237036,
+   "end": 237148
+  },
+  {
+   "text": "alone",
+   "start": 237196,
+   "end": 237565
+  },
+  {
+   "text": "in",
+   "start": 237662,
+   "end": 237726
+  },
+  {
+   "text": "a",
+   "start": 237758,
+   "end": 237774
+  },
+  {
+   "text": "cabin",
+   "start": 237838,
+   "end": 238143
+  },
+  {
+   "text": "south",
+   "start": 238256,
+   "end": 238625
+  },
+  {
+   "text": "of",
+   "start": 238641,
+   "end": 238721
+  },
+  {
+   "text": "Lake",
+   "start": 238721,
+   "end": 238962
+  },
+  {
+   "text": "Tahoe.",
+   "start": 238962,
+   "end": 239347
+  },
+  {
+   "text": "He",
+   "start": 240165,
+   "end": 240310
+  },
+  {
+   "text": "had",
+   "start": 240310,
+   "end": 240374
+  },
+  {
+   "text": "been",
+   "start": 240486,
+   "end": 240599
+  },
+  {
+   "text": "there",
+   "start": 240727,
+   "end": 240839
+  },
+  {
+   "text": "for",
+   "start": 241032,
+   "end": 241112
+  },
+  {
+   "text": "12",
+   "start": 241385,
+   "end": 241738
+  },
+  {
+   "text": "days,",
+   "start": 241770,
+   "end": 242059
+  },
+  {
+   "text": "living",
+   "start": 242717,
+   "end": 242926
+  },
+  {
+   "text": "on",
+   "start": 242974,
+   "end": 243118
+  },
+  {
+   "text": "raw",
+   "start": 243134,
+   "end": 243311
+  },
+  {
+   "text": "flour",
+   "start": 243311,
+   "end": 243889
+  },
+  {
+   "text": "with",
+   "start": 244178,
+   "end": 244386
+  },
+  {
+   "text": "no",
+   "start": 244563,
+   "end": 244739
+  },
+  {
+   "text": "fire.",
+   "start": 244739,
+   "end": 245012
+  },
+  {
+   "text": "And",
+   "start": 245462,
+   "end": 245526
+  },
+  {
+   "text": "his",
+   "start": 245558,
+   "end": 245670
+  },
+  {
+   "text": "boots",
+   "start": 245926,
+   "end": 246279
+  },
+  {
+   "text": "frozen",
+   "start": 246760,
+   "end": 247353
+  },
+  {
+   "text": "to",
+   "start": 247626,
+   "end": 247834
+  },
+  {
+   "text": "his",
+   "start": 247850,
+   "end": 247994
+  },
+  {
+   "text": "feet.",
+   "start": 248171,
+   "end": 248363
+  },
+  {
+   "text": "Thompson",
+   "start": 249213,
+   "end": 249581
+  },
+  {
+   "text": "couldn't",
+   "start": 249710,
+   "end": 249950
+  },
+  {
+   "text": "move",
+   "start": 249950,
+   "end": 250158
+  },
+  {
+   "text": "the",
+   "start": 250174,
+   "end": 250207
+  },
+  {
+   "text": "man",
+   "start": 250207,
+   "end": 250383
+  },
+  {
+   "text": "himself,",
+   "start": 250399,
+   "end": 250928
+  },
+  {
+   "text": "so",
+   "start": 250976,
+   "end": 251297
+  },
+  {
+   "text": "he",
+   "start": 251473,
+   "end": 251681
+  },
+  {
+   "text": "went",
+   "start": 251713,
+   "end": 251890
+  },
+  {
+   "text": "to",
+   "start": 251938,
+   "end": 252002
+  },
+  {
+   "text": "the",
+   "start": 252034,
+   "end": 252178
+  },
+  {
+   "text": "town",
+   "start": 252178,
+   "end": 252403
+  },
+  {
+   "text": "of",
+   "start": 252451,
+   "end": 252563
+  },
+  {
+   "text": "Genoa",
+   "start": 252659,
+   "end": 253156
+  },
+  {
+   "text": "and",
+   "start": 253717,
+   "end": 253781
+  },
+  {
+   "text": "came",
+   "start": 253861,
+   "end": 253990
+  },
+  {
+   "text": "back",
+   "start": 254038,
+   "end": 254278
+  },
+  {
+   "text": "with",
+   "start": 254278,
+   "end": 254374
+  },
+  {
+   "text": "a",
+   "start": 254374,
+   "end": 254519
+  },
+  {
+   "text": "team",
+   "start": 254519,
+   "end": 254743
+  },
+  {
+   "text": "of",
+   "start": 254759,
+   "end": 254887
+  },
+  {
+   "text": "men",
+   "start": 254919,
+   "end": 255208
+  },
+  {
+   "text": "and",
+   "start": 255240,
+   "end": 255320
+  },
+  {
+   "text": "a",
+   "start": 255320,
+   "end": 255336
+  },
+  {
+   "text": "sled.",
+   "start": 255400,
+   "end": 255849
+  },
+  {
+   "text": "Together,",
+   "start": 256442,
+   "end": 256843
+  },
+  {
+   "text": "they",
+   "start": 256939,
+   "end": 257148
+  },
+  {
+   "text": "hauled",
+   "start": 257148,
+   "end": 257468
+  },
+  {
+   "text": "Sisson",
+   "start": 257468,
+   "end": 258029
+  },
+  {
+   "text": "out",
+   "start": 258029,
+   "end": 258270
+  },
+  {
+   "text": "through",
+   "start": 258270,
+   "end": 258671
+  },
+  {
+   "text": "the",
+   "start": 258751,
+   "end": 258847
+  },
+  {
+   "text": "snowdrifts.",
+   "start": 258847,
+   "end": 259568
+  },
+  {
+   "text": "The",
+   "start": 260354,
+   "end": 260386
+  },
+  {
+   "text": "doctor",
+   "start": 260450,
+   "end": 260771
+  },
+  {
+   "text": "in",
+   "start": 260771,
+   "end": 260883
+  },
+  {
+   "text": "Genoa",
+   "start": 260995,
+   "end": 261428
+  },
+  {
+   "text": "said",
+   "start": 261428,
+   "end": 261781
+  },
+  {
+   "text": "Sisson's",
+   "start": 261829,
+   "end": 262374
+  },
+  {
+   "text": "feet",
+   "start": 262374,
+   "end": 262614
+  },
+  {
+   "text": "would",
+   "start": 262614,
+   "end": 262839
+  },
+  {
+   "text": "need",
+   "start": 262839,
+   "end": 263015
+  },
+  {
+   "text": "to",
+   "start": 263015,
+   "end": 263079
+  },
+  {
+   "text": "be",
+   "start": 263079,
+   "end": 263255
+  },
+  {
+   "text": "amputated,",
+   "start": 263255,
+   "end": 263864
+  },
+  {
+   "text": "and",
+   "start": 264137,
+   "end": 264201
+  },
+  {
+   "text": "there",
+   "start": 264217,
+   "end": 264297
+  },
+  {
+   "text": "was",
+   "start": 264297,
+   "end": 264426
+  },
+  {
+   "text": "no",
+   "start": 264474,
+   "end": 264746
+  },
+  {
+   "text": "chloroform",
+   "start": 264858,
+   "end": 265692
+  },
+  {
+   "text": "or",
+   "start": 265740,
+   "end": 265836
+  },
+  {
+   "text": "anesthesia",
+   "start": 266125,
+   "end": 266878
+  },
+  {
+   "text": "in",
+   "start": 266926,
+   "end": 266974
+  },
+  {
+   "text": "town.",
+   "start": 267022,
+   "end": 267391
+  },
+  {
+   "text": "Thompson",
+   "start": 268129,
+   "end": 268449
+  },
+  {
+   "text": "couldn't",
+   "start": 268449,
+   "end": 268674
+  },
+  {
+   "text": "let",
+   "start": 268706,
+   "end": 268882
+  },
+  {
+   "text": "that",
+   "start": 268930,
+   "end": 269106
+  },
+  {
+   "text": "happen",
+   "start": 269106,
+   "end": 269363
+  },
+  {
+   "text": "to",
+   "start": 269379,
+   "end": 269427
+  },
+  {
+   "text": "the",
+   "start": 269427,
+   "end": 269523
+  },
+  {
+   "text": "man,",
+   "start": 269523,
+   "end": 269780
+  },
+  {
+   "text": "so",
+   "start": 269924,
+   "end": 270132
+  },
+  {
+   "text": "he",
+   "start": 270148,
+   "end": 270325
+  },
+  {
+   "text": "set",
+   "start": 270325,
+   "end": 270709
+  },
+  {
+   "text": "out",
+   "start": 270774,
+   "end": 270870
+  },
+  {
+   "text": "to",
+   "start": 270870,
+   "end": 270966
+  },
+  {
+   "text": "search",
+   "start": 271014,
+   "end": 271238
+  },
+  {
+   "text": "for",
+   "start": 271270,
+   "end": 271463
+  },
+  {
+   "text": "it.",
+   "start": 271511,
+   "end": 271591
+  },
+  {
+   "text": "He",
+   "start": 272378,
+   "end": 272458
+  },
+  {
+   "text": "went",
+   "start": 272474,
+   "end": 272635
+  },
+  {
+   "text": "to",
+   "start": 272635,
+   "end": 272715
+  },
+  {
+   "text": "Placerville,",
+   "start": 272715,
+   "end": 273229
+  },
+  {
+   "text": "found",
+   "start": 273984,
+   "end": 274321
+  },
+  {
+   "text": "none",
+   "start": 274321,
+   "end": 274530
+  },
+  {
+   "text": "there,",
+   "start": 274642,
+   "end": 274755
+  },
+  {
+   "text": "and",
+   "start": 275445,
+   "end": 275558
+  },
+  {
+   "text": "kept",
+   "start": 275606,
+   "end": 275847
+  },
+  {
+   "text": "going",
+   "start": 275847,
+   "end": 276136
+  },
+  {
+   "text": "another",
+   "start": 276232,
+   "end": 276682
+  },
+  {
+   "text": "45",
+   "start": 277051,
+   "end": 277742
+  },
+  {
+   "text": "miles",
+   "start": 277758,
+   "end": 278063
+  },
+  {
+   "text": "to",
+   "start": 278160,
+   "end": 278272
+  },
+  {
+   "text": "Sacramento",
+   "start": 278272,
+   "end": 279123
+  },
+  {
+   "text": "and",
+   "start": 279685,
+   "end": 279766
+  },
+  {
+   "text": "brought",
+   "start": 279862,
+   "end": 280071
+  },
+  {
+   "text": "back",
+   "start": 280183,
+   "end": 280488
+  },
+  {
+   "text": "anesthesia",
+   "start": 280488,
+   "end": 281227
+  },
+  {
+   "text": "so",
+   "start": 281404,
+   "end": 281565
+  },
+  {
+   "text": "the",
+   "start": 281629,
+   "end": 281789
+  },
+  {
+   "text": "operation",
+   "start": 281854,
+   "end": 282400
+  },
+  {
+   "text": "could",
+   "start": 282673,
+   "end": 282898
+  },
+  {
+   "text": "proceed.",
+   "start": 282898,
+   "end": 283476
+  },
+  {
+   "text": "A",
+   "start": 284279,
+   "end": 284295
+  },
+  {
+   "text": "2005",
+   "start": 284423,
+   "end": 285194
+  },
+  {
+   "text": "public",
+   "start": 285387,
+   "end": 285805
+  },
+  {
+   "text": "television",
+   "start": 285805,
+   "end": 286367
+  },
+  {
+   "text": "investigation",
+   "start": 286367,
+   "end": 287057
+  },
+  {
+   "text": "says",
+   "start": 287170,
+   "end": 287459
+  },
+  {
+   "text": "he",
+   "start": 287636,
+   "end": 287893
+  },
+  {
+   "text": "arrived",
+   "start": 287893,
+   "end": 288423
+  },
+  {
+   "text": "just",
+   "start": 288680,
+   "end": 289194
+  },
+  {
+   "text": "in",
+   "start": 289483,
+   "end": 289531
+  },
+  {
+   "text": "time.",
+   "start": 289820,
+   "end": 290013
+  },
+  {
+   "text": "For",
+   "start": 290928,
+   "end": 291024
+  },
+  {
+   "text": "20",
+   "start": 291024,
+   "end": 291281
+  },
+  {
+   "text": "winters",
+   "start": 291346,
+   "end": 291715
+  },
+  {
+   "text": "from",
+   "start": 291892,
+   "end": 292036
+  },
+  {
+   "text": "1856",
+   "start": 292036,
+   "end": 293434
+  },
+  {
+   "text": "to",
+   "start": 293434,
+   "end": 293482
+  },
+  {
+   "text": "1876,",
+   "start": 293482,
+   "end": 294959
+  },
+  {
+   "text": "he",
+   "start": 295522,
+   "end": 295682
+  },
+  {
+   "text": "carried",
+   "start": 295682,
+   "end": 296003
+  },
+  {
+   "text": "that",
+   "start": 296003,
+   "end": 296228
+  },
+  {
+   "text": "mail",
+   "start": 296228,
+   "end": 296357
+  },
+  {
+   "text": "over",
+   "start": 296485,
+   "end": 296710
+  },
+  {
+   "text": "the",
+   "start": 296710,
+   "end": 296774
+  },
+  {
+   "text": "Sierra",
+   "start": 296790,
+   "end": 297144
+  },
+  {
+   "text": "Nevada",
+   "start": 297144,
+   "end": 297465
+  },
+  {
+   "text": "Mountains.",
+   "start": 297465,
+   "end": 297931
+  },
+  {
+   "text": "The",
+   "start": 298412,
+   "end": 298637
+  },
+  {
+   "text": "letters",
+   "start": 298653,
+   "end": 298926
+  },
+  {
+   "text": "arrived.",
+   "start": 298974,
+   "end": 299584
+  },
+  {
+   "text": "The",
+   "start": 299937,
+   "end": 300017
+  },
+  {
+   "text": "people",
+   "start": 300081,
+   "end": 300322
+  },
+  {
+   "text": "in",
+   "start": 300322,
+   "end": 300419
+  },
+  {
+   "text": "Carson",
+   "start": 300419,
+   "end": 300756
+  },
+  {
+   "text": "Valley",
+   "start": 300804,
+   "end": 301028
+  },
+  {
+   "text": "got",
+   "start": 301061,
+   "end": 301301
+  },
+  {
+   "text": "their",
+   "start": 301301,
+   "end": 301398
+  },
+  {
+   "text": "news.",
+   "start": 301462,
+   "end": 301991
+  },
+  {
+   "text": "The",
+   "start": 302569,
+   "end": 302730
+  },
+  {
+   "text": "road",
+   "start": 302730,
+   "end": 302986
+  },
+  {
+   "text": "disappeared",
+   "start": 302986,
+   "end": 303612
+  },
+  {
+   "text": "every",
+   "start": 303612,
+   "end": 303837
+  },
+  {
+   "text": "winter,",
+   "start": 303853,
+   "end": 304270
+  },
+  {
+   "text": "but",
+   "start": 304415,
+   "end": 304527
+  },
+  {
+   "text": "the",
+   "start": 304575,
+   "end": 304672
+  },
+  {
+   "text": "mail",
+   "start": 304752,
+   "end": 305025
+  },
+  {
+   "text": "still",
+   "start": 305217,
+   "end": 305586
+  },
+  {
+   "text": "arrived.",
+   "start": 305811,
+   "end": 306453
+  },
+  {
+   "text": "In",
+   "start": 306999,
+   "end": 307047
+  },
+  {
+   "text": "1869,",
+   "start": 307047,
+   "end": 308411
+  },
+  {
+   "text": "the",
+   "start": 308427,
+   "end": 308508
+  },
+  {
+   "text": "Nevada",
+   "start": 308508,
+   "end": 308925
+  },
+  {
+   "text": "Legislature",
+   "start": 308925,
+   "end": 309984
+  },
+  {
+   "text": "asked",
+   "start": 310369,
+   "end": 310594
+  },
+  {
+   "text": "Congress",
+   "start": 310674,
+   "end": 311059
+  },
+  {
+   "text": "to",
+   "start": 311156,
+   "end": 311252
+  },
+  {
+   "text": "pay",
+   "start": 311252,
+   "end": 311493
+  },
+  {
+   "text": "Thompson",
+   "start": 311557,
+   "end": 311942
+  },
+  {
+   "text": "$6,000",
+   "start": 312070,
+   "end": 313419
+  },
+  {
+   "text": "for",
+   "start": 313499,
+   "end": 313724
+  },
+  {
+   "text": "his",
+   "start": 313724,
+   "end": 313868
+  },
+  {
+   "text": "service.",
+   "start": 313900,
+   "end": 314221
+  },
+  {
+   "text": "Congress",
+   "start": 315104,
+   "end": 315473
+  },
+  {
+   "text": "did",
+   "start": 315666,
+   "end": 315778
+  },
+  {
+   "text": "not",
+   "start": 315826,
+   "end": 315938
+  },
+  {
+   "text": "pay.",
+   "start": 316067,
+   "end": 316259
+  },
+  {
+   "text": "3",
+   "start": 317527,
+   "end": 317752
+  },
+  {
+   "text": "years",
+   "start": 317816,
+   "end": 318041
+  },
+  {
+   "text": "later,",
+   "start": 318073,
+   "end": 318394
+  },
+  {
+   "text": "in",
+   "start": 318410,
+   "end": 318442
+  },
+  {
+   "text": "1872,",
+   "start": 318474,
+   "end": 319758
+  },
+  {
+   "text": "Thompson",
+   "start": 320063,
+   "end": 320416
+  },
+  {
+   "text": "went",
+   "start": 320464,
+   "end": 320561
+  },
+  {
+   "text": "to",
+   "start": 320561,
+   "end": 320657
+  },
+  {
+   "text": "Washington",
+   "start": 320721,
+   "end": 321235
+  },
+  {
+   "text": "himself",
+   "start": 321267,
+   "end": 321764
+  },
+  {
+   "text": "to",
+   "start": 321764,
+   "end": 321909
+  },
+  {
+   "text": "make",
+   "start": 321925,
+   "end": 322021
+  },
+  {
+   "text": "the",
+   "start": 322069,
+   "end": 322166
+  },
+  {
+   "text": "case",
+   "start": 322166,
+   "end": 322487
+  },
+  {
+   "text": "for",
+   "start": 322487,
+   "end": 322647
+  },
+  {
+   "text": "being",
+   "start": 322647,
+   "end": 322840
+  },
+  {
+   "text": "paid",
+   "start": 322952,
+   "end": 323209
+  },
+  {
+   "text": "to",
+   "start": 323209,
+   "end": 323289
+  },
+  {
+   "text": "do",
+   "start": 323289,
+   "end": 323434
+  },
+  {
+   "text": "the",
+   "start": 323434,
+   "end": 323530
+  },
+  {
+   "text": "job.",
+   "start": 323530,
+   "end": 323851
+  },
+  {
+   "text": "He",
+   "start": 324717,
+   "end": 324765
+  },
+  {
+   "text": "was",
+   "start": 324797,
+   "end": 324861
+  },
+  {
+   "text": "told",
+   "start": 324957,
+   "end": 325455
+  },
+  {
+   "text": "since",
+   "start": 325455,
+   "end": 325807
+  },
+  {
+   "text": "he",
+   "start": 325936,
+   "end": 326176
+  },
+  {
+   "text": "did",
+   "start": 326256,
+   "end": 326368
+  },
+  {
+   "text": "not",
+   "start": 326401,
+   "end": 326609
+  },
+  {
+   "text": "have",
+   "start": 326657,
+   "end": 326833
+  },
+  {
+   "text": "a",
+   "start": 326833,
+   "end": 326898
+  },
+  {
+   "text": "written",
+   "start": 326962,
+   "end": 327186
+  },
+  {
+   "text": "contract",
+   "start": 327218,
+   "end": 327763
+  },
+  {
+   "text": "to",
+   "start": 327763,
+   "end": 327860
+  },
+  {
+   "text": "carry",
+   "start": 327860,
+   "end": 328084
+  },
+  {
+   "text": "the",
+   "start": 328100,
+   "end": 328180
+  },
+  {
+   "text": "mail,",
+   "start": 328180,
+   "end": 328437
+  },
+  {
+   "text": "he",
+   "start": 328581,
+   "end": 328726
+  },
+  {
+   "text": "had",
+   "start": 328726,
+   "end": 329030
+  },
+  {
+   "text": "no",
+   "start": 329078,
+   "end": 329303
+  },
+  {
+   "text": "claim",
+   "start": 329367,
+   "end": 329607
+  },
+  {
+   "text": "for",
+   "start": 329688,
+   "end": 329848
+  },
+  {
+   "text": "pay.",
+   "start": 329848,
+   "end": 330056
+  },
+  {
+   "text": "He",
+   "start": 330730,
+   "end": 330890
+  },
+  {
+   "text": "had",
+   "start": 330890,
+   "end": 331035
+  },
+  {
+   "text": "never",
+   "start": 331211,
+   "end": 331483
+  },
+  {
+   "text": "signed",
+   "start": 331483,
+   "end": 331932
+  },
+  {
+   "text": "one.",
+   "start": 331932,
+   "end": 332141
+  },
+  {
+   "text": "He",
+   "start": 333071,
+   "end": 333231
+  },
+  {
+   "text": "is",
+   "start": 333231,
+   "end": 333279
+  },
+  {
+   "text": "often",
+   "start": 333376,
+   "end": 333600
+  },
+  {
+   "text": "quoted",
+   "start": 333632,
+   "end": 334097
+  },
+  {
+   "text": "as",
+   "start": 334097,
+   "end": 334161
+  },
+  {
+   "text": "saying",
+   "start": 334193,
+   "end": 334482
+  },
+  {
+   "text": "that",
+   "start": 334514,
+   "end": 334803
+  },
+  {
+   "text": "if",
+   "start": 334931,
+   "end": 335011
+  },
+  {
+   "text": "he",
+   "start": 335059,
+   "end": 335220
+  },
+  {
+   "text": "did",
+   "start": 335220,
+   "end": 335364
+  },
+  {
+   "text": "his",
+   "start": 335364,
+   "end": 335524
+  },
+  {
+   "text": "job",
+   "start": 335620,
+   "end": 335957
+  },
+  {
+   "text": "and",
+   "start": 335957,
+   "end": 336101
+  },
+  {
+   "text": "got",
+   "start": 336101,
+   "end": 336262
+  },
+  {
+   "text": "the",
+   "start": 336262,
+   "end": 336294
+  },
+  {
+   "text": "mail",
+   "start": 336294,
+   "end": 336470
+  },
+  {
+   "text": "through,",
+   "start": 336534,
+   "end": 336935
+  },
+  {
+   "text": "Uncle",
+   "start": 337160,
+   "end": 337384
+  },
+  {
+   "text": "Sam",
+   "start": 337384,
+   "end": 337737
+  },
+  {
+   "text": "would",
+   "start": 337785,
+   "end": 337865
+  },
+  {
+   "text": "pay",
+   "start": 337945,
+   "end": 338042
+  },
+  {
+   "text": "him.",
+   "start": 338122,
+   "end": 338234
+  },
+  {
+   "text": "Thompson",
+   "start": 339084,
+   "end": 339437
+  },
+  {
+   "text": "died",
+   "start": 339485,
+   "end": 339821
+  },
+  {
+   "text": "in",
+   "start": 339821,
+   "end": 339853
+  },
+  {
+   "text": "1876",
+   "start": 339853,
+   "end": 341104
+  },
+  {
+   "text": "at",
+   "start": 341104,
+   "end": 341232
+  },
+  {
+   "text": "the",
+   "start": 341232,
+   "end": 341329
+  },
+  {
+   "text": "age",
+   "start": 341393,
+   "end": 341569
+  },
+  {
+   "text": "of",
+   "start": 341569,
+   "end": 341649
+  },
+  {
+   "text": "49.",
+   "start": 341649,
+   "end": 342499
+  },
+  {
+   "text": "Accounts",
+   "start": 343253,
+   "end": 343606
+  },
+  {
+   "text": "say",
+   "start": 343702,
+   "end": 343814
+  },
+  {
+   "text": "appendicitis,",
+   "start": 343814,
+   "end": 344600
+  },
+  {
+   "text": "which",
+   "start": 344776,
+   "end": 345033
+  },
+  {
+   "text": "may",
+   "start": 345033,
+   "end": 345241
+  },
+  {
+   "text": "have",
+   "start": 345241,
+   "end": 345385
+  },
+  {
+   "text": "developed",
+   "start": 345417,
+   "end": 345898
+  },
+  {
+   "text": "into",
+   "start": 345898,
+   "end": 346219
+  },
+  {
+   "text": "pneumonia.",
+   "start": 346219,
+   "end": 346780
+  },
+  {
+   "text": "Ironically,",
+   "start": 347502,
+   "end": 348031
+  },
+  {
+   "text": "a",
+   "start": 348143,
+   "end": 348304
+  },
+  {
+   "text": "bill",
+   "start": 348304,
+   "end": 348496
+  },
+  {
+   "text": "to",
+   "start": 348624,
+   "end": 348769
+  },
+  {
+   "text": "approve",
+   "start": 348785,
+   "end": 349202
+  },
+  {
+   "text": "his",
+   "start": 349202,
+   "end": 349314
+  },
+  {
+   "text": "payment",
+   "start": 349410,
+   "end": 349699
+  },
+  {
+   "text": "was",
+   "start": 349747,
+   "end": 349875
+  },
+  {
+   "text": "in",
+   "start": 350148,
+   "end": 350276
+  },
+  {
+   "text": "Congress",
+   "start": 350308,
+   "end": 350741
+  },
+  {
+   "text": "when",
+   "start": 350933,
+   "end": 351062
+  },
+  {
+   "text": "he",
+   "start": 351174,
+   "end": 351334
+  },
+  {
+   "text": "died.",
+   "start": 351350,
+   "end": 351751
+  },
+  {
+   "text": "Accounts",
+   "start": 352392,
+   "end": 352809
+  },
+  {
+   "text": "say",
+   "start": 352809,
+   "end": 353114
+  },
+  {
+   "text": "the",
+   "start": 353675,
+   "end": 353899
+  },
+  {
+   "text": "bill",
+   "start": 353899,
+   "end": 354028
+  },
+  {
+   "text": "died",
+   "start": 354637,
+   "end": 355198
+  },
+  {
+   "text": "with",
+   "start": 355198,
+   "end": 355439
+  },
+  {
+   "text": "him.",
+   "start": 355439,
+   "end": 355615
+  },
+  {
+   "text": "The",
+   "start": 356721,
+   "end": 356817
+  },
+  {
+   "text": "mail",
+   "start": 356817,
+   "end": 356994
+  },
+  {
+   "text": "got",
+   "start": 357042,
+   "end": 357170
+  },
+  {
+   "text": "through",
+   "start": 357202,
+   "end": 357507
+  },
+  {
+   "text": "for",
+   "start": 357507,
+   "end": 357683
+  },
+  {
+   "text": "20",
+   "start": 357683,
+   "end": 357972
+  },
+  {
+   "text": "years.",
+   "start": 358068,
+   "end": 358453
+  },
+  {
+   "text": "He",
+   "start": 359190,
+   "end": 359254
+  },
+  {
+   "text": "carried",
+   "start": 359351,
+   "end": 359671
+  },
+  {
+   "text": "news",
+   "start": 359671,
+   "end": 359896
+  },
+  {
+   "text": "from",
+   "start": 359928,
+   "end": 360136
+  },
+  {
+   "text": "loved",
+   "start": 360168,
+   "end": 360409
+  },
+  {
+   "text": "ones,",
+   "start": 360409,
+   "end": 360778
+  },
+  {
+   "text": "enabled",
+   "start": 361371,
+   "end": 361852
+  },
+  {
+   "text": "business",
+   "start": 361996,
+   "end": 362333
+  },
+  {
+   "text": "transactions",
+   "start": 362333,
+   "end": 363022
+  },
+  {
+   "text": "by",
+   "start": 363038,
+   "end": 363199
+  },
+  {
+   "text": "mail,",
+   "start": 363199,
+   "end": 363471
+  },
+  {
+   "text": "and",
+   "start": 364016,
+   "end": 364161
+  },
+  {
+   "text": "got",
+   "start": 364161,
+   "end": 364337
+  },
+  {
+   "text": "a",
+   "start": 364337,
+   "end": 364401
+  },
+  {
+   "text": "freezing",
+   "start": 364401,
+   "end": 364866
+  },
+  {
+   "text": "man",
+   "start": 364898,
+   "end": 365090
+  },
+  {
+   "text": "out",
+   "start": 365443,
+   "end": 365668
+  },
+  {
+   "text": "of",
+   "start": 365780,
+   "end": 365908
+  },
+  {
+   "text": "the",
+   "start": 366020,
+   "end": 366101
+  },
+  {
+   "text": "snow.",
+   "start": 366101,
+   "end": 366485
+  },
+  {
+   "text": "And",
+   "start": 367383,
+   "end": 367447
+  },
+  {
+   "text": "he",
+   "start": 367447,
+   "end": 367640
+  },
+  {
+   "text": "never",
+   "start": 367704,
+   "end": 368024
+  },
+  {
+   "text": "received",
+   "start": 368024,
+   "end": 368505
+  },
+  {
+   "text": "payment",
+   "start": 368505,
+   "end": 368938
+  },
+  {
+   "text": "for",
+   "start": 369371,
+   "end": 369500
+  },
+  {
+   "text": "any",
+   "start": 369772,
+   "end": 369997
+  },
+  {
+   "text": "of",
+   "start": 370029,
+   "end": 370125
+  },
+  {
+   "text": "it.",
+   "start": 370125,
+   "end": 370205
+  },
+  {
+   "text": "If",
+   "start": 371087,
+   "end": 371215
+  },
+  {
+   "text": "you",
+   "start": 371215,
+   "end": 371279
+  },
+  {
+   "text": "like",
+   "start": 371295,
+   "end": 371488
+  },
+  {
+   "text": "this",
+   "start": 371488,
+   "end": 371664
+  },
+  {
+   "text": "story,",
+   "start": 371664,
+   "end": 372001
+  },
+  {
+   "text": "give",
+   "start": 372578,
+   "end": 372674
+  },
+  {
+   "text": "it",
+   "start": 372674,
+   "end": 372754
+  },
+  {
+   "text": "a",
+   "start": 372754,
+   "end": 372770
+  },
+  {
+   "text": "like",
+   "start": 372770,
+   "end": 373155
+  },
+  {
+   "text": "and",
+   "start": 373155,
+   "end": 373315
+  },
+  {
+   "text": "subscribe",
+   "start": 373315,
+   "end": 373957
+  },
+  {
+   "text": "to",
+   "start": 373957,
+   "end": 374021
+  },
+  {
+   "text": "Old",
+   "start": 374037,
+   "end": 374518
+  },
+  {
+   "text": "West",
+   "start": 374518,
+   "end": 374694
+  },
+  {
+   "text": "Stories,",
+   "start": 374694,
+   "end": 375207
+  },
+  {
+   "text": "and",
+   "start": 375303,
+   "end": 375768
+  },
+  {
+   "text": "we'll",
+   "start": 375800,
+   "end": 376057
+  },
+  {
+   "text": "see",
+   "start": 376057,
+   "end": 376346
+  },
+  {
+   "text": "you",
+   "start": 376426,
+   "end": 376570
+  },
+  {
+   "text": "at",
+   "start": 376586,
+   "end": 376682
+  },
+  {
+   "text": "the",
+   "start": 376682,
+   "end": 376730
+  },
+  {
+   "text": "next",
+   "start": 376762,
+   "end": 377067
+  },
+  {
+   "text": "story.",
+   "start": 377067,
+   "end": 377388
+  }
+ ]
+}

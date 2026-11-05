@@ -1,0 +1,6961 @@
+{
+ "id": "3d323b9f-d69f-4669-852f-2e08b5d89a98",
+ "language_model": "assemblyai_default",
+ "acoustic_model": "assemblyai_default",
+ "language_code": "en",
+ "speech_understanding": null,
+ "translated_texts": null,
+ "status": "completed",
+ "audio_url": "https://cdn.assemblyai.com/upload/2fe7a1b00c441034e17260789a9499b1866745a474bf38c3392f74eed88ab35c/951173de-fe77-4fc2-8bf4-8ab51477d382",
+ "text": "A letter does not weigh very much until somebody has to carry it across a mountain. Every winter, the road over the Sierra Nevada mountain range disappeared, not for a day or two, for months. Snow piled up in drifts so deep that a wagon stopped being a practical idea, and a horse could sink out of sight. On the Nevada side of the mountains in Carson Valley, People waited for word from the west. Their mail came from Sacramento on the far side of the range. In winter, the mail stopped. Then, in 1855, a notice ran in the Sacramento Union. The headline was blunt: \"People Lost to the World. Uncle Sam Needs a Mail Carrier.\" That is an unusually candid employment advertisement. The employment ad identified the customer. It identified the problem. It did not identify how a mail carrier would get the job done in the snowy winter months over tall mountain passes. Pull up a chair. This is Old West Stories, and this one is gonna be good. The Placerville, California postmaster had a problem. Letters were stacking up in his office. And the mail carrier who had been hauling them over the mountains had vanished, and the postmaster could find no one to take his place. The Sierra Nevada mountain range stood between the two communities. Winter snow cut off the routes that carried supplies, business, and news from home. Those who had tried to cross the Sierra with pack mules and regular snowshoes had failed. For a person waiting on the other side, The distance was not simply a matter of miles. It was a matter of not knowing about the people they loved. A Norwegian immigrant named John Thompson came into the post office to ask about the job. He was about 28 years old. He had come to California to dig for gold, and the gold had not paid off. He wanted the mail job. The postmaster told him the situation plainly. The contract was not his to give. He had no authority to hire Thompson and no authority to pay him. One account says Thompson came back every morning for 5 days until the postmaster finally said yes. Over time, he earned the nickname Snowshoe Thompson, but his actual equipment is where the nickname goes wrong. People called him \"Snowshoe,\" but he did not carry snowshoes, the woven kind most people picture. He used long wooden boards about 10 feet long, weighing roughly 25 pounds each. The Sacramento paper called them \"Norwegian skates.\" Today, we call them skis. He also carried a single long pole. It helped him push, balance, and slow himself when going downhill. The method was different from walking across the snow. It allowed him to slide over. But that did not remove the climb over the mountains. It did not shorten the distance. And it did not make the mail carry itself. But it gave him a workable way to cover the nearly 90 miles between Placerville and Carson Valley in what was then Utah Territory and is now Nevada. So the nickname was a misnomer. Snowshoes are built to stay on top of the snow. Thompson's boards were built to slide across it. Then there was the load. He carried 60 to 80 pounds of letters and packages, sometimes more. He carried little food. He melted snow for water. He went without a blanket because a blanket would have taken room the mail needed. The crossing took about 3 days going east and about 2 days coming back. On some days, he covered close to 45 miles. In the winter of 1856, on one of those crossings, Thompson came upon a prospector named James Sisson. Sisson was alone in a cabin south of Lake Tahoe. He had been there for 12 days. Living on raw flour with no fire and his boots frozen to his feet. Thompson couldn't move the man himself, so he went to the town of Genoa and came back with a team of men and a sled. Together, they hauled Sisson out through the snowdrifts. The doctor in Genoa said Sisson's feet would need to be amputated, and there was no chloroform or anesthesia in town. Thompson couldn't let that happen to the man, so he set out to search for it. He went to Placerville, found none there, and kept going another 45 miles to Sacramento and brought back anesthesia so the operation could proceed. A 2005 public television investigation says he arrived just in time. For 20 winters from 1856 to 1876, he carried that mail over the Sierra Nevada Mountains. The letters arrived. The people in Carson Valley got their news. The road disappeared every winter, but the mail still arrived. In 1869, the Nevada Legislature asked Congress to pay Thompson $6,000 for his service. Congress did not pay. 3 years later, in 1872, Thompson went to Washington himself to make the case for being paid to do the job. He was told since he did not have a written contract to carry the mail, he had no claim for pay. He had never signed one. He is often quoted as saying that if he did his job and got the mail through, Uncle Sam would pay him. Thompson died in 1876 at the age of 49. Accounts say appendicitis, which may have developed into pneumonia. Ironically, a bill to approve his payment was in Congress when he died. Accounts say the bill died with him. The mail got through for 20 years. He carried news from loved ones. Enabled business transactions by mail, and got a freezing man out of the snow. And he never received payment for any of it. If you like this story, give it a like and subscribe to Old West Stories, and we'll see you at the next story.",
+ "words": [
+  {
+   "text": "A",
+   "start": 1500,
+   "end": 1516,
+   "confidence": 0.9297697,
+   "speaker": null
+  },
+  {
+   "text": "letter",
+   "start": 1532,
+   "end": 1838,
+   "confidence": 0.9999826,
+   "speaker": null
+  },
+  {
+   "text": "does",
+   "start": 1838,
+   "end": 1967,
+   "confidence": 0.99723,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 1999,
+   "end": 2209,
+   "confidence": 0.99998724,
+   "speaker": null
+  },
+  {
+   "text": "weigh",
+   "start": 2241,
+   "end": 2482,
+   "confidence": 0.9999715,
+   "speaker": null
+  },
+  {
+   "text": "very",
+   "start": 2482,
+   "end": 2724,
+   "confidence": 0.9999547,
+   "speaker": null
+  },
+  {
+   "text": "much",
+   "start": 2724,
+   "end": 3175,
+   "confidence": 0.9999783,
+   "speaker": null
+  },
+  {
+   "text": "until",
+   "start": 3610,
+   "end": 3900,
+   "confidence": 0.73862433,
+   "speaker": null
+  },
+  {
+   "text": "somebody",
+   "start": 3948,
+   "end": 4705,
+   "confidence": 0.9926416,
+   "speaker": null
+  },
+  {
+   "text": "has",
+   "start": 4801,
+   "end": 4946,
+   "confidence": 0.9999447,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 5043,
+   "end": 5268,
+   "confidence": 0.9999858,
+   "speaker": null
+  },
+  {
+   "text": "carry",
+   "start": 5284,
+   "end": 5478,
+   "confidence": 0.999966,
+   "speaker": null
+  },
+  {
+   "text": "it",
+   "start": 5478,
+   "end": 5558,
+   "confidence": 0.9998821,
+   "speaker": null
+  },
+  {
+   "text": "across",
+   "start": 5558,
+   "end": 5912,
+   "confidence": 0.9969843,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 6025,
+   "end": 6041,
+   "confidence": 0.99131656,
+   "speaker": null
+  },
+  {
+   "text": "mountain.",
+   "start": 6089,
+   "end": 6299,
+   "confidence": 0.99964046,
+   "speaker": null
+  },
+  {
+   "text": "Every",
+   "start": 7700,
+   "end": 7925,
+   "confidence": 0.99394506,
+   "speaker": null
+  },
+  {
+   "text": "winter,",
+   "start": 8022,
+   "end": 8296,
+   "confidence": 0.85224116,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 8440,
+   "end": 8634,
+   "confidence": 0.9999217,
+   "speaker": null
+  },
+  {
+   "text": "road",
+   "start": 8666,
+   "end": 8988,
+   "confidence": 0.9996666,
+   "speaker": null
+  },
+  {
+   "text": "over",
+   "start": 8988,
+   "end": 9181,
+   "confidence": 0.9999137,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 9181,
+   "end": 9310,
+   "confidence": 0.9997018,
+   "speaker": null
+  },
+  {
+   "text": "Sierra",
+   "start": 9310,
+   "end": 9729,
+   "confidence": 0.9987575,
+   "speaker": null
+  },
+  {
+   "text": "Nevada",
+   "start": 9729,
+   "end": 10292,
+   "confidence": 0.99761,
+   "speaker": null
+  },
+  {
+   "text": "mountain",
+   "start": 10293,
+   "end": 10617,
+   "confidence": 0.9878924,
+   "speaker": null
+  },
+  {
+   "text": "range",
+   "start": 10617,
+   "end": 10990,
+   "confidence": 0.9995858,
+   "speaker": null
+  },
+  {
+   "text": "disappeared,",
+   "start": 11023,
+   "end": 11687,
+   "confidence": 0.6879976,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 12239,
+   "end": 12466,
+   "confidence": 0.9995654,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 12466,
+   "end": 12531,
+   "confidence": 0.9999665,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 12563,
+   "end": 12644,
+   "confidence": 0.9999782,
+   "speaker": null
+  },
+  {
+   "text": "day",
+   "start": 12644,
+   "end": 12725,
+   "confidence": 0.99999416,
+   "speaker": null
+  },
+  {
+   "text": "or",
+   "start": 12790,
+   "end": 12952,
+   "confidence": 0.9999865,
+   "speaker": null
+  },
+  {
+   "text": "two,",
+   "start": 12952,
+   "end": 13114,
+   "confidence": 0.8030124,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 13779,
+   "end": 13876,
+   "confidence": 0.98990506,
+   "speaker": null
+  },
+  {
+   "text": "months.",
+   "start": 13876,
+   "end": 14428,
+   "confidence": 0.99819016,
+   "speaker": null
+  },
+  {
+   "text": "Snow",
+   "start": 15627,
+   "end": 15919,
+   "confidence": 0.9993748,
+   "speaker": null
+  },
+  {
+   "text": "piled",
+   "start": 16049,
+   "end": 16438,
+   "confidence": 0.9998056,
+   "speaker": null
+  },
+  {
+   "text": "up",
+   "start": 16438,
+   "end": 16617,
+   "confidence": 0.9998098,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 16617,
+   "end": 16665,
+   "confidence": 0.9939255,
+   "speaker": null
+  },
+  {
+   "text": "drifts",
+   "start": 16779,
+   "end": 17119,
+   "confidence": 0.99903655,
+   "speaker": null
+  },
+  {
+   "text": "so",
+   "start": 17249,
+   "end": 17476,
+   "confidence": 0.99897504,
+   "speaker": null
+  },
+  {
+   "text": "deep",
+   "start": 17589,
+   "end": 17833,
+   "confidence": 0.9999751,
+   "speaker": null
+  },
+  {
+   "text": "that",
+   "start": 17833,
+   "end": 17995,
+   "confidence": 0.9994147,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 17995,
+   "end": 18141,
+   "confidence": 0.999275,
+   "speaker": null
+  },
+  {
+   "text": "wagon",
+   "start": 18157,
+   "end": 18578,
+   "confidence": 0.9993013,
+   "speaker": null
+  },
+  {
+   "text": "stopped",
+   "start": 18578,
+   "end": 18951,
+   "confidence": 0.941639,
+   "speaker": null
+  },
+  {
+   "text": "being",
+   "start": 18968,
+   "end": 19178,
+   "confidence": 0.9998839,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 19195,
+   "end": 19260,
+   "confidence": 0.9998084,
+   "speaker": null
+  },
+  {
+   "text": "practical",
+   "start": 19260,
+   "end": 19647,
+   "confidence": 0.99914694,
+   "speaker": null
+  },
+  {
+   "text": "idea,",
+   "start": 19695,
+   "end": 20260,
+   "confidence": 0.7658019,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 20663,
+   "end": 20727,
+   "confidence": 0.9999659,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 20743,
+   "end": 20824,
+   "confidence": 0.9997105,
+   "speaker": null
+  },
+  {
+   "text": "horse",
+   "start": 20824,
+   "end": 21260,
+   "confidence": 0.9999453,
+   "speaker": null
+  },
+  {
+   "text": "could",
+   "start": 21453,
+   "end": 21760,
+   "confidence": 0.99960715,
+   "speaker": null
+  },
+  {
+   "text": "sink",
+   "start": 21937,
+   "end": 22260,
+   "confidence": 0.999597,
+   "speaker": null
+  },
+  {
+   "text": "out",
+   "start": 22260,
+   "end": 22372,
+   "confidence": 0.9989491,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 22372,
+   "end": 22437,
+   "confidence": 0.99021286,
+   "speaker": null
+  },
+  {
+   "text": "sight.",
+   "start": 22437,
+   "end": 22727,
+   "confidence": 0.9918127,
+   "speaker": null
+  },
+  {
+   "text": "On",
+   "start": 24292,
+   "end": 24340,
+   "confidence": 0.99825877,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 24372,
+   "end": 24453,
+   "confidence": 0.99991155,
+   "speaker": null
+  },
+  {
+   "text": "Nevada",
+   "start": 24518,
+   "end": 24856,
+   "confidence": 0.9999167,
+   "speaker": null
+  },
+  {
+   "text": "side",
+   "start": 24856,
+   "end": 25163,
+   "confidence": 0.9999285,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 25163,
+   "end": 25243,
+   "confidence": 0.99994195,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 25243,
+   "end": 25324,
+   "confidence": 0.99986076,
+   "speaker": null
+  },
+  {
+   "text": "mountains",
+   "start": 25324,
+   "end": 25711,
+   "confidence": 0.9857669,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 25808,
+   "end": 25953,
+   "confidence": 0.49208936,
+   "speaker": null
+  },
+  {
+   "text": "Carson",
+   "start": 25969,
+   "end": 26276,
+   "confidence": 0.99858713,
+   "speaker": null
+  },
+  {
+   "text": "Valley,",
+   "start": 26372,
+   "end": 26679,
+   "confidence": 0.95382154,
+   "speaker": null
+  },
+  {
+   "text": "People",
+   "start": 27214,
+   "end": 27520,
+   "confidence": 0.9451806,
+   "speaker": null
+  },
+  {
+   "text": "waited",
+   "start": 27520,
+   "end": 27795,
+   "confidence": 0.9996426,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 27859,
+   "end": 28359,
+   "confidence": 0.9996667,
+   "speaker": null
+  },
+  {
+   "text": "word",
+   "start": 28747,
+   "end": 29005,
+   "confidence": 0.9886712,
+   "speaker": null
+  },
+  {
+   "text": "from",
+   "start": 29053,
+   "end": 29215,
+   "confidence": 0.9999516,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 29247,
+   "end": 29344,
+   "confidence": 0.9998313,
+   "speaker": null
+  },
+  {
+   "text": "west.",
+   "start": 29392,
+   "end": 29731,
+   "confidence": 0.70496917,
+   "speaker": null
+  },
+  {
+   "text": "Their",
+   "start": 30521,
+   "end": 30634,
+   "confidence": 0.99940336,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 30683,
+   "end": 30957,
+   "confidence": 0.9999621,
+   "speaker": null
+  },
+  {
+   "text": "came",
+   "start": 31086,
+   "end": 31328,
+   "confidence": 0.99995923,
+   "speaker": null
+  },
+  {
+   "text": "from",
+   "start": 31328,
+   "end": 31506,
+   "confidence": 0.9996948,
+   "speaker": null
+  },
+  {
+   "text": "Sacramento",
+   "start": 31506,
+   "end": 32216,
+   "confidence": 0.99990046,
+   "speaker": null
+  },
+  {
+   "text": "on",
+   "start": 32216,
+   "end": 32345,
+   "confidence": 0.88672817,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 32361,
+   "end": 32409,
+   "confidence": 0.9999621,
+   "speaker": null
+  },
+  {
+   "text": "far",
+   "start": 32458,
+   "end": 32732,
+   "confidence": 0.9998306,
+   "speaker": null
+  },
+  {
+   "text": "side",
+   "start": 32796,
+   "end": 33168,
+   "confidence": 0.99994886,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 33168,
+   "end": 33200,
+   "confidence": 0.99999654,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 33200,
+   "end": 33329,
+   "confidence": 0.99979347,
+   "speaker": null
+  },
+  {
+   "text": "range.",
+   "start": 33329,
+   "end": 33555,
+   "confidence": 0.9946723,
+   "speaker": null
+  },
+  {
+   "text": "In",
+   "start": 35295,
+   "end": 35344,
+   "confidence": 0.9984909,
+   "speaker": null
+  },
+  {
+   "text": "winter,",
+   "start": 35440,
+   "end": 35810,
+   "confidence": 0.9839697,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 36260,
+   "end": 36356,
+   "confidence": 0.9997663,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 36356,
+   "end": 36597,
+   "confidence": 0.9994566,
+   "speaker": null
+  },
+  {
+   "text": "stopped.",
+   "start": 36661,
+   "end": 37144,
+   "confidence": 0.99963313,
+   "speaker": null
+  },
+  {
+   "text": "Then,",
+   "start": 38671,
+   "end": 38960,
+   "confidence": 0.71522474,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 39217,
+   "end": 39265,
+   "confidence": 0.99957806,
+   "speaker": null
+  },
+  {
+   "text": "1855,",
+   "start": 39265,
+   "end": 40728,
+   "confidence": 0.99901867,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 41323,
+   "end": 41403,
+   "confidence": 0.99979967,
+   "speaker": null
+  },
+  {
+   "text": "notice",
+   "start": 41403,
+   "end": 41917,
+   "confidence": 0.99993074,
+   "speaker": null
+  },
+  {
+   "text": "ran",
+   "start": 41965,
+   "end": 42383,
+   "confidence": 0.9998994,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 42432,
+   "end": 42496,
+   "confidence": 0.99992275,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 42512,
+   "end": 42608,
+   "confidence": 0.9680703,
+   "speaker": null
+  },
+  {
+   "text": "Sacramento",
+   "start": 42608,
+   "end": 43300,
+   "confidence": 0.87026554,
+   "speaker": null
+  },
+  {
+   "text": "Union.",
+   "start": 43413,
+   "end": 43785,
+   "confidence": 0.99322677,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 44626,
+   "end": 44707,
+   "confidence": 0.9996147,
+   "speaker": null
+  },
+  {
+   "text": "headline",
+   "start": 44772,
+   "end": 45257,
+   "confidence": 0.9997453,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 45257,
+   "end": 45322,
+   "confidence": 0.9999747,
+   "speaker": null
+  },
+  {
+   "text": "blunt:",
+   "start": 45435,
+   "end": 45759,
+   "confidence": 0.8105084,
+   "speaker": null
+  },
+  {
+   "text": "\"People",
+   "start": 46972,
+   "end": 47296,
+   "confidence": 0.827849,
+   "speaker": null
+  },
+  {
+   "text": "Lost",
+   "start": 47296,
+   "end": 47619,
+   "confidence": 0.53406465,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 47619,
+   "end": 47765,
+   "confidence": 0.99773324,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 47765,
+   "end": 47862,
+   "confidence": 0.9765602,
+   "speaker": null
+  },
+  {
+   "text": "World.",
+   "start": 47862,
+   "end": 48137,
+   "confidence": 0.63296556,
+   "speaker": null
+  },
+  {
+   "text": "Uncle",
+   "start": 48816,
+   "end": 49011,
+   "confidence": 0.97072554,
+   "speaker": null
+  },
+  {
+   "text": "Sam",
+   "start": 49011,
+   "end": 49350,
+   "confidence": 0.999424,
+   "speaker": null
+  },
+  {
+   "text": "Needs",
+   "start": 49561,
+   "end": 49836,
+   "confidence": 0.98794997,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 49884,
+   "end": 49900,
+   "confidence": 0.9908981,
+   "speaker": null
+  },
+  {
+   "text": "Mail",
+   "start": 49900,
+   "end": 50078,
+   "confidence": 0.9973707,
+   "speaker": null
+  },
+  {
+   "text": "Carrier.\"",
+   "start": 50208,
+   "end": 50596,
+   "confidence": 0.9633471,
+   "speaker": null
+  },
+  {
+   "text": "That",
+   "start": 51971,
+   "end": 52084,
+   "confidence": 0.9753221,
+   "speaker": null
+  },
+  {
+   "text": "is",
+   "start": 52084,
+   "end": 52198,
+   "confidence": 0.9961462,
+   "speaker": null
+  },
+  {
+   "text": "an",
+   "start": 52230,
+   "end": 52360,
+   "confidence": 0.99802655,
+   "speaker": null
+  },
+  {
+   "text": "unusually",
+   "start": 52360,
+   "end": 52848,
+   "confidence": 0.99765503,
+   "speaker": null
+  },
+  {
+   "text": "candid",
+   "start": 52962,
+   "end": 53336,
+   "confidence": 0.9998184,
+   "speaker": null
+  },
+  {
+   "text": "employment",
+   "start": 53369,
+   "end": 53987,
+   "confidence": 0.999665,
+   "speaker": null
+  },
+  {
+   "text": "advertisement.",
+   "start": 54003,
+   "end": 54654,
+   "confidence": 0.9233288,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 55642,
+   "end": 55723,
+   "confidence": 0.9889881,
+   "speaker": null
+  },
+  {
+   "text": "employment",
+   "start": 55723,
+   "end": 56142,
+   "confidence": 0.9983675,
+   "speaker": null
+  },
+  {
+   "text": "ad",
+   "start": 56207,
+   "end": 56304,
+   "confidence": 0.98865813,
+   "speaker": null
+  },
+  {
+   "text": "identified",
+   "start": 56304,
+   "end": 56933,
+   "confidence": 0.9990326,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 56933,
+   "end": 57030,
+   "confidence": 0.99921536,
+   "speaker": null
+  },
+  {
+   "text": "customer.",
+   "start": 57030,
+   "end": 57514,
+   "confidence": 0.7752256,
+   "speaker": null
+  },
+  {
+   "text": "It",
+   "start": 57757,
+   "end": 57902,
+   "confidence": 0.9986872,
+   "speaker": null
+  },
+  {
+   "text": "identified",
+   "start": 57902,
+   "end": 58515,
+   "confidence": 0.99988854,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 58547,
+   "end": 58644,
+   "confidence": 0.999706,
+   "speaker": null
+  },
+  {
+   "text": "problem.",
+   "start": 58644,
+   "end": 59112,
+   "confidence": 0.9962714,
+   "speaker": null
+  },
+  {
+   "text": "It",
+   "start": 59516,
+   "end": 59677,
+   "confidence": 0.99763453,
+   "speaker": null
+  },
+  {
+   "text": "did",
+   "start": 59677,
+   "end": 59823,
+   "confidence": 0.99255955,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 59855,
+   "end": 60242,
+   "confidence": 0.9989361,
+   "speaker": null
+  },
+  {
+   "text": "identify",
+   "start": 60242,
+   "end": 60856,
+   "confidence": 0.9993315,
+   "speaker": null
+  },
+  {
+   "text": "how",
+   "start": 61372,
+   "end": 61501,
+   "confidence": 0.99813974,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 61534,
+   "end": 61566,
+   "confidence": 0.9994795,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 61566,
+   "end": 61824,
+   "confidence": 0.99937254,
+   "speaker": null
+  },
+  {
+   "text": "carrier",
+   "start": 61937,
+   "end": 62405,
+   "confidence": 0.9980684,
+   "speaker": null
+  },
+  {
+   "text": "would",
+   "start": 62760,
+   "end": 62890,
+   "confidence": 0.9980806,
+   "speaker": null
+  },
+  {
+   "text": "get",
+   "start": 63003,
+   "end": 63164,
+   "confidence": 0.99983203,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 63164,
+   "end": 63245,
+   "confidence": 0.99970764,
+   "speaker": null
+  },
+  {
+   "text": "job",
+   "start": 63325,
+   "end": 63729,
+   "confidence": 0.99998415,
+   "speaker": null
+  },
+  {
+   "text": "done",
+   "start": 63729,
+   "end": 64003,
+   "confidence": 0.99996495,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 64133,
+   "end": 64181,
+   "confidence": 0.99229467,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 64278,
+   "end": 64310,
+   "confidence": 0.9983132,
+   "speaker": null
+  },
+  {
+   "text": "snowy",
+   "start": 64310,
+   "end": 64746,
+   "confidence": 0.9996356,
+   "speaker": null
+  },
+  {
+   "text": "winter",
+   "start": 64859,
+   "end": 65198,
+   "confidence": 0.9987569,
+   "speaker": null
+  },
+  {
+   "text": "months",
+   "start": 65198,
+   "end": 65682,
+   "confidence": 0.99944764,
+   "speaker": null
+  },
+  {
+   "text": "over",
+   "start": 65828,
+   "end": 66135,
+   "confidence": 0.93587583,
+   "speaker": null
+  },
+  {
+   "text": "tall",
+   "start": 66135,
+   "end": 66425,
+   "confidence": 0.9940891,
+   "speaker": null
+  },
+  {
+   "text": "mountain",
+   "start": 66554,
+   "end": 66926,
+   "confidence": 0.9992467,
+   "speaker": null
+  },
+  {
+   "text": "passes.",
+   "start": 66958,
+   "end": 67475,
+   "confidence": 0.9989386,
+   "speaker": null
+  },
+  {
+   "text": "Pull",
+   "start": 68960,
+   "end": 69121,
+   "confidence": 0.98780096,
+   "speaker": null
+  },
+  {
+   "text": "up",
+   "start": 69121,
+   "end": 69218,
+   "confidence": 0.9998086,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 69218,
+   "end": 69234,
+   "confidence": 0.99992645,
+   "speaker": null
+  },
+  {
+   "text": "chair.",
+   "start": 69234,
+   "end": 69622,
+   "confidence": 0.91168696,
+   "speaker": null
+  },
+  {
+   "text": "This",
+   "start": 70009,
+   "end": 70187,
+   "confidence": 0.99942005,
+   "speaker": null
+  },
+  {
+   "text": "is",
+   "start": 70187,
+   "end": 70332,
+   "confidence": 0.99987185,
+   "speaker": null
+  },
+  {
+   "text": "Old",
+   "start": 70332,
+   "end": 70736,
+   "confidence": 0.905326,
+   "speaker": null
+  },
+  {
+   "text": "West",
+   "start": 70736,
+   "end": 70881,
+   "confidence": 0.9989905,
+   "speaker": null
+  },
+  {
+   "text": "Stories,",
+   "start": 70914,
+   "end": 71366,
+   "confidence": 0.8194614,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 71559,
+   "end": 71689,
+   "confidence": 0.9998109,
+   "speaker": null
+  },
+  {
+   "text": "this",
+   "start": 72044,
+   "end": 72173,
+   "confidence": 0.99968326,
+   "speaker": null
+  },
+  {
+   "text": "one",
+   "start": 72351,
+   "end": 72480,
+   "confidence": 0.99975806,
+   "speaker": null
+  },
+  {
+   "text": "is",
+   "start": 72754,
+   "end": 72819,
+   "confidence": 0.987733,
+   "speaker": null
+  },
+  {
+   "text": "gonna",
+   "start": 73016,
+   "end": 73216,
+   "confidence": 0.98569983,
+   "speaker": null
+  },
+  {
+   "text": "be",
+   "start": 73266,
+   "end": 73466,
+   "confidence": 0.9999517,
+   "speaker": null
+  },
+  {
+   "text": "good.",
+   "start": 73516,
+   "end": 73800,
+   "confidence": 0.9906736,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 75780,
+   "end": 75878,
+   "confidence": 0.9675003,
+   "speaker": null
+  },
+  {
+   "text": "Placerville,",
+   "start": 75878,
+   "end": 76271,
+   "confidence": 0.9884542,
+   "speaker": null
+  },
+  {
+   "text": "California",
+   "start": 76370,
+   "end": 76960,
+   "confidence": 0.99908817,
+   "speaker": null
+  },
+  {
+   "text": "postmaster",
+   "start": 76960,
+   "end": 77600,
+   "confidence": 0.89111197,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 77600,
+   "end": 77764,
+   "confidence": 0.9997775,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 77764,
+   "end": 77846,
+   "confidence": 0.9999373,
+   "speaker": null
+  },
+  {
+   "text": "problem.",
+   "start": 77846,
+   "end": 78190,
+   "confidence": 0.9843909,
+   "speaker": null
+  },
+  {
+   "text": "Letters",
+   "start": 79010,
+   "end": 79305,
+   "confidence": 0.99861526,
+   "speaker": null
+  },
+  {
+   "text": "were",
+   "start": 79404,
+   "end": 79437,
+   "confidence": 0.99995387,
+   "speaker": null
+  },
+  {
+   "text": "stacking",
+   "start": 79437,
+   "end": 80043,
+   "confidence": 0.9991767,
+   "speaker": null
+  },
+  {
+   "text": "up",
+   "start": 80060,
+   "end": 80158,
+   "confidence": 0.99980205,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 80158,
+   "end": 80207,
+   "confidence": 0.9998779,
+   "speaker": null
+  },
+  {
+   "text": "his",
+   "start": 80240,
+   "end": 80371,
+   "confidence": 0.99966586,
+   "speaker": null
+  },
+  {
+   "text": "office.",
+   "start": 80470,
+   "end": 80552,
+   "confidence": 0.9345955,
+   "speaker": null
+  },
+  {
+   "text": "And",
+   "start": 81283,
+   "end": 81428,
+   "confidence": 0.5067405,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 81428,
+   "end": 81492,
+   "confidence": 0.9997731,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 81492,
+   "end": 81766,
+   "confidence": 0.9991892,
+   "speaker": null
+  },
+  {
+   "text": "carrier",
+   "start": 81766,
+   "end": 82217,
+   "confidence": 0.9922402,
+   "speaker": null
+  },
+  {
+   "text": "who",
+   "start": 82233,
+   "end": 82329,
+   "confidence": 0.9928318,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 82329,
+   "end": 82490,
+   "confidence": 0.99430895,
+   "speaker": null
+  },
+  {
+   "text": "been",
+   "start": 82490,
+   "end": 82619,
+   "confidence": 0.99990153,
+   "speaker": null
+  },
+  {
+   "text": "hauling",
+   "start": 82716,
+   "end": 83102,
+   "confidence": 0.9991961,
+   "speaker": null
+  },
+  {
+   "text": "them",
+   "start": 83215,
+   "end": 83328,
+   "confidence": 0.9997111,
+   "speaker": null
+  },
+  {
+   "text": "over",
+   "start": 83376,
+   "end": 83553,
+   "confidence": 0.99948657,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 83553,
+   "end": 83666,
+   "confidence": 0.9996464,
+   "speaker": null
+  },
+  {
+   "text": "mountains",
+   "start": 83666,
+   "end": 84068,
+   "confidence": 0.9936452,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 84084,
+   "end": 84197,
+   "confidence": 0.997928,
+   "speaker": null
+  },
+  {
+   "text": "vanished,",
+   "start": 84262,
+   "end": 84793,
+   "confidence": 0.8426602,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 85147,
+   "end": 85212,
+   "confidence": 0.99990714,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 85228,
+   "end": 85389,
+   "confidence": 0.99988174,
+   "speaker": null
+  },
+  {
+   "text": "postmaster",
+   "start": 85389,
+   "end": 86065,
+   "confidence": 0.9937547,
+   "speaker": null
+  },
+  {
+   "text": "could",
+   "start": 86194,
+   "end": 86403,
+   "confidence": 0.99918765,
+   "speaker": null
+  },
+  {
+   "text": "find",
+   "start": 86419,
+   "end": 86725,
+   "confidence": 0.9998628,
+   "speaker": null
+  },
+  {
+   "text": "no",
+   "start": 86838,
+   "end": 87160,
+   "confidence": 0.9999293,
+   "speaker": null
+  },
+  {
+   "text": "one",
+   "start": 87224,
+   "end": 87369,
+   "confidence": 0.99989843,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 87563,
+   "end": 87724,
+   "confidence": 0.9999454,
+   "speaker": null
+  },
+  {
+   "text": "take",
+   "start": 87724,
+   "end": 87981,
+   "confidence": 0.9999732,
+   "speaker": null
+  },
+  {
+   "text": "his",
+   "start": 87981,
+   "end": 88094,
+   "confidence": 0.99992037,
+   "speaker": null
+  },
+  {
+   "text": "place.",
+   "start": 88207,
+   "end": 88496,
+   "confidence": 0.9993793,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 90330,
+   "end": 90362,
+   "confidence": 0.98735785,
+   "speaker": null
+  },
+  {
+   "text": "Sierra",
+   "start": 90362,
+   "end": 90687,
+   "confidence": 0.99938893,
+   "speaker": null
+  },
+  {
+   "text": "Nevada",
+   "start": 90687,
+   "end": 91077,
+   "confidence": 0.99800974,
+   "speaker": null
+  },
+  {
+   "text": "mountain",
+   "start": 91077,
+   "end": 91304,
+   "confidence": 0.9308829,
+   "speaker": null
+  },
+  {
+   "text": "range",
+   "start": 91418,
+   "end": 91791,
+   "confidence": 0.9995042,
+   "speaker": null
+  },
+  {
+   "text": "stood",
+   "start": 91824,
+   "end": 92197,
+   "confidence": 0.9999535,
+   "speaker": null
+  },
+  {
+   "text": "between",
+   "start": 92230,
+   "end": 92571,
+   "confidence": 0.9991708,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 92619,
+   "end": 92717,
+   "confidence": 0.99970824,
+   "speaker": null
+  },
+  {
+   "text": "two",
+   "start": 92782,
+   "end": 92944,
+   "confidence": 0.92162746,
+   "speaker": null
+  },
+  {
+   "text": "communities.",
+   "start": 92944,
+   "end": 93415,
+   "confidence": 0.97465885,
+   "speaker": null
+  },
+  {
+   "text": "Winter",
+   "start": 94097,
+   "end": 94422,
+   "confidence": 0.9995247,
+   "speaker": null
+  },
+  {
+   "text": "snow",
+   "start": 94422,
+   "end": 94909,
+   "confidence": 0.99375844,
+   "speaker": null
+  },
+  {
+   "text": "cut",
+   "start": 94991,
+   "end": 95218,
+   "confidence": 0.99359107,
+   "speaker": null
+  },
+  {
+   "text": "off",
+   "start": 95218,
+   "end": 95315,
+   "confidence": 0.99988127,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 95315,
+   "end": 95462,
+   "confidence": 0.9995659,
+   "speaker": null
+  },
+  {
+   "text": "routes",
+   "start": 95462,
+   "end": 95868,
+   "confidence": 0.99928963,
+   "speaker": null
+  },
+  {
+   "text": "that",
+   "start": 95868,
+   "end": 95998,
+   "confidence": 0.99967504,
+   "speaker": null
+  },
+  {
+   "text": "carried",
+   "start": 96128,
+   "end": 96501,
+   "confidence": 0.9999207,
+   "speaker": null
+  },
+  {
+   "text": "supplies,",
+   "start": 96517,
+   "end": 96988,
+   "confidence": 0.99922836,
+   "speaker": null
+  },
+  {
+   "text": "business,",
+   "start": 97450,
+   "end": 97805,
+   "confidence": 0.9800122,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 98031,
+   "end": 98176,
+   "confidence": 0.9999205,
+   "speaker": null
+  },
+  {
+   "text": "news",
+   "start": 98209,
+   "end": 98499,
+   "confidence": 0.9997273,
+   "speaker": null
+  },
+  {
+   "text": "from",
+   "start": 98596,
+   "end": 98741,
+   "confidence": 0.99822587,
+   "speaker": null
+  },
+  {
+   "text": "home.",
+   "start": 98774,
+   "end": 99016,
+   "confidence": 0.97963774,
+   "speaker": null
+  },
+  {
+   "text": "Those",
+   "start": 100292,
+   "end": 100437,
+   "confidence": 0.9992186,
+   "speaker": null
+  },
+  {
+   "text": "who",
+   "start": 100469,
+   "end": 100518,
+   "confidence": 0.99955374,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 100534,
+   "end": 100679,
+   "confidence": 0.9985846,
+   "speaker": null
+  },
+  {
+   "text": "tried",
+   "start": 100712,
+   "end": 101035,
+   "confidence": 0.99998343,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 101035,
+   "end": 101115,
+   "confidence": 0.9999026,
+   "speaker": null
+  },
+  {
+   "text": "cross",
+   "start": 101115,
+   "end": 101309,
+   "confidence": 0.999949,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 101438,
+   "end": 101519,
+   "confidence": 0.99984443,
+   "speaker": null
+  },
+  {
+   "text": "Sierra",
+   "start": 101519,
+   "end": 101987,
+   "confidence": 0.9881076,
+   "speaker": null
+  },
+  {
+   "text": "with",
+   "start": 102004,
+   "end": 102149,
+   "confidence": 0.9976532,
+   "speaker": null
+  },
+  {
+   "text": "pack",
+   "start": 102165,
+   "end": 102488,
+   "confidence": 0.99988246,
+   "speaker": null
+  },
+  {
+   "text": "mules",
+   "start": 102488,
+   "end": 102859,
+   "confidence": 0.99405336,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 102892,
+   "end": 102956,
+   "confidence": 0.99897087,
+   "speaker": null
+  },
+  {
+   "text": "regular",
+   "start": 103037,
+   "end": 103392,
+   "confidence": 0.9999416,
+   "speaker": null
+  },
+  {
+   "text": "snowshoes",
+   "start": 103392,
+   "end": 103990,
+   "confidence": 0.99979615,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 104022,
+   "end": 104248,
+   "confidence": 0.99852884,
+   "speaker": null
+  },
+  {
+   "text": "failed.",
+   "start": 104248,
+   "end": 104603,
+   "confidence": 0.99657965,
+   "speaker": null
+  },
+  {
+   "text": "For",
+   "start": 106385,
+   "end": 106564,
+   "confidence": 0.99689937,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 106613,
+   "end": 106694,
+   "confidence": 0.99921787,
+   "speaker": null
+  },
+  {
+   "text": "person",
+   "start": 106694,
+   "end": 107036,
+   "confidence": 0.99998164,
+   "speaker": null
+  },
+  {
+   "text": "waiting",
+   "start": 107101,
+   "end": 107394,
+   "confidence": 0.9995565,
+   "speaker": null
+  },
+  {
+   "text": "on",
+   "start": 107410,
+   "end": 107475,
+   "confidence": 0.9999176,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 107507,
+   "end": 107735,
+   "confidence": 0.9996499,
+   "speaker": null
+  },
+  {
+   "text": "other",
+   "start": 107735,
+   "end": 107930,
+   "confidence": 0.9945589,
+   "speaker": null
+  },
+  {
+   "text": "side,",
+   "start": 107930,
+   "end": 108125,
+   "confidence": 0.910552,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 108837,
+   "end": 108933,
+   "confidence": 0.9509336,
+   "speaker": null
+  },
+  {
+   "text": "distance",
+   "start": 108998,
+   "end": 109417,
+   "confidence": 0.999811,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 109417,
+   "end": 109546,
+   "confidence": 0.9998628,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 109578,
+   "end": 109675,
+   "confidence": 0.9999436,
+   "speaker": null
+  },
+  {
+   "text": "simply",
+   "start": 109675,
+   "end": 110142,
+   "confidence": 0.99992967,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 110142,
+   "end": 110158,
+   "confidence": 0.9999826,
+   "speaker": null
+  },
+  {
+   "text": "matter",
+   "start": 110158,
+   "end": 110529,
+   "confidence": 0.99999213,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 110545,
+   "end": 110610,
+   "confidence": 0.9999943,
+   "speaker": null
+  },
+  {
+   "text": "miles.",
+   "start": 110626,
+   "end": 111077,
+   "confidence": 0.7595486,
+   "speaker": null
+  },
+  {
+   "text": "It",
+   "start": 111577,
+   "end": 111609,
+   "confidence": 0.9996611,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 111609,
+   "end": 111722,
+   "confidence": 0.99999464,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 111754,
+   "end": 111770,
+   "confidence": 0.9998035,
+   "speaker": null
+  },
+  {
+   "text": "matter",
+   "start": 111770,
+   "end": 112237,
+   "confidence": 0.9999815,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 112237,
+   "end": 112398,
+   "confidence": 0.99998,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 112398,
+   "end": 112785,
+   "confidence": 0.9988991,
+   "speaker": null
+  },
+  {
+   "text": "knowing",
+   "start": 112866,
+   "end": 113333,
+   "confidence": 0.99970645,
+   "speaker": null
+  },
+  {
+   "text": "about",
+   "start": 113349,
+   "end": 113559,
+   "confidence": 0.9998696,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 113607,
+   "end": 113768,
+   "confidence": 0.9998834,
+   "speaker": null
+  },
+  {
+   "text": "people",
+   "start": 113768,
+   "end": 114123,
+   "confidence": 0.99999404,
+   "speaker": null
+  },
+  {
+   "text": "they",
+   "start": 114494,
+   "end": 114751,
+   "confidence": 0.999143,
+   "speaker": null
+  },
+  {
+   "text": "loved.",
+   "start": 114800,
+   "end": 115219,
+   "confidence": 0.9997072,
+   "speaker": null
+  },
+  {
+   "text": "A",
+   "start": 118340,
+   "end": 118356,
+   "confidence": 0.9140912,
+   "speaker": null
+  },
+  {
+   "text": "Norwegian",
+   "start": 118356,
+   "end": 118823,
+   "confidence": 0.9999442,
+   "speaker": null
+  },
+  {
+   "text": "immigrant",
+   "start": 119000,
+   "end": 119500,
+   "confidence": 0.98286116,
+   "speaker": null
+  },
+  {
+   "text": "named",
+   "start": 119500,
+   "end": 119887,
+   "confidence": 0.9979311,
+   "speaker": null
+  },
+  {
+   "text": "John",
+   "start": 119887,
+   "end": 120177,
+   "confidence": 0.998777,
+   "speaker": null
+  },
+  {
+   "text": "Thompson",
+   "start": 120306,
+   "end": 120822,
+   "confidence": 0.9994968,
+   "speaker": null
+  },
+  {
+   "text": "came",
+   "start": 120935,
+   "end": 121144,
+   "confidence": 0.99937904,
+   "speaker": null
+  },
+  {
+   "text": "into",
+   "start": 121193,
+   "end": 121305,
+   "confidence": 0.9970016,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 121370,
+   "end": 121467,
+   "confidence": 0.9999014,
+   "speaker": null
+  },
+  {
+   "text": "post",
+   "start": 121515,
+   "end": 121789,
+   "confidence": 0.9896645,
+   "speaker": null
+  },
+  {
+   "text": "office",
+   "start": 121902,
+   "end": 122128,
+   "confidence": 0.9993967,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 122240,
+   "end": 122450,
+   "confidence": 0.9998348,
+   "speaker": null
+  },
+  {
+   "text": "ask",
+   "start": 122547,
+   "end": 122740,
+   "confidence": 0.9999622,
+   "speaker": null
+  },
+  {
+   "text": "about",
+   "start": 122740,
+   "end": 122950,
+   "confidence": 0.9999143,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 122950,
+   "end": 123046,
+   "confidence": 0.99731725,
+   "speaker": null
+  },
+  {
+   "text": "job.",
+   "start": 123046,
+   "end": 123353,
+   "confidence": 0.999432,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 124140,
+   "end": 124204,
+   "confidence": 0.9995895,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 124252,
+   "end": 124349,
+   "confidence": 0.99999,
+   "speaker": null
+  },
+  {
+   "text": "about",
+   "start": 124349,
+   "end": 124590,
+   "confidence": 0.9999627,
+   "speaker": null
+  },
+  {
+   "text": "28",
+   "start": 124590,
+   "end": 125090,
+   "confidence": 0.9999572,
+   "speaker": null
+  },
+  {
+   "text": "years",
+   "start": 125138,
+   "end": 125444,
+   "confidence": 0.9997706,
+   "speaker": null
+  },
+  {
+   "text": "old.",
+   "start": 125460,
+   "end": 125718,
+   "confidence": 0.99888206,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 126507,
+   "end": 126604,
+   "confidence": 0.99974555,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 126604,
+   "end": 126716,
+   "confidence": 0.98056823,
+   "speaker": null
+  },
+  {
+   "text": "come",
+   "start": 126749,
+   "end": 126878,
+   "confidence": 0.9999465,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 126990,
+   "end": 127071,
+   "confidence": 0.9997049,
+   "speaker": null
+  },
+  {
+   "text": "California",
+   "start": 127071,
+   "end": 127715,
+   "confidence": 0.9999076,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 127715,
+   "end": 127812,
+   "confidence": 0.9999578,
+   "speaker": null
+  },
+  {
+   "text": "dig",
+   "start": 127876,
+   "end": 128102,
+   "confidence": 0.9998592,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 128118,
+   "end": 128279,
+   "confidence": 0.9999864,
+   "speaker": null
+  },
+  {
+   "text": "gold,",
+   "start": 128279,
+   "end": 128698,
+   "confidence": 0.8671679,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 128843,
+   "end": 128907,
+   "confidence": 0.9998772,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 128987,
+   "end": 129165,
+   "confidence": 0.999941,
+   "speaker": null
+  },
+  {
+   "text": "gold",
+   "start": 129165,
+   "end": 129438,
+   "confidence": 0.9999616,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 129471,
+   "end": 129696,
+   "confidence": 0.9986241,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 129793,
+   "end": 130131,
+   "confidence": 0.999954,
+   "speaker": null
+  },
+  {
+   "text": "paid",
+   "start": 130131,
+   "end": 130437,
+   "confidence": 0.9998809,
+   "speaker": null
+  },
+  {
+   "text": "off.",
+   "start": 130437,
+   "end": 130679,
+   "confidence": 0.9999096,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 131903,
+   "end": 132032,
+   "confidence": 0.9992855,
+   "speaker": null
+  },
+  {
+   "text": "wanted",
+   "start": 132128,
+   "end": 132434,
+   "confidence": 0.9999827,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 132466,
+   "end": 132547,
+   "confidence": 0.99992394,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 132547,
+   "end": 132740,
+   "confidence": 0.99982965,
+   "speaker": null
+  },
+  {
+   "text": "job.",
+   "start": 132853,
+   "end": 133095,
+   "confidence": 0.9985208,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 135347,
+   "end": 135428,
+   "confidence": 0.9662908,
+   "speaker": null
+  },
+  {
+   "text": "postmaster",
+   "start": 135428,
+   "end": 136073,
+   "confidence": 0.9858048,
+   "speaker": null
+  },
+  {
+   "text": "told",
+   "start": 136073,
+   "end": 136412,
+   "confidence": 0.9998615,
+   "speaker": null
+  },
+  {
+   "text": "him",
+   "start": 136412,
+   "end": 136557,
+   "confidence": 0.9968047,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 136557,
+   "end": 136638,
+   "confidence": 0.99936444,
+   "speaker": null
+  },
+  {
+   "text": "situation",
+   "start": 136638,
+   "end": 137251,
+   "confidence": 0.9999509,
+   "speaker": null
+  },
+  {
+   "text": "plainly.",
+   "start": 137364,
+   "end": 137816,
+   "confidence": 0.78729284,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 138493,
+   "end": 138574,
+   "confidence": 0.99936384,
+   "speaker": null
+  },
+  {
+   "text": "contract",
+   "start": 138574,
+   "end": 139123,
+   "confidence": 0.99992895,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 139123,
+   "end": 139187,
+   "confidence": 0.9997975,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 139236,
+   "end": 139413,
+   "confidence": 0.99998343,
+   "speaker": null
+  },
+  {
+   "text": "his",
+   "start": 139461,
+   "end": 139591,
+   "confidence": 0.99991643,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 139703,
+   "end": 139833,
+   "confidence": 0.9997681,
+   "speaker": null
+  },
+  {
+   "text": "give.",
+   "start": 139849,
+   "end": 140123,
+   "confidence": 0.9630544,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 140655,
+   "end": 140752,
+   "confidence": 0.99989104,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 140752,
+   "end": 140994,
+   "confidence": 0.9999796,
+   "speaker": null
+  },
+  {
+   "text": "no",
+   "start": 140994,
+   "end": 141236,
+   "confidence": 0.9999869,
+   "speaker": null
+  },
+  {
+   "text": "authority",
+   "start": 141236,
+   "end": 141607,
+   "confidence": 0.9999716,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 141640,
+   "end": 141801,
+   "confidence": 0.99999154,
+   "speaker": null
+  },
+  {
+   "text": "hire",
+   "start": 141801,
+   "end": 142107,
+   "confidence": 0.9998528,
+   "speaker": null
+  },
+  {
+   "text": "Thompson",
+   "start": 142107,
+   "end": 142414,
+   "confidence": 0.99967813,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 142592,
+   "end": 142721,
+   "confidence": 0.9615678,
+   "speaker": null
+  },
+  {
+   "text": "no",
+   "start": 142834,
+   "end": 142979,
+   "confidence": 0.9971733,
+   "speaker": null
+  },
+  {
+   "text": "authority",
+   "start": 142995,
+   "end": 143382,
+   "confidence": 0.9999695,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 143414,
+   "end": 143495,
+   "confidence": 0.99999726,
+   "speaker": null
+  },
+  {
+   "text": "pay",
+   "start": 143495,
+   "end": 143737,
+   "confidence": 0.999974,
+   "speaker": null
+  },
+  {
+   "text": "him.",
+   "start": 143737,
+   "end": 143963,
+   "confidence": 0.99625856,
+   "speaker": null
+  },
+  {
+   "text": "One",
+   "start": 144270,
+   "end": 144382,
+   "confidence": 0.99141675,
+   "speaker": null
+  },
+  {
+   "text": "account",
+   "start": 144382,
+   "end": 144640,
+   "confidence": 0.9997601,
+   "speaker": null
+  },
+  {
+   "text": "says",
+   "start": 144640,
+   "end": 144994,
+   "confidence": 0.9992022,
+   "speaker": null
+  },
+  {
+   "text": "Thompson",
+   "start": 145268,
+   "end": 145639,
+   "confidence": 0.9763624,
+   "speaker": null
+  },
+  {
+   "text": "came",
+   "start": 145671,
+   "end": 145896,
+   "confidence": 0.9999331,
+   "speaker": null
+  },
+  {
+   "text": "back",
+   "start": 145913,
+   "end": 146058,
+   "confidence": 0.99997234,
+   "speaker": null
+  },
+  {
+   "text": "every",
+   "start": 146219,
+   "end": 146364,
+   "confidence": 0.9999372,
+   "speaker": null
+  },
+  {
+   "text": "morning",
+   "start": 146396,
+   "end": 146766,
+   "confidence": 0.99988496,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 146960,
+   "end": 147040,
+   "confidence": 0.99906164,
+   "speaker": null
+  },
+  {
+   "text": "5",
+   "start": 147105,
+   "end": 147330,
+   "confidence": 0.99997103,
+   "speaker": null
+  },
+  {
+   "text": "days",
+   "start": 147507,
+   "end": 147813,
+   "confidence": 0.9999944,
+   "speaker": null
+  },
+  {
+   "text": "until",
+   "start": 148087,
+   "end": 148313,
+   "confidence": 0.94953746,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 148313,
+   "end": 148474,
+   "confidence": 0.9999577,
+   "speaker": null
+  },
+  {
+   "text": "postmaster",
+   "start": 148474,
+   "end": 149167,
+   "confidence": 0.9996225,
+   "speaker": null
+  },
+  {
+   "text": "finally",
+   "start": 149199,
+   "end": 149827,
+   "confidence": 0.9998437,
+   "speaker": null
+  },
+  {
+   "text": "said",
+   "start": 150101,
+   "end": 150487,
+   "confidence": 0.9999212,
+   "speaker": null
+  },
+  {
+   "text": "yes.",
+   "start": 150487,
+   "end": 150906,
+   "confidence": 0.98276603,
+   "speaker": null
+  },
+  {
+   "text": "Over",
+   "start": 152650,
+   "end": 152828,
+   "confidence": 0.98955745,
+   "speaker": null
+  },
+  {
+   "text": "time,",
+   "start": 152828,
+   "end": 153184,
+   "confidence": 0.93033683,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 153248,
+   "end": 153329,
+   "confidence": 0.99728703,
+   "speaker": null
+  },
+  {
+   "text": "earned",
+   "start": 153329,
+   "end": 153556,
+   "confidence": 0.99576664,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 153556,
+   "end": 153588,
+   "confidence": 0.9995333,
+   "speaker": null
+  },
+  {
+   "text": "nickname",
+   "start": 153588,
+   "end": 154106,
+   "confidence": 0.99941325,
+   "speaker": null
+  },
+  {
+   "text": "Snowshoe",
+   "start": 154446,
+   "end": 155062,
+   "confidence": 0.8794082,
+   "speaker": null
+  },
+  {
+   "text": "Thompson,",
+   "start": 155175,
+   "end": 155563,
+   "confidence": 0.8636009,
+   "speaker": null
+  },
+  {
+   "text": "but",
+   "start": 156243,
+   "end": 156340,
+   "confidence": 0.9997304,
+   "speaker": null
+  },
+  {
+   "text": "his",
+   "start": 156340,
+   "end": 156454,
+   "confidence": 0.99907947,
+   "speaker": null
+  },
+  {
+   "text": "actual",
+   "start": 156567,
+   "end": 156875,
+   "confidence": 0.9997297,
+   "speaker": null
+  },
+  {
+   "text": "equipment",
+   "start": 156875,
+   "end": 157490,
+   "confidence": 0.99994886,
+   "speaker": null
+  },
+  {
+   "text": "is",
+   "start": 157538,
+   "end": 157587,
+   "confidence": 0.998659,
+   "speaker": null
+  },
+  {
+   "text": "where",
+   "start": 157700,
+   "end": 157814,
+   "confidence": 0.9999224,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 157846,
+   "end": 157943,
+   "confidence": 0.9993325,
+   "speaker": null
+  },
+  {
+   "text": "nickname",
+   "start": 157943,
+   "end": 158510,
+   "confidence": 0.99862146,
+   "speaker": null
+  },
+  {
+   "text": "goes",
+   "start": 158574,
+   "end": 158801,
+   "confidence": 0.99945873,
+   "speaker": null
+  },
+  {
+   "text": "wrong.",
+   "start": 158898,
+   "end": 159125,
+   "confidence": 0.9979776,
+   "speaker": null
+  },
+  {
+   "text": "People",
+   "start": 160158,
+   "end": 160386,
+   "confidence": 0.9503462,
+   "speaker": null
+  },
+  {
+   "text": "called",
+   "start": 160402,
+   "end": 160565,
+   "confidence": 0.99814045,
+   "speaker": null
+  },
+  {
+   "text": "him",
+   "start": 160565,
+   "end": 160727,
+   "confidence": 0.99950314,
+   "speaker": null
+  },
+  {
+   "text": "\"Snowshoe,\"",
+   "start": 160727,
+   "end": 161312,
+   "confidence": 0.8901267,
+   "speaker": null
+  },
+  {
+   "text": "but",
+   "start": 161458,
+   "end": 161621,
+   "confidence": 0.99985266,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 161621,
+   "end": 161783,
+   "confidence": 0.9999001,
+   "speaker": null
+  },
+  {
+   "text": "did",
+   "start": 161783,
+   "end": 161881,
+   "confidence": 0.9981263,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 161881,
+   "end": 162108,
+   "confidence": 0.9998772,
+   "speaker": null
+  },
+  {
+   "text": "carry",
+   "start": 162108,
+   "end": 162433,
+   "confidence": 0.99959785,
+   "speaker": null
+  },
+  {
+   "text": "snowshoes,",
+   "start": 162433,
+   "end": 163051,
+   "confidence": 0.82926446,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 163473,
+   "end": 163555,
+   "confidence": 0.9987174,
+   "speaker": null
+  },
+  {
+   "text": "woven",
+   "start": 163571,
+   "end": 163945,
+   "confidence": 0.9986557,
+   "speaker": null
+  },
+  {
+   "text": "kind",
+   "start": 163977,
+   "end": 164302,
+   "confidence": 0.9992995,
+   "speaker": null
+  },
+  {
+   "text": "most",
+   "start": 164302,
+   "end": 164497,
+   "confidence": 0.9868536,
+   "speaker": null
+  },
+  {
+   "text": "people",
+   "start": 164546,
+   "end": 164757,
+   "confidence": 0.9999554,
+   "speaker": null
+  },
+  {
+   "text": "picture.",
+   "start": 164790,
+   "end": 165131,
+   "confidence": 0.995658,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 165940,
+   "end": 165988,
+   "confidence": 0.9992169,
+   "speaker": null
+  },
+  {
+   "text": "used",
+   "start": 166036,
+   "end": 166181,
+   "confidence": 0.99983084,
+   "speaker": null
+  },
+  {
+   "text": "long",
+   "start": 166277,
+   "end": 166583,
+   "confidence": 0.9995291,
+   "speaker": null
+  },
+  {
+   "text": "wooden",
+   "start": 166679,
+   "end": 166985,
+   "confidence": 0.9707637,
+   "speaker": null
+  },
+  {
+   "text": "boards",
+   "start": 167017,
+   "end": 167467,
+   "confidence": 0.9996549,
+   "speaker": null
+  },
+  {
+   "text": "about",
+   "start": 167499,
+   "end": 167692,
+   "confidence": 0.59611535,
+   "speaker": null
+  },
+  {
+   "text": "10",
+   "start": 167885,
+   "end": 168014,
+   "confidence": 0.9998951,
+   "speaker": null
+  },
+  {
+   "text": "feet",
+   "start": 168126,
+   "end": 168335,
+   "confidence": 0.990957,
+   "speaker": null
+  },
+  {
+   "text": "long,",
+   "start": 168383,
+   "end": 168673,
+   "confidence": 0.9765659,
+   "speaker": null
+  },
+  {
+   "text": "weighing",
+   "start": 169268,
+   "end": 169525,
+   "confidence": 0.9996393,
+   "speaker": null
+  },
+  {
+   "text": "roughly",
+   "start": 169589,
+   "end": 169959,
+   "confidence": 0.99900764,
+   "speaker": null
+  },
+  {
+   "text": "25",
+   "start": 170055,
+   "end": 171004,
+   "confidence": 0.9998622,
+   "speaker": null
+  },
+  {
+   "text": "pounds",
+   "start": 171036,
+   "end": 171502,
+   "confidence": 0.9947745,
+   "speaker": null
+  },
+  {
+   "text": "each.",
+   "start": 171502,
+   "end": 171920,
+   "confidence": 0.99704576,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 172724,
+   "end": 172853,
+   "confidence": 0.9912498,
+   "speaker": null
+  },
+  {
+   "text": "Sacramento",
+   "start": 172869,
+   "end": 173303,
+   "confidence": 0.99909997,
+   "speaker": null
+  },
+  {
+   "text": "paper",
+   "start": 173367,
+   "end": 173641,
+   "confidence": 0.983754,
+   "speaker": null
+  },
+  {
+   "text": "called",
+   "start": 173769,
+   "end": 173978,
+   "confidence": 0.99981636,
+   "speaker": null
+  },
+  {
+   "text": "them",
+   "start": 174075,
+   "end": 174139,
+   "confidence": 0.9997429,
+   "speaker": null
+  },
+  {
+   "text": "\"Norwegian",
+   "start": 174236,
+   "end": 174851,
+   "confidence": 0.9311722,
+   "speaker": null
+  },
+  {
+   "text": "skates.\"",
+   "start": 174916,
+   "end": 175369,
+   "confidence": 0.9779325,
+   "speaker": null
+  },
+  {
+   "text": "Today,",
+   "start": 176113,
+   "end": 176372,
+   "confidence": 0.78190875,
+   "speaker": null
+  },
+  {
+   "text": "we",
+   "start": 177166,
+   "end": 177311,
+   "confidence": 0.99970907,
+   "speaker": null
+  },
+  {
+   "text": "call",
+   "start": 177311,
+   "end": 177441,
+   "confidence": 0.99412835,
+   "speaker": null
+  },
+  {
+   "text": "them",
+   "start": 177489,
+   "end": 177651,
+   "confidence": 0.99984753,
+   "speaker": null
+  },
+  {
+   "text": "skis.",
+   "start": 177651,
+   "end": 178105,
+   "confidence": 0.9415912,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 179594,
+   "end": 179739,
+   "confidence": 0.99525756,
+   "speaker": null
+  },
+  {
+   "text": "also",
+   "start": 179739,
+   "end": 179998,
+   "confidence": 0.9999044,
+   "speaker": null
+  },
+  {
+   "text": "carried",
+   "start": 179998,
+   "end": 180322,
+   "confidence": 0.99990976,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 180322,
+   "end": 180338,
+   "confidence": 0.9997825,
+   "speaker": null
+  },
+  {
+   "text": "single",
+   "start": 180338,
+   "end": 180840,
+   "confidence": 0.99967194,
+   "speaker": null
+  },
+  {
+   "text": "long",
+   "start": 180970,
+   "end": 181180,
+   "confidence": 0.87627834,
+   "speaker": null
+  },
+  {
+   "text": "pole.",
+   "start": 181374,
+   "end": 181569,
+   "confidence": 0.9698454,
+   "speaker": null
+  },
+  {
+   "text": "It",
+   "start": 182332,
+   "end": 182398,
+   "confidence": 0.9996675,
+   "speaker": null
+  },
+  {
+   "text": "helped",
+   "start": 182398,
+   "end": 182627,
+   "confidence": 0.99995196,
+   "speaker": null
+  },
+  {
+   "text": "him",
+   "start": 182627,
+   "end": 182807,
+   "confidence": 0.9987286,
+   "speaker": null
+  },
+  {
+   "text": "push,",
+   "start": 182807,
+   "end": 183036,
+   "confidence": 0.99461126,
+   "speaker": null
+  },
+  {
+   "text": "balance,",
+   "start": 183561,
+   "end": 184134,
+   "confidence": 0.97364765,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 184363,
+   "end": 184461,
+   "confidence": 0.99988365,
+   "speaker": null
+  },
+  {
+   "text": "slow",
+   "start": 184527,
+   "end": 184789,
+   "confidence": 0.9980716,
+   "speaker": null
+  },
+  {
+   "text": "himself",
+   "start": 184854,
+   "end": 185378,
+   "confidence": 0.9999316,
+   "speaker": null
+  },
+  {
+   "text": "when",
+   "start": 185428,
+   "end": 185559,
+   "confidence": 0.9946402,
+   "speaker": null
+  },
+  {
+   "text": "going",
+   "start": 185608,
+   "end": 185886,
+   "confidence": 0.99990165,
+   "speaker": null
+  },
+  {
+   "text": "downhill.",
+   "start": 185935,
+   "end": 186377,
+   "confidence": 0.99032146,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 187749,
+   "end": 187830,
+   "confidence": 0.95401466,
+   "speaker": null
+  },
+  {
+   "text": "method",
+   "start": 187830,
+   "end": 188151,
+   "confidence": 0.9995975,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 188151,
+   "end": 188263,
+   "confidence": 0.9998814,
+   "speaker": null
+  },
+  {
+   "text": "different",
+   "start": 188408,
+   "end": 188697,
+   "confidence": 0.9998584,
+   "speaker": null
+  },
+  {
+   "text": "from",
+   "start": 188729,
+   "end": 188857,
+   "confidence": 0.99807215,
+   "speaker": null
+  },
+  {
+   "text": "walking",
+   "start": 188953,
+   "end": 189259,
+   "confidence": 0.9997732,
+   "speaker": null
+  },
+  {
+   "text": "across",
+   "start": 189291,
+   "end": 189676,
+   "confidence": 0.99862623,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 189676,
+   "end": 189788,
+   "confidence": 0.998558,
+   "speaker": null
+  },
+  {
+   "text": "snow.",
+   "start": 189788,
+   "end": 190126,
+   "confidence": 0.8912289,
+   "speaker": null
+  },
+  {
+   "text": "It",
+   "start": 190559,
+   "end": 190639,
+   "confidence": 0.9995078,
+   "speaker": null
+  },
+  {
+   "text": "allowed",
+   "start": 190639,
+   "end": 190977,
+   "confidence": 0.99987006,
+   "speaker": null
+  },
+  {
+   "text": "him",
+   "start": 190977,
+   "end": 191137,
+   "confidence": 0.9997098,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 191137,
+   "end": 191169,
+   "confidence": 0.9999733,
+   "speaker": null
+  },
+  {
+   "text": "slide",
+   "start": 191217,
+   "end": 191860,
+   "confidence": 0.9668951,
+   "speaker": null
+  },
+  {
+   "text": "over.",
+   "start": 191860,
+   "end": 192117,
+   "confidence": 0.7736716,
+   "speaker": null
+  },
+  {
+   "text": "But",
+   "start": 192968,
+   "end": 193064,
+   "confidence": 0.9969806,
+   "speaker": null
+  },
+  {
+   "text": "that",
+   "start": 193064,
+   "end": 193289,
+   "confidence": 0.9975097,
+   "speaker": null
+  },
+  {
+   "text": "did",
+   "start": 193289,
+   "end": 193385,
+   "confidence": 0.99874747,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 193385,
+   "end": 193562,
+   "confidence": 0.9999838,
+   "speaker": null
+  },
+  {
+   "text": "remove",
+   "start": 193610,
+   "end": 194092,
+   "confidence": 0.999059,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 194092,
+   "end": 194252,
+   "confidence": 0.99994826,
+   "speaker": null
+  },
+  {
+   "text": "climb",
+   "start": 194252,
+   "end": 194605,
+   "confidence": 0.9998741,
+   "speaker": null
+  },
+  {
+   "text": "over",
+   "start": 194605,
+   "end": 194814,
+   "confidence": 0.99748766,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 194814,
+   "end": 194846,
+   "confidence": 0.9991724,
+   "speaker": null
+  },
+  {
+   "text": "mountains.",
+   "start": 194846,
+   "end": 195360,
+   "confidence": 0.791119,
+   "speaker": null
+  },
+  {
+   "text": "It",
+   "start": 195794,
+   "end": 195874,
+   "confidence": 0.9996865,
+   "speaker": null
+  },
+  {
+   "text": "did",
+   "start": 195874,
+   "end": 195970,
+   "confidence": 0.9998919,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 195970,
+   "end": 196147,
+   "confidence": 0.9999887,
+   "speaker": null
+  },
+  {
+   "text": "shorten",
+   "start": 196195,
+   "end": 196677,
+   "confidence": 0.99991,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 196677,
+   "end": 196757,
+   "confidence": 0.99994826,
+   "speaker": null
+  },
+  {
+   "text": "distance.",
+   "start": 196821,
+   "end": 197319,
+   "confidence": 0.68531734,
+   "speaker": null
+  },
+  {
+   "text": "And",
+   "start": 197785,
+   "end": 197865,
+   "confidence": 0.99656963,
+   "speaker": null
+  },
+  {
+   "text": "it",
+   "start": 197881,
+   "end": 198042,
+   "confidence": 0.99980754,
+   "speaker": null
+  },
+  {
+   "text": "did",
+   "start": 198042,
+   "end": 198154,
+   "confidence": 0.99977654,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 198202,
+   "end": 198539,
+   "confidence": 0.99999094,
+   "speaker": null
+  },
+  {
+   "text": "make",
+   "start": 198539,
+   "end": 198764,
+   "confidence": 0.99993646,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 198764,
+   "end": 198828,
+   "confidence": 0.9999479,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 198828,
+   "end": 199037,
+   "confidence": 0.9998324,
+   "speaker": null
+  },
+  {
+   "text": "carry",
+   "start": 199165,
+   "end": 199455,
+   "confidence": 0.99946386,
+   "speaker": null
+  },
+  {
+   "text": "itself.",
+   "start": 199487,
+   "end": 199952,
+   "confidence": 0.99425757,
+   "speaker": null
+  },
+  {
+   "text": "But",
+   "start": 200611,
+   "end": 200932,
+   "confidence": 0.999166,
+   "speaker": null
+  },
+  {
+   "text": "it",
+   "start": 201349,
+   "end": 201462,
+   "confidence": 0.9223169,
+   "speaker": null
+  },
+  {
+   "text": "gave",
+   "start": 201494,
+   "end": 201718,
+   "confidence": 0.99977857,
+   "speaker": null
+  },
+  {
+   "text": "him",
+   "start": 201718,
+   "end": 201895,
+   "confidence": 0.9969308,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 201895,
+   "end": 202040,
+   "confidence": 0.99997354,
+   "speaker": null
+  },
+  {
+   "text": "workable",
+   "start": 202056,
+   "end": 202441,
+   "confidence": 0.9997864,
+   "speaker": null
+  },
+  {
+   "text": "way",
+   "start": 202521,
+   "end": 202714,
+   "confidence": 0.9999691,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 203019,
+   "end": 203228,
+   "confidence": 0.99967146,
+   "speaker": null
+  },
+  {
+   "text": "cover",
+   "start": 203244,
+   "end": 203453,
+   "confidence": 0.99969554,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 203517,
+   "end": 203661,
+   "confidence": 0.9999666,
+   "speaker": null
+  },
+  {
+   "text": "nearly",
+   "start": 203661,
+   "end": 204111,
+   "confidence": 0.9999038,
+   "speaker": null
+  },
+  {
+   "text": "90",
+   "start": 204127,
+   "end": 204673,
+   "confidence": 0.99988306,
+   "speaker": null
+  },
+  {
+   "text": "miles",
+   "start": 204721,
+   "end": 205315,
+   "confidence": 0.9999051,
+   "speaker": null
+  },
+  {
+   "text": "between",
+   "start": 205412,
+   "end": 206038,
+   "confidence": 0.99815863,
+   "speaker": null
+  },
+  {
+   "text": "Placerville",
+   "start": 206150,
+   "end": 206744,
+   "confidence": 0.99600804,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 206857,
+   "end": 207017,
+   "confidence": 0.99979526,
+   "speaker": null
+  },
+  {
+   "text": "Carson",
+   "start": 207017,
+   "end": 207322,
+   "confidence": 0.9978806,
+   "speaker": null
+  },
+  {
+   "text": "Valley",
+   "start": 207435,
+   "end": 207724,
+   "confidence": 0.99963677,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 208237,
+   "end": 208286,
+   "confidence": 0.839909,
+   "speaker": null
+  },
+  {
+   "text": "what",
+   "start": 208318,
+   "end": 208462,
+   "confidence": 0.99950683,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 208462,
+   "end": 208526,
+   "confidence": 0.99969065,
+   "speaker": null
+  },
+  {
+   "text": "then",
+   "start": 208703,
+   "end": 208880,
+   "confidence": 0.9997384,
+   "speaker": null
+  },
+  {
+   "text": "Utah",
+   "start": 209024,
+   "end": 209297,
+   "confidence": 0.996626,
+   "speaker": null
+  },
+  {
+   "text": "Territory",
+   "start": 209442,
+   "end": 210052,
+   "confidence": 0.9657558,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 210646,
+   "end": 210710,
+   "confidence": 0.9222654,
+   "speaker": null
+  },
+  {
+   "text": "is",
+   "start": 210742,
+   "end": 210855,
+   "confidence": 0.99836165,
+   "speaker": null
+  },
+  {
+   "text": "now",
+   "start": 210887,
+   "end": 211063,
+   "confidence": 0.99989283,
+   "speaker": null
+  },
+  {
+   "text": "Nevada.",
+   "start": 211208,
+   "end": 211674,
+   "confidence": 0.99879634,
+   "speaker": null
+  },
+  {
+   "text": "So",
+   "start": 213526,
+   "end": 213671,
+   "confidence": 0.9821764,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 213671,
+   "end": 213768,
+   "confidence": 0.93308973,
+   "speaker": null
+  },
+  {
+   "text": "nickname",
+   "start": 213768,
+   "end": 214123,
+   "confidence": 0.99962497,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 214155,
+   "end": 214219,
+   "confidence": 0.9989813,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 214268,
+   "end": 214332,
+   "confidence": 0.9997509,
+   "speaker": null
+  },
+  {
+   "text": "misnomer.",
+   "start": 214332,
+   "end": 214897,
+   "confidence": 0.9955925,
+   "speaker": null
+  },
+  {
+   "text": "Snowshoes",
+   "start": 215461,
+   "end": 215929,
+   "confidence": 0.99936277,
+   "speaker": null
+  },
+  {
+   "text": "are",
+   "start": 215929,
+   "end": 216026,
+   "confidence": 0.99157286,
+   "speaker": null
+  },
+  {
+   "text": "built",
+   "start": 216026,
+   "end": 216187,
+   "confidence": 0.9991165,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 216187,
+   "end": 216268,
+   "confidence": 0.9999709,
+   "speaker": null
+  },
+  {
+   "text": "stay",
+   "start": 216268,
+   "end": 216510,
+   "confidence": 0.99926597,
+   "speaker": null
+  },
+  {
+   "text": "on",
+   "start": 216510,
+   "end": 216671,
+   "confidence": 0.99941623,
+   "speaker": null
+  },
+  {
+   "text": "top",
+   "start": 216671,
+   "end": 216913,
+   "confidence": 0.99906296,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 216913,
+   "end": 216978,
+   "confidence": 0.9999906,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 216978,
+   "end": 217058,
+   "confidence": 0.9993418,
+   "speaker": null
+  },
+  {
+   "text": "snow.",
+   "start": 217058,
+   "end": 217381,
+   "confidence": 0.95822185,
+   "speaker": null
+  },
+  {
+   "text": "Thompson's",
+   "start": 217962,
+   "end": 218381,
+   "confidence": 0.9991467,
+   "speaker": null
+  },
+  {
+   "text": "boards",
+   "start": 218446,
+   "end": 218897,
+   "confidence": 0.99820435,
+   "speaker": null
+  },
+  {
+   "text": "were",
+   "start": 219010,
+   "end": 219171,
+   "confidence": 0.99986887,
+   "speaker": null
+  },
+  {
+   "text": "built",
+   "start": 219171,
+   "end": 219413,
+   "confidence": 0.99943644,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 219413,
+   "end": 219542,
+   "confidence": 0.9999751,
+   "speaker": null
+  },
+  {
+   "text": "slide",
+   "start": 219559,
+   "end": 220026,
+   "confidence": 0.99975735,
+   "speaker": null
+  },
+  {
+   "text": "across",
+   "start": 220220,
+   "end": 220639,
+   "confidence": 0.9989998,
+   "speaker": null
+  },
+  {
+   "text": "it.",
+   "start": 220639,
+   "end": 220785,
+   "confidence": 0.9989054,
+   "speaker": null
+  },
+  {
+   "text": "Then",
+   "start": 222216,
+   "end": 222329,
+   "confidence": 0.99566084,
+   "speaker": null
+  },
+  {
+   "text": "there",
+   "start": 222329,
+   "end": 222458,
+   "confidence": 0.9889169,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 222458,
+   "end": 222604,
+   "confidence": 0.9999794,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 222636,
+   "end": 222781,
+   "confidence": 0.9999095,
+   "speaker": null
+  },
+  {
+   "text": "load.",
+   "start": 222781,
+   "end": 223136,
+   "confidence": 0.9548039,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 223992,
+   "end": 224153,
+   "confidence": 0.9996276,
+   "speaker": null
+  },
+  {
+   "text": "carried",
+   "start": 224153,
+   "end": 224427,
+   "confidence": 0.9999504,
+   "speaker": null
+  },
+  {
+   "text": "60",
+   "start": 224476,
+   "end": 224944,
+   "confidence": 0.99990976,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 225041,
+   "end": 225105,
+   "confidence": 0.99555933,
+   "speaker": null
+  },
+  {
+   "text": "80",
+   "start": 225121,
+   "end": 225428,
+   "confidence": 0.99976724,
+   "speaker": null
+  },
+  {
+   "text": "pounds",
+   "start": 225460,
+   "end": 225799,
+   "confidence": 0.9964212,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 225799,
+   "end": 225880,
+   "confidence": 0.9998709,
+   "speaker": null
+  },
+  {
+   "text": "letters",
+   "start": 225928,
+   "end": 226235,
+   "confidence": 0.9999404,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 226267,
+   "end": 226413,
+   "confidence": 0.9998072,
+   "speaker": null
+  },
+  {
+   "text": "packages,",
+   "start": 226413,
+   "end": 226881,
+   "confidence": 0.96767265,
+   "speaker": null
+  },
+  {
+   "text": "sometimes",
+   "start": 226994,
+   "end": 227478,
+   "confidence": 0.99967444,
+   "speaker": null
+  },
+  {
+   "text": "more.",
+   "start": 227542,
+   "end": 227671,
+   "confidence": 0.999654,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 229156,
+   "end": 229221,
+   "confidence": 0.9993643,
+   "speaker": null
+  },
+  {
+   "text": "carried",
+   "start": 229253,
+   "end": 229640,
+   "confidence": 0.9999763,
+   "speaker": null
+  },
+  {
+   "text": "little",
+   "start": 229640,
+   "end": 229834,
+   "confidence": 0.9990638,
+   "speaker": null
+  },
+  {
+   "text": "food.",
+   "start": 229834,
+   "end": 230270,
+   "confidence": 0.8907917,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 230463,
+   "end": 230609,
+   "confidence": 0.99993145,
+   "speaker": null
+  },
+  {
+   "text": "melted",
+   "start": 230625,
+   "end": 230948,
+   "confidence": 0.99983037,
+   "speaker": null
+  },
+  {
+   "text": "snow",
+   "start": 230948,
+   "end": 231287,
+   "confidence": 0.99987495,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 231287,
+   "end": 231416,
+   "confidence": 0.99995565,
+   "speaker": null
+  },
+  {
+   "text": "water.",
+   "start": 231416,
+   "end": 231756,
+   "confidence": 0.99932337,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 232307,
+   "end": 232372,
+   "confidence": 0.9998448,
+   "speaker": null
+  },
+  {
+   "text": "went",
+   "start": 232550,
+   "end": 232696,
+   "confidence": 0.9998274,
+   "speaker": null
+  },
+  {
+   "text": "without",
+   "start": 232729,
+   "end": 233004,
+   "confidence": 0.9999001,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 233037,
+   "end": 233134,
+   "confidence": 0.9999645,
+   "speaker": null
+  },
+  {
+   "text": "blanket",
+   "start": 233134,
+   "end": 233539,
+   "confidence": 0.99996066,
+   "speaker": null
+  },
+  {
+   "text": "because",
+   "start": 233620,
+   "end": 233993,
+   "confidence": 0.8270577,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 234171,
+   "end": 234187,
+   "confidence": 0.9993993,
+   "speaker": null
+  },
+  {
+   "text": "blanket",
+   "start": 234252,
+   "end": 234674,
+   "confidence": 0.99996877,
+   "speaker": null
+  },
+  {
+   "text": "would",
+   "start": 234674,
+   "end": 234771,
+   "confidence": 0.9999664,
+   "speaker": null
+  },
+  {
+   "text": "have",
+   "start": 234771,
+   "end": 234884,
+   "confidence": 0.9550317,
+   "speaker": null
+  },
+  {
+   "text": "taken",
+   "start": 234982,
+   "end": 235273,
+   "confidence": 0.99996424,
+   "speaker": null
+  },
+  {
+   "text": "room",
+   "start": 235468,
+   "end": 235679,
+   "confidence": 0.99927956,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 235873,
+   "end": 235954,
+   "confidence": 0.9880404,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 235954,
+   "end": 236165,
+   "confidence": 0.998648,
+   "speaker": null
+  },
+  {
+   "text": "needed.",
+   "start": 236230,
+   "end": 236554,
+   "confidence": 0.9995336,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 238278,
+   "end": 238376,
+   "confidence": 0.89721996,
+   "speaker": null
+  },
+  {
+   "text": "crossing",
+   "start": 238424,
+   "end": 238733,
+   "confidence": 0.98950213,
+   "speaker": null
+  },
+  {
+   "text": "took",
+   "start": 238765,
+   "end": 238943,
+   "confidence": 0.9997341,
+   "speaker": null
+  },
+  {
+   "text": "about",
+   "start": 238943,
+   "end": 239089,
+   "confidence": 0.99974245,
+   "speaker": null
+  },
+  {
+   "text": "3",
+   "start": 239089,
+   "end": 239495,
+   "confidence": 0.9999931,
+   "speaker": null
+  },
+  {
+   "text": "days",
+   "start": 239495,
+   "end": 239706,
+   "confidence": 0.9999856,
+   "speaker": null
+  },
+  {
+   "text": "going",
+   "start": 239803,
+   "end": 240030,
+   "confidence": 0.9980422,
+   "speaker": null
+  },
+  {
+   "text": "east",
+   "start": 240127,
+   "end": 240452,
+   "confidence": 0.99434173,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 240452,
+   "end": 240630,
+   "confidence": 0.88453966,
+   "speaker": null
+  },
+  {
+   "text": "about",
+   "start": 240630,
+   "end": 240825,
+   "confidence": 0.9993968,
+   "speaker": null
+  },
+  {
+   "text": "2",
+   "start": 240873,
+   "end": 241100,
+   "confidence": 0.9999628,
+   "speaker": null
+  },
+  {
+   "text": "days",
+   "start": 241100,
+   "end": 241328,
+   "confidence": 0.99992776,
+   "speaker": null
+  },
+  {
+   "text": "coming",
+   "start": 241360,
+   "end": 241636,
+   "confidence": 0.99971133,
+   "speaker": null
+  },
+  {
+   "text": "back.",
+   "start": 241749,
+   "end": 241960,
+   "confidence": 0.99319726,
+   "speaker": null
+  },
+  {
+   "text": "On",
+   "start": 243490,
+   "end": 243522,
+   "confidence": 0.9941292,
+   "speaker": null
+  },
+  {
+   "text": "some",
+   "start": 243538,
+   "end": 243814,
+   "confidence": 0.9994313,
+   "speaker": null
+  },
+  {
+   "text": "days,",
+   "start": 243846,
+   "end": 244138,
+   "confidence": 0.84271,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 244802,
+   "end": 244867,
+   "confidence": 0.9998004,
+   "speaker": null
+  },
+  {
+   "text": "covered",
+   "start": 244964,
+   "end": 245353,
+   "confidence": 0.9993974,
+   "speaker": null
+  },
+  {
+   "text": "close",
+   "start": 245370,
+   "end": 245694,
+   "confidence": 0.9995307,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 245694,
+   "end": 245742,
+   "confidence": 0.9999187,
+   "speaker": null
+  },
+  {
+   "text": "45",
+   "start": 245791,
+   "end": 246488,
+   "confidence": 0.9998765,
+   "speaker": null
+  },
+  {
+   "text": "miles.",
+   "start": 246666,
+   "end": 247055,
+   "confidence": 0.9929856,
+   "speaker": null
+  },
+  {
+   "text": "In",
+   "start": 249930,
+   "end": 249962,
+   "confidence": 0.9367034,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 249962,
+   "end": 250043,
+   "confidence": 0.9996562,
+   "speaker": null
+  },
+  {
+   "text": "winter",
+   "start": 250043,
+   "end": 250367,
+   "confidence": 0.99980015,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 250367,
+   "end": 250497,
+   "confidence": 0.9999392,
+   "speaker": null
+  },
+  {
+   "text": "1856,",
+   "start": 250497,
+   "end": 251696,
+   "confidence": 0.99758464,
+   "speaker": null
+  },
+  {
+   "text": "on",
+   "start": 251810,
+   "end": 251956,
+   "confidence": 0.9986958,
+   "speaker": null
+  },
+  {
+   "text": "one",
+   "start": 252069,
+   "end": 252199,
+   "confidence": 0.9979418,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 252248,
+   "end": 252329,
+   "confidence": 0.9999665,
+   "speaker": null
+  },
+  {
+   "text": "those",
+   "start": 252377,
+   "end": 252523,
+   "confidence": 0.9921314,
+   "speaker": null
+  },
+  {
+   "text": "crossings,",
+   "start": 252620,
+   "end": 253172,
+   "confidence": 0.9962532,
+   "speaker": null
+  },
+  {
+   "text": "Thompson",
+   "start": 253788,
+   "end": 254128,
+   "confidence": 0.9995284,
+   "speaker": null
+  },
+  {
+   "text": "came",
+   "start": 254177,
+   "end": 254371,
+   "confidence": 0.9998785,
+   "speaker": null
+  },
+  {
+   "text": "upon",
+   "start": 254420,
+   "end": 254728,
+   "confidence": 0.99984264,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 254728,
+   "end": 254744,
+   "confidence": 0.9999844,
+   "speaker": null
+  },
+  {
+   "text": "prospector",
+   "start": 254744,
+   "end": 255474,
+   "confidence": 0.99997824,
+   "speaker": null
+  },
+  {
+   "text": "named",
+   "start": 255538,
+   "end": 256025,
+   "confidence": 0.9994584,
+   "speaker": null
+  },
+  {
+   "text": "James",
+   "start": 256025,
+   "end": 256446,
+   "confidence": 0.9998235,
+   "speaker": null
+  },
+  {
+   "text": "Sisson.",
+   "start": 256624,
+   "end": 257062,
+   "confidence": 0.9992246,
+   "speaker": null
+  },
+  {
+   "text": "Sisson",
+   "start": 258090,
+   "end": 258365,
+   "confidence": 0.9995471,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 258365,
+   "end": 258592,
+   "confidence": 0.999879,
+   "speaker": null
+  },
+  {
+   "text": "alone",
+   "start": 258592,
+   "end": 258964,
+   "confidence": 0.9995778,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 259013,
+   "end": 259110,
+   "confidence": 0.99759114,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 259110,
+   "end": 259175,
+   "confidence": 0.99933165,
+   "speaker": null
+  },
+  {
+   "text": "cabin",
+   "start": 259175,
+   "end": 259531,
+   "confidence": 0.99988484,
+   "speaker": null
+  },
+  {
+   "text": "south",
+   "start": 259645,
+   "end": 259985,
+   "confidence": 0.9938134,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 260001,
+   "end": 260131,
+   "confidence": 0.9999876,
+   "speaker": null
+  },
+  {
+   "text": "Lake",
+   "start": 260131,
+   "end": 260309,
+   "confidence": 0.99992645,
+   "speaker": null
+  },
+  {
+   "text": "Tahoe.",
+   "start": 260309,
+   "end": 260714,
+   "confidence": 0.99547535,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 261605,
+   "end": 261751,
+   "confidence": 0.99951506,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 261751,
+   "end": 261815,
+   "confidence": 0.99746764,
+   "speaker": null
+  },
+  {
+   "text": "been",
+   "start": 261929,
+   "end": 262042,
+   "confidence": 0.99997497,
+   "speaker": null
+  },
+  {
+   "text": "there",
+   "start": 262172,
+   "end": 262285,
+   "confidence": 0.99883,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 262480,
+   "end": 262706,
+   "confidence": 0.9992849,
+   "speaker": null
+  },
+  {
+   "text": "12",
+   "start": 262836,
+   "end": 263192,
+   "confidence": 0.99996066,
+   "speaker": null
+  },
+  {
+   "text": "days.",
+   "start": 263225,
+   "end": 263516,
+   "confidence": 0.94025964,
+   "speaker": null
+  },
+  {
+   "text": "Living",
+   "start": 264107,
+   "end": 264333,
+   "confidence": 0.5354916,
+   "speaker": null
+  },
+  {
+   "text": "on",
+   "start": 264365,
+   "end": 264510,
+   "confidence": 0.99989724,
+   "speaker": null
+  },
+  {
+   "text": "raw",
+   "start": 264526,
+   "end": 264703,
+   "confidence": 0.99887246,
+   "speaker": null
+  },
+  {
+   "text": "flour",
+   "start": 264703,
+   "end": 265283,
+   "confidence": 0.9990701,
+   "speaker": null
+  },
+  {
+   "text": "with",
+   "start": 265573,
+   "end": 265782,
+   "confidence": 0.84291935,
+   "speaker": null
+  },
+  {
+   "text": "no",
+   "start": 265960,
+   "end": 266121,
+   "confidence": 0.9999759,
+   "speaker": null
+  },
+  {
+   "text": "fire",
+   "start": 266137,
+   "end": 266411,
+   "confidence": 0.99990547,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 267023,
+   "end": 267087,
+   "confidence": 0.76282346,
+   "speaker": null
+  },
+  {
+   "text": "his",
+   "start": 267103,
+   "end": 267232,
+   "confidence": 0.99911577,
+   "speaker": null
+  },
+  {
+   "text": "boots",
+   "start": 267426,
+   "end": 267941,
+   "confidence": 0.99986315,
+   "speaker": null
+  },
+  {
+   "text": "frozen",
+   "start": 268328,
+   "end": 268843,
+   "confidence": 0.9980622,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 269181,
+   "end": 269294,
+   "confidence": 0.9998336,
+   "speaker": null
+  },
+  {
+   "text": "his",
+   "start": 269358,
+   "end": 269487,
+   "confidence": 0.99998546,
+   "speaker": null
+  },
+  {
+   "text": "feet.",
+   "start": 269745,
+   "end": 269890,
+   "confidence": 0.99973226,
+   "speaker": null
+  },
+  {
+   "text": "Thompson",
+   "start": 271533,
+   "end": 271920,
+   "confidence": 0.99900997,
+   "speaker": null
+  },
+  {
+   "text": "couldn't",
+   "start": 272081,
+   "end": 272322,
+   "confidence": 0.9999628,
+   "speaker": null
+  },
+  {
+   "text": "move",
+   "start": 272338,
+   "end": 272516,
+   "confidence": 0.9996532,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 272516,
+   "end": 272596,
+   "confidence": 0.99925095,
+   "speaker": null
+  },
+  {
+   "text": "man",
+   "start": 272596,
+   "end": 272773,
+   "confidence": 0.9998846,
+   "speaker": null
+  },
+  {
+   "text": "himself,",
+   "start": 272790,
+   "end": 273240,
+   "confidence": 0.93597484,
+   "speaker": null
+  },
+  {
+   "text": "so",
+   "start": 273289,
+   "end": 273611,
+   "confidence": 0.9995047,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 273772,
+   "end": 274013,
+   "confidence": 0.99986935,
+   "speaker": null
+  },
+  {
+   "text": "went",
+   "start": 274029,
+   "end": 274255,
+   "confidence": 0.9995241,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 274255,
+   "end": 274319,
+   "confidence": 0.9979596,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 274351,
+   "end": 274496,
+   "confidence": 0.99920255,
+   "speaker": null
+  },
+  {
+   "text": "town",
+   "start": 274496,
+   "end": 274770,
+   "confidence": 0.99990404,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 274770,
+   "end": 274883,
+   "confidence": 0.9999337,
+   "speaker": null
+  },
+  {
+   "text": "Genoa",
+   "start": 274979,
+   "end": 275430,
+   "confidence": 0.99864304,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 275881,
+   "end": 275946,
+   "confidence": 0.98185515,
+   "speaker": null
+  },
+  {
+   "text": "came",
+   "start": 276042,
+   "end": 276268,
+   "confidence": 0.9991511,
+   "speaker": null
+  },
+  {
+   "text": "back",
+   "start": 276284,
+   "end": 276461,
+   "confidence": 0.9999944,
+   "speaker": null
+  },
+  {
+   "text": "with",
+   "start": 276509,
+   "end": 276606,
+   "confidence": 0.9999832,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 276606,
+   "end": 276751,
+   "confidence": 0.9999455,
+   "speaker": null
+  },
+  {
+   "text": "team",
+   "start": 276751,
+   "end": 276944,
+   "confidence": 0.99998474,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 277008,
+   "end": 277105,
+   "confidence": 0.99995434,
+   "speaker": null
+  },
+  {
+   "text": "men",
+   "start": 277105,
+   "end": 277475,
+   "confidence": 0.99995625,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 277475,
+   "end": 277540,
+   "confidence": 0.9962664,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 277556,
+   "end": 277572,
+   "confidence": 0.99970883,
+   "speaker": null
+  },
+  {
+   "text": "sled.",
+   "start": 277588,
+   "end": 278007,
+   "confidence": 0.9987332,
+   "speaker": null
+  },
+  {
+   "text": "Together,",
+   "start": 278699,
+   "end": 279182,
+   "confidence": 0.7257062,
+   "speaker": null
+  },
+  {
+   "text": "they",
+   "start": 279198,
+   "end": 279392,
+   "confidence": 0.9998066,
+   "speaker": null
+  },
+  {
+   "text": "hauled",
+   "start": 279408,
+   "end": 279746,
+   "confidence": 0.9998805,
+   "speaker": null
+  },
+  {
+   "text": "Sisson",
+   "start": 279746,
+   "end": 280197,
+   "confidence": 0.99923545,
+   "speaker": null
+  },
+  {
+   "text": "out",
+   "start": 280293,
+   "end": 280615,
+   "confidence": 0.99977833,
+   "speaker": null
+  },
+  {
+   "text": "through",
+   "start": 280615,
+   "end": 280970,
+   "confidence": 0.9979547,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 281018,
+   "end": 281115,
+   "confidence": 0.99984,
+   "speaker": null
+  },
+  {
+   "text": "snowdrifts.",
+   "start": 281115,
+   "end": 281775,
+   "confidence": 0.9878382,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 283310,
+   "end": 283407,
+   "confidence": 0.9967685,
+   "speaker": null
+  },
+  {
+   "text": "doctor",
+   "start": 283407,
+   "end": 283731,
+   "confidence": 0.99619746,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 283731,
+   "end": 283796,
+   "confidence": 0.99821585,
+   "speaker": null
+  },
+  {
+   "text": "Genoa",
+   "start": 283910,
+   "end": 284332,
+   "confidence": 0.9999014,
+   "speaker": null
+  },
+  {
+   "text": "said",
+   "start": 284332,
+   "end": 284689,
+   "confidence": 0.9996388,
+   "speaker": null
+  },
+  {
+   "text": "Sisson's",
+   "start": 284803,
+   "end": 285241,
+   "confidence": 0.99777484,
+   "speaker": null
+  },
+  {
+   "text": "feet",
+   "start": 285354,
+   "end": 285598,
+   "confidence": 0.99992216,
+   "speaker": null
+  },
+  {
+   "text": "would",
+   "start": 285598,
+   "end": 285744,
+   "confidence": 0.9999019,
+   "speaker": null
+  },
+  {
+   "text": "need",
+   "start": 285776,
+   "end": 286004,
+   "confidence": 0.9997925,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 286004,
+   "end": 286036,
+   "confidence": 0.9999715,
+   "speaker": null
+  },
+  {
+   "text": "be",
+   "start": 286036,
+   "end": 286263,
+   "confidence": 0.9999939,
+   "speaker": null
+  },
+  {
+   "text": "amputated,",
+   "start": 286263,
+   "end": 286815,
+   "confidence": 0.9231098,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 287075,
+   "end": 287140,
+   "confidence": 0.9990004,
+   "speaker": null
+  },
+  {
+   "text": "there",
+   "start": 287172,
+   "end": 287302,
+   "confidence": 0.99983644,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 287302,
+   "end": 287464,
+   "confidence": 0.99995005,
+   "speaker": null
+  },
+  {
+   "text": "no",
+   "start": 287497,
+   "end": 287756,
+   "confidence": 0.9999763,
+   "speaker": null
+  },
+  {
+   "text": "chloroform",
+   "start": 287870,
+   "end": 288633,
+   "confidence": 0.9998324,
+   "speaker": null
+  },
+  {
+   "text": "or",
+   "start": 288779,
+   "end": 288974,
+   "confidence": 0.9977143,
+   "speaker": null
+  },
+  {
+   "text": "anesthesia",
+   "start": 289168,
+   "end": 289915,
+   "confidence": 0.9808579,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 289915,
+   "end": 289964,
+   "confidence": 0.9998035,
+   "speaker": null
+  },
+  {
+   "text": "town.",
+   "start": 290077,
+   "end": 290207,
+   "confidence": 0.9799868,
+   "speaker": null
+  },
+  {
+   "text": "Thompson",
+   "start": 291625,
+   "end": 292027,
+   "confidence": 0.98896426,
+   "speaker": null
+  },
+  {
+   "text": "couldn't",
+   "start": 292027,
+   "end": 292171,
+   "confidence": 0.9998839,
+   "speaker": null
+  },
+  {
+   "text": "let",
+   "start": 292252,
+   "end": 292428,
+   "confidence": 0.9999621,
+   "speaker": null
+  },
+  {
+   "text": "that",
+   "start": 292428,
+   "end": 292637,
+   "confidence": 0.9999496,
+   "speaker": null
+  },
+  {
+   "text": "happen",
+   "start": 292637,
+   "end": 292862,
+   "confidence": 0.99998355,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 292862,
+   "end": 292926,
+   "confidence": 0.99831486,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 292974,
+   "end": 293006,
+   "confidence": 0.9985453,
+   "speaker": null
+  },
+  {
+   "text": "man,",
+   "start": 293006,
+   "end": 293359,
+   "confidence": 0.9495063,
+   "speaker": null
+  },
+  {
+   "text": "so",
+   "start": 293456,
+   "end": 293600,
+   "confidence": 0.986937,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 293697,
+   "end": 293873,
+   "confidence": 0.99991024,
+   "speaker": null
+  },
+  {
+   "text": "set",
+   "start": 293873,
+   "end": 294259,
+   "confidence": 0.99990237,
+   "speaker": null
+  },
+  {
+   "text": "out",
+   "start": 294259,
+   "end": 294419,
+   "confidence": 0.9999043,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 294419,
+   "end": 294467,
+   "confidence": 0.9988691,
+   "speaker": null
+  },
+  {
+   "text": "search",
+   "start": 294515,
+   "end": 294805,
+   "confidence": 0.9999049,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 294837,
+   "end": 295061,
+   "confidence": 0.9999484,
+   "speaker": null
+  },
+  {
+   "text": "it.",
+   "start": 295061,
+   "end": 295094,
+   "confidence": 0.9998131,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 296282,
+   "end": 296426,
+   "confidence": 0.99662447,
+   "speaker": null
+  },
+  {
+   "text": "went",
+   "start": 296426,
+   "end": 296523,
+   "confidence": 0.9999229,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 296523,
+   "end": 296603,
+   "confidence": 0.9998067,
+   "speaker": null
+  },
+  {
+   "text": "Placerville,",
+   "start": 296683,
+   "end": 297197,
+   "confidence": 0.99275434,
+   "speaker": null
+  },
+  {
+   "text": "found",
+   "start": 297952,
+   "end": 298305,
+   "confidence": 0.999699,
+   "speaker": null
+  },
+  {
+   "text": "none",
+   "start": 298305,
+   "end": 298498,
+   "confidence": 0.9998715,
+   "speaker": null
+  },
+  {
+   "text": "there,",
+   "start": 298610,
+   "end": 298722,
+   "confidence": 0.9893777,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 299477,
+   "end": 299557,
+   "confidence": 0.9990115,
+   "speaker": null
+  },
+  {
+   "text": "kept",
+   "start": 299638,
+   "end": 299878,
+   "confidence": 0.999749,
+   "speaker": null
+  },
+  {
+   "text": "going",
+   "start": 299894,
+   "end": 300167,
+   "confidence": 0.99976844,
+   "speaker": null
+  },
+  {
+   "text": "another",
+   "start": 300216,
+   "end": 300713,
+   "confidence": 0.994447,
+   "speaker": null
+  },
+  {
+   "text": "45",
+   "start": 301083,
+   "end": 301709,
+   "confidence": 0.9995944,
+   "speaker": null
+  },
+  {
+   "text": "miles",
+   "start": 301741,
+   "end": 302110,
+   "confidence": 0.99995816,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 302142,
+   "end": 302239,
+   "confidence": 0.9994104,
+   "speaker": null
+  },
+  {
+   "text": "Sacramento",
+   "start": 302287,
+   "end": 303122,
+   "confidence": 0.9999449,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 303587,
+   "end": 303652,
+   "confidence": 0.87925327,
+   "speaker": null
+  },
+  {
+   "text": "brought",
+   "start": 303748,
+   "end": 303957,
+   "confidence": 0.99934286,
+   "speaker": null
+  },
+  {
+   "text": "back",
+   "start": 304069,
+   "end": 304294,
+   "confidence": 0.9999126,
+   "speaker": null
+  },
+  {
+   "text": "anesthesia",
+   "start": 304374,
+   "end": 305113,
+   "confidence": 0.97717017,
+   "speaker": null
+  },
+  {
+   "text": "so",
+   "start": 305289,
+   "end": 305466,
+   "confidence": 0.9524436,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 305514,
+   "end": 305707,
+   "confidence": 0.9968299,
+   "speaker": null
+  },
+  {
+   "text": "operation",
+   "start": 305739,
+   "end": 306285,
+   "confidence": 0.9998785,
+   "speaker": null
+  },
+  {
+   "text": "could",
+   "start": 306558,
+   "end": 306735,
+   "confidence": 0.99991345,
+   "speaker": null
+  },
+  {
+   "text": "proceed.",
+   "start": 306783,
+   "end": 307377,
+   "confidence": 0.9997618,
+   "speaker": null
+  },
+  {
+   "text": "A",
+   "start": 308485,
+   "end": 308501,
+   "confidence": 0.9981724,
+   "speaker": null
+  },
+  {
+   "text": "2005",
+   "start": 308565,
+   "end": 309416,
+   "confidence": 0.9999403,
+   "speaker": null
+  },
+  {
+   "text": "public",
+   "start": 309528,
+   "end": 310010,
+   "confidence": 0.8891211,
+   "speaker": null
+  },
+  {
+   "text": "television",
+   "start": 310010,
+   "end": 310460,
+   "confidence": 0.98254365,
+   "speaker": null
+  },
+  {
+   "text": "investigation",
+   "start": 310556,
+   "end": 311343,
+   "confidence": 0.9995154,
+   "speaker": null
+  },
+  {
+   "text": "says",
+   "start": 311375,
+   "end": 311664,
+   "confidence": 0.99875283,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 311776,
+   "end": 312081,
+   "confidence": 0.9851136,
+   "speaker": null
+  },
+  {
+   "text": "arrived",
+   "start": 312081,
+   "end": 312627,
+   "confidence": 0.9976228,
+   "speaker": null
+  },
+  {
+   "text": "just",
+   "start": 312884,
+   "end": 313270,
+   "confidence": 0.9674762,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 313607,
+   "end": 313735,
+   "confidence": 0.9958631,
+   "speaker": null
+  },
+  {
+   "text": "time.",
+   "start": 314024,
+   "end": 314217,
+   "confidence": 0.9922707,
+   "speaker": null
+  },
+  {
+   "text": "For",
+   "start": 316257,
+   "end": 316338,
+   "confidence": 0.9776104,
+   "speaker": null
+  },
+  {
+   "text": "20",
+   "start": 316354,
+   "end": 316612,
+   "confidence": 0.99977916,
+   "speaker": null
+  },
+  {
+   "text": "winters",
+   "start": 316676,
+   "end": 317048,
+   "confidence": 0.99940944,
+   "speaker": null
+  },
+  {
+   "text": "from",
+   "start": 317160,
+   "end": 317370,
+   "confidence": 0.51303333,
+   "speaker": null
+  },
+  {
+   "text": "1856",
+   "start": 317370,
+   "end": 318725,
+   "confidence": 0.9993212,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 318774,
+   "end": 318822,
+   "confidence": 0.99975926,
+   "speaker": null
+  },
+  {
+   "text": "1876,",
+   "start": 318822,
+   "end": 320306,
+   "confidence": 0.9872848,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 320936,
+   "end": 321032,
+   "confidence": 0.9998332,
+   "speaker": null
+  },
+  {
+   "text": "carried",
+   "start": 321097,
+   "end": 321420,
+   "confidence": 0.9999198,
+   "speaker": null
+  },
+  {
+   "text": "that",
+   "start": 321420,
+   "end": 321597,
+   "confidence": 0.99144566,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 321597,
+   "end": 321726,
+   "confidence": 0.99989927,
+   "speaker": null
+  },
+  {
+   "text": "over",
+   "start": 321855,
+   "end": 322065,
+   "confidence": 0.99959713,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 322081,
+   "end": 322162,
+   "confidence": 0.9996598,
+   "speaker": null
+  },
+  {
+   "text": "Sierra",
+   "start": 322162,
+   "end": 322501,
+   "confidence": 0.9972746,
+   "speaker": null
+  },
+  {
+   "text": "Nevada",
+   "start": 322501,
+   "end": 322872,
+   "confidence": 0.9924906,
+   "speaker": null
+  },
+  {
+   "text": "Mountains.",
+   "start": 322872,
+   "end": 323307,
+   "confidence": 0.9015774,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 323936,
+   "end": 324162,
+   "confidence": 0.99868304,
+   "speaker": null
+  },
+  {
+   "text": "letters",
+   "start": 324178,
+   "end": 324453,
+   "confidence": 0.9999275,
+   "speaker": null
+  },
+  {
+   "text": "arrived.",
+   "start": 324501,
+   "end": 325114,
+   "confidence": 0.81857735,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 325469,
+   "end": 325550,
+   "confidence": 0.999529,
+   "speaker": null
+  },
+  {
+   "text": "people",
+   "start": 325614,
+   "end": 325792,
+   "confidence": 0.99996877,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 325792,
+   "end": 325873,
+   "confidence": 0.9939173,
+   "speaker": null
+  },
+  {
+   "text": "Carson",
+   "start": 325873,
+   "end": 326262,
+   "confidence": 0.9762157,
+   "speaker": null
+  },
+  {
+   "text": "Valley",
+   "start": 326262,
+   "end": 326489,
+   "confidence": 0.9973199,
+   "speaker": null
+  },
+  {
+   "text": "got",
+   "start": 326522,
+   "end": 326765,
+   "confidence": 0.9999516,
+   "speaker": null
+  },
+  {
+   "text": "their",
+   "start": 326765,
+   "end": 326862,
+   "confidence": 0.9998301,
+   "speaker": null
+  },
+  {
+   "text": "news.",
+   "start": 326927,
+   "end": 327446,
+   "confidence": 0.99684113,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 328062,
+   "end": 328224,
+   "confidence": 0.9995821,
+   "speaker": null
+  },
+  {
+   "text": "road",
+   "start": 328224,
+   "end": 328533,
+   "confidence": 0.9983748,
+   "speaker": null
+  },
+  {
+   "text": "disappeared",
+   "start": 328533,
+   "end": 329116,
+   "confidence": 0.99991393,
+   "speaker": null
+  },
+  {
+   "text": "every",
+   "start": 329116,
+   "end": 329327,
+   "confidence": 0.9996488,
+   "speaker": null
+  },
+  {
+   "text": "winter,",
+   "start": 329360,
+   "end": 329668,
+   "confidence": 0.9398554,
+   "speaker": null
+  },
+  {
+   "text": "but",
+   "start": 329927,
+   "end": 330089,
+   "confidence": 0.99993277,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 330089,
+   "end": 330187,
+   "confidence": 0.9999018,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 330235,
+   "end": 330608,
+   "confidence": 0.99629754,
+   "speaker": null
+  },
+  {
+   "text": "still",
+   "start": 330738,
+   "end": 331111,
+   "confidence": 0.9999145,
+   "speaker": null
+  },
+  {
+   "text": "arrived.",
+   "start": 331387,
+   "end": 331841,
+   "confidence": 0.9989391,
+   "speaker": null
+  },
+  {
+   "text": "In",
+   "start": 333516,
+   "end": 333580,
+   "confidence": 0.99506915,
+   "speaker": null
+  },
+  {
+   "text": "1869,",
+   "start": 333580,
+   "end": 334722,
+   "confidence": 0.9979542,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 334738,
+   "end": 334819,
+   "confidence": 0.9934521,
+   "speaker": null
+  },
+  {
+   "text": "Nevada",
+   "start": 334819,
+   "end": 335237,
+   "confidence": 0.9999466,
+   "speaker": null
+  },
+  {
+   "text": "Legislature",
+   "start": 335237,
+   "end": 336315,
+   "confidence": 0.9142891,
+   "speaker": null
+  },
+  {
+   "text": "asked",
+   "start": 336669,
+   "end": 336974,
+   "confidence": 0.9911329,
+   "speaker": null
+  },
+  {
+   "text": "Congress",
+   "start": 336974,
+   "end": 337457,
+   "confidence": 0.94261074,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 337457,
+   "end": 337554,
+   "confidence": 0.9999764,
+   "speaker": null
+  },
+  {
+   "text": "pay",
+   "start": 337618,
+   "end": 337795,
+   "confidence": 0.9999696,
+   "speaker": null
+  },
+  {
+   "text": "Thompson",
+   "start": 337875,
+   "end": 338326,
+   "confidence": 0.9986745,
+   "speaker": null
+  },
+  {
+   "text": "$6,000",
+   "start": 338422,
+   "end": 339854,
+   "confidence": 0.99901044,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 339870,
+   "end": 339935,
+   "confidence": 0.9998092,
+   "speaker": null
+  },
+  {
+   "text": "his",
+   "start": 340047,
+   "end": 340176,
+   "confidence": 0.9997632,
+   "speaker": null
+  },
+  {
+   "text": "service.",
+   "start": 340208,
+   "end": 340594,
+   "confidence": 0.985822,
+   "speaker": null
+  },
+  {
+   "text": "Congress",
+   "start": 342019,
+   "end": 342533,
+   "confidence": 0.9976042,
+   "speaker": null
+  },
+  {
+   "text": "did",
+   "start": 342533,
+   "end": 342716,
+   "confidence": 0.99770796,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 342716,
+   "end": 342948,
+   "confidence": 0.9999769,
+   "speaker": null
+  },
+  {
+   "text": "pay.",
+   "start": 342948,
+   "end": 343280,
+   "confidence": 0.99874276,
+   "speaker": null
+  },
+  {
+   "text": "3",
+   "start": 345410,
+   "end": 345523,
+   "confidence": 0.9999807,
+   "speaker": null
+  },
+  {
+   "text": "years",
+   "start": 345523,
+   "end": 345733,
+   "confidence": 0.9999933,
+   "speaker": null
+  },
+  {
+   "text": "later,",
+   "start": 345829,
+   "end": 346136,
+   "confidence": 0.95294565,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 346185,
+   "end": 346217,
+   "confidence": 0.9995316,
+   "speaker": null
+  },
+  {
+   "text": "1872,",
+   "start": 346233,
+   "end": 347477,
+   "confidence": 0.996028,
+   "speaker": null
+  },
+  {
+   "text": "Thompson",
+   "start": 347784,
+   "end": 348188,
+   "confidence": 0.99905676,
+   "speaker": null
+  },
+  {
+   "text": "went",
+   "start": 348188,
+   "end": 348333,
+   "confidence": 0.9998153,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 348349,
+   "end": 348446,
+   "confidence": 0.9999049,
+   "speaker": null
+  },
+  {
+   "text": "Washington",
+   "start": 348495,
+   "end": 349044,
+   "confidence": 0.9999882,
+   "speaker": null
+  },
+  {
+   "text": "himself",
+   "start": 349044,
+   "end": 349544,
+   "confidence": 0.99948967,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 349561,
+   "end": 349657,
+   "confidence": 0.99865294,
+   "speaker": null
+  },
+  {
+   "text": "make",
+   "start": 349657,
+   "end": 349819,
+   "confidence": 0.9999403,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 349819,
+   "end": 349964,
+   "confidence": 0.99806863,
+   "speaker": null
+  },
+  {
+   "text": "case",
+   "start": 349964,
+   "end": 350271,
+   "confidence": 0.99999356,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 350271,
+   "end": 350384,
+   "confidence": 0.9997348,
+   "speaker": null
+  },
+  {
+   "text": "being",
+   "start": 350449,
+   "end": 350578,
+   "confidence": 0.99993503,
+   "speaker": null
+  },
+  {
+   "text": "paid",
+   "start": 350691,
+   "end": 350933,
+   "confidence": 0.99998224,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 350933,
+   "end": 351063,
+   "confidence": 0.9995222,
+   "speaker": null
+  },
+  {
+   "text": "do",
+   "start": 351079,
+   "end": 351192,
+   "confidence": 0.99998,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 351192,
+   "end": 351321,
+   "confidence": 0.99994254,
+   "speaker": null
+  },
+  {
+   "text": "job.",
+   "start": 351321,
+   "end": 351660,
+   "confidence": 0.99813026,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 352610,
+   "end": 352707,
+   "confidence": 0.99981886,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 352707,
+   "end": 352820,
+   "confidence": 0.999982,
+   "speaker": null
+  },
+  {
+   "text": "told",
+   "start": 352885,
+   "end": 353388,
+   "confidence": 0.9999862,
+   "speaker": null
+  },
+  {
+   "text": "since",
+   "start": 353388,
+   "end": 353728,
+   "confidence": 0.6988104,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 353874,
+   "end": 354101,
+   "confidence": 0.99998236,
+   "speaker": null
+  },
+  {
+   "text": "did",
+   "start": 354182,
+   "end": 354344,
+   "confidence": 0.9976948,
+   "speaker": null
+  },
+  {
+   "text": "not",
+   "start": 354344,
+   "end": 354539,
+   "confidence": 0.99998546,
+   "speaker": null
+  },
+  {
+   "text": "have",
+   "start": 354652,
+   "end": 354766,
+   "confidence": 0.99998105,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 354766,
+   "end": 354895,
+   "confidence": 0.9999733,
+   "speaker": null
+  },
+  {
+   "text": "written",
+   "start": 354912,
+   "end": 355220,
+   "confidence": 0.9999633,
+   "speaker": null
+  },
+  {
+   "text": "contract",
+   "start": 355220,
+   "end": 355722,
+   "confidence": 0.9999707,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 355722,
+   "end": 355803,
+   "confidence": 0.9999471,
+   "speaker": null
+  },
+  {
+   "text": "carry",
+   "start": 355868,
+   "end": 356046,
+   "confidence": 0.99998784,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 356046,
+   "end": 356144,
+   "confidence": 0.9997161,
+   "speaker": null
+  },
+  {
+   "text": "mail,",
+   "start": 356144,
+   "end": 356403,
+   "confidence": 0.993422,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 356598,
+   "end": 356711,
+   "confidence": 0.9999479,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 356857,
+   "end": 357051,
+   "confidence": 0.9999391,
+   "speaker": null
+  },
+  {
+   "text": "no",
+   "start": 357084,
+   "end": 357343,
+   "confidence": 0.99998224,
+   "speaker": null
+  },
+  {
+   "text": "claim",
+   "start": 357343,
+   "end": 357635,
+   "confidence": 0.99986553,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 357668,
+   "end": 357830,
+   "confidence": 0.9998661,
+   "speaker": null
+  },
+  {
+   "text": "pay.",
+   "start": 357830,
+   "end": 357927,
+   "confidence": 0.9911983,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 359110,
+   "end": 359272,
+   "confidence": 0.99965525,
+   "speaker": null
+  },
+  {
+   "text": "had",
+   "start": 359272,
+   "end": 359418,
+   "confidence": 0.99986637,
+   "speaker": null
+  },
+  {
+   "text": "never",
+   "start": 359532,
+   "end": 359872,
+   "confidence": 0.99995863,
+   "speaker": null
+  },
+  {
+   "text": "signed",
+   "start": 359872,
+   "end": 360294,
+   "confidence": 0.9999213,
+   "speaker": null
+  },
+  {
+   "text": "one.",
+   "start": 360326,
+   "end": 360537,
+   "confidence": 0.99649745,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 361782,
+   "end": 361862,
+   "confidence": 0.9979413,
+   "speaker": null
+  },
+  {
+   "text": "is",
+   "start": 361862,
+   "end": 361991,
+   "confidence": 0.9786285,
+   "speaker": null
+  },
+  {
+   "text": "often",
+   "start": 362088,
+   "end": 362249,
+   "confidence": 0.9999726,
+   "speaker": null
+  },
+  {
+   "text": "quoted",
+   "start": 362346,
+   "end": 362765,
+   "confidence": 0.9999597,
+   "speaker": null
+  },
+  {
+   "text": "as",
+   "start": 362765,
+   "end": 362878,
+   "confidence": 0.9996835,
+   "speaker": null
+  },
+  {
+   "text": "saying",
+   "start": 362910,
+   "end": 363200,
+   "confidence": 0.99999416,
+   "speaker": null
+  },
+  {
+   "text": "that",
+   "start": 363233,
+   "end": 363571,
+   "confidence": 0.9981065,
+   "speaker": null
+  },
+  {
+   "text": "if",
+   "start": 363636,
+   "end": 363732,
+   "confidence": 0.98507476,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 363732,
+   "end": 363878,
+   "confidence": 0.99997973,
+   "speaker": null
+  },
+  {
+   "text": "did",
+   "start": 363878,
+   "end": 364039,
+   "confidence": 0.9999521,
+   "speaker": null
+  },
+  {
+   "text": "his",
+   "start": 364039,
+   "end": 364248,
+   "confidence": 0.99969923,
+   "speaker": null
+  },
+  {
+   "text": "job",
+   "start": 364281,
+   "end": 364619,
+   "confidence": 0.9999857,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 364619,
+   "end": 364732,
+   "confidence": 0.99986863,
+   "speaker": null
+  },
+  {
+   "text": "got",
+   "start": 364764,
+   "end": 364925,
+   "confidence": 0.9999771,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 364925,
+   "end": 365006,
+   "confidence": 0.9999758,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 365006,
+   "end": 365199,
+   "confidence": 0.9999871,
+   "speaker": null
+  },
+  {
+   "text": "through,",
+   "start": 365248,
+   "end": 365651,
+   "confidence": 0.99950206,
+   "speaker": null
+  },
+  {
+   "text": "Uncle",
+   "start": 365877,
+   "end": 366118,
+   "confidence": 0.96871334,
+   "speaker": null
+  },
+  {
+   "text": "Sam",
+   "start": 366118,
+   "end": 366457,
+   "confidence": 0.9998454,
+   "speaker": null
+  },
+  {
+   "text": "would",
+   "start": 366457,
+   "end": 366586,
+   "confidence": 0.9999037,
+   "speaker": null
+  },
+  {
+   "text": "pay",
+   "start": 366618,
+   "end": 366795,
+   "confidence": 0.9999819,
+   "speaker": null
+  },
+  {
+   "text": "him.",
+   "start": 366844,
+   "end": 366989,
+   "confidence": 0.98142624,
+   "speaker": null
+  },
+  {
+   "text": "Thompson",
+   "start": 369312,
+   "end": 369620,
+   "confidence": 0.9763857,
+   "speaker": null
+  },
+  {
+   "text": "died",
+   "start": 369652,
+   "end": 369993,
+   "confidence": 0.99992144,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 369993,
+   "end": 370025,
+   "confidence": 0.99956375,
+   "speaker": null
+  },
+  {
+   "text": "1876",
+   "start": 370025,
+   "end": 371289,
+   "confidence": 0.9996749,
+   "speaker": null
+  },
+  {
+   "text": "at",
+   "start": 371289,
+   "end": 371419,
+   "confidence": 0.9666498,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 371419,
+   "end": 371565,
+   "confidence": 0.9994504,
+   "speaker": null
+  },
+  {
+   "text": "age",
+   "start": 371581,
+   "end": 371759,
+   "confidence": 0.99996066,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 371759,
+   "end": 371840,
+   "confidence": 0.9999652,
+   "speaker": null
+  },
+  {
+   "text": "49.",
+   "start": 371840,
+   "end": 372700,
+   "confidence": 0.9528191,
+   "speaker": null
+  },
+  {
+   "text": "Accounts",
+   "start": 373688,
+   "end": 374029,
+   "confidence": 0.99288154,
+   "speaker": null
+  },
+  {
+   "text": "say",
+   "start": 374029,
+   "end": 374207,
+   "confidence": 0.9995907,
+   "speaker": null
+  },
+  {
+   "text": "appendicitis,",
+   "start": 374207,
+   "end": 375001,
+   "confidence": 0.96237355,
+   "speaker": null
+  },
+  {
+   "text": "which",
+   "start": 375163,
+   "end": 375341,
+   "confidence": 0.9999217,
+   "speaker": null
+  },
+  {
+   "text": "may",
+   "start": 375471,
+   "end": 375649,
+   "confidence": 0.99984455,
+   "speaker": null
+  },
+  {
+   "text": "have",
+   "start": 375649,
+   "end": 375779,
+   "confidence": 0.9997739,
+   "speaker": null
+  },
+  {
+   "text": "developed",
+   "start": 375812,
+   "end": 376314,
+   "confidence": 0.99961346,
+   "speaker": null
+  },
+  {
+   "text": "into",
+   "start": 376314,
+   "end": 376590,
+   "confidence": 0.99993694,
+   "speaker": null
+  },
+  {
+   "text": "pneumonia.",
+   "start": 376590,
+   "end": 377043,
+   "confidence": 0.99957573,
+   "speaker": null
+  },
+  {
+   "text": "Ironically,",
+   "start": 378243,
+   "end": 378778,
+   "confidence": 0.99947625,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 378875,
+   "end": 379053,
+   "confidence": 0.99858886,
+   "speaker": null
+  },
+  {
+   "text": "bill",
+   "start": 379053,
+   "end": 379264,
+   "confidence": 0.99980336,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 379377,
+   "end": 379539,
+   "confidence": 0.9999627,
+   "speaker": null
+  },
+  {
+   "text": "approve",
+   "start": 379539,
+   "end": 379912,
+   "confidence": 0.993371,
+   "speaker": null
+  },
+  {
+   "text": "his",
+   "start": 379961,
+   "end": 380074,
+   "confidence": 0.9877742,
+   "speaker": null
+  },
+  {
+   "text": "payment",
+   "start": 380171,
+   "end": 380463,
+   "confidence": 0.9973447,
+   "speaker": null
+  },
+  {
+   "text": "was",
+   "start": 380512,
+   "end": 380641,
+   "confidence": 0.9999161,
+   "speaker": null
+  },
+  {
+   "text": "in",
+   "start": 380901,
+   "end": 381047,
+   "confidence": 0.99979085,
+   "speaker": null
+  },
+  {
+   "text": "Congress",
+   "start": 381079,
+   "end": 381452,
+   "confidence": 0.99725336,
+   "speaker": null
+  },
+  {
+   "text": "when",
+   "start": 381711,
+   "end": 381841,
+   "confidence": 0.9989795,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 381954,
+   "end": 382116,
+   "confidence": 0.999982,
+   "speaker": null
+  },
+  {
+   "text": "died.",
+   "start": 382133,
+   "end": 382538,
+   "confidence": 0.99850094,
+   "speaker": null
+  },
+  {
+   "text": "Accounts",
+   "start": 383310,
+   "end": 383571,
+   "confidence": 0.99899536,
+   "speaker": null
+  },
+  {
+   "text": "say",
+   "start": 383571,
+   "end": 383931,
+   "confidence": 0.99981207,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 384389,
+   "end": 384487,
+   "confidence": 0.98326993,
+   "speaker": null
+  },
+  {
+   "text": "bill",
+   "start": 384569,
+   "end": 384766,
+   "confidence": 0.99991095,
+   "speaker": null
+  },
+  {
+   "text": "died",
+   "start": 385387,
+   "end": 385927,
+   "confidence": 0.98395073,
+   "speaker": null
+  },
+  {
+   "text": "with",
+   "start": 385960,
+   "end": 386205,
+   "confidence": 0.9998503,
+   "speaker": null
+  },
+  {
+   "text": "him.",
+   "start": 386205,
+   "end": 386418,
+   "confidence": 0.99940073,
+   "speaker": null
+  },
+  {
+   "text": "The",
+   "start": 388866,
+   "end": 388931,
+   "confidence": 0.96535826,
+   "speaker": null
+  },
+  {
+   "text": "mail",
+   "start": 388947,
+   "end": 389076,
+   "confidence": 0.99898523,
+   "speaker": null
+  },
+  {
+   "text": "got",
+   "start": 389190,
+   "end": 389319,
+   "confidence": 0.99988115,
+   "speaker": null
+  },
+  {
+   "text": "through",
+   "start": 389367,
+   "end": 389610,
+   "confidence": 0.9999846,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 389610,
+   "end": 389771,
+   "confidence": 0.99892515,
+   "speaker": null
+  },
+  {
+   "text": "20",
+   "start": 389771,
+   "end": 390143,
+   "confidence": 0.99992645,
+   "speaker": null
+  },
+  {
+   "text": "years.",
+   "start": 390159,
+   "end": 390546,
+   "confidence": 0.98435193,
+   "speaker": null
+  },
+  {
+   "text": "He",
+   "start": 391370,
+   "end": 391435,
+   "confidence": 0.996999,
+   "speaker": null
+  },
+  {
+   "text": "carried",
+   "start": 391467,
+   "end": 391790,
+   "confidence": 0.9999547,
+   "speaker": null
+  },
+  {
+   "text": "news",
+   "start": 391790,
+   "end": 392000,
+   "confidence": 0.99962366,
+   "speaker": null
+  },
+  {
+   "text": "from",
+   "start": 392113,
+   "end": 392275,
+   "confidence": 0.9994197,
+   "speaker": null
+  },
+  {
+   "text": "loved",
+   "start": 392340,
+   "end": 392582,
+   "confidence": 0.99994016,
+   "speaker": null
+  },
+  {
+   "text": "ones.",
+   "start": 392582,
+   "end": 392889,
+   "confidence": 0.82582337,
+   "speaker": null
+  },
+  {
+   "text": "Enabled",
+   "start": 393334,
+   "end": 393871,
+   "confidence": 0.8757246,
+   "speaker": null
+  },
+  {
+   "text": "business",
+   "start": 393985,
+   "end": 394327,
+   "confidence": 0.99943537,
+   "speaker": null
+  },
+  {
+   "text": "transactions",
+   "start": 394376,
+   "end": 395011,
+   "confidence": 0.998757,
+   "speaker": null
+  },
+  {
+   "text": "by",
+   "start": 395044,
+   "end": 395223,
+   "confidence": 0.99972624,
+   "speaker": null
+  },
+  {
+   "text": "mail,",
+   "start": 395223,
+   "end": 395484,
+   "confidence": 0.9064887,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 396021,
+   "end": 396087,
+   "confidence": 0.9971011,
+   "speaker": null
+  },
+  {
+   "text": "got",
+   "start": 396168,
+   "end": 396347,
+   "confidence": 0.9987379,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 396347,
+   "end": 396412,
+   "confidence": 0.9999354,
+   "speaker": null
+  },
+  {
+   "text": "freezing",
+   "start": 396412,
+   "end": 396885,
+   "confidence": 0.99786866,
+   "speaker": null
+  },
+  {
+   "text": "man",
+   "start": 396917,
+   "end": 397113,
+   "confidence": 0.99970645,
+   "speaker": null
+  },
+  {
+   "text": "out",
+   "start": 397471,
+   "end": 397699,
+   "confidence": 0.9997042,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 397813,
+   "end": 397944,
+   "confidence": 0.999876,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 398041,
+   "end": 398139,
+   "confidence": 0.99985814,
+   "speaker": null
+  },
+  {
+   "text": "snow.",
+   "start": 398139,
+   "end": 398497,
+   "confidence": 0.9022765,
+   "speaker": null
+  },
+  {
+   "text": "And",
+   "start": 400070,
+   "end": 400168,
+   "confidence": 0.99528533,
+   "speaker": null
+  },
+  {
+   "text": "he",
+   "start": 400168,
+   "end": 400365,
+   "confidence": 0.99972636,
+   "speaker": null
+  },
+  {
+   "text": "never",
+   "start": 400430,
+   "end": 400759,
+   "confidence": 0.9974694,
+   "speaker": null
+  },
+  {
+   "text": "received",
+   "start": 400759,
+   "end": 401251,
+   "confidence": 0.9994116,
+   "speaker": null
+  },
+  {
+   "text": "payment",
+   "start": 401251,
+   "end": 401825,
+   "confidence": 0.99938035,
+   "speaker": null
+  },
+  {
+   "text": "for",
+   "start": 402071,
+   "end": 402268,
+   "confidence": 0.9864131,
+   "speaker": null
+  },
+  {
+   "text": "any",
+   "start": 402547,
+   "end": 402777,
+   "confidence": 0.9995646,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 402810,
+   "end": 402908,
+   "confidence": 0.9999846,
+   "speaker": null
+  },
+  {
+   "text": "it.",
+   "start": 402908,
+   "end": 402974,
+   "confidence": 0.9950332,
+   "speaker": null
+  },
+  {
+   "text": "If",
+   "start": 405426,
+   "end": 405507,
+   "confidence": 0.98644173,
+   "speaker": null
+  },
+  {
+   "text": "you",
+   "start": 405507,
+   "end": 405572,
+   "confidence": 0.9999722,
+   "speaker": null
+  },
+  {
+   "text": "like",
+   "start": 405588,
+   "end": 405832,
+   "confidence": 0.7423746,
+   "speaker": null
+  },
+  {
+   "text": "this",
+   "start": 405832,
+   "end": 405946,
+   "confidence": 0.9090121,
+   "speaker": null
+  },
+  {
+   "text": "story,",
+   "start": 405995,
+   "end": 406304,
+   "confidence": 0.99963355,
+   "speaker": null
+  },
+  {
+   "text": "give",
+   "start": 406727,
+   "end": 406824,
+   "confidence": 0.9993857,
+   "speaker": null
+  },
+  {
+   "text": "it",
+   "start": 406824,
+   "end": 406905,
+   "confidence": 0.99970335,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 406905,
+   "end": 406922,
+   "confidence": 0.9999769,
+   "speaker": null
+  },
+  {
+   "text": "like",
+   "start": 406922,
+   "end": 407312,
+   "confidence": 0.99834526,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 407312,
+   "end": 407474,
+   "confidence": 0.9818667,
+   "speaker": null
+  },
+  {
+   "text": "subscribe",
+   "start": 407474,
+   "end": 408190,
+   "confidence": 0.9998648,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 408190,
+   "end": 408222,
+   "confidence": 0.99979216,
+   "speaker": null
+  },
+  {
+   "text": "Old",
+   "start": 408450,
+   "end": 408694,
+   "confidence": 0.97225666,
+   "speaker": null
+  },
+  {
+   "text": "West",
+   "start": 408694,
+   "end": 408873,
+   "confidence": 0.99706227,
+   "speaker": null
+  },
+  {
+   "text": "Stories,",
+   "start": 408873,
+   "end": 409393,
+   "confidence": 0.9136724,
+   "speaker": null
+  },
+  {
+   "text": "and",
+   "start": 409507,
+   "end": 409962,
+   "confidence": 0.9999484,
+   "speaker": null
+  },
+  {
+   "text": "we'll",
+   "start": 409995,
+   "end": 410239,
+   "confidence": 0.9995152,
+   "speaker": null
+  },
+  {
+   "text": "see",
+   "start": 410239,
+   "end": 410548,
+   "confidence": 0.99991655,
+   "speaker": null
+  },
+  {
+   "text": "you",
+   "start": 410645,
+   "end": 410808,
+   "confidence": 0.999969,
+   "speaker": null
+  },
+  {
+   "text": "at",
+   "start": 410808,
+   "end": 410889,
+   "confidence": 0.99699676,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 410889,
+   "end": 410970,
+   "confidence": 0.999972,
+   "speaker": null
+  },
+  {
+   "text": "next",
+   "start": 410970,
+   "end": 411279,
+   "confidence": 0.9999796,
+   "speaker": null
+  },
+  {
+   "text": "story.",
+   "start": 411279,
+   "end": 411604,
+   "confidence": 0.9877539,
+   "speaker": null
+  }
+ ],
+ "utterances": null,
+ "confidence": 0.98306155,
+ "audio_duration": 413,
+ "punctuate": true,
+ "format_text": true,
+ "webhook_url": null,
+ "webhook_status_code": null,
+ "webhook_auth": false,
+ "webhook_auth_header_name": null,
+ "speed_boost": false,
+ "auto_highlights_result": null,
+ "auto_highlights": false,
+ "audio_start_from": null,
+ "audio_end_at": null,
+ "word_boost": [],
+ "boost_param": null,
+ "prompt": "Verbatim transcription of a solo YouTube tutorial recording with multiple takes. Transcribe exactly as spoken: keep false starts, repeated words, self-corrections, and filler words (um, uh) — do not clean them up.",
+ "keyterms_prompt": [
+  "Old West Stories",
+  "John Thompson",
+  "Snowshoe Thompson",
+  "James Sisson",
+  "Sisson",
+  "Uncle Sam",
+  "Sierra Nevada",
+  "Sierra",
+  "Carson Valley",
+  "Sacramento",
+  "Sacramento Union",
+  "Placerville",
+  "Lake Tahoe",
+  "Genoa",
+  "Utah Territory",
+  "Nevada",
+  "Nevada Legislature",
+  "Washington",
+  "postmaster",
+  "Norwegian",
+  "Norwegian skates",
+  "snowshoes",
+  "skis",
+  "chloroform",
+  "amputated",
+  "appendicitis",
+  "pneumonia",
+  "prospector",
+  "misnomer",
+  "candid"
+ ],
+ "filter_profanity": false,
+ "redact_pii": false,
+ "redact_pii_audio": false,
+ "redact_pii_audio_quality": null,
+ "redact_pii_audio_options": null,
+ "redact_pii_policies": null,
+ "redact_pii_sub": null,
+ "redact_static_entities": null,
+ "speaker_labels": false,
+ "speaker_options": null,
+ "content_safety": false,
+ "iab_categories": false,
+ "content_safety_labels": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "iab_categories_result": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "language_detection": true,
+ "language_detection_options": {
+  "expected_languages": null,
+  "fallback_language": null,
+  "code_switching": null,
+  "code_switching_confidence_threshold": null,
+  "on_low_language_confidence": null,
+  "on_no_speech_detected": "fallback",
+  "swiss_german": null,
+  "language_detection_model": null,
+  "localization": null
+ },
+ "language_detection_results": null,
+ "language_confidence_threshold": null,
+ "language_confidence": 0.9994,
+ "custom_spelling": null,
+ "throttled": false,
+ "auto_chapters": false,
+ "summarization": false,
+ "summary_type": null,
+ "summary_model": null,
+ "custom_topics": false,
+ "topics": [],
+ "speech_threshold": null,
+ "speech_model": null,
+ "speech_models": [
+  "universal-3-5-pro",
+  "universal-2"
+ ],
+ "speech_model_used": "universal-3-5-pro",
+ "temperature": null,
+ "remove_audio_tags": "all",
+ "chapters": null,
+ "disfluencies": true,
+ "entity_detection": false,
+ "sentiment_analysis": false,
+ "sentiment_analysis_results": null,
+ "entities": null,
+ "speakers_expected": null,
+ "summary": null,
+ "custom_topics_results": null,
+ "is_deleted": null,
+ "multichannel": null,
+ "project_id": 2132490,
+ "token_id": 2178629
+}

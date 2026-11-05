@@ -1,0 +1,11 @@
+A dramatic, high-contrast YouTube thumbnail, 16:9, painted in a rich realistic oil-painting style like a historical documentary illustration.
+
+REFERENCE ROLES: Image 1 is a STYLE reference only — match its warm, painterly oil-on-canvas look, brushwork and firelit amber color grade. Do not copy its people or composition.
+
+SUBJECT & ACTION: an old leather-bound expedition journal lies open on a rough wooden table, filling the right two-thirds of the frame, photographed close from slightly above. Its cream pages are covered in faded brown 1800s cursive handwriting rendered as illegible decorative ink strokes. On the right-hand page, one blank space where a name should be is circled boldly in bright red ink, the circle hand-drawn and urgent. A goose-feather quill rests across the left page beside a small brass inkwell.
+
+SETTING & LIGHTING: a single candle at the left edge throws hot golden light across the pages and long soft shadows; the background falls off into deep warm espresso brown. Bright, glowing highlights on the paper, strong contrast, saturated amber and red.
+
+TEXT: one headline, "WHO WAS SHE?" (letters W-H-O  W-A-S  S-H-E ?), in a heavy bold condensed slab-serif Western wood-type font, bright warm gold (#F7BD6A) fill with a thick dark-brown outline and soft drop shadow, huge across the upper-left third, stacked on two lines "WHO WAS" / "SHE?". It is the only text in the image; the journal's handwriting stays illegible strokes with no readable words.
+
+STYLE: bold, uncluttered, high-CTR history-channel thumbnail — one dominant headline, one object, glowing warm light, bright and saturated, painterly realism.
