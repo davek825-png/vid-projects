@@ -1,0 +1,310 @@
+{
+  "project": "ows-camels",
+  "clip_order": [
+    "narr"
+  ],
+  "clips": [
+    {
+      "id": "narr",
+      "file": "Camels.mov",
+      "duration": 229.73,
+      "keeps": [
+        {
+          "s": 2.13,
+          "e": 9.92,
+          "text": "Let's talk about the summer of 1855 and a decision made by the US Army that nobody at the fort could quite explain."
+        },
+        {
+          "s": 11.7,
+          "e": 17.19,
+          "text": "The Army sent men clear across the Pacific Ocean. They came back to Texas with 33 animals"
+        },
+        {
+          "s": 18.01,
+          "e": 22.4,
+          "text": "and 3 handlers who were the only ones who knew how to manage these animals."
+        },
+        {
+          "s": 23.58,
+          "e": 24.78,
+          "text": "Why would they do such a thing?"
+        },
+        {
+          "s": 25.71,
+          "e": 28.6,
+          "text": "Well, out west, the army had a big problem."
+        },
+        {
+          "s": 29.5,
+          "e": 34.84,
+          "text": "They had to haul supplies across harsh country that would chew up horses and spit out the bones."
+        },
+        {
+          "s": 35.66,
+          "e": 42.39,
+          "text": "Horses were valuable, and the army wasn't willing to bet a whole supply train of them that they would survive the harsh journey."
+        },
+        {
+          "s": 43.22,
+          "e": 44.11,
+          "text": "So they got creative."
+        },
+        {
+          "s": 45.38,
+          "e": 50.55,
+          "text": "Pull up a chair. This is Old West Stories, and this one is gonna be good."
+        },
+        {
+          "s": 54.08,
+          "e": 64.5,
+          "text": "In 1857, Edward Beale got his orders. He was to survey a wagon road west from what is now northeastern Arizona all the way to Southern California."
+        },
+        {
+          "s": 68.51,
+          "e": 72.47,
+          "text": "along with that assignment came an instruction that raised a few eyebrows on the frontier."
+        },
+        {
+          "s": 73.35,
+          "e": 84.63,
+          "text": "The Army handed Beale 25 unusual animals and told him to see if they could haul road-building supplies across harsh country that horses, mules, and oxen previously didn't survive."
+        },
+        {
+          "s": 89.24,
+          "e": 98.72,
+          "text": "Beale set out, not sure what to expect from these critters. Truth be told, he didn't know much about caring for them either. It's a good thing those 3 handlers came along."
+        },
+        {
+          "s": 100.65,
+          "e": 102.59,
+          "text": "Up ahead lay the Jornada del Muerto,"
+        },
+        {
+          "s": 103.5,
+          "e": 108.92,
+          "text": "In Spanish, that means \"the journey of the dead man,\" and the name certainly fit."
+        },
+        {
+          "s": 110.19,
+          "e": 117.03,
+          "text": "It was roughly 90 miles of desert with very little water, where countless people and livestock had perished before."
+        },
+        {
+          "s": 118.55,
+          "e": 123.81,
+          "text": "To Beale's amazement, these strange animals crossed the Jornada del Muerto without a lick of trouble."
+        },
+        {
+          "s": 133.7,
+          "e": 139.9,
+          "text": "By December, the expedition was pulling into Los Angeles, and the animals drew their fair share of attention."
+        },
+        {
+          "s": 140.9,
+          "e": 143.02,
+          "text": "Folks lined the streets to get a good look."
+        },
+        {
+          "s": 143.89,
+          "e": 149.29,
+          "text": "Newspapers ran stories. Those critters were the talk of the territory and the star of the show."
+        },
+        {
+          "s": 150.96,
+          "e": 151.94,
+          "text": "Then trouble came."
+        },
+        {
+          "s": 153.14,
+          "e": 157.75,
+          "text": "Beale made his way back to Camp Verde, the Texas post where the whole venture had started."
+        },
+        {
+          "s": 158.79,
+          "e": 166.11,
+          "text": "Before long, the Civil War reached Texas and Camp Verde fell into Confederate hands, and they had no idea what to do with the animals."
+        },
+        {
+          "s": 167.11,
+          "e": 168.09,
+          "text": "Most were auctioned off."
+        },
+        {
+          "s": 168.93,
+          "e": 172.11,
+          "text": "Some went to zoos. Some went to circuses."
+        },
+        {
+          "s": 173.07,
+          "e": 175.34,
+          "text": "Others simply walked away."
+        },
+        {
+          "s": 176.74,
+          "e": 179.81,
+          "text": "And here's the part of the story that you won't find in the history books."
+        },
+        {
+          "s": 181.71,
+          "e": 189.32,
+          "text": "As late as the early 1900s, Folks were still spotting strange wandering creatures from Arkansas all the way to Mexico."
+        },
+        {
+          "s": 190.24,
+          "e": 193.11,
+          "text": "Plenty of folks swore they'd seen one with their own eyes,"
+        },
+        {
+          "s": 193.95,
+          "e": 197.93,
+          "text": "and a fair number of those sightings traced back to Beale's expedition"
+        },
+        {
+          "s": 199.07,
+          "e": 200.51,
+          "text": "over 40 years before."
+        },
+        {
+          "s": 201.88,
+          "e": 202.3,
+          "text": "You see,"
+        },
+        {
+          "s": 203.1,
+          "e": 207.0,
+          "text": "Beale couldn't cross that harsh Southwest with horses and mules,"
+        },
+        {
+          "s": 207.91,
+          "e": 209.55,
+          "text": "so the Army gave him"
+        },
+        {
+          "s": 211.05,
+          "e": 211.75,
+          "text": "Camels."
+        },
+        {
+          "s": 213.95,
+          "e": 220.26,
+          "text": "Now, if you came across a wild camel roaming the Arizona desert today, what would you do? Drop your answer in the comments below."
+        },
+        {
+          "s": 221.76,
+          "e": 225.09,
+          "text": "Like, share, and subscribe, and we'll see you in the next story."
+        }
+      ],
+      "cuts": [
+        {
+          "s": 0.0,
+          "e": 1.83,
+          "cat": "dead_air",
+          "text": "",
+          "note": "lead-in silence before 'Let's talk about'"
+        },
+        {
+          "s": 65.79,
+          "e": 67.33,
+          "text": "Along with that assignment-",
+          "cat": "retake",
+          "note": "superseded by the restart 'along with that assignment came an instruction…'"
+        },
+        {
+          "s": 86.8,
+          "e": 87.85,
+          "text": "Beale set out, not sh-",
+          "cat": "false_start",
+          "note": "'Beale set out, not sh-'; superseded by the full take right after"
+        },
+        {
+          "s": 125.91,
+          "e": 131.94,
+          "text": "By December, the expedition was pulling into Los Angeles, and The animals drew their fair share of attention.",
+          "cat": "retake",
+          "note": "first read stumbles ('and The animals'); the re-read right after is clean"
+        },
+        {
+          "s": 226.29,
+          "e": 229.73,
+          "cat": "dead_air",
+          "text": "",
+          "note": "trailing silence after the sign-off"
+        }
+      ],
+      "fluff_suggestions": []
+    }
+  ],
+  "styles": {
+    "tight": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.14,
+      "max_tail": 0.4,
+      "head": 0.15
+    },
+    "natural": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.26,
+      "max_tail": 0.45,
+      "head": 0.17
+    },
+    "story": {
+      "internal_gap": 0.6,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 1.2,
+      "soft_margin": 3.0,
+      "min_tail": 0.4,
+      "max_tail": 0.6,
+      "head": 0.35
+    },
+    "natural-slow": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.5,
+      "max_tail": 0.7,
+      "head": 0.31
+    }
+  },
+  "flags": [
+    {
+      "id": 1,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "Clean read: 3 restarts cut (01:05, 01:26, 02:05), no fillers, no doubled phrases left in the kept words.",
+      "default": "keep every other line"
+    },
+    {
+      "id": 2,
+      "clip": "narr",
+      "at": "03:29",
+      "issue": "The 1.5s pause before 'Camels.' and the 2.2s after it compress to about 1.2s each. (The ASR missed the real word at 211.05; fixed in token-time-fixes.json.)",
+      "default": "accept; the visual beat carries the reveal"
+    },
+    {
+      "id": 4,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "The read differs slightly from the script ('them' vs 'em', 'they'd seen'). Narration wins wherever it differs.",
+      "default": "keep the read as spoken"
+    },
+    {
+      "id": 5,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "ows-1 and ows-snowshoe shipped on natural-slow. Rendering natural and natural-slow to compare.",
+      "default": "natural-slow"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+# Verify report — ows-camels (rendered: preview-natural)
+
+Extra: 0 · missing: 0 · heard differently: 0 · big interior pauses: 16 · low-confidence: 8 · A/V drift flags: 1
+
+- **16 big interior pauses** (>= 0.40s between rendered words — hesitation or skipped ghost; joins land ~0.33s):
+  - 00:10 (10.88s) · 0.45s · …Ocean. ⟂ They…
+  - 00:26 (26.91s) · 0.43s · …country ⟂ that…
+  - 00:39 (39.81s) · 0.45s · …chair, ⟂ this…
+  - 00:41 (41.69s) · 0.50s · …Stories, ⟂ and…
+  - 00:46 (46.43s) · 0.42s · …1857, ⟂ Edward…
+  - 00:48 (48.44s) · 0.58s · …orders. ⟂ He…
+  - 01:15 (75.02s) · 0.43s · …critters. ⟂ Truth…
+  - 01:16 (76.22s) · 0.42s · …told, ⟂ he…
+  - 01:18 (78.58s) · 0.40s · …either. ⟂ It's…
+  - 01:27 (87.12s) · 0.59s · …man, ⟂ and…
+  - 01:33 (93.16s) · 0.66s · …water, ⟂ where…
+  - 01:53 (113.63s) · 0.51s · …stories. ⟂ Those…
+  - 02:15 (135.04s) · 0.42s · …zoos. ⟂ Some…
+  - 02:17 (137.69s) · 0.45s · …others ⟂ simply…
+  - 02:26 (146.76s) · 0.43s · …1900s, ⟂ folks…
+  - 02:55 (175.88s) · 0.55s · …do? ⟂ Drop…
+- **A/V DRIFT — 1 keep(s) beyond the rounding budget** (audio and video timelines are separating; check the renderer):
+  - 02:51 · audio-vs-plan +0.858s (budget ±1.20s) · "Now,"
+  - 02:58 · audio-vs-plan +0.819s (budget ±1.24s) · "Like,"
+  - 02:50 · audio-vs-plan +0.800s (budget ±1.18s) · "camels."
+  - 02:36 · audio-vs-plan +0.778s (budget ±1.06s) · "and"
+  - 02:33 · audio-vs-plan +0.725s (budget ±1.04s) · "Plenty"
+  - 02:44 · audio-vs-plan +0.721s (budget ±1.12s) · "Beale"
+  - 02:48 · audio-vs-plan +0.704s (budget ±1.14s) · "so"
+  - 02:24 · audio-vs-plan +0.690s (budget ±1.00s) · "As"
+  - 02:43 · audio-vs-plan +0.682s (budget ±1.10s) · "You"
+  - 00:44 · audio-vs-plan -0.670s (budget ±0.34s) · "In" <<<
+  - 02:40 · audio-vs-plan +0.658s (budget ±1.08s) · "Over"
+  - 02:17 · audio-vs-plan +0.656s (budget ±0.94s) · "others"
+  - 02:20 · audio-vs-plan +0.592s (budget ±0.98s) · "And"
+  - 02:04 · audio-vs-plan +0.590s (budget ±0.86s) · "Before"
+  - 02:13 · audio-vs-plan +0.570s (budget ±0.90s) · "Some"
+  - 02:12 · audio-vs-plan +0.544s (budget ±0.88s) · "Most"
+  - 01:59 · audio-vs-plan +0.515s (budget ±0.84s) · "Beale"
+  - 01:42 · audio-vs-plan +0.500s (budget ±0.74s) · "By"
+  - 01:58 · audio-vs-plan +0.489s (budget ±0.82s) · "Then"
+  - 01:52 · audio-vs-plan +0.437s (budget ±0.78s) · "Newspapers"
+  - 01:49 · audio-vs-plan +0.422s (budget ±0.76s) · "Folks"
+  - 01:37 · audio-vs-plan +0.371s (budget ±0.68s) · "To"
+  - 01:24 · audio-vs-plan +0.363s (budget ±0.58s) · "In"
+  - 01:29 · audio-vs-plan +0.359s (budget ±0.64s) · "It"
+  - 01:12 · audio-vs-plan +0.335s (budget ±0.48s) · "Beale"
+  - 01:21 · audio-vs-plan +0.283s (budget ±0.56s) · "Up"
+  - 01:00 · audio-vs-plan +0.210s (budget ±0.42s) · "The"
+  - 00:55 · audio-vs-plan +0.153s (budget ±0.40s) · "Along"
+  - 00:24 · audio-vs-plan +0.120s (budget ±0.24s) · "They"
+  - 00:39 · audio-vs-plan +0.084s (budget ±0.30s) · "Pull"
+  - 00:30 · audio-vs-plan +0.082s (budget ±0.26s) · "Horses"
+  - 00:19 · audio-vs-plan +0.070s (budget ±0.18s) · "Why"
+- **8 low-confidence rendered tokens** (< 0.70 — unclear audio in the deliverable):
+  - 00:04 (4.42s) · conf 0.64 · "US"
+  - 00:32 (32.24s) · conf 0.56 · "Army"
+  - 00:39 (39.54s) · conf 0.67 · "chair,"
+  - 01:07 (67.42s) · conf 0.65 · "country"
+  - 01:18 (78.28s) · conf 0.65 · "them"
+  - 01:25 (85.79s) · conf 0.69 · "the"
+  - 01:25 (85.97s) · conf 0.57 · "journey"
+  - 02:48 (168.94s) · conf 0.65 · "Army"

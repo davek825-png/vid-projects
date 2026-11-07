@@ -115,7 +115,15 @@ def main() -> None:
 
     seg_dir = project / "work" / "render" / f"{args.style}-{args.mode}"
     seg_dir.mkdir(parents=True, exist_ok=True)
-    outs = [seg_dir / f"seg_{i:03d}.mp4" for i in range(len(jobs))]
+    # Key each cached segment by its SOURCE SPAN, not just its index: an audit edit that
+    # adds/removes a keep shifts every later index, and an index-only cache then reuses
+    # stale video (wrong span AND length) -> the audio, built to those stale lengths,
+    # repeats/drops phrases. (Measured on ows-camels: inserting one keep doubled a line.)
+    outs = [seg_dir / f"seg_{i:03d}_{s:.3f}_{e:.3f}.mp4" for i, (_, (s, e)) in enumerate(jobs)]
+    keep_names = {o.stem for o in outs}
+    for old in seg_dir.glob("seg_*"):
+        if old.stem not in keep_names:
+            old.unlink()
 
     todo = [(src, seg, out) for (src, seg), out in zip(jobs, outs) if not is_finalized(out)]
     if len(todo) < len(jobs):

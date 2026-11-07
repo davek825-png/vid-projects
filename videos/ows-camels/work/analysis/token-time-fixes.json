@@ -1,0 +1,68 @@
+{
+  "clip": "narr",
+  "time_fixes": [
+    {
+      "text": "By",
+      "from": [
+        133760,
+        133792
+      ],
+      "to": [
+        133700,
+        133792
+      ],
+      "note": "late start; RMS onset at 133.70 (opens the kept 'By December' take)"
+    },
+    {
+      "text": "Camels.",
+      "from": [
+        213949,
+        213969
+      ],
+      "to": [
+        211050,
+        211750
+      ],
+      "note": "PHANTOM + MISSED WORD: ASR missed the real 'Camels' (RMS 211.05-211.75) and stamped it 20ms onto 'Now'. Untranscribed, the reveal word fell in a gap and was cut from the first previews."
+    },
+    {
+      "text": "Now,",
+      "from": [
+        213969,
+        214050
+      ],
+      "to": [
+        213950,
+        214130
+      ],
+      "note": "burst at 213.95-214.12 is 'Now' (render ASR confirms)"
+    },
+    {
+      "text": "In",
+      "from": [
+        53739,
+        53868
+      ],
+      "to": [
+        54080,
+        54200
+      ],
+      "note": "ASR stamped 'In' onto the inhale (53.0-53.7, ~-57 dB); speech onset 54.08. Render carried 0.65s of breath."
+    },
+    {
+      "text": "1857,",
+      "from": [
+        53868,
+        55219
+      ],
+      "to": [
+        54200,
+        55219
+      ],
+      "note": "follows the 'In' fix"
+    }
+  ],
+  "text_fixes": [],
+  "notes": [],
+  "warning": "transcribe.py --force wipes these; re-apply after any re-transcription"
+}
