@@ -48,3 +48,7 @@ search reach leans on the description/keywords; the thumbnails do the curiosity 
 
 `packaging/description.txt` (camels named, per the creator rule; chapters stay camel-free because
 YouTube shows chapter titles on the player's progress bar).
+
+## Upload
+
+Uploaded 2026-11-07 as a **private draft**: https://studio.youtube.com/video/1L1ueZvgXHk/edit (id `1L1ueZvgXHk`), from `output/ows-camels-final.mp4` (1080p30, 3:32.7 incl. the 16 s end screen). Still to do in Studio: add the 3 creator-made thumbnails to Test & Compare, place the Video + Subscribe end-screen elements on the slide slots (see media/library/endscreen/README.md), then publish or schedule.
