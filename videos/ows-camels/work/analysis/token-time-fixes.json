@@ -60,6 +60,18 @@
         55219
       ],
       "note": "follows the 'In' fix"
+    },
+    {
+      "text": "Ocean.",
+      "from": [
+        13814,
+        14088
+      ],
+      "to": [
+        13740,
+        14088
+      ],
+      "note": "RMS onset 13.74 (after the 'Pacific' cut at 13.285-13.735)"
     }
   ],
   "text_fixes": [],

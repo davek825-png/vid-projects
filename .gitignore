@@ -60,3 +60,6 @@ Thumbs.db
 media/projects/ows-1/
 # ows-snowshoe source media stays local (same rule as ows-1)
 media/projects/ows-snowshoe/
+# ows-camels source media stays local (same rule as ows-1); archival sources are listed in
+# videos/ows-camels/work/edit-plan.md and media/projects/ows-camels/real/SOURCES.md
+media/projects/ows-camels/

@@ -1,0 +1,33 @@
+// Beat spans on the ows-camels master (seconds). SOURCE OF TRUTH for timing in all three styles:
+// tools generate the shot wrappers + timelines from this table (see tools/gen_camels_shots.py).
+export const SPANS = {
+  Fort: [0.0, 8.58],
+  Ship: [8.58, 14.6],
+  Handlers: [14.6, 19.8],
+  Why: [19.8, 21.85],
+  Problem: [21.85, 31.9],
+  Horses: [31.9, 41.1],
+  Title: [41.1, 47.3],
+  Beale: [47.3, 51.48],
+  Road: [51.48, 58.95],
+  Orders: [58.95, 63.85],
+  TwentyFive: [63.85, 76.36],
+  Critters: [76.36, 86.61],
+  Jornada: [86.61, 95.87],
+  Ninety: [95.87, 103.55],
+  Crossed: [103.55, 109.88],
+  LA: [109.88, 120.08],
+  Papers: [120.08, 126.26],
+  Trouble: [126.26, 128.07],
+  CampVerde: [128.07, 133.5],
+  CivilWar: [133.5, 141.62],
+  Fates: [141.62, 150.91],
+  Books: [150.91, 155.23],
+  Sightings: [155.23, 163.78],
+  Traced: [163.78, 174.81],
+  Setup: [174.81, 183.4],
+  Reveal: [183.4, 185.0],
+  WildCamel: [185.0, 192.2],
+  EndCard: [192.2, 196.533],
+} as const;
+export type BeatName = keyof typeof SPANS;

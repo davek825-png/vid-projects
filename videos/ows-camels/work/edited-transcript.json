@@ -3,2573 +3,2568 @@
  "style": "natural-slow",
  "units": "ms",
  "source": "master-natural-slow-h264.mp4 (1920x1080@30, narration-only on a blank espresso background)",
- "note": "Word times in the FINAL master timeline, from a fresh AssemblyAI pass over the master (keyterms applied). Time fix: 'In' (of 'In 1857') moved off the preceding inhale to its RMS onset 48.34s. 'Camels.' at 184.34s verified against the envelope. The narration is canonical where it differs from the script.",
- "duration_ms": 196967,
+ "note": "Word times in the FINAL master timeline, from a fresh AssemblyAI pass over the master (keyterms applied). 'Pacific' was cut from 'clear across the Pacific Ocean' (creator, factual fix). 'In' (of 'In 1857') (ASR 46.68s, stamped on the inhale) moved to its RMS onset 47.88s The narration is canonical where it differs from the script.",
+ "duration_ms": 196533,
  "words": [
   {
    "text": "Let's",
-   "start": 257,
-   "end": 514
+   "start": 256,
+   "end": 512
   },
   {
    "text": "talk",
-   "start": 514,
-   "end": 706
+   "start": 512,
+   "end": 705
   },
   {
    "text": "about",
-   "start": 755,
-   "end": 996
+   "start": 753,
+   "end": 993
   },
   {
    "text": "the",
-   "start": 996,
-   "end": 1060
+   "start": 993,
+   "end": 1057
   },
   {
    "text": "summer",
-   "start": 1060,
-   "end": 1446
+   "start": 1057,
+   "end": 1442
   },
   {
    "text": "of",
-   "start": 1462,
-   "end": 1510
+   "start": 1458,
+   "end": 1506
   },
   {
    "text": "1855",
-   "start": 1542,
-   "end": 2811
+   "start": 1538,
+   "end": 2804
   },
   {
    "text": "and",
-   "start": 2988,
-   "end": 3068
+   "start": 2980,
+   "end": 3060
   },
   {
    "text": "a",
-   "start": 3084,
-   "end": 3229
+   "start": 3076,
+   "end": 3221
   },
   {
    "text": "decision",
-   "start": 3229,
-   "end": 3695
+   "start": 3221,
+   "end": 3685
   },
   {
    "text": "made",
-   "start": 3727,
-   "end": 4016
+   "start": 3717,
+   "end": 4006
   },
   {
    "text": "by",
-   "start": 4049,
-   "end": 4209
+   "start": 4038,
+   "end": 4198
   },
   {
    "text": "the",
-   "start": 4209,
-   "end": 4322
+   "start": 4198,
+   "end": 4310
   },
   {
    "text": "US",
-   "start": 4434,
-   "end": 4820
+   "start": 4422,
+   "end": 4807
   },
   {
    "text": "Army",
-   "start": 5077,
-   "end": 5382
+   "start": 5063,
+   "end": 5368
   },
   {
    "text": "that",
-   "start": 5479,
-   "end": 5703
+   "start": 5464,
+   "end": 5688
   },
   {
    "text": "nobody",
-   "start": 5977,
-   "end": 6346
+   "start": 5961,
+   "end": 6329
   },
   {
    "text": "at",
-   "start": 6394,
-   "end": 6507
+   "start": 6377,
+   "end": 6490
   },
   {
    "text": "the",
-   "start": 6523,
-   "end": 6571
+   "start": 6506,
+   "end": 6554
   },
   {
    "text": "fort",
-   "start": 6619,
-   "end": 6957
+   "start": 6602,
+   "end": 6938
   },
   {
    "text": "could",
-   "start": 7005,
-   "end": 7117
+   "start": 6986,
+   "end": 7099
   },
   {
    "text": "quite",
-   "start": 7246,
-   "end": 7583
+   "start": 7227,
+   "end": 7563
   },
   {
    "text": "explain.",
-   "start": 7583,
-   "end": 8033
+   "start": 7563,
+   "end": 8012
   },
   {
    "text": "The",
-   "start": 9174,
-   "end": 9238
+   "start": 9150,
+   "end": 9214
   },
   {
    "text": "Army",
-   "start": 9254,
-   "end": 9447
+   "start": 9230,
+   "end": 9422
   },
   {
    "text": "sent",
-   "start": 9447,
-   "end": 9752
+   "start": 9422,
+   "end": 9727
   },
   {
    "text": "men",
-   "start": 9752,
-   "end": 9929
+   "start": 9727,
+   "end": 9935
   },
   {
    "text": "clear",
-   "start": 10058,
-   "end": 10267
+   "start": 10031,
+   "end": 10240
   },
   {
    "text": "across",
-   "start": 10299,
-   "end": 10636
+   "start": 10272,
+   "end": 10608
   },
   {
    "text": "the",
-   "start": 10636,
-   "end": 10781
+   "start": 10608,
+   "end": 10784
   },
   {
-   "text": "Pacific",
-   "start": 10781,
-   "end": 11263
-  },
-  {
-   "text": "Ocean.",
-   "start": 11279,
-   "end": 11552
+   "text": "ocean.",
+   "start": 10784,
+   "end": 11057
   },
   {
    "text": "They",
-   "start": 12082,
-   "end": 12195
+   "start": 11650,
+   "end": 11810
   },
   {
    "text": "came",
-   "start": 12307,
-   "end": 12484
+   "start": 11810,
+   "end": 12050
   },
   {
    "text": "back",
-   "start": 12484,
-   "end": 12741
+   "start": 12050,
+   "end": 12291
   },
   {
    "text": "to",
-   "start": 12741,
-   "end": 12821
+   "start": 12291,
+   "end": 12371
   },
   {
    "text": "Texas",
-   "start": 12902,
-   "end": 13432
+   "start": 12451,
+   "end": 12932
   },
   {
    "text": "with",
-   "start": 13432,
-   "end": 13544
+   "start": 12932,
+   "end": 13140
   },
   {
    "text": "33",
-   "start": 13544,
-   "end": 14316
+   "start": 13252,
+   "end": 13797
   },
   {
    "text": "animals",
-   "start": 14316,
-   "end": 14701
+   "start": 13877,
+   "end": 14230
   },
   {
    "text": "and",
-   "start": 15440,
-   "end": 15585
+   "start": 14999,
+   "end": 15159
   },
   {
    "text": "3",
-   "start": 15794,
-   "end": 16099
+   "start": 15335,
+   "end": 15576
   },
   {
    "text": "handlers",
-   "start": 16099,
-   "end": 16549
+   "start": 15640,
+   "end": 16105
   },
   {
    "text": "who",
-   "start": 16645,
-   "end": 16678
+   "start": 16137,
+   "end": 16217
   },
   {
    "text": "were",
-   "start": 16678,
-   "end": 16822
+   "start": 16217,
+   "end": 16361
   },
   {
    "text": "the",
-   "start": 16822,
-   "end": 16967
+   "start": 16361,
+   "end": 16521
   },
   {
    "text": "only",
-   "start": 16983,
-   "end": 17192
+   "start": 16521,
+   "end": 16746
   },
   {
    "text": "ones",
-   "start": 17304,
-   "end": 17674
+   "start": 16842,
+   "end": 17194
   },
   {
    "text": "who",
-   "start": 17850,
-   "end": 18059
+   "start": 17403,
+   "end": 17547
   },
   {
    "text": "knew",
-   "start": 18333,
-   "end": 18413
+   "start": 17819,
+   "end": 17980
   },
   {
    "text": "how",
-   "start": 18509,
-   "end": 18622
+   "start": 18044,
+   "end": 18220
   },
   {
    "text": "to",
-   "start": 18670,
-   "end": 18766
+   "start": 18220,
+   "end": 18300
   },
   {
    "text": "manage",
-   "start": 18766,
-   "end": 19168
+   "start": 18300,
+   "end": 18733
   },
   {
    "text": "these",
-   "start": 19297,
-   "end": 19441
+   "start": 18781,
+   "end": 18989
   },
   {
    "text": "animals.",
-   "start": 19538,
-   "end": 19843
+   "start": 19021,
+   "end": 19390
   },
   {
    "text": "Why",
-   "start": 20743,
-   "end": 20871
+   "start": 20223,
+   "end": 20415
   },
   {
    "text": "would",
-   "start": 20903,
-   "end": 21064
+   "start": 20447,
+   "end": 20560
   },
   {
    "text": "they",
-   "start": 21064,
-   "end": 21112
+   "start": 20560,
+   "end": 20640
   },
   {
    "text": "do",
-   "start": 21241,
-   "end": 21385
+   "start": 20704,
+   "end": 20928
   },
   {
    "text": "such",
-   "start": 21385,
-   "end": 21626
+   "start": 20928,
+   "end": 21105
   },
   {
    "text": "a",
-   "start": 21626,
-   "end": 21642
+   "start": 21121,
+   "end": 21137
   },
   {
    "text": "thing?",
-   "start": 21707,
-   "end": 21932
+   "start": 21185,
+   "end": 21377
   },
   {
    "text": "Well,",
-   "start": 22767,
-   "end": 23121
+   "start": 22306,
+   "end": 22595
   },
   {
    "text": "out",
-   "start": 23635,
-   "end": 23763
+   "start": 23172,
+   "end": 23300
   },
   {
    "text": "west,",
-   "start": 23876,
+   "start": 23348,
+   "end": 23653
+  },
+  {
+   "text": "the",
+   "start": 23669,
+   "end": 23893
+  },
+  {
+   "text": "Army",
+   "start": 23893,
    "end": 24117
   },
   {
-   "text": "the",
-   "start": 24213,
-   "end": 24374
-  },
-  {
-   "text": "Army",
-   "start": 24374,
-   "end": 24583
-  },
-  {
    "text": "had",
-   "start": 24679,
-   "end": 24856
+   "start": 24213,
+   "end": 24326
   },
   {
    "text": "a",
-   "start": 24856,
-   "end": 24872
+   "start": 24326,
+   "end": 24470
   },
   {
    "text": "big",
-   "start": 25017,
-   "end": 25338
+   "start": 24470,
+   "end": 24886
   },
   {
    "text": "problem.",
-   "start": 25418,
-   "end": 25740
+   "start": 24935,
+   "end": 25335
   },
   {
    "text": "They",
-   "start": 26622,
-   "end": 26686
+   "start": 26153,
+   "end": 26297
   },
   {
    "text": "had",
-   "start": 26686,
-   "end": 26895
+   "start": 26297,
+   "end": 26426
   },
   {
    "text": "to",
-   "start": 26895,
-   "end": 26943
+   "start": 26426,
+   "end": 26490
   },
   {
    "text": "haul",
-   "start": 26943,
-   "end": 27151
+   "start": 26538,
+   "end": 26730
   },
   {
    "text": "supplies",
-   "start": 27183,
-   "end": 27712
+   "start": 26730,
+   "end": 27243
   },
   {
    "text": "across",
-   "start": 27760,
-   "end": 28016
+   "start": 27340,
+   "end": 27564
   },
   {
    "text": "harsh",
-   "start": 28129,
-   "end": 28401
+   "start": 27660,
+   "end": 28045
   },
   {
    "text": "country",
-   "start": 28465,
-   "end": 28914
+   "start": 28061,
+   "end": 28446
   },
   {
    "text": "that",
-   "start": 29346,
-   "end": 29459
+   "start": 28943,
+   "end": 29040
   },
   {
    "text": "would",
-   "start": 29491,
-   "end": 29635
+   "start": 29040,
+   "end": 29248
   },
   {
    "text": "chew",
-   "start": 29667,
-   "end": 29859
+   "start": 29264,
+   "end": 29489
   },
   {
    "text": "up",
-   "start": 29987,
-   "end": 30148
+   "start": 29585,
+   "end": 29761
   },
   {
    "text": "horses",
-   "start": 30148,
-   "end": 30596
+   "start": 29761,
+   "end": 30130
   },
   {
    "text": "and",
-   "start": 30628,
-   "end": 30789
+   "start": 30242,
+   "end": 30387
   },
   {
    "text": "spit",
-   "start": 30789,
-   "end": 31253
+   "start": 30387,
+   "end": 30788
   },
   {
    "text": "out",
-   "start": 31253,
-   "end": 31350
+   "start": 30788,
+   "end": 30948
   },
   {
    "text": "the",
-   "start": 31350,
-   "end": 31430
+   "start": 30948,
+   "end": 31044
   },
   {
    "text": "bones.",
-   "start": 31430,
-   "end": 31958
+   "start": 31044,
+   "end": 31493
   },
   {
    "text": "Horses",
-   "start": 32696,
-   "end": 33128
+   "start": 32311,
+   "end": 32696
   },
   {
    "text": "were",
-   "start": 33176,
-   "end": 33337
+   "start": 32792,
+   "end": 32888
   },
   {
    "text": "valuable,",
-   "start": 33337,
-   "end": 33801
+   "start": 32888,
+   "end": 33514
   },
   {
    "text": "and",
-   "start": 34218,
-   "end": 34298
+   "start": 33770,
+   "end": 33835
   },
   {
    "text": "the",
-   "start": 34298,
-   "end": 34394
+   "start": 33851,
+   "end": 33995
   },
   {
    "text": "army",
-   "start": 34394,
-   "end": 34683
+   "start": 33995,
+   "end": 34268
   },
   {
    "text": "wasn't",
-   "start": 34795,
-   "end": 35099
+   "start": 34396,
+   "end": 34717
   },
   {
    "text": "willing",
-   "start": 35115,
-   "end": 35404
+   "start": 34717,
+   "end": 34941
   },
   {
    "text": "to",
-   "start": 35420,
-   "end": 35468
+   "start": 34973,
+   "end": 35053
   },
   {
    "text": "bet",
-   "start": 35580,
-   "end": 35756
+   "start": 35134,
+   "end": 35358
   },
   {
    "text": "a",
-   "start": 35756,
-   "end": 35772
+   "start": 35358,
+   "end": 35374
   },
   {
    "text": "whole",
-   "start": 35901,
-   "end": 36045
+   "start": 35454,
+   "end": 35647
   },
   {
    "text": "supply",
-   "start": 36157,
-   "end": 36510
+   "start": 35711,
+   "end": 36128
   },
   {
    "text": "train",
-   "start": 36702,
-   "end": 37022
+   "start": 36256,
+   "end": 36577
   },
   {
    "text": "of",
-   "start": 37022,
-   "end": 37070
+   "start": 36577,
+   "end": 36721
   },
   {
    "text": "them",
-   "start": 37102,
-   "end": 37359
+   "start": 36721,
+   "end": 36962
   },
   {
    "text": "that",
-   "start": 37359,
-   "end": 37759
+   "start": 36962,
+   "end": 37315
   },
   {
    "text": "they",
-   "start": 37759,
-   "end": 37920
+   "start": 37363,
+   "end": 37427
   },
   {
    "text": "would",
-   "start": 37920,
-   "end": 38096
+   "start": 37523,
+   "end": 37667
   },
   {
    "text": "survive",
-   "start": 38096,
-   "end": 38641
+   "start": 37684,
+   "end": 38245
   },
   {
    "text": "the",
-   "start": 38641,
-   "end": 38721
+   "start": 38245,
+   "end": 38341
   },
   {
    "text": "harsh",
-   "start": 38785,
-   "end": 39041
+   "start": 38341,
+   "end": 38598
   },
   {
    "text": "journey.",
-   "start": 39106,
-   "end": 39410
+   "start": 38726,
+   "end": 38999
   },
   {
    "text": "So",
-   "start": 40227,
-   "end": 40339
+   "start": 39784,
+   "end": 39945
   },
   {
    "text": "they",
-   "start": 40339,
-   "end": 40484
+   "start": 39945,
+   "end": 40089
   },
   {
    "text": "got",
-   "start": 40484,
-   "end": 40708
+   "start": 40089,
+   "end": 40265
   },
   {
    "text": "creative.",
-   "start": 40708,
-   "end": 41125
+   "start": 40265,
+   "end": 40715
   },
   {
    "text": "Pull",
-   "start": 41926,
-   "end": 42038
+   "start": 41468,
+   "end": 41597
   },
   {
    "text": "up",
-   "start": 42070,
-   "end": 42182
+   "start": 41629,
+   "end": 41773
   },
   {
    "text": "a",
-   "start": 42182,
-   "end": 42198
+   "start": 41773,
+   "end": 41853
   },
   {
    "text": "chair.",
-   "start": 42246,
-   "end": 42439
+   "start": 41853,
+   "end": 42142
   },
   {
    "text": "This",
-   "start": 43032,
-   "end": 43208
+   "start": 42591,
+   "end": 42719
   },
   {
    "text": "is",
-   "start": 43208,
-   "end": 43352
+   "start": 42767,
+   "end": 42976
   },
   {
    "text": "Old",
-   "start": 43352,
-   "end": 43689
+   "start": 42976,
+   "end": 43232
   },
   {
    "text": "West",
-   "start": 43689,
-   "end": 43945
+   "start": 43313,
+   "end": 43489
   },
   {
    "text": "Stories,",
-   "start": 43945,
-   "end": 44458
+   "start": 43489,
+   "end": 44002
   },
   {
    "text": "and",
-   "start": 45051,
-   "end": 45259
+   "start": 44660,
+   "end": 44724
   },
   {
    "text": "this",
-   "start": 45291,
-   "end": 45467
+   "start": 44900,
+   "end": 45093
   },
   {
    "text": "one",
-   "start": 45596,
-   "end": 45740
+   "start": 45141,
+   "end": 45269
   },
   {
    "text": "is",
-   "start": 46092,
-   "end": 46156
+   "start": 45638,
+   "end": 45702
   },
   {
    "text": "gonna",
-   "start": 46333,
-   "end": 46573
+   "start": 45878,
+   "end": 46183
   },
   {
    "text": "be",
-   "start": 46573,
-   "end": 46813
+   "start": 46183,
+   "end": 46360
   },
   {
    "text": "good.",
-   "start": 46813,
-   "end": 47102
+   "start": 46424,
+   "end": 46568
   },
   {
    "text": "In",
-   "start": 48340,
-   "end": 48460
+   "start": 47880,
+   "end": 48000
   },
   {
    "text": "1857,",
-   "start": 48460,
-   "end": 49410
+   "start": 48000,
+   "end": 48974
   },
   {
    "text": "Edward",
-   "start": 50002,
-   "end": 50403
+   "start": 49631,
+   "end": 49968
   },
   {
    "text": "Beale",
-   "start": 50403,
-   "end": 50611
+   "start": 49968,
+   "end": 50273
   },
   {
    "text": "got",
-   "start": 50740,
-   "end": 50980
+   "start": 50353,
+   "end": 50593
   },
   {
    "text": "his",
-   "start": 50980,
-   "end": 51188
+   "start": 50593,
+   "end": 50738
   },
   {
    "text": "orders.",
-   "start": 51300,
-   "end": 51589
+   "start": 50914,
+   "end": 51219
   },
   {
    "text": "He",
-   "start": 52182,
-   "end": 52294
+   "start": 51732,
+   "end": 51860
   },
   {
    "text": "was",
-   "start": 52326,
-   "end": 52438
+   "start": 51876,
+   "end": 51989
   },
   {
    "text": "to",
-   "start": 52438,
-   "end": 52534
+   "start": 52037,
+   "end": 52085
   },
   {
    "text": "survey",
-   "start": 52567,
-   "end": 53047
+   "start": 52133,
+   "end": 52615
   },
   {
    "text": "a",
-   "start": 53047,
-   "end": 53208
+   "start": 52615,
+   "end": 52759
   },
   {
    "text": "wagon",
-   "start": 53208,
-   "end": 53608
+   "start": 52775,
+   "end": 53160
   },
   {
    "text": "road",
-   "start": 53608,
-   "end": 53913
+   "start": 53160,
+   "end": 53465
   },
   {
    "text": "west",
-   "start": 53929,
-   "end": 54298
+   "start": 53497,
+   "end": 53946
   },
   {
    "text": "from",
-   "start": 54410,
-   "end": 54714
+   "start": 53962,
+   "end": 54267
   },
   {
    "text": "what",
-   "start": 54827,
-   "end": 54939
+   "start": 54380,
+   "end": 54540
   },
   {
    "text": "is",
-   "start": 54987,
-   "end": 55035
+   "start": 54540,
+   "end": 54668
   },
   {
    "text": "now",
-   "start": 55131,
-   "end": 55259
+   "start": 54700,
+   "end": 54813
   },
   {
    "text": "northeastern",
-   "start": 55468,
-   "end": 56253
+   "start": 54941,
+   "end": 55759
   },
   {
    "text": "Arizona",
-   "start": 56253,
-   "end": 56894
+   "start": 55808,
+   "end": 56449
   },
   {
    "text": "all",
-   "start": 57215,
-   "end": 57263
+   "start": 56770,
+   "end": 56818
   },
   {
    "text": "the",
-   "start": 57327,
-   "end": 57455
+   "start": 56931,
+   "end": 57011
   },
   {
    "text": "way",
-   "start": 57455,
-   "end": 57567
+   "start": 57011,
+   "end": 57171
   },
   {
    "text": "to",
-   "start": 57567,
-   "end": 57647
+   "start": 57171,
+   "end": 57268
   },
   {
    "text": "Southern",
-   "start": 57696,
-   "end": 58144
+   "start": 57268,
+   "end": 57717
   },
   {
    "text": "California.",
-   "start": 58192,
-   "end": 58850
+   "start": 57749,
+   "end": 58407
   },
   {
    "text": "Along",
-   "start": 59940,
-   "end": 60164
+   "start": 59498,
+   "end": 59723
   },
   {
    "text": "with",
-   "start": 60180,
-   "end": 60276
+   "start": 59739,
+   "end": 59915
   },
   {
    "text": "that",
-   "start": 60276,
-   "end": 60501
+   "start": 59915,
+   "end": 60076
   },
   {
    "text": "assignment",
-   "start": 60501,
-   "end": 60981
+   "start": 60076,
+   "end": 60493
   },
   {
    "text": "came",
-   "start": 60981,
-   "end": 61158
+   "start": 60557,
+   "end": 60717
   },
   {
    "text": "an",
-   "start": 61158,
-   "end": 61238
+   "start": 60717,
+   "end": 60798
   },
   {
    "text": "instruction",
-   "start": 61238,
-   "end": 61831
+   "start": 60798,
+   "end": 61391
   },
   {
    "text": "that",
-   "start": 61863,
-   "end": 62023
+   "start": 61423,
+   "end": 61584
   },
   {
    "text": "raised",
-   "start": 62023,
-   "end": 62296
+   "start": 61584,
+   "end": 61857
   },
   {
    "text": "a",
-   "start": 62296,
-   "end": 62312
+   "start": 61857,
+   "end": 61873
   },
   {
    "text": "few",
-   "start": 62360,
-   "end": 62472
+   "start": 61921,
+   "end": 62129
   },
   {
    "text": "eyebrows",
-   "start": 62664,
-   "end": 63129
+   "start": 62226,
+   "end": 62691
   },
   {
    "text": "on",
-   "start": 63225,
-   "end": 63289
+   "start": 62787,
+   "end": 62835
   },
   {
    "text": "the",
-   "start": 63305,
-   "end": 63386
+   "start": 62884,
+   "end": 62948
   },
   {
    "text": "frontier.",
-   "start": 63386,
-   "end": 63899
+   "start": 62948,
+   "end": 63397
   },
   {
    "text": "The",
-   "start": 64748,
-   "end": 64828
+   "start": 64312,
+   "end": 64392
   },
   {
    "text": "Army",
-   "start": 64908,
-   "end": 65133
+   "start": 64472,
+   "end": 64697
   },
   {
    "text": "handed",
-   "start": 65149,
-   "end": 65469
+   "start": 64729,
+   "end": 65018
   },
   {
    "text": "Beale",
-   "start": 65469,
-   "end": 65678
+   "start": 65050,
+   "end": 65242
   },
   {
    "text": "25",
-   "start": 65726,
-   "end": 66607
+   "start": 65290,
+   "end": 66237
   },
   {
    "text": "unusual",
-   "start": 66671,
-   "end": 67313
+   "start": 66237,
+   "end": 66847
   },
   {
    "text": "animals",
-   "start": 67313,
-   "end": 67697
+   "start": 66895,
+   "end": 67344
   },
   {
    "text": "and",
-   "start": 67809,
-   "end": 68018
+   "start": 67376,
+   "end": 67585
   },
   {
    "text": "told",
-   "start": 68531,
-   "end": 68755
+   "start": 68114,
+   "end": 68323
   },
   {
    "text": "him",
-   "start": 68755,
-   "end": 68851
+   "start": 68323,
+   "end": 68483
   },
   {
    "text": "to",
-   "start": 68851,
-   "end": 68931
+   "start": 68483,
+   "end": 68515
   },
   {
    "text": "see",
-   "start": 68931,
-   "end": 69172
+   "start": 68515,
+   "end": 68756
   },
   {
    "text": "if",
-   "start": 69172,
-   "end": 69316
+   "start": 68756,
+   "end": 68836
   },
   {
    "text": "they",
-   "start": 69316,
-   "end": 69380
+   "start": 68884,
+   "end": 68981
   },
   {
    "text": "could",
-   "start": 69412,
-   "end": 69589
+   "start": 68981,
+   "end": 69205
   },
   {
    "text": "haul",
-   "start": 69589,
-   "end": 69765
+   "start": 69205,
+   "end": 69334
   },
   {
    "text": "road-building",
-   "start": 69893,
-   "end": 70422
+   "start": 69526,
+   "end": 70072
   },
   {
    "text": "supplies",
-   "start": 70470,
-   "end": 70983
+   "start": 70088,
+   "end": 70553
   },
   {
    "text": "across",
-   "start": 71031,
-   "end": 71288
+   "start": 70601,
+   "end": 70858
   },
   {
    "text": "harsh",
-   "start": 71416,
-   "end": 71784
+   "start": 70986,
+   "end": 71307
   },
   {
    "text": "countries",
-   "start": 71801,
-   "end": 72233
+   "start": 71372,
+   "end": 71837
   },
   {
    "text": "that",
-   "start": 72233,
-   "end": 72426
+   "start": 71853,
+   "end": 72126
   },
   {
    "text": "horses,",
-   "start": 72939,
-   "end": 73467
+   "start": 72511,
+   "end": 73040
   },
   {
    "text": "mules,",
-   "start": 73644,
-   "end": 73980
+   "start": 73233,
+   "end": 73570
   },
   {
    "text": "and",
-   "start": 74044,
-   "end": 74141
+   "start": 73618,
+   "end": 73778
   },
   {
    "text": "oxen",
-   "start": 74205,
-   "end": 74509
+   "start": 73778,
+   "end": 74083
   },
   {
    "text": "previously",
-   "start": 74621,
-   "end": 75231
+   "start": 74196,
+   "end": 74805
   },
   {
    "text": "didn't",
-   "start": 75407,
-   "end": 75663
+   "start": 74998,
+   "end": 75254
   },
   {
    "text": "survive.",
-   "start": 75663,
-   "end": 76272
+   "start": 75254,
+   "end": 75880
   },
   {
    "text": "Beale",
-   "start": 77266,
-   "end": 77459
+   "start": 76843,
+   "end": 77100
   },
   {
    "text": "set",
-   "start": 77507,
-   "end": 77811
+   "start": 77100,
+   "end": 77389
   },
   {
    "text": "out,",
-   "start": 77811,
-   "end": 78148
+   "start": 77389,
+   "end": 77725
   },
   {
    "text": "not",
-   "start": 78212,
-   "end": 78340
+   "start": 77790,
+   "end": 77966
   },
   {
    "text": "sure",
-   "start": 78388,
-   "end": 78613
+   "start": 77966,
+   "end": 78159
   },
   {
    "text": "what",
-   "start": 78613,
-   "end": 78789
+   "start": 78207,
+   "end": 78383
   },
   {
    "text": "to",
-   "start": 78789,
-   "end": 78933
+   "start": 78383,
+   "end": 78528
   },
   {
    "text": "expect",
-   "start": 78933,
-   "end": 79286
+   "start": 78528,
+   "end": 78913
   },
   {
    "text": "from",
-   "start": 79334,
-   "end": 79414
+   "start": 78913,
+   "end": 79009
   },
   {
    "text": "these",
-   "start": 79430,
-   "end": 79558
+   "start": 79009,
+   "end": 79218
   },
   {
    "text": "critters.",
-   "start": 79654,
-   "end": 80039
+   "start": 79234,
+   "end": 79539
   },
   {
    "text": "Truth",
-   "start": 80633,
-   "end": 80841
+   "start": 80213,
+   "end": 80421
   },
   {
    "text": "be",
-   "start": 80874,
-   "end": 81098
+   "start": 80454,
+   "end": 80614
   },
   {
    "text": "told,",
-   "start": 81098,
-   "end": 81436
+   "start": 80614,
+   "end": 80983
   },
   {
    "text": "he",
-   "start": 81982,
-   "end": 82158
+   "start": 81562,
+   "end": 81658
   },
   {
    "text": "didn't",
-   "start": 82158,
-   "end": 82383
+   "start": 81690,
+   "end": 81883
   },
   {
    "text": "know",
-   "start": 82383,
-   "end": 82495
+   "start": 81963,
+   "end": 82075
   },
   {
    "text": "much",
-   "start": 82495,
-   "end": 82800
+   "start": 82075,
+   "end": 82364
   },
   {
    "text": "about",
-   "start": 82800,
-   "end": 82993
+   "start": 82364,
+   "end": 82573
   },
   {
    "text": "caring",
-   "start": 83041,
-   "end": 83330
+   "start": 82621,
+   "end": 82910
   },
   {
    "text": "for",
-   "start": 83362,
-   "end": 83507
+   "start": 82942,
+   "end": 83119
   },
   {
    "text": "them",
-   "start": 83507,
-   "end": 83684
+   "start": 83119,
+   "end": 83264
   },
   {
    "text": "either.",
-   "start": 83684,
-   "end": 83860
+   "start": 83264,
+   "end": 83440
   },
   {
    "text": "It's",
-   "start": 84422,
-   "end": 84567
+   "start": 83986,
+   "end": 84147
   },
   {
    "text": "a",
-   "start": 84567,
-   "end": 84583
+   "start": 84147,
+   "end": 84163
   },
   {
    "text": "good",
-   "start": 84647,
-   "end": 84856
+   "start": 84227,
+   "end": 84436
   },
   {
    "text": "thing",
-   "start": 84952,
-   "end": 85177
+   "start": 84532,
+   "end": 84676
   },
   {
    "text": "those",
-   "start": 85193,
-   "end": 85386
+   "start": 84773,
+   "end": 84917
   },
   {
    "text": "3",
-   "start": 85434,
-   "end": 85675
+   "start": 85014,
+   "end": 85190
   },
   {
    "text": "handlers",
-   "start": 85675,
-   "end": 86060
+   "start": 85190,
+   "end": 85640
   },
   {
    "text": "came",
-   "start": 86156,
-   "end": 86333
+   "start": 85736,
+   "end": 85913
   },
   {
    "text": "along.",
-   "start": 86333,
-   "end": 86622
+   "start": 85913,
+   "end": 86202
   },
   {
    "text": "Up",
-   "start": 87457,
-   "end": 87601
+   "start": 87021,
+   "end": 87181
   },
   {
    "text": "ahead",
-   "start": 87601,
-   "end": 87906
+   "start": 87181,
+   "end": 87486
   },
   {
    "text": "lay",
-   "start": 88003,
-   "end": 88179
+   "start": 87583,
+   "end": 87631
   },
   {
    "text": "the",
-   "start": 88179,
-   "end": 88260
+   "start": 87743,
+   "end": 87840
   },
   {
    "text": "Jornada",
-   "start": 88260,
-   "end": 88741
+   "start": 87840,
+   "end": 88321
   },
   {
    "text": "del",
-   "start": 88741,
-   "end": 88966
+   "start": 88321,
+   "end": 88546
   },
   {
    "text": "Muerto.",
-   "start": 88966,
-   "end": 89448
+   "start": 88546,
+   "end": 88964
   },
   {
    "text": "In",
-   "start": 90283,
-   "end": 90411
+   "start": 89847,
+   "end": 89943
   },
   {
    "text": "Spanish,",
-   "start": 90411,
-   "end": 90861
+   "start": 89991,
+   "end": 90441
   },
   {
    "text": "that",
-   "start": 90989,
-   "end": 91214
+   "start": 90569,
+   "end": 90794
   },
   {
    "text": "means",
-   "start": 91214,
-   "end": 91599
+   "start": 90794,
+   "end": 91179
   },
   {
    "text": "the",
-   "start": 92113,
-   "end": 92274
+   "start": 91693,
+   "end": 91774
   },
   {
    "text": "journey",
-   "start": 92338,
-   "end": 92723
+   "start": 91918,
+   "end": 92303
   },
   {
    "text": "of",
-   "start": 92836,
-   "end": 92884
+   "start": 92400,
+   "end": 92448
   },
   {
    "text": "the",
-   "start": 92932,
-   "end": 93061
+   "start": 92496,
+   "end": 92576
   },
   {
    "text": "dead",
-   "start": 93077,
-   "end": 93285
+   "start": 92657,
+   "end": 92897
   },
   {
    "text": "man,",
-   "start": 93317,
-   "end": 93655
+   "start": 92897,
+   "end": 93186
   },
   {
    "text": "and",
-   "start": 94185,
-   "end": 94249
+   "start": 93765,
+   "end": 93829
   },
   {
    "text": "the",
-   "start": 94345,
-   "end": 94377
+   "start": 93861,
+   "end": 93957
   },
   {
    "text": "name",
-   "start": 94377,
-   "end": 94987
+   "start": 93957,
+   "end": 94503
   },
   {
    "text": "certainly",
-   "start": 94987,
-   "end": 95533
+   "start": 94503,
+   "end": 95065
   },
   {
    "text": "fit.",
-   "start": 95549,
-   "end": 95806
+   "start": 95065,
+   "end": 95386
   },
   {
    "text": "It",
-   "start": 96143,
-   "end": 96834
+   "start": 96350,
+   "end": 96414
   },
   {
    "text": "was",
-   "start": 96834,
-   "end": 96898
+   "start": 96414,
+   "end": 96478
   },
   {
    "text": "roughly",
-   "start": 97075,
-   "end": 97428
+   "start": 96590,
+   "end": 96960
   },
   {
    "text": "90",
-   "start": 97428,
-   "end": 97829
+   "start": 96992,
+   "end": 97393
   },
   {
    "text": "miles",
-   "start": 97829,
-   "end": 98263
+   "start": 97393,
+   "end": 97875
   },
   {
    "text": "of",
-   "start": 98295,
-   "end": 98423
+   "start": 97875,
+   "end": 98003
   },
   {
    "text": "desert",
-   "start": 98472,
-   "end": 98825
+   "start": 98036,
+   "end": 98485
   },
   {
    "text": "with",
-   "start": 98937,
-   "end": 99050
+   "start": 98501,
+   "end": 98678
   },
   {
    "text": "very",
-   "start": 99178,
-   "end": 99387
+   "start": 98742,
+   "end": 98967
   },
   {
    "text": "little",
-   "start": 99483,
-   "end": 99628
+   "start": 98999,
+   "end": 99208
   },
   {
    "text": "water,",
-   "start": 99660,
-   "end": 100093
+   "start": 99240,
+   "end": 99641
   },
   {
    "text": "where",
-   "start": 100784,
-   "end": 100864
+   "start": 100348,
+   "end": 100412
   },
   {
    "text": "countless",
-   "start": 101025,
-   "end": 101442
+   "start": 100589,
+   "end": 101054
   },
   {
    "text": "people",
-   "start": 101506,
-   "end": 101795
+   "start": 101086,
+   "end": 101391
   },
   {
    "text": "and",
-   "start": 101908,
-   "end": 102052
+   "start": 101488,
+   "end": 101632
   },
   {
    "text": "livestock",
-   "start": 102052,
-   "end": 102678
+   "start": 101632,
+   "end": 102210
   },
   {
    "text": "had",
-   "start": 102678,
-   "end": 102791
+   "start": 102210,
+   "end": 102339
   },
   {
    "text": "perished",
-   "start": 102791,
-   "end": 103192
+   "start": 102371,
+   "end": 102772
   },
   {
    "text": "before.",
-   "start": 103192,
-   "end": 103546
+   "start": 102772,
+   "end": 103126
   },
   {
    "text": "To",
-   "start": 104397,
-   "end": 104557
+   "start": 103977,
+   "end": 104137
   },
   {
    "text": "Beale's",
-   "start": 104557,
-   "end": 104878
+   "start": 104137,
+   "end": 104442
   },
   {
    "text": "amazement,",
-   "start": 104878,
-   "end": 105360
+   "start": 104442,
+   "end": 105020
   },
   {
    "text": "These",
-   "start": 105810,
-   "end": 105890
+   "start": 105390,
+   "end": 105502
   },
   {
    "text": "strange",
-   "start": 105922,
-   "end": 106324
+   "start": 105502,
+   "end": 105904
   },
   {
    "text": "animals",
-   "start": 106388,
-   "end": 106693
+   "start": 105968,
+   "end": 106273
   },
   {
    "text": "crossed",
-   "start": 106805,
-   "end": 107673
+   "start": 106787,
+   "end": 107189
   },
   {
    "text": "the",
-   "start": 107673,
-   "end": 107721
+   "start": 107189,
+   "end": 107285
   },
   {
    "text": "Jornada",
-   "start": 107721,
-   "end": 108171
+   "start": 107285,
+   "end": 107751
   },
   {
    "text": "del",
-   "start": 108171,
-   "end": 108315
+   "start": 107751,
+   "end": 107863
   },
   {
    "text": "Muerto",
-   "start": 108315,
-   "end": 108797
+   "start": 107895,
+   "end": 108377
   },
   {
    "text": "without",
-   "start": 108797,
-   "end": 109119
+   "start": 108377,
+   "end": 108699
   },
   {
    "text": "a",
-   "start": 109119,
-   "end": 109135
+   "start": 108699,
+   "end": 108859
   },
   {
    "text": "lick",
-   "start": 109279,
-   "end": 109472
+   "start": 108859,
+   "end": 109052
   },
   {
    "text": "of",
-   "start": 109472,
-   "end": 109536
+   "start": 109052,
+   "end": 109116
   },
   {
    "text": "trouble.",
-   "start": 109536,
-   "end": 109906
+   "start": 109116,
+   "end": 109454
   },
   {
    "text": "By",
-   "start": 110741,
-   "end": 110869
+   "start": 110321,
+   "end": 110449
   },
   {
    "text": "December,",
-   "start": 110902,
-   "end": 111448
+   "start": 110482,
+   "end": 110980
   },
   {
    "text": "the",
-   "start": 111705,
-   "end": 111849
+   "start": 111285,
+   "end": 111445
   },
   {
    "text": "expedition",
-   "start": 111930,
-   "end": 112428
+   "start": 111445,
+   "end": 111959
   },
   {
    "text": "was",
-   "start": 112428,
-   "end": 112556
+   "start": 112008,
+   "end": 112136
   },
   {
    "text": "pulling",
-   "start": 112829,
-   "end": 113118
+   "start": 112409,
+   "end": 112618
   },
   {
    "text": "into",
-   "start": 113150,
-   "end": 113263
+   "start": 112730,
+   "end": 112843
   },
   {
    "text": "Los",
-   "start": 113311,
-   "end": 113504
+   "start": 112875,
+   "end": 113228
   },
   {
    "text": "Angeles,",
-   "start": 113713,
-   "end": 114066
+   "start": 113277,
+   "end": 113614
   },
   {
    "text": "and",
-   "start": 114179,
-   "end": 114275
+   "start": 113694,
+   "end": 113855
   },
   {
    "text": "the",
-   "start": 114275,
-   "end": 114516
+   "start": 113855,
+   "end": 114048
   },
   {
    "text": "animals",
-   "start": 114580,
-   "end": 114885
+   "start": 114080,
+   "end": 114433
   },
   {
    "text": "drew",
-   "start": 114982,
-   "end": 115255
+   "start": 114562,
+   "end": 114722
   },
   {
    "text": "their",
-   "start": 115303,
-   "end": 115431
+   "start": 114883,
+   "end": 115011
   },
   {
    "text": "fair",
-   "start": 115560,
-   "end": 115817
+   "start": 115124,
+   "end": 115397
   },
   {
    "text": "share",
-   "start": 115897,
-   "end": 116315
+   "start": 115477,
+   "end": 115734
   },
   {
    "text": "of",
-   "start": 116363,
-   "end": 116460
+   "start": 115927,
+   "end": 115975
   },
   {
    "text": "attention.",
-   "start": 116460,
-   "end": 116941
+   "start": 116023,
+   "end": 116521
   },
   {
    "text": "Folks",
-   "start": 117969,
-   "end": 118275
+   "start": 117533,
+   "end": 117855
   },
   {
    "text": "lined",
-   "start": 118275,
-   "end": 118596
+   "start": 117855,
+   "end": 118144
   },
   {
    "text": "the",
-   "start": 118596,
-   "end": 118676
+   "start": 118176,
+   "end": 118256
   },
   {
    "text": "streets",
-   "start": 118676,
-   "end": 119158
+   "start": 118256,
+   "end": 118738
   },
   {
    "text": "to",
-   "start": 119158,
-   "end": 119255
+   "start": 118738,
+   "end": 118802
   },
   {
    "text": "get",
-   "start": 119255,
-   "end": 119479
+   "start": 118835,
+   "end": 119011
   },
   {
    "text": "a",
-   "start": 119479,
-   "end": 119496
+   "start": 119011,
+   "end": 119076
   },
   {
    "text": "good",
-   "start": 119576,
-   "end": 119865
+   "start": 119156,
+   "end": 119445
   },
   {
    "text": "look.",
-   "start": 119961,
-   "end": 120138
+   "start": 119477,
+   "end": 119718
   },
   {
    "text": "Newspapers",
-   "start": 120925,
-   "end": 121471
+   "start": 120441,
+   "end": 121019
   },
   {
    "text": "ran",
-   "start": 121503,
-   "end": 121696
+   "start": 121083,
+   "end": 121276
   },
   {
    "text": "stories.",
-   "start": 121825,
-   "end": 122355
+   "start": 121405,
+   "end": 121935
   },
   {
    "text": "Those",
-   "start": 123013,
-   "end": 123206
+   "start": 122529,
+   "end": 122738
   },
   {
    "text": "critters",
-   "start": 123254,
-   "end": 123608
+   "start": 122834,
+   "end": 123140
   },
   {
    "text": "were",
-   "start": 123656,
-   "end": 123833
+   "start": 123172,
+   "end": 123397
   },
   {
    "text": "the",
-   "start": 123833,
-   "end": 124025
+   "start": 123397,
+   "end": 123605
   },
   {
    "text": "talk",
-   "start": 124170,
-   "end": 124411
+   "start": 123734,
+   "end": 123991
   },
   {
    "text": "of",
-   "start": 124411,
-   "end": 124475
+   "start": 123991,
+   "end": 124039
   },
   {
    "text": "the",
-   "start": 124475,
-   "end": 124555
+   "start": 124039,
+   "end": 124135
   },
   {
    "text": "territory",
-   "start": 124620,
-   "end": 125166
+   "start": 124135,
+   "end": 124778
   },
   {
    "text": "and",
-   "start": 125214,
-   "end": 125343
+   "start": 124778,
+   "end": 124858
   },
   {
    "text": "the",
-   "start": 125343,
-   "end": 125375
+   "start": 124858,
+   "end": 124955
   },
   {
    "text": "star",
-   "start": 125375,
-   "end": 125680
+   "start": 124955,
+   "end": 125260
   },
   {
    "text": "of",
-   "start": 125680,
-   "end": 125905
+   "start": 125260,
+   "end": 125421
   },
   {
    "text": "the",
-   "start": 125905,
-   "end": 125937
+   "start": 125421,
+   "end": 125501
   },
   {
    "text": "show.",
-   "start": 125937,
-   "end": 126258
+   "start": 125501,
+   "end": 125838
   },
   {
    "text": "Then",
-   "start": 127126,
-   "end": 127334
+   "start": 126690,
+   "end": 126818
   },
   {
    "text": "trouble",
-   "start": 127431,
-   "end": 127768
+   "start": 126947,
+   "end": 127300
   },
   {
    "text": "came.",
-   "start": 127768,
-   "end": 128089
+   "start": 127348,
+   "end": 127669
   },
   {
    "text": "Beale",
-   "start": 128893,
-   "end": 129150
+   "start": 128473,
+   "end": 128714
   },
   {
    "text": "made",
-   "start": 129150,
-   "end": 129358
+   "start": 128714,
+   "end": 128938
   },
   {
    "text": "his",
-   "start": 129358,
-   "end": 129471
+   "start": 128938,
+   "end": 129051
   },
   {
    "text": "way",
-   "start": 129535,
-   "end": 129776
+   "start": 129099,
+   "end": 129340
   },
   {
    "text": "back",
-   "start": 129776,
-   "end": 129889
+   "start": 129340,
+   "end": 129469
   },
   {
    "text": "to",
-   "start": 130001,
-   "end": 130081
+   "start": 129533,
+   "end": 129661
   },
   {
    "text": "Camp",
-   "start": 130081,
-   "end": 130338
+   "start": 129661,
+   "end": 129902
   },
   {
    "text": "Verde,",
-   "start": 130338,
-   "end": 130708
+   "start": 129902,
+   "end": 130191
   },
   {
    "text": "the",
-   "start": 130981,
-   "end": 131141
+   "start": 130561,
+   "end": 130721
   },
   {
    "text": "Texas",
-   "start": 131141,
-   "end": 131607
+   "start": 130721,
+   "end": 131123
   },
   {
    "text": "post",
-   "start": 131607,
-   "end": 131993
+   "start": 131123,
+   "end": 131541
   },
   {
    "text": "where",
-   "start": 132009,
-   "end": 132186
+   "start": 131589,
+   "end": 131750
   },
   {
    "text": "the",
-   "start": 132186,
-   "end": 132378
+   "start": 131750,
+   "end": 131958
   },
   {
    "text": "whole",
-   "start": 132410,
-   "end": 132668
+   "start": 131990,
+   "end": 132248
   },
   {
    "text": "venture",
-   "start": 132668,
-   "end": 132973
+   "start": 132248,
+   "end": 132553
   },
   {
    "text": "had",
-   "start": 132973,
-   "end": 133198
+   "start": 132553,
+   "end": 132729
   },
   {
    "text": "started.",
-   "start": 133214,
-   "end": 133535
+   "start": 132729,
+   "end": 133067
   },
   {
    "text": "Before",
-   "start": 134353,
-   "end": 134626
+   "start": 133934,
+   "end": 134207
   },
   {
    "text": "long,",
-   "start": 134819,
-   "end": 135124
+   "start": 134335,
+   "end": 134705
   },
   {
    "text": "the",
-   "start": 135236,
-   "end": 135397
+   "start": 134817,
+   "end": 134914
   },
   {
    "text": "Civil",
-   "start": 135397,
-   "end": 135830
+   "start": 134914,
+   "end": 135395
   },
   {
    "text": "War",
-   "start": 135862,
-   "end": 136151
+   "start": 135443,
+   "end": 135732
   },
   {
    "text": "reached",
-   "start": 136199,
-   "end": 136520
+   "start": 135765,
+   "end": 136102
   },
   {
-   "text": "Texas",
-   "start": 136520,
-   "end": 136969
+   "text": "Texas,",
+   "start": 136102,
+   "end": 136551
   },
   {
    "text": "and",
-   "start": 137082,
-   "end": 137290
+   "start": 136648,
+   "end": 136792
   },
   {
    "text": "Camp",
-   "start": 137322,
-   "end": 137563
+   "start": 136905,
+   "end": 137146
   },
   {
    "text": "Verde",
-   "start": 137563,
-   "end": 137756
+   "start": 137146,
+   "end": 137467
   },
   {
    "text": "fell",
-   "start": 137884,
-   "end": 138077
+   "start": 137467,
+   "end": 137659
   },
   {
    "text": "into",
-   "start": 138125,
-   "end": 138285
+   "start": 137708,
+   "end": 137820
   },
   {
    "text": "Confederate",
-   "start": 138349,
-   "end": 138847
+   "start": 137868,
+   "end": 138430
   },
   {
    "text": "hands,",
-   "start": 138991,
-   "end": 139264
+   "start": 138511,
+   "end": 138848
   },
   {
    "text": "and",
-   "start": 139328,
-   "end": 139457
+   "start": 138912,
+   "end": 139041
   },
   {
    "text": "they",
-   "start": 139954,
-   "end": 140034
+   "start": 139538,
+   "end": 139635
   },
   {
    "text": "had",
-   "start": 140034,
-   "end": 140179
+   "start": 139635,
+   "end": 139763
   },
   {
    "text": "no",
-   "start": 140275,
-   "end": 140419
+   "start": 139859,
+   "end": 140004
   },
   {
    "text": "idea",
-   "start": 140436,
-   "end": 140773
+   "start": 140020,
+   "end": 140341
   },
   {
    "text": "what",
-   "start": 140773,
-   "end": 140917
+   "start": 140341,
+   "end": 140438
   },
   {
    "text": "to",
-   "start": 140917,
-   "end": 140981
+   "start": 140438,
+   "end": 140582
   },
   {
    "text": "do",
-   "start": 140997,
-   "end": 141094
+   "start": 140582,
+   "end": 140678
   },
   {
    "text": "with",
-   "start": 141094,
-   "end": 141206
+   "start": 140678,
+   "end": 140823
   },
   {
    "text": "the",
-   "start": 141238,
-   "end": 141350
+   "start": 140823,
+   "end": 140919
   },
   {
    "text": "animals.",
-   "start": 141398,
-   "end": 141703
+   "start": 140919,
+   "end": 141208
   },
   {
    "text": "Most",
-   "start": 142522,
-   "end": 142714
+   "start": 142043,
+   "end": 142284
   },
   {
    "text": "were",
-   "start": 142762,
-   "end": 142843
+   "start": 142284,
+   "end": 142397
   },
   {
    "text": "auctioned",
-   "start": 142923,
-   "end": 143244
+   "start": 142509,
+   "end": 142830
   },
   {
    "text": "off.",
-   "start": 143244,
-   "end": 143485
+   "start": 142830,
+   "end": 143071
   },
   {
    "text": "Some",
-   "start": 144303,
-   "end": 144544
+   "start": 143874,
+   "end": 144083
   },
   {
    "text": "went",
-   "start": 144608,
-   "end": 144784
+   "start": 144195,
+   "end": 144356
   },
   {
    "text": "to",
-   "start": 144784,
-   "end": 144865
+   "start": 144356,
+   "end": 144452
   },
   {
    "text": "zoos.",
-   "start": 144865,
-   "end": 145314
+   "start": 144452,
+   "end": 144902
   },
   {
    "text": "Some",
-   "start": 145988,
-   "end": 146341
+   "start": 145560,
+   "end": 145930
   },
   {
    "text": "went",
-   "start": 146550,
-   "end": 146710
+   "start": 146138,
+   "end": 146299
   },
   {
    "text": "to",
-   "start": 146710,
-   "end": 146855
+   "start": 146299,
+   "end": 146395
   },
   {
    "text": "circuses.",
-   "start": 146855,
-   "end": 147400
+   "start": 146443,
+   "end": 146989
   },
   {
    "text": "Others",
-   "start": 148379,
-   "end": 148684
+   "start": 147969,
+   "end": 148274
   },
   {
    "text": "simply",
-   "start": 149278,
-   "end": 149807
+   "start": 148852,
+   "end": 149366
   },
   {
    "text": "walked",
-   "start": 149920,
-   "end": 150321
+   "start": 149494,
+   "end": 149896
   },
   {
    "text": "away.",
-   "start": 150321,
-   "end": 150674
+   "start": 149896,
+   "end": 150297
   },
   {
    "text": "And",
-   "start": 151926,
-   "end": 151990
+   "start": 151518,
+   "end": 151582
   },
   {
    "text": "here's",
-   "start": 152070,
-   "end": 152391
+   "start": 151662,
+   "end": 151887
   },
   {
    "text": "the",
-   "start": 152391,
-   "end": 152487
+   "start": 151935,
+   "end": 152080
   },
   {
    "text": "part",
-   "start": 152487,
-   "end": 152664
+   "start": 152080,
+   "end": 152257
   },
   {
    "text": "of",
-   "start": 152664,
-   "end": 152744
+   "start": 152257,
+   "end": 152321
   },
   {
    "text": "the",
-   "start": 152744,
-   "end": 152872
+   "start": 152321,
+   "end": 152417
   },
   {
    "text": "story",
-   "start": 152872,
-   "end": 153193
+   "start": 152417,
+   "end": 152786
   },
   {
    "text": "that",
-   "start": 153209,
-   "end": 153434
+   "start": 152803,
+   "end": 152963
   },
   {
    "text": "you",
-   "start": 153434,
-   "end": 153498
+   "start": 152963,
+   "end": 153092
   },
   {
    "text": "won't",
-   "start": 153530,
-   "end": 153771
+   "start": 153124,
+   "end": 153349
   },
   {
    "text": "find",
-   "start": 153771,
-   "end": 154156
+   "start": 153349,
+   "end": 153702
   },
   {
    "text": "in",
-   "start": 154156,
-   "end": 154220
+   "start": 153702,
+   "end": 153782
   },
   {
    "text": "the",
-   "start": 154237,
-   "end": 154317
+   "start": 153782,
+   "end": 153911
   },
   {
    "text": "history",
-   "start": 154317,
-   "end": 154622
+   "start": 153911,
+   "end": 154216
   },
   {
    "text": "books.",
-   "start": 154718,
-   "end": 154959
+   "start": 154248,
+   "end": 154553
   },
   {
    "text": "As",
-   "start": 156323,
-   "end": 156371
+   "start": 155918,
+   "end": 155982
   },
   {
    "text": "late",
-   "start": 156483,
-   "end": 156740
+   "start": 156078,
+   "end": 156319
   },
   {
    "text": "as",
-   "start": 156740,
-   "end": 156868
+   "start": 156319,
+   "end": 156464
   },
   {
    "text": "the",
-   "start": 156900,
-   "end": 156965
+   "start": 156480,
+   "end": 156560
   },
   {
    "text": "early",
-   "start": 156997,
-   "end": 157237
+   "start": 156640,
+   "end": 156833
   },
   {
    "text": "1900s,",
-   "start": 157302,
-   "end": 158152
+   "start": 156897,
+   "end": 157748
   },
   {
    "text": "folks",
-   "start": 158569,
-   "end": 158826
+   "start": 158166,
+   "end": 158423
   },
   {
    "text": "were",
-   "start": 158826,
-   "end": 158938
+   "start": 158423,
+   "end": 158535
   },
   {
    "text": "still",
-   "start": 158971,
-   "end": 159259
+   "start": 158567,
+   "end": 158857
   },
   {
    "text": "spotting",
-   "start": 159372,
-   "end": 159917
+   "start": 158921,
+   "end": 159515
   },
   {
    "text": "strange",
-   "start": 159949,
-   "end": 160575
+   "start": 159531,
+   "end": 160173
   },
   {
    "text": "wandering",
-   "start": 160656,
-   "end": 161041
+   "start": 160189,
+   "end": 160639
   },
   {
    "text": "creatures",
-   "start": 161137,
-   "end": 161522
+   "start": 160671,
+   "end": 161121
   },
   {
    "text": "from",
-   "start": 161634,
-   "end": 161795
+   "start": 161233,
+   "end": 161362
   },
   {
    "text": "Arkansas",
-   "start": 161875,
-   "end": 162308
+   "start": 161474,
+   "end": 162116
   },
   {
    "text": "all",
-   "start": 162341,
-   "end": 162662
+   "start": 162277,
+   "end": 162389
   },
   {
    "text": "the",
-   "start": 162902,
-   "end": 162999
+   "start": 162502,
+   "end": 162582
   },
   {
    "text": "way",
-   "start": 162999,
-   "end": 163159
+   "start": 162598,
+   "end": 162759
   },
   {
    "text": "to",
-   "start": 163159,
-   "end": 163239
+   "start": 162759,
+   "end": 162839
   },
   {
    "text": "Mexico.",
-   "start": 163239,
-   "end": 163881
+   "start": 162839,
+   "end": 163369
   },
   {
    "text": "Plenty",
-   "start": 164668,
-   "end": 164892
+   "start": 164203,
+   "end": 164492
   },
   {
    "text": "of",
-   "start": 164924,
-   "end": 165005
+   "start": 164524,
+   "end": 164604
   },
   {
    "text": "folks",
-   "start": 165005,
-   "end": 165326
+   "start": 164604,
+   "end": 164845
   },
   {
    "text": "swore",
-   "start": 165326,
-   "end": 165598
+   "start": 164845,
+   "end": 165117
   },
   {
    "text": "they'd",
-   "start": 165791,
-   "end": 166032
+   "start": 165326,
+   "end": 165566
   },
   {
    "text": "seen",
-   "start": 166032,
-   "end": 166256
+   "start": 165582,
+   "end": 165855
   },
   {
    "text": "one",
-   "start": 166369,
-   "end": 166481
+   "start": 165951,
+   "end": 166079
   },
   {
    "text": "with",
-   "start": 166609,
-   "end": 166738
+   "start": 166127,
+   "end": 166288
   },
   {
    "text": "their",
-   "start": 166754,
-   "end": 166882
+   "start": 166288,
+   "end": 166464
   },
   {
    "text": "own",
-   "start": 166995,
-   "end": 167139
+   "start": 166512,
+   "end": 166721
   },
   {
    "text": "eyes,",
-   "start": 167235,
-   "end": 167540
+   "start": 166833,
+   "end": 167138
   },
   {
    "text": "and",
-   "start": 168295,
-   "end": 168359
+   "start": 167891,
+   "end": 167956
   },
   {
    "text": "a",
-   "start": 168439,
-   "end": 168471
+   "start": 167972,
+   "end": 168052
   },
   {
    "text": "fair",
-   "start": 168471,
-   "end": 168728
+   "start": 168052,
+   "end": 168324
   },
   {
    "text": "number",
-   "start": 168872,
-   "end": 169177
+   "start": 168453,
+   "end": 168757
   },
   {
    "text": "of",
-   "start": 169177,
-   "end": 169338
+   "start": 168774,
+   "end": 168918
   },
   {
    "text": "those",
-   "start": 169338,
-   "end": 169514
+   "start": 168918,
+   "end": 169046
   },
   {
    "text": "sightings",
-   "start": 169514,
-   "end": 170028
+   "start": 169046,
+   "end": 169623
   },
   {
    "text": "traced",
-   "start": 170140,
-   "end": 170413
+   "start": 169720,
+   "end": 170089
   },
   {
    "text": "back",
-   "start": 170541,
-   "end": 170798
+   "start": 170121,
+   "end": 170313
   },
   {
    "text": "to",
-   "start": 170798,
-   "end": 170991
+   "start": 170377,
+   "end": 170586
   },
   {
    "text": "Beale's",
-   "start": 171087,
-   "end": 171392
+   "start": 170618,
+   "end": 171083
   },
   {
    "text": "expedition",
-   "start": 171569,
-   "end": 172195
+   "start": 171083,
+   "end": 171853
   },
   {
    "text": "over",
-   "start": 173270,
-   "end": 173446
+   "start": 172847,
+   "end": 173087
   },
   {
    "text": "40",
-   "start": 173511,
-   "end": 173976
+   "start": 173087,
+   "end": 173552
   },
   {
    "text": "years",
-   "start": 174056,
-   "end": 174361
+   "start": 173649,
+   "end": 173873
   },
   {
    "text": "before.",
-   "start": 174393,
-   "end": 174714
+   "start": 173985,
+   "end": 174290
   },
   {
    "text": "You",
-   "start": 175757,
-   "end": 175854
+   "start": 175333,
+   "end": 175429
   },
   {
    "text": "see,",
-   "start": 175854,
-   "end": 176191
+   "start": 175429,
+   "end": 175765
   },
   {
    "text": "Beale",
-   "start": 176945,
-   "end": 177138
+   "start": 176471,
+   "end": 176664
   },
   {
    "text": "couldn't",
-   "start": 177202,
-   "end": 177587
+   "start": 176792,
+   "end": 177113
   },
   {
    "text": "cross",
-   "start": 177587,
-   "end": 177940
+   "start": 177113,
+   "end": 177305
   },
   {
    "text": "that",
-   "start": 177988,
-   "end": 178117
+   "start": 177513,
+   "end": 177770
   },
   {
    "text": "harsh",
-   "start": 178309,
-   "end": 178743
+   "start": 177898,
+   "end": 178107
   },
   {
    "text": "Southwest",
-   "start": 178871,
-   "end": 179561
+   "start": 178412,
+   "end": 179133
   },
   {
    "text": "with",
-   "start": 179609,
-   "end": 179834
+   "start": 179181,
+   "end": 179326
   },
   {
    "text": "horses",
-   "start": 179834,
-   "end": 180219
+   "start": 179358,
+   "end": 179807
   },
   {
    "text": "and",
-   "start": 180267,
-   "end": 180476
+   "start": 179839,
+   "end": 179999
   },
   {
    "text": "mules,",
-   "start": 180476,
-   "end": 180781
+   "start": 179999,
+   "end": 180368
   },
   {
    "text": "so",
-   "start": 181680,
-   "end": 181856
+   "start": 181218,
+   "end": 181507
   },
   {
    "text": "the",
-   "start": 181936,
-   "end": 182081
+   "start": 181507,
+   "end": 181667
   },
   {
    "text": "Army",
-   "start": 182081,
-   "end": 182386
+   "start": 181667,
+   "end": 181892
   },
   {
    "text": "gave",
-   "start": 182963,
-   "end": 183188
+   "start": 182485,
+   "end": 182741
   },
   {
    "text": "him",
-   "start": 183204,
-   "end": 183397
+   "start": 182790,
+   "end": 182918
   },
   {
    "text": "camels.",
-   "start": 184344,
-   "end": 184873
+   "start": 183928,
+   "end": 184425
   },
   {
    "text": "Now,",
-   "start": 185933,
-   "end": 186029
+   "start": 185452,
+   "end": 185532
   },
   {
    "text": "if",
-   "start": 186045,
-   "end": 186173
+   "start": 185596,
+   "end": 185692
   },
   {
    "text": "you",
-   "start": 186173,
-   "end": 186237
+   "start": 185692,
+   "end": 185821
   },
   {
    "text": "came",
-   "start": 186270,
-   "end": 186398
+   "start": 185837,
+   "end": 186013
   },
   {
    "text": "across",
-   "start": 186446,
-   "end": 186815
+   "start": 186013,
+   "end": 186286
   },
   {
    "text": "a",
-   "start": 186815,
-   "end": 186847
+   "start": 186334,
+   "end": 186366
   },
   {
    "text": "wild",
-   "start": 186895,
-   "end": 187120
+   "start": 186478,
+   "end": 186703
   },
   {
    "text": "camel",
-   "start": 187152,
-   "end": 187521
+   "start": 186735,
+   "end": 187039
   },
   {
    "text": "roaming",
-   "start": 187537,
-   "end": 187842
+   "start": 187039,
+   "end": 187344
   },
   {
    "text": "the",
-   "start": 187874,
-   "end": 187939
+   "start": 187376,
+   "end": 187520
   },
   {
    "text": "Arizona",
-   "start": 187939,
-   "end": 188436
+   "start": 187520,
+   "end": 187969
   },
   {
    "text": "desert",
-   "start": 188516,
-   "end": 188805
+   "start": 188098,
+   "end": 188370
   },
   {
    "text": "today,",
-   "start": 188837,
-   "end": 189239
+   "start": 188402,
+   "end": 188627
   },
   {
    "text": "what",
-   "start": 189319,
-   "end": 189479
+   "start": 188884,
+   "end": 188996
   },
   {
    "text": "would",
-   "start": 189479,
-   "end": 189624
+   "start": 188996,
+   "end": 189140
   },
   {
    "text": "you",
-   "start": 189624,
-   "end": 189736
+   "start": 189140,
+   "end": 189300
   },
   {
    "text": "do?",
-   "start": 189736,
-   "end": 189977
+   "start": 189300,
+   "end": 189445
   },
   {
    "text": "Drop",
-   "start": 190445,
-   "end": 190671
+   "start": 190024,
+   "end": 190250
   },
   {
    "text": "your",
-   "start": 190671,
-   "end": 190801
+   "start": 190250,
+   "end": 190363
   },
   {
    "text": "answer",
-   "start": 190833,
-   "end": 191092
+   "start": 190412,
+   "end": 190670
   },
   {
    "text": "in",
-   "start": 191092,
-   "end": 191221
+   "start": 190670,
+   "end": 190719
   },
   {
    "text": "the",
-   "start": 191238,
-   "end": 191335
+   "start": 190815,
+   "end": 190912
   },
   {
    "text": "comments",
-   "start": 191335,
-   "end": 191755
+   "start": 190912,
+   "end": 191397
   },
   {
    "text": "below.",
-   "start": 191820,
-   "end": 192160
+   "start": 191397,
+   "end": 191720
   },
   {
    "text": "Like,",
-   "start": 193115,
-   "end": 193503
+   "start": 192689,
+   "end": 193077
   },
   {
    "text": "share,",
-   "start": 193584,
-   "end": 193859
+   "start": 193093,
+   "end": 193367
   },
   {
    "text": "and",
-   "start": 193908,
-   "end": 193989
+   "start": 193416,
+   "end": 193561
   },
   {
    "text": "subscribe,",
-   "start": 193989,
-   "end": 194636
+   "start": 193561,
+   "end": 194239
   },
   {
    "text": "and",
-   "start": 194749,
-   "end": 194976
+   "start": 194304,
+   "end": 194546
   },
   {
    "text": "we'll",
-   "start": 194976,
-   "end": 195202
+   "start": 194546,
+   "end": 194708
   },
   {
    "text": "see",
-   "start": 195202,
-   "end": 195445
+   "start": 194708,
+   "end": 195015
   },
   {
    "text": "you",
-   "start": 195445,
-   "end": 195510
+   "start": 195015,
+   "end": 195112
   },
   {
    "text": "in",
-   "start": 195558,
-   "end": 195639
+   "start": 195112,
+   "end": 195192
   },
   {
    "text": "the",
-   "start": 195639,
-   "end": 195769
+   "start": 195192,
+   "end": 195289
   },
   {
    "text": "next",
-   "start": 195769,
-   "end": 196060
+   "start": 195289,
+   "end": 195628
   },
   {
    "text": "story.",
-   "start": 196060,
-   "end": 196432
+   "start": 195628,
+   "end": 195935
   }
  ]
 }

@@ -16,8 +16,13 @@
         },
         {
           "s": 11.7,
+          "e": 13.265,
+          "text": "The Army sent men clear across the"
+        },
+        {
+          "s": 13.74,
           "e": 17.19,
-          "text": "The Army sent men clear across the Pacific Ocean. They came back to Texas with 33 animals"
+          "text": "Ocean. They came back to Texas with 33 animals"
         },
         {
           "s": 18.01,
@@ -204,6 +209,13 @@
           "note": "lead-in silence before 'Let's talk about'"
         },
         {
+          "s": 13.285,
+          "e": 13.735,
+          "cat": "retake",
+          "text": "Pacific",
+          "note": "creator edit 2026-11-07: factual fix, the 1855 voyage crossed the Atlantic, not the Pacific; line now reads 'clear across the ocean'"
+        },
+        {
           "s": 65.79,
           "e": 67.33,
           "text": "Along with that assignment-",
@@ -305,6 +317,13 @@
       "at": "whole video",
       "issue": "ows-1 and ows-snowshoe shipped on natural-slow. Rendering natural and natural-slow to compare.",
       "default": "natural-slow"
+    },
+    {
+      "id": 6,
+      "clip": "narr",
+      "at": "00:13",
+      "issue": "'Pacific' cut from 'clear across the Pacific Ocean' (the voyage crossed the Atlantic).",
+      "default": "cut (creator decision 2026-11-07)"
     }
   ]
 }
