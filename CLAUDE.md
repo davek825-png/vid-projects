@@ -8,7 +8,7 @@ your cut. No screen recording, no video editor. The right skill is picked from t
 |---|---|---|
 | set up / change their brand, colors, fonts, wordmark | `/brand-setup` | `brand.md` + `remotion/src/{brand.ts,fonts.ts}` + a proof render |
 | cut the raw footage / tighten pacing / remove fillers | `/clean-cut` | master cut + `videos/<project>/work/{analysis/cuts.json, edited-transcript.json}` |
-| build the visual beats / add overlays | `/make-tsx` (+ `/fake-screencast`) | shots in `remotion/src/shots/<project>/` + a baked preview |
+| build the visual beats / add overlays | `/make-tsx` (+ `/fake-screencast`) — first asks: **default, cutout or claymation** style | shots in `remotion/src/shots/<project>/` + a baked preview |
 | write a crash-free TSX shot | `/vidtsx-2d-generator` | the low-level Remotion authoring rules |
 | remove background noise / isolate voice | `/clean-audio` | a cleaned master (levels preserved) |
 | add SFX / sound-design a beat | `/suggest-sfx` | `videos/<project>/work/sfx-plan.json` + an audition mix |

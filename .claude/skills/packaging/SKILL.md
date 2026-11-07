@@ -142,6 +142,13 @@ Then close Stage 3 with:
   3. **Timestamps / chapters** — first chapter at `0:00`, keyword-rich labels. Derive from the edit
      plan / final cut; re-confirm if the cut length changed.
   4. Short like/subscribe nudge.
+  5. **Keywords (creator rule, 2026-11-05 — every video).** End the description with a `KEYWORDS`
+     line of ~10–15 search phrases people actually type (people, places, era, topic, "history of
+     X"), comma-separated, followed by exactly 3 hashtags on their own line (YouTube shows the first
+     3 above the title; the channel hashtag `#OldWestStories` is always one). Every keyword must be
+     something the video actually covers: no unrelated trending terms (misleading metadata) and no
+     long keyword dumps (YouTube treats excessive keywords in descriptions as spam). Also weave the
+     2–3 most important phrases naturally into the 2-line hook, which carries the most search weight.
 - **Self-check** — run the title and each thumbnail against both checklists; flag any rule bent and
   why it's worth it.
 - **Baseline note** — if calibrated, restate their measured median + stretch target. If cold start,

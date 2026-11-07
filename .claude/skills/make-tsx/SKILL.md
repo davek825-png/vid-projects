@@ -19,8 +19,16 @@ This is the project orchestration. For the low-level rules of writing a single c
 
 ## Workflow
 
+0. **STYLE GATE (creator rule, 2026-11-07, every video): ask before building anything.** Use
+   AskUserQuestion: *"Which style should this video's visuals use: default, cutout, or claymation?"*
+   with the three options below, and attach the proof stills so the creator can compare
+   (`remotion/out/StyleCutoutProof.png`, `StyleClayProof.png`; re-render with
+   `node scripts/render-all.mjs --still --scale=1 StyleCutoutProof StyleClayProof`). Record the answer
+   as the first line under the edit-plan title (`**Visual style: cutout**`) and as `"style"` in
+   `timeline.json`. Then build EVERY shot of the video in that style, following the matching section
+   in **Visual styles** below. Don't re-ask within the same video, and don't mix styles across beats.
 1. **Read** the plan + timeline + transcript + brand + kit. Pull the exact word times for each cue you must hit (grep `edited-transcript.json` for the phrase → start/end ms → local frame = `(cue_s − shot.master_in_s) × fps`).
-2. **Ask only what's genuinely open** at the start (a small batch), then build. Don't re-ask settled decisions.
+2. **Ask only what's genuinely open** at the start (a small batch, after the step-0 style answer), then build. Don't re-ask settled decisions.
 3. **Library-first.** Reuse a kit component before writing UI from scratch. If you build something reusable (a window chrome, a browser frame, a card slot), put it in `lib/` so later shots and videos get it. Promote good patterns back into the library.
 4. **Author / edit the shot** as a vidtsx-format `.tsx` in `remotion/src/shots/video-N/` (auto-registered by `scripts/gen-registry.mjs`). One shot per file. Follow the brand tokens and the principles below.
 5. **Sync to the words** (see principles). Time each sub-element's entrance to its transcript cue; never show a thing before it's said or after the point has passed.
@@ -28,6 +36,49 @@ This is the project orchestration. For the low-level rules of writing a single c
 7. **Render + VERIFY BY SCREENSHOT** (never skip): `cd remotion && node scripts/render-all.mjs --scale=1 <ShotIds>` (opaque → `out/<id>.mp4`, transparent overlays → `.mov`). Validate with a still first (`--still`); for word-synced reveals/scrolls, render the clip and pull a frame at **each cue** (`ffmpeg -ss <t> -i out/<id>.mp4 -frames:v 1 f.jpg`) — one 60% still is not enough.
 8. **Bake the preview**: `python tools/bake.py` (reads timeline.json → `videos/video-N/output/video-N-preview.mp4`, 1080p30). `--end SECONDS` to bake a prefix while iterating.
 9. **Spot-check composited frames** from the baked mp4 at the changed beats (the shot over the real master), not just the isolated shot.
+
+## Visual styles (chosen at the step-0 gate)
+
+All three keep the brand contract: brand colors, fonts, wordmark, the accuracy rule (only genuinely
+quoted words legible, paraphrases labeled), the ILLUSTRATION tag on AI images, word-synced reveals
+and the brand §10 SFX rules. Only the *materials and motion* change. Kit: default =
+`lib/frontier.tsx` + `lib/inkmap.tsx`; cutout and claymation = `lib/styles.tsx` (plus `inkmap` /
+`frontier` helpers for timing: `cueAt`, word cues).
+
+**Default (documentary).** What ows-1 and ows-snowshoe use. Parchment/night backgrounds, KenBurns
+pushes on full-bleed images, framed prints, ink maps, ledger DocCards and stamps, smooth eased motion
+with fades and dips.
+
+**Cutout (paper collage, stop-motion).**
+- Motion: everything is stop-motion. Drive animation through `stepRamp(frame, a, b, 3)` (poses held
+  on threes, 10/s) and give every piece `boil`. **No fades and no smooth Ken Burns**: paper slides,
+  drops or swaps in (`PaperPiece from="drop|left|right|below"`); scene changes are hard cuts or a
+  paper piece sliding across.
+- Backgrounds: `CraftPaperBg` in brand paper colors, with torn `strips` for horizons and mountains
+  (layered back to front, darker = nearer).
+- Images: real photos become `CutoutPhoto` prints (white border, torn edge, lifted shadow). For
+  scene moves, slide or parallax the paper layers in steps instead of zooming one image.
+- Text: `PaperLabel` strips (brand fonts, ink on paper, legible first). Stamps and badges become
+  colored `PaperPiece`s that drop in.
+- Maps and diagrams: build them from paper. Mountains are torn-paper triangles, routes are a stitched
+  dashed line drawn in steps, pins are colored paper dots.
+- AI images: ask the creator to generate them with `IMAGE_PROMPT_SUFFIX.cutout` (in `lib/styles.tsx`)
+  appended to each prompt, so their art matches the collage.
+
+**Claymation (plasticine set, stop-motion).**
+- Motion: stop-motion on twos (`stepped(frame, 2)`, 15 poses/s) with `boil`. Entrances use
+  `ClayPiece` squash-and-stretch (pop up from the floor), not fades. Scene changes are hard cuts.
+- Every shot renders `<ClayDefs />` once, then builds a set: `ClaySet` (wall + rolled-clay floor +
+  key light), `ClayMountains` / clay blobs for scenery.
+- Text: `ClayText` for big words (titles, numbers); `ClaySlab` to carry readable ledger lines,
+  labels and quotes (brand mono/body fonts stay crisp on the slab).
+- Images: real photos appear as props in the world (`ClayPhotoProp`, a framed print on the set), never
+  as flat full-bleed frames. AI images: ask the creator to use `IMAGE_PROMPT_SUFFIX.claymation`.
+- Maps: a clay diorama, with clay mountains on the floor, a rolled clay rope as the route (draw in
+  steps), and clay ball pins with `ClaySlab` labels.
+
+For any style, if the creator's images don't match (e.g. sepia photos in a claymation video), keep
+real historical photos as props/prints (honest, still on-style) and ask for restyled AI images.
 
 ## timeline.json (the compositing map)
 
