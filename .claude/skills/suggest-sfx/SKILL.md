@@ -38,6 +38,14 @@ Sound taste is a brand contract — read **`brand.md` §10** every time. The hou
   peak_dbfs, loudness_lufs, source, model, license, prompt, used_in}` per clip. Written by `gen_sfx.py`.
 - `media/library/sfx/clips/*.mp3` — loudness-normalized clips (~−20 LUFS, −1.5 dBFS ceiling) so a plan's per-cue
   `gain_db` is perceptually meaningful.
+- **CREATOR RULE (2026-11-07, overrides the generation steps below): library only, scene match only.**
+  SFX may be ANY clip in `media/library/sfx/` (catalog it first if it isn't in `catalog.json`), music
+  ANY track in `media/library/music/`, and each is used ONLY where it genuinely matches the scene;
+  otherwise silence. Don't generate or download new sounds unless the creator asks. Every video's
+  outro scene uses `media/library/music/clips/mus_outro.mp3` (catalog id `mus_outro`,
+  `music_lufs: -15.0`) under the end-screen slide. When no library track suits a scene, TELL the
+  creator what music is needed (span + scenes, mood, instrumentation, tempo/energy, length, why no
+  library track fits) in the music proposal, before mixing. Details: brand.md §10.
 - **Library-first, always.** Reuse an existing clip before generating. Name/tag clips GENERICALLY
   (`ui-toggle-on`, `whoosh-soft`, `pop-reveal`) so future videos reuse them — the library is the durable
   asset, each video is one draw from it. Only genuinely-missing sounds get added to `palette.json` and
@@ -57,8 +65,9 @@ Sound taste is a brand contract — read **`brand.md` §10** every time. The hou
    deniable texture as `"optional": true`. **Layer the 2–3 biggest moments** (build-and-drop): riser→impact
    on a scripted reveal, whoosh→pop so a cut stands out — in the plan a layer is two events at the same/
    adjacent `at_s` that sum. Sync each cue to the VISUAL beat and often the exact word.
-4. **Library-first sourcing.** For each distinct sound the plan needs, reuse a catalog clip if one fits.
-   For misses, add a generic recipe to `palette.json` and generate: `python tools/gen_sfx.py`
+4. **Library sourcing.** For each distinct sound the plan needs, use a library clip only if it matches
+   the scene (creator rule above); otherwise drop the cue. Only if the creator asks for new sounds:
+   add a generic recipe to `palette.json` and generate: `python tools/gen_sfx.py`
    (ElevenLabs Sound Effects API → normalized clip → catalog). Fall back to curated royalty-free only where
    generation is weak; record `source` + `license` either way.
 5. **Author `videos/video-N/work/sfx-plan.json`** — one event per cue, `at_s` on the MASTER timeline. (Schema below.)
@@ -148,6 +157,9 @@ Sound taste is a brand contract — read **`brand.md` §10** every time. The hou
   risers, no trailer slams, no whoosh on every move.
 - **Audit before mixing.** The user reads and approves `sfx-plan.json` first. Non-negotiable.
 - **Not music.** No music bed here — that is the final-mix step (track + auto-ducking + final loudness).
+  Music follows the same creator rule: library tracks (`media/library/music/`) that match the scene,
+  `mus_outro` on every outro, and a clear "here's the music this video still needs" note to the
+  creator when the library has nothing that fits.
 
 Done = the library has the needed clips (catalogued with source+license), `sfx-plan.json` is authored and
 **audited by the user**, the SFX-mixed preview is rendered and spot-checked by ear, and any new clips +

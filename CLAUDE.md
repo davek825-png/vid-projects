@@ -12,8 +12,8 @@ your cut. No screen recording, no video editor. The right skill is picked from t
 | write a crash-free TSX shot | `/vidtsx-2d-generator` | the low-level Remotion authoring rules |
 | remove background noise / isolate voice | `/clean-audio` | a cleaned master (levels preserved) |
 | add SFX / sound-design a beat | `/suggest-sfx` | `videos/<project>/work/sfx-plan.json` + an audition mix |
-| package a video / titles + thumbnails | `/packaging` | `videos/<project>/packaging/` (1 title × 3 thumbnail bets + rendered thumbs) |
-| make / iterate thumbnails only | `/thumbnail` | rendered + verified frames in `videos/<project>/packaging/thumbs/` (asks which style elements you want) |
+| package a video / titles + thumbnails | `/packaging` | `videos/<project>/packaging/` (1 title × 3 thumbnail options with copy-paste Nano Banana prompts you render yourself) |
+| make / iterate thumbnails only | `/thumbnail` | 3 options + complete Nano Banana prompts in `videos/<project>/packaging/` (asks which style elements you want; verifies the images you bring back) |
 | upload it | `tools/yt_upload.py` | a private draft on YouTube |
 | track it / put it in Notion | `tools/notion_sync.py` | the video's row in the Notion content tracker |
 
@@ -85,6 +85,13 @@ current brand (wordmark, palette, type) so you can see it. `/brand-setup` uses i
   referenced as `staticFile('projects/<project>/x')`. Reuse before you generate — check the catalogs.
   The face-reference kit for thumbnails is `media/library/faces/` — **you supply your own** images
   (git-ignored; see its README). No face kit, no face thumbnails.
+
+- **Music + SFX sources (creator rule, 2026-11-07):** background music = any track in
+  `media/library/music/`, SFX = any clip in `media/library/sfx/`, each used **only where it matches
+  the scene** (else silence). Every video's outro scene uses `media/library/music/clips/mus_outro.mp3`
+  under the end-screen slide. **If no library track suits a scene, tell the creator what music is
+  needed** (span, scenes, mood, instrumentation, tempo, length) instead of substituting. Full rules:
+  `brand.md` §10.
 
 - **Committed vs git-ignored:** the repo carries the *reproducible pipeline* — `cuts.json`, edit
   plans, `timeline.json`, transcripts, TSX shots, SFX/music plans, catalogs. **Raw footage and master

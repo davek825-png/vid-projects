@@ -13,6 +13,10 @@ In Studio: Editor > End screen > + Element. Drag each element onto its slot and 
 slot's edges. Set both to run the full 16 s outro. After the first video, use **Import from video**
 to copy the layout onto later uploads.
 
+**Outro music:** always `media/library/music/clips/mus_outro.mp3` (16.176 s, catalog id
+`mus_outro`, original −15 LUFS → plans pass `music_lufs: -15.0`). Set it as the music plan's
+`outro.music` with this slide as `outro.slide`.
+
 Source: `remotion/src/shots/brand/OwsEndScreen.tsx`. Re-render with
 `cd remotion && node scripts/render-all.mjs --still --scale=1 OwsEndScreen`, then convert the output
 to a real PNG with `ffmpeg -i out/OwsEndScreen.png <this file>`; render-all writes JPEG data under a

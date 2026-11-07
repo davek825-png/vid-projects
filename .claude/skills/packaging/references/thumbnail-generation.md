@@ -6,6 +6,12 @@ the verify loop, and the failure modes. Tune it as you learn what your audience 
 
 ## The decisions (locked in)
 
+- **Creator rule (2026-11-07): the creator renders.** By default Stage 5 hands over 3 options with
+  complete, copy-paste-ready prompts (`packaging/thumbnail-prompts.md` + `thumbs/<X>.txt`) for the
+  creator to paste into Nano Banana (the Gemini app). `tools/gen_thumbnail.py` is used only when the
+  creator asks for API renders. The template, verify checklist and failure modes below still apply:
+  write prompts with them, and verify the images the creator brings back.
+
 - **Model renders the text.** Nano Banana Pro draws the hook word itself (FREE / UNLIMITED /
   $0.62) — no separate compositing layer. So we use the **Pro** tier, whose headline feature
   is legible in-image text. The tradeoff (AI can misspell/garble a word) is caught by the

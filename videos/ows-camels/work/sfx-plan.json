@@ -1,0 +1,24 @@
+{
+  "note": "ows-camels SFX pass under the brand.md §10 creator rules: diegetic only (a sound must match something physically on screen), no sounds on scene changes, no modern sounds (no boom or riser even on the camel reveal), no page turns unless a page turns on screen. Creator rule 2026-11-07: library files only, and only where they match the scene. Proposed: the two rubber stamps that hit a DOCUMENT on screen. Stamp hit = cue frame + ~4f (frame-checked: NO BET appears f205, settles f208-209; ORDERS appears f35, settles f37-38).",
+  "master": "videos/ows-camels/output/master-natural-slow-h264.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/ows-camels/output/ows-camels-preview.mp4",
+    "out": "videos/ows-camels/output/ows-camels-preview-sfx.mp4",
+    "end_s": 196.533,
+    "duck": true
+  },
+  "events": [
+    { "at_s": 38.85, "sfx_id": "stamp-hit", "gain_db": -3, "shot": "CmHorses",
+      "cue": "NO BET stamp lands on the supply ledger after 'the harsh journey' (cue 38.73 + ~4f)", "note": "diegetic stamp on paper" },
+    { "at_s": 60.2, "sfx_id": "stamp-hit", "gain_db": -3, "shot": "CmOrders",
+      "cue": "ORDERS stamp lands on Beale's envelope on 'assignment' (cue 60.08 + ~4f)", "note": "diegetic stamp on paper" }
+  ],
+  "not_proposed": [
+    { "what": "map/photo stamps: 33 ANIMALS (13.25, on the ship image), NO TROUBLE (108.86, strip map), CONFEDERATE HANDS (137.87, Texas map), 40+ YEARS (173.09, beside the notes)", "why": "stamp-styled labels on images/maps, not a stamp hitting a document (same rule as ows-snowshoe)" },
+    { "what": "boom/riser/swell on the 'camels.' reveal (183.93)", "why": "brand §10: no modern sounds, not even on the big reveal; the reveal lands in silence (the music is out from 167 s)" },
+    { "what": "pencil/scratch on the horses, mules, oxen strike-throughs (75.0, 179.6)", "why": "scribbles under speech are texture, not a cue" },
+    { "what": "uncatalogued Western clips in media/library/sfx/clips (gunshots, doors, footsteps, saloon, trains, wind)", "why": "nothing on screen makes those sounds: no shot is fired, no door, no train; wind/crowd beds under speech are excluded by §10" }
+  ]
+}

@@ -1,6 +1,6 @@
 ---
 name: youtube-thumbnail
-description: Dedicated YouTube thumbnail generator — interviews you for exactly the style elements you want (environment, text budget, extras, accent color), then renders high-contrast, vibrant, face-consistent thumbnails with Nano Banana Pro and verifies every frame before showing it. Use whenever you want to create, redo, or iterate thumbnail variants for a video — "make a thumbnail", "new version of B", "more realistic", "less text", "put the app on the screen", "another angle for the test". Renders into videos/<project>/packaging/thumbs/. Works standalone or as the render engine for Stage 5 of /packaging (which owns titles, bets, and descriptions).
+description: Dedicated YouTube thumbnail generator — interviews you for exactly the style elements you want (environment, text budget, extras, accent color), then writes 3 thumbnail options with complete copy-paste prompts for the creator to generate in Nano Banana (API renders with Nano Banana Pro only on request) and verifies every frame the creator brings back. Use whenever you want to create, redo, or iterate thumbnail variants for a video — "make a thumbnail", "new version of B", "more realistic", "less text", "put the app on the screen", "another angle for the test". Renders into videos/<project>/packaging/thumbs/. Works standalone or as the render engine for Stage 5 of /packaging (which owns titles, bets, and descriptions).
 ---
 
 # YouTube Thumbnail Generator
@@ -85,7 +85,14 @@ spelling for every rendered word, positive framing with the one earned negation 
 carry no lettering/logos). Hardware rule: laptops/phones are "generic, plain dark bezel, no
 logos or lettering on the hardware" — otherwise you get a MacBook.
 
-### 5 — Render
+### 5 — Hand over the prompts (DEFAULT) / render (only on request)
+**CREATOR RULE (2026-11-07):** the creator generates thumbnails themselves in Nano Banana. By
+default this step delivers **3 options with complete, copy-paste-ready prompts** (one fenced code
+block each, self-contained, nothing to fill in) in `videos/<p>/packaging/thumbnail-prompts.md`,
+with the raw prompt also in `thumbs/<X>.txt`. Don't call the API unless the creator asks; when the
+creator drops their images into `thumbs/`, run step 6's verify checklist on them.
+
+API render, only when asked:
 ```
 venv/Scripts/python tools/gen_thumbnail.py --prompt-file videos/<p>/packaging/thumbs/<X>.txt \
     --out videos/<p>/packaging/thumbs/<X>.png --jpg --seed <N>

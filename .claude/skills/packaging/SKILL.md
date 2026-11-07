@@ -165,7 +165,25 @@ goal is **3 you're willing to ship**, not one.
 
 ---
 
-### Stage 5 — Render the thumbnails (Nano Banana Pro)
+### Stage 5 — Thumbnail prompts for the creator (DEFAULT) / render (only on request)
+
+**CREATOR RULE (2026-11-07, overrides the render flow below):** the creator makes the thumbnails
+themselves in Nano Banana (the Gemini app). The deliverable for this stage is **3 thumbnail options
+with complete, copy-paste-ready AI prompts**, not rendered images:
+
+- Write `videos/<project>/packaging/thumbnail-prompts.md`: for each option (A, B, C) the lever, the
+  hook text, a one-line picture summary, the honesty note, and the **complete prompt in its own
+  fenced code block**: self-contained, nothing to fill in, built from the template in
+  `references/thumbnail-generation.md` (16:9, the exact headline spelled letter-by-letter, every
+  other text forbidden, style/lighting/subject fully specified). Add short "how to use" steps (paste
+  into Nano Banana, ask for 16:9, save as `thumbs/<X>.jpg`) and the verify checklist so the creator
+  can judge a result.
+- Keep the same prompt (and nothing else) in `thumbs/A.txt|B.txt|C.txt` so the raw file can be
+  pasted as-is and refinements are diffs.
+- Do NOT call `tools/gen_thumbnail.py` unless the creator asks for API renders. When the creator
+  drops images into `thumbs/`, run the verify checklist on them and report.
+
+The render flow below applies only when the creator asks for API renders.
 
 Turn the 3 locked concepts into actual images. **The dedicated `/thumbnail` skill is the
 interactive render engine for this stage** — it interviews for style elements (environment,
@@ -254,5 +272,6 @@ Ranked by signal strength. Re-rank against your own data once calibrated.
   API), build the dataset, derive your baseline and your real levers, and reconcile them back into
   this file. Run it once you have ~10+ long-form videos.
 - `references/thumbnail-generation.md` — Stage 5 render engine: the Nano Banana Pro model/tool
-  (`tools/gen_thumbnail.py`), the `media/library/faces/` reference kit, the prompt template, the
+  (`tools/gen_thumbnail.py`, only on request; by default the creator pastes the prompts into
+  Nano Banana), the `media/library/faces/` reference kit, the prompt template, the
   per-render verify loop, the loud-vs-calm brand rule, and failure-mode fixes. Load before rendering.

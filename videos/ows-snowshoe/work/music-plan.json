@@ -19,7 +19,7 @@
   ],
   "outro": {
     "slide": "media/projects/ows-1/OWS_outro_subscribe_1920x1080.png",
-    "music": "media/projects/ows-1/mus_outro.mp3",
+    "music": "media/library/music/clips/mus_outro.mp3",
     "music_lufs": -15.0, "target_lufs": -22, "dur_s": 16.176, "fade_in": 0.6, "fade_out": 1.5,
     "why": "the channel end screen (like / subscribe / @storiesoldwest) reused from ows-1 for consistency; 16 s fits YouTube's end-screen window"
   },

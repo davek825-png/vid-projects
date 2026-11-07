@@ -145,6 +145,30 @@
       "license": "ElevenLabs generated (text-to-music); owner: the repo author, commercial use per the account's ElevenLabs plan",
       "prompt": "A curious documentary explainer background bed. Playful pizzicato strings and soft marimba plucks over a gentle pad, with very light brushed hand percussion, understated and steady. The mood of a Vox or New York Times explainer: inquisitive, warm, intelligent, never comedic. Designed to sit under a spoken voiceover: consistent energy, no build-ups, no drops, no foreground melody hooks. Around 95 BPM, instrumental.",
       "used_in": []
+    },
+    {
+      "id": "mus_outro",
+      "file": "clips/mus_outro.mp3",
+      "category": "outro",
+      "tags": [
+        "outro",
+        "end-screen",
+        "channel",
+        "western",
+        "old-west-stories"
+      ],
+      "duration_s": 16.176,
+      "peak_dbfs": -2.2,
+      "loudness_lufs": -15.0,
+      "source": "creator-supplied (first used on ows-1, moved from media/projects/ows-1/ 2026-11-07)",
+      "license": "creator-supplied; rights held by the channel owner",
+      "prompt": null,
+      "note": "THE channel outro music: every video's outro scene (end-screen slide media/library/endscreen/OWS_endscreen_slots_1920x1080.png) uses this track, 16.176 s. NOT loudness-normalized (kept at its original -15 LUFS); plans pass music_lufs -15.0. Not in palette.json, so gen_music.py --renorm never touches it.",
+      "used_in": [
+        "ows-1",
+        "ows-snowshoe",
+        "ows-camels"
+      ]
     }
   ]
 }

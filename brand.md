@@ -153,6 +153,23 @@ textures (wind, wood, leather, metal, horses, distant gunfire) over modern UI so
   (hooves, splash, gunshot, door creak) don't exist in the library yet; generating them needs an
   ElevenLabs key.
 
+**Creator rules (ows-camels, 2026-11-07): sources, outro, missing music. These OVERRIDE everything else
+in this section:**
+- **Library only, and only when it matches the scene.** Background music may be ANY track in
+  `media/library/music/`; SFX may be ANY clip in `media/library/sfx/` (a clip not yet in
+  `catalog.json` is catalogued before use). A track or clip is used only where it genuinely fits the
+  scene (mood, era, instrumentation; for SFX, the diegetic rule above). If nothing fits, use silence;
+  never force a near-miss.
+- **The outro is fixed.** Every video's outro scene (the end-screen slide
+  `media/library/endscreen/OWS_endscreen_slots_1920x1080.png`, 16.176 s, appended after the master)
+  uses **`media/library/music/clips/mus_outro.mp3`** (catalog id `mus_outro`, kept at its original
+  −15 LUFS, so plans pass `music_lufs: -15.0`).
+- **Missing music: tell the creator.** When no track in `media/library/music/` suits a scene, don't
+  substitute and don't generate without asking: tell the creator what's needed, per scene (the span
+  and scenes it covers, mood, instrumentation, tempo/energy, length in seconds, and why no library
+  track fits), so they can add it to `media/library/music/`. Say this in the music proposal, before
+  any mix.
+
 **Choose every cue by its FUNCTION** (3+1 foundational sounds do the heavy lifting; thousands of
 files are a trap). Ask what the beat needs:
 
@@ -199,12 +216,14 @@ doors. Generate missing ones with the ElevenLabs SFX API and add them to the lib
 - **What we deliberately do NOT do:** cymbal-urgency risers, trailer-slam impacts, a whoosh on every
   movement, comedy click+whoosh gags, modern UI blips over period footage. **No static/glitch
   textures under narration.**
-- **Source.** ElevenLabs **Sound Effects API** is primary (owned, consistent, reusable); curated
-  royalty-free is the fallback. Every clip's `source` + `license` is recorded in the catalog.
-- **Music.** No music bed in the SFX pass. Music is the final-mix step (`tools/gen_music.py` +
-  `tools/mix_music.py`, drawing from `media/library/music/`). Taste: sparse Western/Americana
-  underscore (acoustic guitar, low strings, harmonica, slow percussion), **always ducked well under
-  the voice.**
+- **Source.** Clips come from the library (`media/library/sfx/`, see the 2026-11-07 creator rules
+  above). New clips (ElevenLabs **Sound Effects API**, or curated royalty-free) are added only when
+  the creator asks. Every clip's `source` + `license` is recorded in the catalog.
+- **Music.** No music bed in the SFX pass. Music is the final-mix step (`tools/mix_scene_music.py`
+  for scene-mapped beds, or `tools/mix_music.py` for one continuous bed), drawing ONLY from
+  `media/library/music/`. Taste: sparse Western/Americana underscore (acoustic guitar, low strings,
+  harmonica, slow percussion), **always ducked well under the voice.** If no library track fits a
+  scene, tell the creator what music is needed (rule above). The outro always uses `mus_outro`.
 - **Library is the durable asset.** Shared, cross-project at **`media/library/sfx/`** (`catalog.json`
   + `clips/`), organized by function. It GROWS every video — reuse before generating (library-first).
   SFX that must live *inside* a Remotion shot go in `media/library/sfx/` via `staticFile()`.
