@@ -157,7 +157,40 @@ def plan_clip(clip: str, keeps: list[dict], words: list[dict], style: dict,
             if seg_s < ce <= s:        # a cut ends inside our lead-in
                 seg_s = ce
         segs.append((seg_s, max(seg_e, e)))
+    if style.get("keep_sentence_gaps"):
+        segs = _keep_sentence_gaps(segs, atoms, words, spans, style)
     return segs
+
+
+SENT_END = ('.', '?', '!', '."', '?"', '!"', ".'", "?'", "!'")
+
+
+def _keep_sentence_gaps(segs, atoms, words, spans, style):
+    """Creator rule (2026-11-09): keep the ORIGINAL pause between sentences, smooth only the
+    mid-sentence ones. Where atom i ends a sentence (its last word ends in . ? !) and nothing was cut
+    between it and atom i+1, the two segments are joined so the raw pause plays as recorded. Pauses
+    longer than `sentence_gap_max` are capped at that length (a soft landing, not dead air). The
+    pause is otherwise untouched; breaths inside it are removed beforehand by clean_narration.py."""
+    cap = style.get("sentence_gap_max", 2.5)
+    ends = {}
+    for w in words:
+        ends.setdefault(round(w["end"] / 1000, 3), w["text"])
+    out = [segs[0]]
+    for i in range(1, len(segs)):
+        a_end, b_start = atoms[i - 1][1], atoms[i][0]
+        txt = ends.get(round(a_end, 3), "")
+        is_sentence = txt.endswith(SENT_END)
+        cut_between = any(a_end < ce and cs < b_start for cs, ce in spans)
+        gap = b_start - a_end
+        if is_sentence and not cut_between:
+            if gap <= cap:
+                out[-1] = (out[-1][0], segs[i][1])          # play the raw pause as recorded
+                continue
+            # too long: keep `cap` seconds of it (tail of the previous run + head of the next)
+            prev_s, prev_e = out[-1]
+            out[-1] = (prev_s, max(prev_e, a_end + cap - style["head"]))
+        out.append(segs[i])
+    return out
 
 
 def internal_pauses(keeps: list[dict], words: list[dict], threshold: float) -> list[dict]:

@@ -1,0 +1,8325 @@
+{
+ "project": "ows-hickok",
+ "style": "natural-slow (keep_sentence_gaps, cap 3.0 s)",
+ "units": "ms",
+ "source": "master-natural-slow-h264.mp4 (1920x1080@30, narration-only on a blank espresso background; standard intro + cleaned narration)",
+ "note": "Word times in the FINAL master timeline, from a fresh AssemblyAI pass over the master (keyterms applied). Text fix: 'clanked' -> 'clinked' (creator confirmed, 7:05). Breaths muted + plosives tamed (tools/clean_narration.py). The narration is canonical where it differs from the script.",
+ "duration_ms": 699133,
+ "words": [
+  {
+   "text": "Welcome",
+   "start": 259,
+   "end": 599
+  },
+  {
+   "text": "to",
+   "start": 663,
+   "end": 760
+  },
+  {
+   "text": "Old",
+   "start": 987,
+   "end": 1181
+  },
+  {
+   "text": "West",
+   "start": 1230,
+   "end": 1489
+  },
+  {
+   "text": "Stories.",
+   "start": 1489,
+   "end": 2023
+  },
+  {
+   "text": "Ride",
+   "start": 2703,
+   "end": 2865
+  },
+  {
+   "text": "with",
+   "start": 2865,
+   "end": 3043
+  },
+  {
+   "text": "us",
+   "start": 3092,
+   "end": 3270
+  },
+  {
+   "text": "through",
+   "start": 3270,
+   "end": 3594
+  },
+  {
+   "text": "tales",
+   "start": 3594,
+   "end": 4047
+  },
+  {
+   "text": "of",
+   "start": 4080,
+   "end": 4144
+  },
+  {
+   "text": "the",
+   "start": 4144,
+   "end": 4258
+  },
+  {
+   "text": "Old",
+   "start": 4258,
+   "end": 4500
+  },
+  {
+   "text": "West,",
+   "start": 4565,
+   "end": 4986
+  },
+  {
+   "text": "one",
+   "start": 5400,
+   "end": 5480
+  },
+  {
+   "text": "good",
+   "start": 5673,
+   "end": 5994
+  },
+  {
+   "text": "story",
+   "start": 5994,
+   "end": 6525
+  },
+  {
+   "text": "at",
+   "start": 6702,
+   "end": 6799
+  },
+  {
+   "text": "a",
+   "start": 6799,
+   "end": 6815
+  },
+  {
+   "text": "time.",
+   "start": 6815,
+   "end": 7072
+  },
+  {
+   "text": "Every",
+   "start": 7924,
+   "end": 8053
+  },
+  {
+   "text": "poker",
+   "start": 8149,
+   "end": 8487
+  },
+  {
+   "text": "player",
+   "start": 8487,
+   "end": 8793
+  },
+  {
+   "text": "on",
+   "start": 8793,
+   "end": 8841
+  },
+  {
+   "text": "the",
+   "start": 8889,
+   "end": 8953
+  },
+  {
+   "text": "American",
+   "start": 8953,
+   "end": 9597
+  },
+  {
+   "text": "frontier",
+   "start": 9597,
+   "end": 10176
+  },
+  {
+   "text": "knew",
+   "start": 10176,
+   "end": 10497
+  },
+  {
+   "text": "the",
+   "start": 10497,
+   "end": 10578
+  },
+  {
+   "text": "golden",
+   "start": 10642,
+   "end": 11060
+  },
+  {
+   "text": "rule:",
+   "start": 11060,
+   "end": 11173
+  },
+  {
+   "text": "keep",
+   "start": 11944,
+   "end": 12121
+  },
+  {
+   "text": "your",
+   "start": 12121,
+   "end": 12218
+  },
+  {
+   "text": "back",
+   "start": 12266,
+   "end": 12523
+  },
+  {
+   "text": "to",
+   "start": 12523,
+   "end": 12636
+  },
+  {
+   "text": "the",
+   "start": 12652,
+   "end": 12732
+  },
+  {
+   "text": "wall,",
+   "start": 12748,
+   "end": 13022
+  },
+  {
+   "text": "keep",
+   "start": 13920,
+   "end": 14034
+  },
+  {
+   "text": "the",
+   "start": 14034,
+   "end": 14263
+  },
+  {
+   "text": "door",
+   "start": 14279,
+   "end": 14393
+  },
+  {
+   "text": "in",
+   "start": 14590,
+   "end": 14639
+  },
+  {
+   "text": "your",
+   "start": 14671,
+   "end": 14802
+  },
+  {
+   "text": "sights.",
+   "start": 14867,
+   "end": 15374
+  },
+  {
+   "text": "Give",
+   "start": 16404,
+   "end": 16633
+  },
+  {
+   "text": "up",
+   "start": 16633,
+   "end": 16731
+  },
+  {
+   "text": "that",
+   "start": 16731,
+   "end": 16959
+  },
+  {
+   "text": "view",
+   "start": 16976,
+   "end": 17090
+  },
+  {
+   "text": "and",
+   "start": 17793,
+   "end": 17858
+  },
+  {
+   "text": "you",
+   "start": 17875,
+   "end": 18087
+  },
+  {
+   "text": "give",
+   "start": 18104,
+   "end": 18234
+  },
+  {
+   "text": "up",
+   "start": 18283,
+   "end": 18447
+  },
+  {
+   "text": "your",
+   "start": 18447,
+   "end": 18643
+  },
+  {
+   "text": "edge.",
+   "start": 18757,
+   "end": 19002
+  },
+  {
+   "text": "On",
+   "start": 20660,
+   "end": 20758
+  },
+  {
+   "text": "the",
+   "start": 20758,
+   "end": 20839
+  },
+  {
+   "text": "sweltering",
+   "start": 20839,
+   "end": 21297
+  },
+  {
+   "text": "afternoon",
+   "start": 21412,
+   "end": 21903
+  },
+  {
+   "text": "of",
+   "start": 21903,
+   "end": 22066
+  },
+  {
+   "text": "August",
+   "start": 22148,
+   "end": 22410
+  },
+  {
+   "text": "2nd,",
+   "start": 22410,
+   "end": 22835
+  },
+  {
+   "text": "1876,",
+   "start": 22966,
+   "end": 24487
+  },
+  {
+   "text": "one",
+   "start": 24683,
+   "end": 24831
+  },
+  {
+   "text": "of",
+   "start": 24847,
+   "end": 24929
+  },
+  {
+   "text": "the",
+   "start": 24929,
+   "end": 25011
+  },
+  {
+   "text": "most",
+   "start": 25011,
+   "end": 25289
+  },
+  {
+   "text": "well-known",
+   "start": 25562,
+   "end": 26098
+  },
+  {
+   "text": "men",
+   "start": 26212,
+   "end": 26423
+  },
+  {
+   "text": "in",
+   "start": 26618,
+   "end": 26667
+  },
+  {
+   "text": "the",
+   "start": 26699,
+   "end": 26797
+  },
+  {
+   "text": "Dakota",
+   "start": 26862,
+   "end": 27349
+  },
+  {
+   "text": "Territory",
+   "start": 27414,
+   "end": 28047
+  },
+  {
+   "text": "broke",
+   "start": 28226,
+   "end": 28486
+  },
+  {
+   "text": "that",
+   "start": 28551,
+   "end": 28795
+  },
+  {
+   "text": "rule.",
+   "start": 28795,
+   "end": 28941
+  },
+  {
+   "text": "Before",
+   "start": 31248,
+   "end": 31589
+  },
+  {
+   "text": "that",
+   "start": 31589,
+   "end": 31881
+  },
+  {
+   "text": "game",
+   "start": 31881,
+   "end": 32125
+  },
+  {
+   "text": "was",
+   "start": 32125,
+   "end": 32190
+  },
+  {
+   "text": "over,",
+   "start": 32303,
+   "end": 32596
+  },
+  {
+   "text": "he",
+   "start": 33330,
+   "end": 33378
+  },
+  {
+   "text": "would",
+   "start": 33523,
+   "end": 33652
+  },
+  {
+   "text": "be",
+   "start": 33684,
+   "end": 33877
+  },
+  {
+   "text": "unalived,",
+   "start": 34070,
+   "end": 34940
+  },
+  {
+   "text": "and",
+   "start": 35536,
+   "end": 35600
+  },
+  {
+   "text": "the",
+   "start": 35616,
+   "end": 35777
+  },
+  {
+   "text": "cards",
+   "start": 35777,
+   "end": 36099
+  },
+  {
+   "text": "he",
+   "start": 36099,
+   "end": 36180
+  },
+  {
+   "text": "was",
+   "start": 36180,
+   "end": 36309
+  },
+  {
+   "text": "holding",
+   "start": 36341,
+   "end": 36711
+  },
+  {
+   "text": "would",
+   "start": 37227,
+   "end": 37436
+  },
+  {
+   "text": "birth",
+   "start": 37533,
+   "end": 37758
+  },
+  {
+   "text": "a",
+   "start": 37790,
+   "end": 37806
+  },
+  {
+   "text": "legend",
+   "start": 37935,
+   "end": 38483
+  },
+  {
+   "text": "that",
+   "start": 38515,
+   "end": 38660
+  },
+  {
+   "text": "still",
+   "start": 38740,
+   "end": 39030
+  },
+  {
+   "text": "haunts",
+   "start": 39143,
+   "end": 39562
+  },
+  {
+   "text": "poker",
+   "start": 39562,
+   "end": 40029
+  },
+  {
+   "text": "players",
+   "start": 40029,
+   "end": 40415
+  },
+  {
+   "text": "to",
+   "start": 40528,
+   "end": 40657
+  },
+  {
+   "text": "this",
+   "start": 40673,
+   "end": 40818
+  },
+  {
+   "text": "day.",
+   "start": 40930,
+   "end": 41172
+  },
+  {
+   "text": "Pull",
+   "start": 42219,
+   "end": 42396
+  },
+  {
+   "text": "up",
+   "start": 42396,
+   "end": 42476
+  },
+  {
+   "text": "a",
+   "start": 42476,
+   "end": 42541
+  },
+  {
+   "text": "chair.",
+   "start": 42670,
+   "end": 42879
+  },
+  {
+   "text": "This",
+   "start": 43347,
+   "end": 43525
+  },
+  {
+   "text": "is",
+   "start": 43525,
+   "end": 43638
+  },
+  {
+   "text": "Old",
+   "start": 43735,
+   "end": 44073
+  },
+  {
+   "text": "West",
+   "start": 44073,
+   "end": 44315
+  },
+  {
+   "text": "Stories,",
+   "start": 44315,
+   "end": 44848
+  },
+  {
+   "text": "and",
+   "start": 45364,
+   "end": 45510
+  },
+  {
+   "text": "this",
+   "start": 46074,
+   "end": 46333
+  },
+  {
+   "text": "one",
+   "start": 46333,
+   "end": 46542
+  },
+  {
+   "text": "is",
+   "start": 46817,
+   "end": 46865
+  },
+  {
+   "text": "gonna",
+   "start": 47204,
+   "end": 47446
+  },
+  {
+   "text": "be",
+   "start": 47446,
+   "end": 47607
+  },
+  {
+   "text": "good.",
+   "start": 47624,
+   "end": 47833
+  },
+  {
+   "text": "By",
+   "start": 50814,
+   "end": 50962
+  },
+  {
+   "text": "the",
+   "start": 50978,
+   "end": 51060
+  },
+  {
+   "text": "time",
+   "start": 51060,
+   "end": 51406
+  },
+  {
+   "text": "James",
+   "start": 51471,
+   "end": 51850
+  },
+  {
+   "text": "Butler",
+   "start": 51948,
+   "end": 52261
+  },
+  {
+   "text": "Hickok",
+   "start": 52277,
+   "end": 52655
+  },
+  {
+   "text": "The",
+   "start": 53259,
+   "end": 53307
+  },
+  {
+   "text": "man",
+   "start": 53323,
+   "end": 53630
+  },
+  {
+   "text": "the",
+   "start": 53759,
+   "end": 53856
+  },
+  {
+   "text": "newspapers",
+   "start": 53856,
+   "end": 54534
+  },
+  {
+   "text": "called",
+   "start": 54631,
+   "end": 54937
+  },
+  {
+   "text": "\"Wild",
+   "start": 55115,
+   "end": 55535
+  },
+  {
+   "text": "Bill\"",
+   "start": 55615,
+   "end": 55728
+  },
+  {
+   "text": "rode",
+   "start": 56326,
+   "end": 56568
+  },
+  {
+   "text": "into",
+   "start": 56568,
+   "end": 56762
+  },
+  {
+   "text": "the",
+   "start": 56762,
+   "end": 56891
+  },
+  {
+   "text": "Black",
+   "start": 56891,
+   "end": 57149
+  },
+  {
+   "text": "Hills.",
+   "start": 57149,
+   "end": 57440
+  },
+  {
+   "text": "He",
+   "start": 57875,
+   "end": 58005
+  },
+  {
+   "text": "was",
+   "start": 58021,
+   "end": 58085
+  },
+  {
+   "text": "already",
+   "start": 58505,
+   "end": 58892
+  },
+  {
+   "text": "a",
+   "start": 59005,
+   "end": 59167
+  },
+  {
+   "text": "living",
+   "start": 59231,
+   "end": 59538
+  },
+  {
+   "text": "legend.",
+   "start": 59570,
+   "end": 60071
+  },
+  {
+   "text": "He",
+   "start": 60604,
+   "end": 60765
+  },
+  {
+   "text": "had",
+   "start": 60765,
+   "end": 60862
+  },
+  {
+   "text": "scouted",
+   "start": 60862,
+   "end": 61362
+  },
+  {
+   "text": "for",
+   "start": 61411,
+   "end": 61524
+  },
+  {
+   "text": "the",
+   "start": 61524,
+   "end": 61653
+  },
+  {
+   "text": "Union",
+   "start": 61653,
+   "end": 61960
+  },
+  {
+   "text": "Army.",
+   "start": 61976,
+   "end": 62234
+  },
+  {
+   "text": "He",
+   "start": 62801,
+   "end": 62898
+  },
+  {
+   "text": "rode",
+   "start": 63043,
+   "end": 63286
+  },
+  {
+   "text": "with",
+   "start": 63286,
+   "end": 63399
+  },
+  {
+   "text": "Buffalo",
+   "start": 63512,
+   "end": 63852
+  },
+  {
+   "text": "Bill,",
+   "start": 63933,
+   "end": 64062
+  },
+  {
+   "text": "and",
+   "start": 64887,
+   "end": 65033
+  },
+  {
+   "text": "he",
+   "start": 65211,
+   "end": 65372
+  },
+  {
+   "text": "had",
+   "start": 65372,
+   "end": 65453
+  },
+  {
+   "text": "worn",
+   "start": 65696,
+   "end": 65825
+  },
+  {
+   "text": "a",
+   "start": 65858,
+   "end": 65874
+  },
+  {
+   "text": "lawman's",
+   "start": 66100,
+   "end": 66731
+  },
+  {
+   "text": "badge",
+   "start": 66844,
+   "end": 67491
+  },
+  {
+   "text": "in",
+   "start": 67653,
+   "end": 67863
+  },
+  {
+   "text": "bloody",
+   "start": 68219,
+   "end": 68591
+  },
+  {
+   "text": "Kansas",
+   "start": 68688,
+   "end": 69190
+  },
+  {
+   "text": "boomtowns.",
+   "start": 69190,
+   "end": 69966
+  },
+  {
+   "text": "But",
+   "start": 71922,
+   "end": 72024
+  },
+  {
+   "text": "the",
+   "start": 72075,
+   "end": 72159
+  },
+  {
+   "text": "summer",
+   "start": 72159,
+   "end": 72379
+  },
+  {
+   "text": "of",
+   "start": 72379,
+   "end": 72413
+  },
+  {
+   "text": "1876,",
+   "start": 72413,
+   "end": 73580
+  },
+  {
+   "text": "the",
+   "start": 74780,
+   "end": 74877
+  },
+  {
+   "text": "years",
+   "start": 74877,
+   "end": 75185
+  },
+  {
+   "text": "were",
+   "start": 75282,
+   "end": 75444
+  },
+  {
+   "text": "starting",
+   "start": 75800,
+   "end": 76206
+  },
+  {
+   "text": "to",
+   "start": 76206,
+   "end": 76270
+  },
+  {
+   "text": "catch",
+   "start": 76270,
+   "end": 76594
+  },
+  {
+   "text": "up",
+   "start": 76594,
+   "end": 76757
+  },
+  {
+   "text": "to",
+   "start": 76757,
+   "end": 76854
+  },
+  {
+   "text": "him.",
+   "start": 76902,
+   "end": 76983
+  },
+  {
+   "text": "His",
+   "start": 77470,
+   "end": 77534
+  },
+  {
+   "text": "eyesight",
+   "start": 77810,
+   "end": 78231
+  },
+  {
+   "text": "was",
+   "start": 78231,
+   "end": 78426
+  },
+  {
+   "text": "failing",
+   "start": 78458,
+   "end": 78912
+  },
+  {
+   "text": "and",
+   "start": 78944,
+   "end": 79058
+  },
+  {
+   "text": "the",
+   "start": 79333,
+   "end": 79382
+  },
+  {
+   "text": "frontier",
+   "start": 79414,
+   "end": 79868
+  },
+  {
+   "text": "was",
+   "start": 79998,
+   "end": 80127
+  },
+  {
+   "text": "being",
+   "start": 80224,
+   "end": 80451
+  },
+  {
+   "text": "tamed.",
+   "start": 80565,
+   "end": 80970
+  },
+  {
+   "text": "He",
+   "start": 82038,
+   "end": 82199
+  },
+  {
+   "text": "came",
+   "start": 82199,
+   "end": 82343
+  },
+  {
+   "text": "to",
+   "start": 82440,
+   "end": 82488
+  },
+  {
+   "text": "the",
+   "start": 82552,
+   "end": 82632
+  },
+  {
+   "text": "Dakota",
+   "start": 82696,
+   "end": 83050
+  },
+  {
+   "text": "Territory",
+   "start": 83098,
+   "end": 83708
+  },
+  {
+   "text": "looking",
+   "start": 83885,
+   "end": 84077
+  },
+  {
+   "text": "for",
+   "start": 84142,
+   "end": 84302
+  },
+  {
+   "text": "gold,",
+   "start": 84302,
+   "end": 84720
+  },
+  {
+   "text": "a",
+   "start": 85410,
+   "end": 85442
+  },
+  {
+   "text": "fresh",
+   "start": 85442,
+   "end": 85763
+  },
+  {
+   "text": "start,",
+   "start": 85812,
+   "end": 86229
+  },
+  {
+   "text": "and",
+   "start": 86936,
+   "end": 87016
+  },
+  {
+   "text": "a",
+   "start": 87096,
+   "end": 87112
+  },
+  {
+   "text": "new",
+   "start": 87192,
+   "end": 87337
+  },
+  {
+   "text": "game.",
+   "start": 87433,
+   "end": 87867
+  },
+  {
+   "text": "It's",
+   "start": 89938,
+   "end": 90083
+  },
+  {
+   "text": "a",
+   "start": 90083,
+   "end": 90147
+  },
+  {
+   "text": "little-known",
+   "start": 90147,
+   "end": 90532
+  },
+  {
+   "text": "fact",
+   "start": 90629,
+   "end": 90982
+  },
+  {
+   "text": "that",
+   "start": 90982,
+   "end": 91094
+  },
+  {
+   "text": "Wild",
+   "start": 91191,
+   "end": 91464
+  },
+  {
+   "text": "Bill",
+   "start": 91528,
+   "end": 91640
+  },
+  {
+   "text": "was",
+   "start": 91753,
+   "end": 91817
+  },
+  {
+   "text": "married",
+   "start": 91929,
+   "end": 92331
+  },
+  {
+   "text": "at",
+   "start": 92331,
+   "end": 92427
+  },
+  {
+   "text": "the",
+   "start": 92427,
+   "end": 92507
+  },
+  {
+   "text": "time",
+   "start": 92555,
+   "end": 92828
+  },
+  {
+   "text": "he",
+   "start": 92877,
+   "end": 92957
+  },
+  {
+   "text": "rode",
+   "start": 92973,
+   "end": 93214
+  },
+  {
+   "text": "into",
+   "start": 93214,
+   "end": 93406
+  },
+  {
+   "text": "the",
+   "start": 93455,
+   "end": 93599
+  },
+  {
+   "text": "Dakota",
+   "start": 93599,
+   "end": 93936
+  },
+  {
+   "text": "Territory.",
+   "start": 93936,
+   "end": 94466
+  },
+  {
+   "text": "His",
+   "start": 95141,
+   "end": 95269
+  },
+  {
+   "text": "sweetheart",
+   "start": 95301,
+   "end": 95815
+  },
+  {
+   "text": "was",
+   "start": 95847,
+   "end": 95992
+  },
+  {
+   "text": "named",
+   "start": 96024,
+   "end": 96393
+  },
+  {
+   "text": "Agnes",
+   "start": 96570,
+   "end": 97019
+  },
+  {
+   "text": "Lake",
+   "start": 97051,
+   "end": 97308
+  },
+  {
+   "text": "Hickok,",
+   "start": 97308,
+   "end": 97806
+  },
+  {
+   "text": "and",
+   "start": 98111,
+   "end": 98175
+  },
+  {
+   "text": "he",
+   "start": 98191,
+   "end": 98448
+  },
+  {
+   "text": "longed",
+   "start": 98497,
+   "end": 98994
+  },
+  {
+   "text": "for",
+   "start": 98994,
+   "end": 99139
+  },
+  {
+   "text": "the",
+   "start": 99139,
+   "end": 99299
+  },
+  {
+   "text": "day",
+   "start": 99299,
+   "end": 99556
+  },
+  {
+   "text": "he",
+   "start": 100102,
+   "end": 100215
+  },
+  {
+   "text": "made",
+   "start": 100215,
+   "end": 100439
+  },
+  {
+   "text": "enough",
+   "start": 100439,
+   "end": 100745
+  },
+  {
+   "text": "money",
+   "start": 100761,
+   "end": 100969
+  },
+  {
+   "text": "to",
+   "start": 101066,
+   "end": 101162
+  },
+  {
+   "text": "return",
+   "start": 101162,
+   "end": 101772
+  },
+  {
+   "text": "to",
+   "start": 101804,
+   "end": 102013
+  },
+  {
+   "text": "her",
+   "start": 102029,
+   "end": 102302
+  },
+  {
+   "text": "and",
+   "start": 102431,
+   "end": 102575
+  },
+  {
+   "text": "settle",
+   "start": 102832,
+   "end": 103137
+  },
+  {
+   "text": "down",
+   "start": 103169,
+   "end": 103490
+  },
+  {
+   "text": "into",
+   "start": 103490,
+   "end": 103683
+  },
+  {
+   "text": "a",
+   "start": 103811,
+   "end": 103827
+  },
+  {
+   "text": "traditional",
+   "start": 104036,
+   "end": 104566
+  },
+  {
+   "text": "husband's",
+   "start": 104614,
+   "end": 105176
+  },
+  {
+   "text": "role.",
+   "start": 105176,
+   "end": 105321
+  },
+  {
+   "text": "Historian",
+   "start": 106461,
+   "end": 107071
+  },
+  {
+   "text": "Bob",
+   "start": 107103,
+   "end": 107505
+  },
+  {
+   "text": "Boze",
+   "start": 107505,
+   "end": 107794
+  },
+  {
+   "text": "Bell",
+   "start": 107906,
+   "end": 108018
+  },
+  {
+   "text": "recounted",
+   "start": 108147,
+   "end": 108693
+  },
+  {
+   "text": "a",
+   "start": 108693,
+   "end": 108709
+  },
+  {
+   "text": "letter",
+   "start": 108709,
+   "end": 109094
+  },
+  {
+   "text": "Wild",
+   "start": 109110,
+   "end": 109496
+  },
+  {
+   "text": "Bill",
+   "start": 109496,
+   "end": 109688
+  },
+  {
+   "text": "sent",
+   "start": 109688,
+   "end": 109993
+  },
+  {
+   "text": "to",
+   "start": 109993,
+   "end": 110090
+  },
+  {
+   "text": "her",
+   "start": 110154,
+   "end": 110347
+  },
+  {
+   "text": "from",
+   "start": 110379,
+   "end": 110523
+  },
+  {
+   "text": "Deadwood",
+   "start": 110636,
+   "end": 111053
+  },
+  {
+   "text": "on",
+   "start": 111101,
+   "end": 111198
+  },
+  {
+   "text": "July",
+   "start": 111198,
+   "end": 111519
+  },
+  {
+   "text": "17th.",
+   "start": 111519,
+   "end": 112177
+  },
+  {
+   "text": "Just",
+   "start": 112482,
+   "end": 112659
+  },
+  {
+   "text": "a",
+   "start": 112659,
+   "end": 112787
+  },
+  {
+   "text": "couple",
+   "start": 112787,
+   "end": 112995
+  },
+  {
+   "text": "of",
+   "start": 113028,
+   "end": 113060
+  },
+  {
+   "text": "short",
+   "start": 113060,
+   "end": 113445
+  },
+  {
+   "text": "weeks",
+   "start": 113445,
+   "end": 113685
+  },
+  {
+   "text": "before",
+   "start": 113685,
+   "end": 114022
+  },
+  {
+   "text": "he",
+   "start": 114022,
+   "end": 114231
+  },
+  {
+   "text": "met",
+   "start": 114231,
+   "end": 114423
+  },
+  {
+   "text": "his",
+   "start": 114471,
+   "end": 114536
+  },
+  {
+   "text": "fate.",
+   "start": 114712,
+   "end": 114905
+  },
+  {
+   "text": "In",
+   "start": 115835,
+   "end": 115883
+  },
+  {
+   "text": "it",
+   "start": 115996,
+   "end": 116092
+  },
+  {
+   "text": "he",
+   "start": 116092,
+   "end": 116252
+  },
+  {
+   "text": "said,",
+   "start": 116252,
+   "end": 116669
+  },
+  {
+   "text": "\"My",
+   "start": 117440,
+   "end": 117616
+  },
+  {
+   "text": "own",
+   "start": 117616,
+   "end": 117825
+  },
+  {
+   "text": "darling",
+   "start": 117937,
+   "end": 118386
+  },
+  {
+   "text": "wife",
+   "start": 118723,
+   "end": 118948
+  },
+  {
+   "text": "Agnes,",
+   "start": 119060,
+   "end": 119349
+  },
+  {
+   "text": "I",
+   "start": 120183,
+   "end": 120231
+  },
+  {
+   "text": "have",
+   "start": 120327,
+   "end": 120472
+  },
+  {
+   "text": "but",
+   "start": 120568,
+   "end": 120680
+  },
+  {
+   "text": "a",
+   "start": 120680,
+   "end": 120745
+  },
+  {
+   "text": "few",
+   "start": 120745,
+   "end": 121017
+  },
+  {
+   "text": "moments",
+   "start": 121130,
+   "end": 121611
+  },
+  {
+   "text": "left",
+   "start": 121611,
+   "end": 121836
+  },
+  {
+   "text": "before",
+   "start": 121868,
+   "end": 122156
+  },
+  {
+   "text": "this",
+   "start": 122205,
+   "end": 122509
+  },
+  {
+   "text": "letter",
+   "start": 122574,
+   "end": 122846
+  },
+  {
+   "text": "starts",
+   "start": 122846,
+   "end": 123584
+  },
+  {
+   "text": "on",
+   "start": 123633,
+   "end": 123793
+  },
+  {
+   "text": "its",
+   "start": 123793,
+   "end": 124034
+  },
+  {
+   "text": "way",
+   "start": 124034,
+   "end": 124226
+  },
+  {
+   "text": "to",
+   "start": 124274,
+   "end": 124371
+  },
+  {
+   "text": "you.",
+   "start": 124499,
+   "end": 124579
+  },
+  {
+   "text": "I",
+   "start": 126039,
+   "end": 126119
+  },
+  {
+   "text": "never",
+   "start": 126119,
+   "end": 126472
+  },
+  {
+   "text": "was",
+   "start": 126585,
+   "end": 126809
+  },
+  {
+   "text": "as",
+   "start": 126841,
+   "end": 126970
+  },
+  {
+   "text": "well",
+   "start": 127146,
+   "end": 127274
+  },
+  {
+   "text": "in",
+   "start": 127403,
+   "end": 127467
+  },
+  {
+   "text": "my",
+   "start": 127483,
+   "end": 127708
+  },
+  {
+   "text": "life,",
+   "start": 127708,
+   "end": 128109
+  },
+  {
+   "text": "but",
+   "start": 128125,
+   "end": 128333
+  },
+  {
+   "text": "you",
+   "start": 128847,
+   "end": 128975
+  },
+  {
+   "text": "would",
+   "start": 128991,
+   "end": 129168
+  },
+  {
+   "text": "laugh",
+   "start": 129168,
+   "end": 129633
+  },
+  {
+   "text": "to",
+   "start": 129633,
+   "end": 129713
+  },
+  {
+   "text": "see",
+   "start": 129713,
+   "end": 129970
+  },
+  {
+   "text": "me",
+   "start": 129970,
+   "end": 130050
+  },
+  {
+   "text": "now.",
+   "start": 130130,
+   "end": 130243
+  },
+  {
+   "text": "Just",
+   "start": 131398,
+   "end": 131654
+  },
+  {
+   "text": "got",
+   "start": 131654,
+   "end": 131895
+  },
+  {
+   "text": "in",
+   "start": 131895,
+   "end": 132023
+  },
+  {
+   "text": "from",
+   "start": 132040,
+   "end": 132216
+  },
+  {
+   "text": "prospecting",
+   "start": 132216,
+   "end": 132954
+  },
+  {
+   "text": "and",
+   "start": 132954,
+   "end": 133066
+  },
+  {
+   "text": "will",
+   "start": 133259,
+   "end": 133355
+  },
+  {
+   "text": "go",
+   "start": 133419,
+   "end": 133676
+  },
+  {
+   "text": "away",
+   "start": 134286,
+   "end": 134494
+  },
+  {
+   "text": "again",
+   "start": 134607,
+   "end": 134815
+  },
+  {
+   "text": "tomorrow,",
+   "start": 134943,
+   "end": 135489
+  },
+  {
+   "text": "and",
+   "start": 136131,
+   "end": 136339
+  },
+  {
+   "text": "I",
+   "start": 136452,
+   "end": 136500
+  },
+  {
+   "text": "will",
+   "start": 136548,
+   "end": 136789
+  },
+  {
+   "text": "write",
+   "start": 136789,
+   "end": 137109
+  },
+  {
+   "text": "in",
+   "start": 137109,
+   "end": 137206
+  },
+  {
+   "text": "the",
+   "start": 137254,
+   "end": 137286
+  },
+  {
+   "text": "morning.\"",
+   "start": 137286,
+   "end": 137607
+  },
+  {
+   "text": "I",
+   "start": 138794,
+   "end": 138842
+  },
+  {
+   "text": "don't",
+   "start": 138891,
+   "end": 139083
+  },
+  {
+   "text": "expect",
+   "start": 139115,
+   "end": 139500
+  },
+  {
+   "text": "to",
+   "start": 139500,
+   "end": 139597
+  },
+  {
+   "text": "hear",
+   "start": 139597,
+   "end": 139773
+  },
+  {
+   "text": "from",
+   "start": 139821,
+   "end": 139950
+  },
+  {
+   "text": "you,",
+   "start": 140062,
+   "end": 140223
+  },
+  {
+   "text": "but",
+   "start": 140239,
+   "end": 140431
+  },
+  {
+   "text": "it",
+   "start": 140720,
+   "end": 140800
+  },
+  {
+   "text": "is",
+   "start": 140800,
+   "end": 140849
+  },
+  {
+   "text": "all",
+   "start": 140961,
+   "end": 141057
+  },
+  {
+   "text": "the",
+   "start": 141057,
+   "end": 141137
+  },
+  {
+   "text": "same.",
+   "start": 141137,
+   "end": 141491
+  },
+  {
+   "text": "I",
+   "start": 142149,
+   "end": 142197
+  },
+  {
+   "text": "know",
+   "start": 142245,
+   "end": 142421
+  },
+  {
+   "text": "my",
+   "start": 142486,
+   "end": 142726
+  },
+  {
+   "text": "Agnes,",
+   "start": 142726,
+   "end": 143111
+  },
+  {
+   "text": "and",
+   "start": 143208,
+   "end": 143416
+  },
+  {
+   "text": "I",
+   "start": 143432,
+   "end": 143561
+  },
+  {
+   "text": "only",
+   "start": 144074,
+   "end": 144379
+  },
+  {
+   "text": "live",
+   "start": 144636,
+   "end": 144861
+  },
+  {
+   "text": "to",
+   "start": 144973,
+   "end": 145182
+  },
+  {
+   "text": "love",
+   "start": 145278,
+   "end": 145503
+  },
+  {
+   "text": "her.",
+   "start": 145599,
+   "end": 145856
+  },
+  {
+   "text": "Never",
+   "start": 146979,
+   "end": 147236
+  },
+  {
+   "text": "mind,",
+   "start": 147236,
+   "end": 147605
+  },
+  {
+   "text": "pet.",
+   "start": 147621,
+   "end": 147910
+  },
+  {
+   "text": "We",
+   "start": 148424,
+   "end": 148552
+  },
+  {
+   "text": "will",
+   "start": 148584,
+   "end": 148697
+  },
+  {
+   "text": "have",
+   "start": 148729,
+   "end": 148969
+  },
+  {
+   "text": "a",
+   "start": 148969,
+   "end": 149050
+  },
+  {
+   "text": "home",
+   "start": 149050,
+   "end": 149451
+  },
+  {
+   "text": "yet,",
+   "start": 149451,
+   "end": 149884
+  },
+  {
+   "text": "and",
+   "start": 149932,
+   "end": 150061
+  },
+  {
+   "text": "then",
+   "start": 150414,
+   "end": 150639
+  },
+  {
+   "text": "we",
+   "start": 150831,
+   "end": 150927
+  },
+  {
+   "text": "will",
+   "start": 150976,
+   "end": 151136
+  },
+  {
+   "text": "be",
+   "start": 151232,
+   "end": 151425
+  },
+  {
+   "text": "so",
+   "start": 151457,
+   "end": 151858
+  },
+  {
+   "text": "happy.",
+   "start": 152019,
+   "end": 152404
+  },
+  {
+   "text": "I",
+   "start": 153319,
+   "end": 153447
+  },
+  {
+   "text": "am",
+   "start": 153463,
+   "end": 153511
+  },
+  {
+   "text": "almost",
+   "start": 153624,
+   "end": 153880
+  },
+  {
+   "text": "sure",
+   "start": 153880,
+   "end": 154153
+  },
+  {
+   "text": "I",
+   "start": 154266,
+   "end": 154314
+  },
+  {
+   "text": "will",
+   "start": 154346,
+   "end": 154474
+  },
+  {
+   "text": "do",
+   "start": 154587,
+   "end": 154731
+  },
+  {
+   "text": "well",
+   "start": 154763,
+   "end": 154892
+  },
+  {
+   "text": "here.",
+   "start": 155004,
+   "end": 155261
+  },
+  {
+   "text": "The",
+   "start": 156111,
+   "end": 156191
+  },
+  {
+   "text": "man",
+   "start": 156191,
+   "end": 156352
+  },
+  {
+   "text": "is",
+   "start": 156432,
+   "end": 156496
+  },
+  {
+   "text": "hurrying",
+   "start": 156593,
+   "end": 156817
+  },
+  {
+   "text": "me",
+   "start": 156850,
+   "end": 157010
+  },
+  {
+   "text": "to",
+   "start": 157010,
+   "end": 157090
+  },
+  {
+   "text": "finish",
+   "start": 157090,
+   "end": 157411
+  },
+  {
+   "text": "the",
+   "start": 157411,
+   "end": 157556
+  },
+  {
+   "text": "letter.",
+   "start": 157556,
+   "end": 157925
+  },
+  {
+   "text": "Goodbye,",
+   "start": 158358,
+   "end": 158679
+  },
+  {
+   "text": "my",
+   "start": 158695,
+   "end": 158936
+  },
+  {
+   "text": "dear",
+   "start": 158936,
+   "end": 159161
+  },
+  {
+   "text": "wife.",
+   "start": 159161,
+   "end": 159514
+  },
+  {
+   "text": "Love",
+   "start": 160059,
+   "end": 160204
+  },
+  {
+   "text": "to",
+   "start": 160300,
+   "end": 160428
+  },
+  {
+   "text": "Emma.",
+   "start": 160525,
+   "end": 160782
+  },
+  {
+   "text": "J.B.",
+   "start": 161423,
+   "end": 162017
+  },
+  {
+   "text": "Hickok,",
+   "start": 162130,
+   "end": 162547
+  },
+  {
+   "text": "Wild",
+   "start": 163093,
+   "end": 163478
+  },
+  {
+   "text": "Bill.",
+   "start": 163590,
+   "end": 163702
+  },
+  {
+   "text": "But",
+   "start": 165596,
+   "end": 165709
+  },
+  {
+   "text": "Hickok",
+   "start": 165741,
+   "end": 166145
+  },
+  {
+   "text": "knew",
+   "start": 166145,
+   "end": 166323
+  },
+  {
+   "text": "something",
+   "start": 166323,
+   "end": 166646
+  },
+  {
+   "text": "was",
+   "start": 166646,
+   "end": 166775
+  },
+  {
+   "text": "wrong.",
+   "start": 166872,
+   "end": 167098
+  },
+  {
+   "text": "Something",
+   "start": 168036,
+   "end": 168407
+  },
+  {
+   "text": "about",
+   "start": 168407,
+   "end": 168650
+  },
+  {
+   "text": "Deadwood",
+   "start": 168666,
+   "end": 169037
+  },
+  {
+   "text": "just",
+   "start": 169215,
+   "end": 169619
+  },
+  {
+   "text": "didn't",
+   "start": 169619,
+   "end": 169958
+  },
+  {
+   "text": "feel",
+   "start": 169958,
+   "end": 170233
+  },
+  {
+   "text": "right.",
+   "start": 170362,
+   "end": 170572
+  },
+  {
+   "text": "Just",
+   "start": 171940,
+   "end": 172053
+  },
+  {
+   "text": "one",
+   "start": 172053,
+   "end": 172166
+  },
+  {
+   "text": "day",
+   "start": 172295,
+   "end": 172457
+  },
+  {
+   "text": "before",
+   "start": 172457,
+   "end": 172861
+  },
+  {
+   "text": "he",
+   "start": 172861,
+   "end": 172959
+  },
+  {
+   "text": "sat",
+   "start": 172959,
+   "end": 173266
+  },
+  {
+   "text": "down",
+   "start": 173266,
+   "end": 173508
+  },
+  {
+   "text": "at",
+   "start": 173508,
+   "end": 173589
+  },
+  {
+   "text": "that",
+   "start": 173589,
+   "end": 173751
+  },
+  {
+   "text": "fatal",
+   "start": 173751,
+   "end": 174107
+  },
+  {
+   "text": "poker",
+   "start": 174220,
+   "end": 174479
+  },
+  {
+   "text": "table,",
+   "start": 174544,
+   "end": 174932
+  },
+  {
+   "text": "he",
+   "start": 175207,
+   "end": 175320
+  },
+  {
+   "text": "wrote",
+   "start": 175369,
+   "end": 175676
+  },
+  {
+   "text": "another",
+   "start": 175676,
+   "end": 175999
+  },
+  {
+   "text": "letter",
+   "start": 176016,
+   "end": 176258
+  },
+  {
+   "text": "to",
+   "start": 176258,
+   "end": 176388
+  },
+  {
+   "text": "his",
+   "start": 176404,
+   "end": 176468
+  },
+  {
+   "text": "wife",
+   "start": 176582,
+   "end": 176905
+  },
+  {
+   "text": "Agnes.",
+   "start": 176905,
+   "end": 177261
+  },
+  {
+   "text": "In",
+   "start": 177957,
+   "end": 178102
+  },
+  {
+   "text": "it,",
+   "start": 178102,
+   "end": 178264
+  },
+  {
+   "text": "he",
+   "start": 178345,
+   "end": 178506
+  },
+  {
+   "text": "confessed",
+   "start": 178506,
+   "end": 179024
+  },
+  {
+   "text": "a",
+   "start": 179024,
+   "end": 179170
+  },
+  {
+   "text": "dark",
+   "start": 179170,
+   "end": 179477
+  },
+  {
+   "text": "premonition.",
+   "start": 179477,
+   "end": 180027
+  },
+  {
+   "text": "He",
+   "start": 180880,
+   "end": 180929
+  },
+  {
+   "text": "did",
+   "start": 180978,
+   "end": 181092
+  },
+  {
+   "text": "not",
+   "start": 181092,
+   "end": 181371
+  },
+  {
+   "text": "believe",
+   "start": 181404,
+   "end": 181993
+  },
+  {
+   "text": "he",
+   "start": 181993,
+   "end": 182141
+  },
+  {
+   "text": "would",
+   "start": 182141,
+   "end": 182370
+  },
+  {
+   "text": "leave",
+   "start": 182370,
+   "end": 182501
+  },
+  {
+   "text": "the",
+   "start": 182616,
+   "end": 182714
+  },
+  {
+   "text": "Black",
+   "start": 182714,
+   "end": 183025
+  },
+  {
+   "text": "Hills",
+   "start": 183041,
+   "end": 183418
+  },
+  {
+   "text": "alive.",
+   "start": 183467,
+   "end": 183729
+  },
+  {
+   "text": "According",
+   "start": 185508,
+   "end": 185864
+  },
+  {
+   "text": "to",
+   "start": 185896,
+   "end": 185993
+  },
+  {
+   "text": "HistoryNet,",
+   "start": 186058,
+   "end": 186866
+  },
+  {
+   "text": "Bill",
+   "start": 187027,
+   "end": 187140
+  },
+  {
+   "text": "wrote,",
+   "start": 187334,
+   "end": 187722
+  },
+  {
+   "text": "Agnes,",
+   "start": 188547,
+   "end": 188870
+  },
+  {
+   "text": "darling,",
+   "start": 188886,
+   "end": 189258
+  },
+  {
+   "text": "If",
+   "start": 189772,
+   "end": 189900
+  },
+  {
+   "text": "such",
+   "start": 189916,
+   "end": 190461
+  },
+  {
+   "text": "should",
+   "start": 190974,
+   "end": 191503
+  },
+  {
+   "text": "be",
+   "start": 191615,
+   "end": 191856
+  },
+  {
+   "text": "we",
+   "start": 191936,
+   "end": 192128
+  },
+  {
+   "text": "ever",
+   "start": 192321,
+   "end": 192513
+  },
+  {
+   "text": "meet",
+   "start": 192513,
+   "end": 192801
+  },
+  {
+   "text": "again,",
+   "start": 192801,
+   "end": 193090
+  },
+  {
+   "text": "while",
+   "start": 193699,
+   "end": 193891
+  },
+  {
+   "text": "firing",
+   "start": 193956,
+   "end": 194469
+  },
+  {
+   "text": "my",
+   "start": 194501,
+   "end": 194725
+  },
+  {
+   "text": "last",
+   "start": 194725,
+   "end": 194885
+  },
+  {
+   "text": "shot,",
+   "start": 194901,
+   "end": 195462
+  },
+  {
+   "text": "I",
+   "start": 196007,
+   "end": 196056
+  },
+  {
+   "text": "will",
+   "start": 196088,
+   "end": 196296
+  },
+  {
+   "text": "gently",
+   "start": 196344,
+   "end": 196793
+  },
+  {
+   "text": "breathe",
+   "start": 196825,
+   "end": 197258
+  },
+  {
+   "text": "the",
+   "start": 197290,
+   "end": 197322
+  },
+  {
+   "text": "name",
+   "start": 197322,
+   "end": 197643
+  },
+  {
+   "text": "of",
+   "start": 197643,
+   "end": 197755
+  },
+  {
+   "text": "my",
+   "start": 197787,
+   "end": 197979
+  },
+  {
+   "text": "wife,",
+   "start": 198091,
+   "end": 198396
+  },
+  {
+   "text": "Agnes,",
+   "start": 198973,
+   "end": 199278
+  },
+  {
+   "text": "and",
+   "start": 199951,
+   "end": 200015
+  },
+  {
+   "text": "with",
+   "start": 200031,
+   "end": 200271
+  },
+  {
+   "text": "wishes",
+   "start": 200271,
+   "end": 200640
+  },
+  {
+   "text": "even",
+   "start": 200672,
+   "end": 200913
+  },
+  {
+   "text": "for",
+   "start": 200913,
+   "end": 201057
+  },
+  {
+   "text": "my",
+   "start": 201057,
+   "end": 201297
+  },
+  {
+   "text": "enemies,",
+   "start": 201313,
+   "end": 201682
+  },
+  {
+   "text": "I",
+   "start": 201794,
+   "end": 201907
+  },
+  {
+   "text": "will",
+   "start": 201939,
+   "end": 202051
+  },
+  {
+   "text": "make",
+   "start": 202051,
+   "end": 202291
+  },
+  {
+   "text": "the",
+   "start": 202339,
+   "end": 202387
+  },
+  {
+   "text": "plunge",
+   "start": 202436,
+   "end": 202836
+  },
+  {
+   "text": "and",
+   "start": 202836,
+   "end": 202965
+  },
+  {
+   "text": "try",
+   "start": 202997,
+   "end": 203317
+  },
+  {
+   "text": "to",
+   "start": 203317,
+   "end": 203413
+  },
+  {
+   "text": "swim",
+   "start": 203413,
+   "end": 203766
+  },
+  {
+   "text": "to",
+   "start": 203862,
+   "end": 203942
+  },
+  {
+   "text": "the",
+   "start": 203942,
+   "end": 204119
+  },
+  {
+   "text": "other",
+   "start": 204119,
+   "end": 204295
+  },
+  {
+   "text": "shore.",
+   "start": 204295,
+   "end": 204584
+  },
+  {
+   "text": "J.B.",
+   "start": 206026,
+   "end": 206363
+  },
+  {
+   "text": "Hickok,",
+   "start": 206507,
+   "end": 207036
+  },
+  {
+   "text": "Wild",
+   "start": 207229,
+   "end": 207517
+  },
+  {
+   "text": "Bill.",
+   "start": 207565,
+   "end": 207693
+  },
+  {
+   "text": "He",
+   "start": 210034,
+   "end": 210130
+  },
+  {
+   "text": "was",
+   "start": 210130,
+   "end": 210258
+  },
+  {
+   "text": "right",
+   "start": 210354,
+   "end": 210531
+  },
+  {
+   "text": "to",
+   "start": 210531,
+   "end": 210611
+  },
+  {
+   "text": "be",
+   "start": 210611,
+   "end": 210707
+  },
+  {
+   "text": "paranoid.",
+   "start": 210707,
+   "end": 211268
+  },
+  {
+   "text": "Deadwood",
+   "start": 211973,
+   "end": 212342
+  },
+  {
+   "text": "was",
+   "start": 212374,
+   "end": 212502
+  },
+  {
+   "text": "a",
+   "start": 212535,
+   "end": 212615
+  },
+  {
+   "text": "violent,",
+   "start": 212615,
+   "end": 213240
+  },
+  {
+   "text": "lawless",
+   "start": 213256,
+   "end": 213689
+  },
+  {
+   "text": "mud",
+   "start": 213737,
+   "end": 213913
+  },
+  {
+   "text": "pit.",
+   "start": 213977,
+   "end": 214186
+  },
+  {
+   "text": "The",
+   "start": 214859,
+   "end": 215019
+  },
+  {
+   "text": "gold",
+   "start": 215019,
+   "end": 215260
+  },
+  {
+   "text": "rush",
+   "start": 215260,
+   "end": 215484
+  },
+  {
+   "text": "had",
+   "start": 215484,
+   "end": 215628
+  },
+  {
+   "text": "drawn",
+   "start": 215660,
+   "end": 215981
+  },
+  {
+   "text": "thousands",
+   "start": 215981,
+   "end": 216670
+  },
+  {
+   "text": "onto",
+   "start": 216686,
+   "end": 216847
+  },
+  {
+   "text": "the",
+   "start": 216863,
+   "end": 217055
+  },
+  {
+   "text": "land",
+   "start": 217167,
+   "end": 217472
+  },
+  {
+   "text": "that",
+   "start": 217568,
+   "end": 217841
+  },
+  {
+   "text": "the",
+   "start": 217905,
+   "end": 217985
+  },
+  {
+   "text": "U.S.",
+   "start": 218129,
+   "end": 218386
+  },
+  {
+   "text": "government",
+   "start": 218466,
+   "end": 218866
+  },
+  {
+   "text": "had",
+   "start": 218866,
+   "end": 218995
+  },
+  {
+   "text": "promised",
+   "start": 219107,
+   "end": 219411
+  },
+  {
+   "text": "to",
+   "start": 219411,
+   "end": 219556
+  },
+  {
+   "text": "give",
+   "start": 219572,
+   "end": 219700
+  },
+  {
+   "text": "to",
+   "start": 219812,
+   "end": 219924
+  },
+  {
+   "text": "the",
+   "start": 220534,
+   "end": 220694
+  },
+  {
+   "text": "Lakota",
+   "start": 220694,
+   "end": 221255
+  },
+  {
+   "text": "tribe.",
+   "start": 221255,
+   "end": 221447
+  },
+  {
+   "text": "This",
+   "start": 222576,
+   "end": 222705
+  },
+  {
+   "text": "meant",
+   "start": 222817,
+   "end": 223059
+  },
+  {
+   "text": "that",
+   "start": 223059,
+   "end": 223188
+  },
+  {
+   "text": "the",
+   "start": 223204,
+   "end": 223301
+  },
+  {
+   "text": "settlers",
+   "start": 223301,
+   "end": 223800
+  },
+  {
+   "text": "and",
+   "start": 223800,
+   "end": 223913
+  },
+  {
+   "text": "prospectors",
+   "start": 223945,
+   "end": 224557
+  },
+  {
+   "text": "had",
+   "start": 224605,
+   "end": 224847
+  },
+  {
+   "text": "no",
+   "start": 224895,
+   "end": 225056
+  },
+  {
+   "text": "legal",
+   "start": 225072,
+   "end": 225394
+  },
+  {
+   "text": "footing",
+   "start": 225394,
+   "end": 225684
+  },
+  {
+   "text": "in",
+   "start": 225781,
+   "end": 225829
+  },
+  {
+   "text": "the",
+   "start": 225877,
+   "end": 226038
+  },
+  {
+   "text": "area.",
+   "start": 226038,
+   "end": 226360
+  },
+  {
+   "text": "No",
+   "start": 226827,
+   "end": 227005
+  },
+  {
+   "text": "courts,",
+   "start": 227069,
+   "end": 227439
+  },
+  {
+   "text": "no",
+   "start": 227810,
+   "end": 227971
+  },
+  {
+   "text": "sheriff.",
+   "start": 227971,
+   "end": 228486
+  },
+  {
+   "text": "Deadwood",
+   "start": 229340,
+   "end": 229839
+  },
+  {
+   "text": "had",
+   "start": 230048,
+   "end": 230193
+  },
+  {
+   "text": "grown",
+   "start": 230225,
+   "end": 230435
+  },
+  {
+   "text": "faster",
+   "start": 230548,
+   "end": 230966
+  },
+  {
+   "text": "than",
+   "start": 231047,
+   "end": 231160
+  },
+  {
+   "text": "its",
+   "start": 231160,
+   "end": 231360
+  },
+  {
+   "text": "laws.",
+   "start": 231426,
+   "end": 231743
+  },
+  {
+   "text": "Into",
+   "start": 233712,
+   "end": 233793
+  },
+  {
+   "text": "this",
+   "start": 233793,
+   "end": 234019
+  },
+  {
+   "text": "chaos",
+   "start": 234019,
+   "end": 234439
+  },
+  {
+   "text": "rode",
+   "start": 234439,
+   "end": 234746
+  },
+  {
+   "text": "Jack",
+   "start": 234746,
+   "end": 234875
+  },
+  {
+   "text": "McCall,",
+   "start": 235004,
+   "end": 235279
+  },
+  {
+   "text": "a",
+   "start": 235812,
+   "end": 235828
+  },
+  {
+   "text": "drifter,",
+   "start": 235957,
+   "end": 236426
+  },
+  {
+   "text": "a",
+   "start": 236781,
+   "end": 236927
+  },
+  {
+   "text": "man",
+   "start": 236927,
+   "end": 237201
+  },
+  {
+   "text": "with",
+   "start": 237201,
+   "end": 237363
+  },
+  {
+   "text": "a",
+   "start": 237411,
+   "end": 237492
+  },
+  {
+   "text": "loud",
+   "start": 237492,
+   "end": 237961
+  },
+  {
+   "text": "mouth,",
+   "start": 238074,
+   "end": 238445
+  },
+  {
+   "text": "little",
+   "start": 239269,
+   "end": 239560
+  },
+  {
+   "text": "sense,",
+   "start": 239592,
+   "end": 240029
+  },
+  {
+   "text": "and",
+   "start": 240481,
+   "end": 240545
+  },
+  {
+   "text": "a",
+   "start": 240578,
+   "end": 240755
+  },
+  {
+   "text": "massive",
+   "start": 240885,
+   "end": 241353
+  },
+  {
+   "text": "chip",
+   "start": 241386,
+   "end": 241644
+  },
+  {
+   "text": "on",
+   "start": 241709,
+   "end": 241789
+  },
+  {
+   "text": "his",
+   "start": 241789,
+   "end": 241999
+  },
+  {
+   "text": "shoulder.",
+   "start": 242000,
+   "end": 242276
+  },
+  {
+   "text": "McCall",
+   "start": 243576,
+   "end": 243934
+  },
+  {
+   "text": "was",
+   "start": 243966,
+   "end": 244145
+  },
+  {
+   "text": "a",
+   "start": 244145,
+   "end": 244308
+  },
+  {
+   "text": "terrible",
+   "start": 244308,
+   "end": 244860
+  },
+  {
+   "text": "card",
+   "start": 244860,
+   "end": 245120
+  },
+  {
+   "text": "player,",
+   "start": 245120,
+   "end": 245445
+  },
+  {
+   "text": "quick",
+   "start": 246014,
+   "end": 246193
+  },
+  {
+   "text": "to",
+   "start": 246242,
+   "end": 246339
+  },
+  {
+   "text": "take",
+   "start": 246339,
+   "end": 246567
+  },
+  {
+   "text": "offense.",
+   "start": 246567,
+   "end": 246973
+  },
+  {
+   "text": "And",
+   "start": 247443,
+   "end": 247507
+  },
+  {
+   "text": "even",
+   "start": 247588,
+   "end": 247815
+  },
+  {
+   "text": "quicker",
+   "start": 247847,
+   "end": 248235
+  },
+  {
+   "text": "to",
+   "start": 248235,
+   "end": 248283
+  },
+  {
+   "text": "brag.",
+   "start": 248332,
+   "end": 248736
+  },
+  {
+   "text": "By",
+   "start": 251161,
+   "end": 251242
+  },
+  {
+   "text": "1876,",
+   "start": 251242,
+   "end": 252439
+  },
+  {
+   "text": "the",
+   "start": 252455,
+   "end": 252617
+  },
+  {
+   "text": "Black",
+   "start": 252617,
+   "end": 252875
+  },
+  {
+   "text": "Hills",
+   "start": 252940,
+   "end": 253312
+  },
+  {
+   "text": "were",
+   "start": 253425,
+   "end": 253619
+  },
+  {
+   "text": "full-blown",
+   "start": 253668,
+   "end": 254444
+  },
+  {
+   "text": "gold",
+   "start": 254557,
+   "end": 254815
+  },
+  {
+   "text": "rush",
+   "start": 254815,
+   "end": 254993
+  },
+  {
+   "text": "country.",
+   "start": 255010,
+   "end": 255417
+  },
+  {
+   "text": "Prospectors,",
+   "start": 256654,
+   "end": 257533
+  },
+  {
+   "text": "merchants,",
+   "start": 257582,
+   "end": 258298
+  },
+  {
+   "text": "gamblers,",
+   "start": 258380,
+   "end": 258885
+  },
+  {
+   "text": "and",
+   "start": 258950,
+   "end": 259031
+  },
+  {
+   "text": "drifters",
+   "start": 259031,
+   "end": 259487
+  },
+  {
+   "text": "poured",
+   "start": 259601,
+   "end": 260187
+  },
+  {
+   "text": "into",
+   "start": 260187,
+   "end": 260366
+  },
+  {
+   "text": "Deadwood.",
+   "start": 260480,
+   "end": 260920
+  },
+  {
+   "text": "Its",
+   "start": 261838,
+   "end": 261983
+  },
+  {
+   "text": "buildings",
+   "start": 262048,
+   "end": 262403
+  },
+  {
+   "text": "quickly",
+   "start": 262532,
+   "end": 262855
+  },
+  {
+   "text": "sprang",
+   "start": 262855,
+   "end": 263162
+  },
+  {
+   "text": "up",
+   "start": 263339,
+   "end": 263436
+  },
+  {
+   "text": "so",
+   "start": 263743,
+   "end": 264082
+  },
+  {
+   "text": "fast",
+   "start": 264082,
+   "end": 264566
+  },
+  {
+   "text": "that",
+   "start": 264566,
+   "end": 264711
+  },
+  {
+   "text": "the",
+   "start": 264711,
+   "end": 264808
+  },
+  {
+   "text": "pine",
+   "start": 264873,
+   "end": 265260
+  },
+  {
+   "text": "building",
+   "start": 265373,
+   "end": 265647
+  },
+  {
+   "text": "planks",
+   "start": 265776,
+   "end": 266245
+  },
+  {
+   "text": "still",
+   "start": 266245,
+   "end": 266535
+  },
+  {
+   "text": "smelled",
+   "start": 266680,
+   "end": 267213
+  },
+  {
+   "text": "of",
+   "start": 267213,
+   "end": 267310
+  },
+  {
+   "text": "the",
+   "start": 267310,
+   "end": 267391
+  },
+  {
+   "text": "sawmill.",
+   "start": 267391,
+   "end": 267923
+  },
+  {
+   "text": "At",
+   "start": 269231,
+   "end": 269344
+  },
+  {
+   "text": "night,",
+   "start": 269344,
+   "end": 269489
+  },
+  {
+   "text": "the",
+   "start": 269570,
+   "end": 269650
+  },
+  {
+   "text": "camp",
+   "start": 269650,
+   "end": 270006
+  },
+  {
+   "text": "glowed",
+   "start": 270038,
+   "end": 270377
+  },
+  {
+   "text": "with",
+   "start": 270377,
+   "end": 270522
+  },
+  {
+   "text": "lamps",
+   "start": 270538,
+   "end": 270893
+  },
+  {
+   "text": "and",
+   "start": 270943,
+   "end": 271078
+  },
+  {
+   "text": "rang",
+   "start": 271348,
+   "end": 271584
+  },
+  {
+   "text": "with",
+   "start": 271601,
+   "end": 271837
+  },
+  {
+   "text": "fiddles",
+   "start": 271853,
+   "end": 272258
+  },
+  {
+   "text": "and",
+   "start": 272292,
+   "end": 272427
+  },
+  {
+   "text": "drunken",
+   "start": 272528,
+   "end": 272949
+  },
+  {
+   "text": "shouting.",
+   "start": 272949,
+   "end": 273185
+  },
+  {
+   "text": "On",
+   "start": 275834,
+   "end": 275883
+  },
+  {
+   "text": "the",
+   "start": 275915,
+   "end": 275995
+  },
+  {
+   "text": "night",
+   "start": 275995,
+   "end": 276221
+  },
+  {
+   "text": "of",
+   "start": 276221,
+   "end": 276382
+  },
+  {
+   "text": "August",
+   "start": 276382,
+   "end": 276639
+  },
+  {
+   "text": "1st,",
+   "start": 276639,
+   "end": 276865
+  },
+  {
+   "text": "1876,",
+   "start": 276881,
+   "end": 278088
+  },
+  {
+   "text": "the",
+   "start": 278314,
+   "end": 278394
+  },
+  {
+   "text": "same",
+   "start": 278394,
+   "end": 278797
+  },
+  {
+   "text": "day",
+   "start": 278813,
+   "end": 279006
+  },
+  {
+   "text": "he",
+   "start": 279054,
+   "end": 279296
+  },
+  {
+   "text": "penned",
+   "start": 279296,
+   "end": 279538
+  },
+  {
+   "text": "his",
+   "start": 279538,
+   "end": 279666
+  },
+  {
+   "text": "final",
+   "start": 279763,
+   "end": 280214
+  },
+  {
+   "text": "letter",
+   "start": 280262,
+   "end": 280504
+  },
+  {
+   "text": "to",
+   "start": 280504,
+   "end": 280649
+  },
+  {
+   "text": "his",
+   "start": 280649,
+   "end": 280761
+  },
+  {
+   "text": "true",
+   "start": 280826,
+   "end": 281083
+  },
+  {
+   "text": "love,",
+   "start": 281132,
+   "end": 281437
+  },
+  {
+   "text": "the",
+   "start": 282370,
+   "end": 282450
+  },
+  {
+   "text": "air",
+   "start": 282467,
+   "end": 282628
+  },
+  {
+   "text": "in",
+   "start": 282628,
+   "end": 282774
+  },
+  {
+   "text": "Nuttall",
+   "start": 282887,
+   "end": 283210
+  },
+  {
+   "text": "and",
+   "start": 283210,
+   "end": 283323
+  },
+  {
+   "text": "Mann's",
+   "start": 283372,
+   "end": 283857
+  },
+  {
+   "text": "Saloon",
+   "start": 283857,
+   "end": 284261
+  },
+  {
+   "text": "Number",
+   "start": 284261,
+   "end": 284504
+  },
+  {
+   "text": "10",
+   "start": 284504,
+   "end": 284779
+  },
+  {
+   "text": "was",
+   "start": 284892,
+   "end": 285037
+  },
+  {
+   "text": "thick",
+   "start": 285296,
+   "end": 285474
+  },
+  {
+   "text": "with",
+   "start": 285474,
+   "end": 285635
+  },
+  {
+   "text": "smells",
+   "start": 285635,
+   "end": 286007
+  },
+  {
+   "text": "of",
+   "start": 286120,
+   "end": 286250
+  },
+  {
+   "text": "whiskey",
+   "start": 286363,
+   "end": 286686
+  },
+  {
+   "text": "and",
+   "start": 286686,
+   "end": 286832
+  },
+  {
+   "text": "tobacco,",
+   "start": 286832,
+   "end": 287365
+  },
+  {
+   "text": "while",
+   "start": 287479,
+   "end": 287608
+  },
+  {
+   "text": "sounds",
+   "start": 287673,
+   "end": 288158
+  },
+  {
+   "text": "of",
+   "start": 288158,
+   "end": 288271
+  },
+  {
+   "text": "drunken",
+   "start": 288368,
+   "end": 288675
+  },
+  {
+   "text": "laughter",
+   "start": 288707,
+   "end": 289192
+  },
+  {
+   "text": "and",
+   "start": 289192,
+   "end": 289322
+  },
+  {
+   "text": "coins",
+   "start": 289677,
+   "end": 290049
+  },
+  {
+   "text": "being",
+   "start": 290065,
+   "end": 290211
+  },
+  {
+   "text": "tossed",
+   "start": 290324,
+   "end": 290583
+  },
+  {
+   "text": "to",
+   "start": 290583,
+   "end": 290696
+  },
+  {
+   "text": "the",
+   "start": 290728,
+   "end": 290825
+  },
+  {
+   "text": "center",
+   "start": 290825,
+   "end": 291262
+  },
+  {
+   "text": "of",
+   "start": 291278,
+   "end": 291343
+  },
+  {
+   "text": "poker",
+   "start": 291375,
+   "end": 291698
+  },
+  {
+   "text": "tables",
+   "start": 291698,
+   "end": 292102
+  },
+  {
+   "text": "filled",
+   "start": 292102,
+   "end": 292344
+  },
+  {
+   "text": "the",
+   "start": 292344,
+   "end": 292489
+  },
+  {
+   "text": "room.",
+   "start": 292489,
+   "end": 292667
+  },
+  {
+   "text": "McCall",
+   "start": 294199,
+   "end": 294473
+  },
+  {
+   "text": "was",
+   "start": 294586,
+   "end": 294731
+  },
+  {
+   "text": "a",
+   "start": 294780,
+   "end": 294909
+  },
+  {
+   "text": "drifter",
+   "start": 294909,
+   "end": 295392
+  },
+  {
+   "text": "who,",
+   "start": 295392,
+   "end": 295586
+  },
+  {
+   "text": "for",
+   "start": 295892,
+   "end": 296054
+  },
+  {
+   "text": "one",
+   "start": 296054,
+   "end": 296215
+  },
+  {
+   "text": "reason",
+   "start": 296215,
+   "end": 296457
+  },
+  {
+   "text": "or",
+   "start": 296457,
+   "end": 296602
+  },
+  {
+   "text": "another,",
+   "start": 296602,
+   "end": 297102
+  },
+  {
+   "text": "had",
+   "start": 297328,
+   "end": 297376
+  },
+  {
+   "text": "a",
+   "start": 297376,
+   "end": 297392
+  },
+  {
+   "text": "hard",
+   "start": 297392,
+   "end": 297828
+  },
+  {
+   "text": "time",
+   "start": 297828,
+   "end": 298086
+  },
+  {
+   "text": "holding",
+   "start": 298134,
+   "end": 298424
+  },
+  {
+   "text": "down",
+   "start": 298424,
+   "end": 298586
+  },
+  {
+   "text": "a",
+   "start": 298699,
+   "end": 298715
+  },
+  {
+   "text": "steady",
+   "start": 298715,
+   "end": 299086
+  },
+  {
+   "text": "job.",
+   "start": 299118,
+   "end": 299505
+  },
+  {
+   "text": "So",
+   "start": 300113,
+   "end": 300258
+  },
+  {
+   "text": "he",
+   "start": 300274,
+   "end": 300419
+  },
+  {
+   "text": "did",
+   "start": 300419,
+   "end": 300596
+  },
+  {
+   "text": "odd",
+   "start": 300596,
+   "end": 300837
+  },
+  {
+   "text": "jobs",
+   "start": 300837,
+   "end": 301238
+  },
+  {
+   "text": "around",
+   "start": 301303,
+   "end": 301544
+  },
+  {
+   "text": "Saloon",
+   "start": 301737,
+   "end": 302090
+  },
+  {
+   "text": "10",
+   "start": 302267,
+   "end": 302412
+  },
+  {
+   "text": "when",
+   "start": 302669,
+   "end": 302829
+  },
+  {
+   "text": "they",
+   "start": 302829,
+   "end": 302862
+  },
+  {
+   "text": "needed",
+   "start": 302862,
+   "end": 303231
+  },
+  {
+   "text": "a",
+   "start": 303231,
+   "end": 303247
+  },
+  {
+   "text": "hand.",
+   "start": 303247,
+   "end": 303537
+  },
+  {
+   "text": "But",
+   "start": 304678,
+   "end": 304774
+  },
+  {
+   "text": "on",
+   "start": 304774,
+   "end": 304903
+  },
+  {
+   "text": "this",
+   "start": 304919,
+   "end": 305063
+  },
+  {
+   "text": "night,",
+   "start": 305160,
+   "end": 305513
+  },
+  {
+   "text": "he",
+   "start": 305883,
+   "end": 305979
+  },
+  {
+   "text": "strolled",
+   "start": 305979,
+   "end": 306462
+  },
+  {
+   "text": "into",
+   "start": 306462,
+   "end": 306622
+  },
+  {
+   "text": "the",
+   "start": 306687,
+   "end": 306783
+  },
+  {
+   "text": "10,",
+   "start": 306783,
+   "end": 307056
+  },
+  {
+   "text": "looking",
+   "start": 307667,
+   "end": 307956
+  },
+  {
+   "text": "to",
+   "start": 307988,
+   "end": 308085
+  },
+  {
+   "text": "make",
+   "start": 308085,
+   "end": 308374
+  },
+  {
+   "text": "a",
+   "start": 308374,
+   "end": 308390
+  },
+  {
+   "text": "quick",
+   "start": 308783,
+   "end": 308955
+  },
+  {
+   "text": "buck.",
+   "start": 308972,
+   "end": 309214
+  },
+  {
+   "text": "He",
+   "start": 311120,
+   "end": 311168
+  },
+  {
+   "text": "sat",
+   "start": 311216,
+   "end": 311475
+  },
+  {
+   "text": "down",
+   "start": 311475,
+   "end": 311782
+  },
+  {
+   "text": "at",
+   "start": 311782,
+   "end": 311863
+  },
+  {
+   "text": "a",
+   "start": 311863,
+   "end": 311879
+  },
+  {
+   "text": "poker",
+   "start": 311944,
+   "end": 312154
+  },
+  {
+   "text": "table,",
+   "start": 312202,
+   "end": 312493
+  },
+  {
+   "text": "the",
+   "start": 313155,
+   "end": 313236
+  },
+  {
+   "text": "same",
+   "start": 313236,
+   "end": 313446
+  },
+  {
+   "text": "table",
+   "start": 313576,
+   "end": 313818
+  },
+  {
+   "text": "Bill",
+   "start": 313899,
+   "end": 314028
+  },
+  {
+   "text": "sat,",
+   "start": 314141,
+   "end": 314432
+  },
+  {
+   "text": "and",
+   "start": 315256,
+   "end": 315337
+  },
+  {
+   "text": "he",
+   "start": 315418,
+   "end": 315579
+  },
+  {
+   "text": "lost.",
+   "start": 315595,
+   "end": 316016
+  },
+  {
+   "text": "By",
+   "start": 316888,
+   "end": 317050
+  },
+  {
+   "text": "the",
+   "start": 317050,
+   "end": 317211
+  },
+  {
+   "text": "end",
+   "start": 317211,
+   "end": 317357
+  },
+  {
+   "text": "of",
+   "start": 317357,
+   "end": 317389
+  },
+  {
+   "text": "the",
+   "start": 317389,
+   "end": 317470
+  },
+  {
+   "text": "night,",
+   "start": 317470,
+   "end": 317922
+  },
+  {
+   "text": "McCall's",
+   "start": 317938,
+   "end": 318391
+  },
+  {
+   "text": "pockets",
+   "start": 318504,
+   "end": 318989
+  },
+  {
+   "text": "were",
+   "start": 319069,
+   "end": 319263
+  },
+  {
+   "text": "completely",
+   "start": 319280,
+   "end": 320116
+  },
+  {
+   "text": "empty.",
+   "start": 320316,
+   "end": 320701
+  },
+  {
+   "text": "Hickok",
+   "start": 323440,
+   "end": 323699
+  },
+  {
+   "text": "had",
+   "start": 323699,
+   "end": 323812
+  },
+  {
+   "text": "been",
+   "start": 323861,
+   "end": 324039
+  },
+  {
+   "text": "taking",
+   "start": 324039,
+   "end": 324282
+  },
+  {
+   "text": "the",
+   "start": 324282,
+   "end": 324444
+  },
+  {
+   "text": "drifter's",
+   "start": 324444,
+   "end": 324914
+  },
+  {
+   "text": "money",
+   "start": 324914,
+   "end": 325141
+  },
+  {
+   "text": "all",
+   "start": 325238,
+   "end": 325287
+  },
+  {
+   "text": "night,",
+   "start": 325514,
+   "end": 325886
+  },
+  {
+   "text": "and",
+   "start": 325902,
+   "end": 325983
+  },
+  {
+   "text": "McCall's",
+   "start": 325983,
+   "end": 326632
+  },
+  {
+   "text": "face",
+   "start": 326632,
+   "end": 326761
+  },
+  {
+   "text": "was",
+   "start": 326939,
+   "end": 327053
+  },
+  {
+   "text": "flush",
+   "start": 327345,
+   "end": 327555
+  },
+  {
+   "text": "with",
+   "start": 327685,
+   "end": 327847
+  },
+  {
+   "text": "anger.",
+   "start": 327847,
+   "end": 328155
+  },
+  {
+   "text": "Bill",
+   "start": 328796,
+   "end": 328925
+  },
+  {
+   "text": "pushed",
+   "start": 329039,
+   "end": 329346
+  },
+  {
+   "text": "a",
+   "start": 329346,
+   "end": 329362
+  },
+  {
+   "text": "few",
+   "start": 329362,
+   "end": 329669
+  },
+  {
+   "text": "coins",
+   "start": 329669,
+   "end": 330057
+  },
+  {
+   "text": "back",
+   "start": 330235,
+   "end": 330364
+  },
+  {
+   "text": "across",
+   "start": 330429,
+   "end": 330769
+  },
+  {
+   "text": "the",
+   "start": 330882,
+   "end": 330979
+  },
+  {
+   "text": "table",
+   "start": 330979,
+   "end": 331254
+  },
+  {
+   "text": "toward",
+   "start": 331302,
+   "end": 331690
+  },
+  {
+   "text": "McCall.",
+   "start": 331690,
+   "end": 332013
+  },
+  {
+   "text": "He",
+   "start": 332596,
+   "end": 332741
+  },
+  {
+   "text": "told",
+   "start": 332757,
+   "end": 333000
+  },
+  {
+   "text": "the",
+   "start": 333000,
+   "end": 333081
+  },
+  {
+   "text": "younger",
+   "start": 333081,
+   "end": 333339
+  },
+  {
+   "text": "man",
+   "start": 333339,
+   "end": 333598
+  },
+  {
+   "text": "this",
+   "start": 334374,
+   "end": 334536
+  },
+  {
+   "text": "was",
+   "start": 334536,
+   "end": 334665
+  },
+  {
+   "text": "breakfast",
+   "start": 334762,
+   "end": 335182
+  },
+  {
+   "text": "money",
+   "start": 335182,
+   "end": 335393
+  },
+  {
+   "text": "and",
+   "start": 335991,
+   "end": 336120
+  },
+  {
+   "text": "to",
+   "start": 336136,
+   "end": 336169
+  },
+  {
+   "text": "stay",
+   "start": 336169,
+   "end": 336524
+  },
+  {
+   "text": "away",
+   "start": 336557,
+   "end": 336783
+  },
+  {
+   "text": "from",
+   "start": 336783,
+   "end": 336896
+  },
+  {
+   "text": "the",
+   "start": 336896,
+   "end": 337042
+  },
+  {
+   "text": "tables",
+   "start": 337042,
+   "end": 337414
+  },
+  {
+   "text": "until",
+   "start": 337446,
+   "end": 337721
+  },
+  {
+   "text": "he",
+   "start": 337753,
+   "end": 337850
+  },
+  {
+   "text": "could",
+   "start": 337850,
+   "end": 337980
+  },
+  {
+   "text": "afford",
+   "start": 337980,
+   "end": 338264
+  },
+  {
+   "text": "to",
+   "start": 338264,
+   "end": 338347
+  },
+  {
+   "text": "play",
+   "start": 338347,
+   "end": 338665
+  },
+  {
+   "text": "again.",
+   "start": 338665,
+   "end": 338882
+  },
+  {
+   "text": "The",
+   "start": 341840,
+   "end": 341872
+  },
+  {
+   "text": "table",
+   "start": 341937,
+   "end": 342342
+  },
+  {
+   "text": "went",
+   "start": 342342,
+   "end": 342537
+  },
+  {
+   "text": "quiet,",
+   "start": 342666,
+   "end": 343088
+  },
+  {
+   "text": "the",
+   "start": 343639,
+   "end": 343801
+  },
+  {
+   "text": "other",
+   "start": 343801,
+   "end": 343963
+  },
+  {
+   "text": "gamblers",
+   "start": 344061,
+   "end": 344433
+  },
+  {
+   "text": "unsure",
+   "start": 344531,
+   "end": 345098
+  },
+  {
+   "text": "how",
+   "start": 345098,
+   "end": 345228
+  },
+  {
+   "text": "McCall",
+   "start": 345357,
+   "end": 345795
+  },
+  {
+   "text": "would",
+   "start": 345990,
+   "end": 346233
+  },
+  {
+   "text": "react",
+   "start": 346233,
+   "end": 346784
+  },
+  {
+   "text": "to",
+   "start": 346962,
+   "end": 347076
+  },
+  {
+   "text": "that",
+   "start": 347076,
+   "end": 347384
+  },
+  {
+   "text": "verbal",
+   "start": 347384,
+   "end": 347676
+  },
+  {
+   "text": "put-down.",
+   "start": 347789,
+   "end": 348324
+  },
+  {
+   "text": "Glaring",
+   "start": 351000,
+   "end": 351162
+  },
+  {
+   "text": "at",
+   "start": 351178,
+   "end": 351227
+  },
+  {
+   "text": "Hickok,",
+   "start": 351259,
+   "end": 351746
+  },
+  {
+   "text": "McCall",
+   "start": 351762,
+   "end": 352119
+  },
+  {
+   "text": "didn't",
+   "start": 352249,
+   "end": 352687
+  },
+  {
+   "text": "take",
+   "start": 352687,
+   "end": 352882
+  },
+  {
+   "text": "the",
+   "start": 352882,
+   "end": 352980
+  },
+  {
+   "text": "advice.",
+   "start": 352980,
+   "end": 353353
+  },
+  {
+   "text": "He",
+   "start": 353937,
+   "end": 354148
+  },
+  {
+   "text": "took",
+   "start": 354181,
+   "end": 354359
+  },
+  {
+   "text": "the",
+   "start": 354359,
+   "end": 354424
+  },
+  {
+   "text": "breakfast",
+   "start": 354440,
+   "end": 354846
+  },
+  {
+   "text": "money.",
+   "start": 354846,
+   "end": 355090
+  },
+  {
+   "text": "And",
+   "start": 355584,
+   "end": 355713
+  },
+  {
+   "text": "the",
+   "start": 355746,
+   "end": 355924
+  },
+  {
+   "text": "insult,",
+   "start": 355924,
+   "end": 356474
+  },
+  {
+   "text": "and",
+   "start": 357041,
+   "end": 357105
+  },
+  {
+   "text": "the",
+   "start": 357121,
+   "end": 357283
+  },
+  {
+   "text": "insult",
+   "start": 357283,
+   "end": 357737
+  },
+  {
+   "text": "burned",
+   "start": 357769,
+   "end": 358157
+  },
+  {
+   "text": "in",
+   "start": 358157,
+   "end": 358206
+  },
+  {
+   "text": "his",
+   "start": 358238,
+   "end": 358352
+  },
+  {
+   "text": "gut",
+   "start": 358497,
+   "end": 358740
+  },
+  {
+   "text": "like",
+   "start": 358740,
+   "end": 359080
+  },
+  {
+   "text": "cheap",
+   "start": 359129,
+   "end": 359452
+  },
+  {
+   "text": "rye",
+   "start": 359469,
+   "end": 359663
+  },
+  {
+   "text": "whiskey",
+   "start": 359792,
+   "end": 360165
+  },
+  {
+   "text": "on",
+   "start": 360262,
+   "end": 360343
+  },
+  {
+   "text": "a",
+   "start": 360343,
+   "end": 360440
+  },
+  {
+   "text": "cold",
+   "start": 360440,
+   "end": 360763
+  },
+  {
+   "text": "night.",
+   "start": 360763,
+   "end": 361039
+  },
+  {
+   "text": "The",
+   "start": 364151,
+   "end": 364183
+  },
+  {
+   "text": "next",
+   "start": 364183,
+   "end": 364553
+  },
+  {
+   "text": "afternoon,",
+   "start": 364553,
+   "end": 364922
+  },
+  {
+   "text": "August",
+   "start": 365196,
+   "end": 365372
+  },
+  {
+   "text": "2nd,",
+   "start": 365372,
+   "end": 365774
+  },
+  {
+   "text": "Hickok",
+   "start": 366417,
+   "end": 366738
+  },
+  {
+   "text": "was",
+   "start": 366738,
+   "end": 366867
+  },
+  {
+   "text": "itching",
+   "start": 366915,
+   "end": 367140
+  },
+  {
+   "text": "for",
+   "start": 367204,
+   "end": 367317
+  },
+  {
+   "text": "another",
+   "start": 367365,
+   "end": 367606
+  },
+  {
+   "text": "game.",
+   "start": 367622,
+   "end": 367943
+  },
+  {
+   "text": "He",
+   "start": 368570,
+   "end": 368666
+  },
+  {
+   "text": "stepped",
+   "start": 368666,
+   "end": 369052
+  },
+  {
+   "text": "onto",
+   "start": 369052,
+   "end": 369181
+  },
+  {
+   "text": "the",
+   "start": 369229,
+   "end": 369374
+  },
+  {
+   "text": "boardwalk,",
+   "start": 369374,
+   "end": 370016
+  },
+  {
+   "text": "knocked",
+   "start": 370032,
+   "end": 370273
+  },
+  {
+   "text": "the",
+   "start": 370273,
+   "end": 370354
+  },
+  {
+   "text": "thick",
+   "start": 370354,
+   "end": 370772
+  },
+  {
+   "text": "Deadwood",
+   "start": 371061,
+   "end": 371430
+  },
+  {
+   "text": "mud",
+   "start": 371559,
+   "end": 371768
+  },
+  {
+   "text": "from",
+   "start": 371784,
+   "end": 371912
+  },
+  {
+   "text": "his",
+   "start": 371945,
+   "end": 372025
+  },
+  {
+   "text": "boots,",
+   "start": 372170,
+   "end": 372395
+  },
+  {
+   "text": "and",
+   "start": 372444,
+   "end": 372573
+  },
+  {
+   "text": "pushed",
+   "start": 372686,
+   "end": 373073
+  },
+  {
+   "text": "through",
+   "start": 373073,
+   "end": 373218
+  },
+  {
+   "text": "the",
+   "start": 373234,
+   "end": 373396
+  },
+  {
+   "text": "doors",
+   "start": 373493,
+   "end": 373864
+  },
+  {
+   "text": "of",
+   "start": 373961,
+   "end": 374074
+  },
+  {
+   "text": "Saloon",
+   "start": 374074,
+   "end": 374541
+  },
+  {
+   "text": "No.",
+   "start": 374541,
+   "end": 374622
+  },
+  {
+   "text": "10.",
+   "start": 374848,
+   "end": 375074
+  },
+  {
+   "text": "Charles",
+   "start": 376720,
+   "end": 377091
+  },
+  {
+   "text": "Rich,",
+   "start": 377107,
+   "end": 377333
+  },
+  {
+   "text": "a",
+   "start": 377785,
+   "end": 377801
+  },
+  {
+   "text": "regular",
+   "start": 377914,
+   "end": 378398
+  },
+  {
+   "text": "at",
+   "start": 378398,
+   "end": 378511
+  },
+  {
+   "text": "the",
+   "start": 378511,
+   "end": 378640
+  },
+  {
+   "text": "10,",
+   "start": 378640,
+   "end": 378850
+  },
+  {
+   "text": "gave",
+   "start": 379543,
+   "end": 379753
+  },
+  {
+   "text": "Bill",
+   "start": 379850,
+   "end": 380028
+  },
+  {
+   "text": "a",
+   "start": 380028,
+   "end": 380044
+  },
+  {
+   "text": "nod,",
+   "start": 380108,
+   "end": 380528
+  },
+  {
+   "text": "inviting",
+   "start": 380915,
+   "end": 381351
+  },
+  {
+   "text": "him",
+   "start": 381383,
+   "end": 381544
+  },
+  {
+   "text": "to",
+   "start": 381544,
+   "end": 381690
+  },
+  {
+   "text": "join",
+   "start": 381690,
+   "end": 381925
+  },
+  {
+   "text": "his",
+   "start": 381975,
+   "end": 382126
+  },
+  {
+   "text": "poker",
+   "start": 382227,
+   "end": 382563
+  },
+  {
+   "text": "game.",
+   "start": 382563,
+   "end": 382815
+  },
+  {
+   "text": "But",
+   "start": 383477,
+   "end": 383575
+  },
+  {
+   "text": "there",
+   "start": 383575,
+   "end": 383706
+  },
+  {
+   "text": "was",
+   "start": 383706,
+   "end": 383771
+  },
+  {
+   "text": "only",
+   "start": 383869,
+   "end": 384016
+  },
+  {
+   "text": "one",
+   "start": 384131,
+   "end": 384376
+  },
+  {
+   "text": "open",
+   "start": 384376,
+   "end": 384637
+  },
+  {
+   "text": "seat,",
+   "start": 384637,
+   "end": 384997
+  },
+  {
+   "text": "and",
+   "start": 385765,
+   "end": 385830
+  },
+  {
+   "text": "it",
+   "start": 385847,
+   "end": 385994
+  },
+  {
+   "text": "faced",
+   "start": 385994,
+   "end": 386320
+  },
+  {
+   "text": "away",
+   "start": 386320,
+   "end": 386664
+  },
+  {
+   "text": "from",
+   "start": 386664,
+   "end": 386827
+  },
+  {
+   "text": "the",
+   "start": 386827,
+   "end": 386974
+  },
+  {
+   "text": "door.",
+   "start": 386974,
+   "end": 387186
+  },
+  {
+   "text": "He",
+   "start": 388680,
+   "end": 388776
+  },
+  {
+   "text": "asked",
+   "start": 388857,
+   "end": 389034
+  },
+  {
+   "text": "Rich",
+   "start": 389034,
+   "end": 389243
+  },
+  {
+   "text": "to",
+   "start": 389356,
+   "end": 389404
+  },
+  {
+   "text": "trade",
+   "start": 389501,
+   "end": 389727
+  },
+  {
+   "text": "places,",
+   "start": 389759,
+   "end": 390129
+  },
+  {
+   "text": "but",
+   "start": 390242,
+   "end": 390371
+  },
+  {
+   "text": "gamblers",
+   "start": 390806,
+   "end": 391177
+  },
+  {
+   "text": "tend",
+   "start": 391289,
+   "end": 391579
+  },
+  {
+   "text": "to",
+   "start": 391756,
+   "end": 391853
+  },
+  {
+   "text": "be",
+   "start": 391853,
+   "end": 391950
+  },
+  {
+   "text": "superstitious",
+   "start": 391950,
+   "end": 392804
+  },
+  {
+   "text": "about",
+   "start": 392804,
+   "end": 392997
+  },
+  {
+   "text": "such",
+   "start": 392997,
+   "end": 393271
+  },
+  {
+   "text": "things.",
+   "start": 393384,
+   "end": 393754
+  },
+  {
+   "text": "Rich",
+   "start": 394592,
+   "end": 394801
+  },
+  {
+   "text": "said",
+   "start": 394833,
+   "end": 395123
+  },
+  {
+   "text": "no.",
+   "start": 395220,
+   "end": 395478
+  },
+  {
+   "text": "Every",
+   "start": 397796,
+   "end": 398149
+  },
+  {
+   "text": "survival",
+   "start": 398149,
+   "end": 398792
+  },
+  {
+   "text": "instinct",
+   "start": 398792,
+   "end": 399322
+  },
+  {
+   "text": "Hickok",
+   "start": 399322,
+   "end": 399900
+  },
+  {
+   "text": "had",
+   "start": 399900,
+   "end": 400029
+  },
+  {
+   "text": "ever",
+   "start": 400607,
+   "end": 400864
+  },
+  {
+   "text": "developed",
+   "start": 400864,
+   "end": 401427
+  },
+  {
+   "text": "over",
+   "start": 401427,
+   "end": 401652
+  },
+  {
+   "text": "the",
+   "start": 401668,
+   "end": 401812
+  },
+  {
+   "text": "years",
+   "start": 401812,
+   "end": 402198
+  },
+  {
+   "text": "on",
+   "start": 402294,
+   "end": 402391
+  },
+  {
+   "text": "the",
+   "start": 402391,
+   "end": 402535
+  },
+  {
+   "text": "western",
+   "start": 402535,
+   "end": 402937
+  },
+  {
+   "text": "front",
+   "start": 402937,
+   "end": 403210
+  },
+  {
+   "text": "screamed",
+   "start": 403258,
+   "end": 403740
+  },
+  {
+   "text": "at",
+   "start": 403740,
+   "end": 403820
+  },
+  {
+   "text": "him,",
+   "start": 403820,
+   "end": 403997
+  },
+  {
+   "text": "urging",
+   "start": 404720,
+   "end": 405090
+  },
+  {
+   "text": "him",
+   "start": 405122,
+   "end": 405250
+  },
+  {
+   "text": "not",
+   "start": 405523,
+   "end": 405861
+  },
+  {
+   "text": "to",
+   "start": 406166,
+   "end": 406343
+  },
+  {
+   "text": "sit",
+   "start": 406343,
+   "end": 406793
+  },
+  {
+   "text": "with",
+   "start": 406793,
+   "end": 406889
+  },
+  {
+   "text": "his",
+   "start": 406889,
+   "end": 407018
+  },
+  {
+   "text": "back",
+   "start": 407130,
+   "end": 407355
+  },
+  {
+   "text": "to",
+   "start": 407371,
+   "end": 407500
+  },
+  {
+   "text": "the",
+   "start": 407500,
+   "end": 407610
+  },
+  {
+   "text": "door.",
+   "start": 407610,
+   "end": 407757
+  },
+  {
+   "text": "Hickok",
+   "start": 409169,
+   "end": 409560
+  },
+  {
+   "text": "paused",
+   "start": 409577,
+   "end": 410147
+  },
+  {
+   "text": "and",
+   "start": 410228,
+   "end": 410473
+  },
+  {
+   "text": "gazed",
+   "start": 410619,
+   "end": 410929
+  },
+  {
+   "text": "long",
+   "start": 410945,
+   "end": 411255
+  },
+  {
+   "text": "and",
+   "start": 411287,
+   "end": 411369
+  },
+  {
+   "text": "hard",
+   "start": 411369,
+   "end": 411678
+  },
+  {
+   "text": "at",
+   "start": 411678,
+   "end": 411776
+  },
+  {
+   "text": "the",
+   "start": 411776,
+   "end": 411857
+  },
+  {
+   "text": "one",
+   "start": 411939,
+   "end": 412248
+  },
+  {
+   "text": "empty",
+   "start": 412248,
+   "end": 412476
+  },
+  {
+   "text": "chair.",
+   "start": 412509,
+   "end": 412851
+  },
+  {
+   "text": "Then,",
+   "start": 414270,
+   "end": 414513
+  },
+  {
+   "text": "the",
+   "start": 415259,
+   "end": 415340
+  },
+  {
+   "text": "man",
+   "start": 415340,
+   "end": 415729
+  },
+  {
+   "text": "who",
+   "start": 416150,
+   "end": 416296
+  },
+  {
+   "text": "predicted",
+   "start": 416313,
+   "end": 416799
+  },
+  {
+   "text": "his",
+   "start": 416799,
+   "end": 416864
+  },
+  {
+   "text": "own",
+   "start": 416977,
+   "end": 417107
+  },
+  {
+   "text": "death",
+   "start": 417221,
+   "end": 417431
+  },
+  {
+   "text": "sat",
+   "start": 418096,
+   "end": 418518
+  },
+  {
+   "text": "down.",
+   "start": 418518,
+   "end": 418972
+  },
+  {
+   "text": "Hickok",
+   "start": 421968,
+   "end": 422243
+  },
+  {
+   "text": "settled",
+   "start": 422243,
+   "end": 422615
+  },
+  {
+   "text": "into",
+   "start": 422615,
+   "end": 422744
+  },
+  {
+   "text": "the",
+   "start": 422793,
+   "end": 422874
+  },
+  {
+   "text": "game",
+   "start": 422874,
+   "end": 423149
+  },
+  {
+   "text": "and",
+   "start": 423197,
+   "end": 423294
+  },
+  {
+   "text": "started",
+   "start": 423294,
+   "end": 423585
+  },
+  {
+   "text": "his",
+   "start": 423585,
+   "end": 423812
+  },
+  {
+   "text": "cards,",
+   "start": 423909,
+   "end": 424345
+  },
+  {
+   "text": "and",
+   "start": 424394,
+   "end": 424539
+  },
+  {
+   "text": "after",
+   "start": 425283,
+   "end": 425461
+  },
+  {
+   "text": "several",
+   "start": 425461,
+   "end": 425752
+  },
+  {
+   "text": "poker",
+   "start": 425784,
+   "end": 426091
+  },
+  {
+   "text": "hands",
+   "start": 426108,
+   "end": 426496
+  },
+  {
+   "text": "had",
+   "start": 426496,
+   "end": 426593
+  },
+  {
+   "text": "been",
+   "start": 426593,
+   "end": 426722
+  },
+  {
+   "text": "played,",
+   "start": 426835,
+   "end": 427369
+  },
+  {
+   "text": "tunnel",
+   "start": 427886,
+   "end": 428161
+  },
+  {
+   "text": "vision",
+   "start": 428210,
+   "end": 428501
+  },
+  {
+   "text": "slowly",
+   "start": 428614,
+   "end": 429067
+  },
+  {
+   "text": "closed",
+   "start": 429099,
+   "end": 429503
+  },
+  {
+   "text": "around",
+   "start": 429503,
+   "end": 429875
+  },
+  {
+   "text": "him",
+   "start": 429891,
+   "end": 430021
+  },
+  {
+   "text": "the",
+   "start": 430134,
+   "end": 430215
+  },
+  {
+   "text": "way",
+   "start": 430231,
+   "end": 430490
+  },
+  {
+   "text": "a",
+   "start": 430554,
+   "end": 430700
+  },
+  {
+   "text": "room",
+   "start": 430700,
+   "end": 430975
+  },
+  {
+   "text": "does",
+   "start": 430975,
+   "end": 431088
+  },
+  {
+   "text": "when",
+   "start": 431283,
+   "end": 431514
+  },
+  {
+   "text": "a",
+   "start": 431514,
+   "end": 431547
+  },
+  {
+   "text": "man",
+   "start": 431547,
+   "end": 431894
+  },
+  {
+   "text": "stops",
+   "start": 431960,
+   "end": 432423
+  },
+  {
+   "text": "noticing",
+   "start": 432423,
+   "end": 432820
+  },
+  {
+   "text": "everything",
+   "start": 433084,
+   "end": 433481
+  },
+  {
+   "text": "but",
+   "start": 433679,
+   "end": 433844
+  },
+  {
+   "text": "the",
+   "start": 433844,
+   "end": 433927
+  },
+  {
+   "text": "game.",
+   "start": 433927,
+   "end": 434274
+  },
+  {
+   "text": "A",
+   "start": 435598,
+   "end": 435663
+  },
+  {
+   "text": "few",
+   "start": 435663,
+   "end": 435889
+  },
+  {
+   "text": "hands",
+   "start": 435905,
+   "end": 436163
+  },
+  {
+   "text": "later,",
+   "start": 436228,
+   "end": 436551
+  },
+  {
+   "text": "he",
+   "start": 436567,
+   "end": 436729
+  },
+  {
+   "text": "was",
+   "start": 436729,
+   "end": 436858
+  },
+  {
+   "text": "dealt",
+   "start": 436955,
+   "end": 437197
+  },
+  {
+   "text": "the",
+   "start": 437197,
+   "end": 437278
+  },
+  {
+   "text": "last",
+   "start": 437278,
+   "end": 437682
+  },
+  {
+   "text": "hand",
+   "start": 437682,
+   "end": 437941
+  },
+  {
+   "text": "he",
+   "start": 437941,
+   "end": 438102
+  },
+  {
+   "text": "would",
+   "start": 438102,
+   "end": 438312
+  },
+  {
+   "text": "ever",
+   "start": 438490,
+   "end": 438748
+  },
+  {
+   "text": "play.",
+   "start": 438748,
+   "end": 438910
+  },
+  {
+   "text": "Two",
+   "start": 440186,
+   "end": 440332
+  },
+  {
+   "text": "black",
+   "start": 440364,
+   "end": 440606
+  },
+  {
+   "text": "pairs,",
+   "start": 440671,
+   "end": 440978
+  },
+  {
+   "text": "aces",
+   "start": 441818,
+   "end": 442109
+  },
+  {
+   "text": "and",
+   "start": 442791,
+   "end": 443034
+  },
+  {
+   "text": "eights.",
+   "start": 443034,
+   "end": 443343
+  },
+  {
+   "text": "People",
+   "start": 444741,
+   "end": 445049
+  },
+  {
+   "text": "have",
+   "start": 445049,
+   "end": 445147
+  },
+  {
+   "text": "been",
+   "start": 445147,
+   "end": 445309
+  },
+  {
+   "text": "calling",
+   "start": 445309,
+   "end": 445683
+  },
+  {
+   "text": "it",
+   "start": 445699,
+   "end": 445862
+  },
+  {
+   "text": "the",
+   "start": 445862,
+   "end": 446024
+  },
+  {
+   "text": "dead",
+   "start": 446122,
+   "end": 446349
+  },
+  {
+   "text": "man's",
+   "start": 446349,
+   "end": 446707
+  },
+  {
+   "text": "hand",
+   "start": 446756,
+   "end": 447178
+  },
+  {
+   "text": "ever",
+   "start": 447178,
+   "end": 447422
+  },
+  {
+   "text": "since.",
+   "start": 447422,
+   "end": 447812
+  },
+  {
+   "text": "The",
+   "start": 450086,
+   "end": 450214
+  },
+  {
+   "text": "saloon",
+   "start": 450230,
+   "end": 450569
+  },
+  {
+   "text": "was",
+   "start": 450569,
+   "end": 450698
+  },
+  {
+   "text": "lively",
+   "start": 450714,
+   "end": 451020
+  },
+  {
+   "text": "that",
+   "start": 451116,
+   "end": 451358
+  },
+  {
+   "text": "afternoon.",
+   "start": 451358,
+   "end": 451906
+  },
+  {
+   "text": "Miners",
+   "start": 452405,
+   "end": 452808
+  },
+  {
+   "text": "were",
+   "start": 452808,
+   "end": 452937
+  },
+  {
+   "text": "bellied",
+   "start": 453049,
+   "end": 453323
+  },
+  {
+   "text": "up",
+   "start": 453323,
+   "end": 453452
+  },
+  {
+   "text": "to",
+   "start": 453452,
+   "end": 453549
+  },
+  {
+   "text": "the",
+   "start": 453549,
+   "end": 453629
+  },
+  {
+   "text": "bar,",
+   "start": 453629,
+   "end": 453823
+  },
+  {
+   "text": "swapping",
+   "start": 453887,
+   "end": 454483
+  },
+  {
+   "text": "prospecting",
+   "start": 454580,
+   "end": 455127
+  },
+  {
+   "text": "stories.",
+   "start": 455176,
+   "end": 455611
+  },
+  {
+   "text": "Whiskey",
+   "start": 455804,
+   "end": 456094
+  },
+  {
+   "text": "bottles",
+   "start": 456126,
+   "end": 456416
+  },
+  {
+   "text": "clinked",
+   "start": 456513,
+   "end": 456851
+  },
+  {
+   "text": "against",
+   "start": 456851,
+   "end": 457238
+  },
+  {
+   "text": "rims",
+   "start": 457238,
+   "end": 457511
+  },
+  {
+   "text": "of",
+   "start": 457511,
+   "end": 457624
+  },
+  {
+   "text": "glasses.",
+   "start": 457656,
+   "end": 458107
+  },
+  {
+   "text": "Tobacco",
+   "start": 458830,
+   "end": 459104
+  },
+  {
+   "text": "smoke",
+   "start": 459104,
+   "end": 459427
+  },
+  {
+   "text": "hung",
+   "start": 459427,
+   "end": 459556
+  },
+  {
+   "text": "in",
+   "start": 459669,
+   "end": 459717
+  },
+  {
+   "text": "layers",
+   "start": 459830,
+   "end": 460202
+  },
+  {
+   "text": "under",
+   "start": 460315,
+   "end": 460476
+  },
+  {
+   "text": "the",
+   "start": 460541,
+   "end": 460621
+  },
+  {
+   "text": "rafters,",
+   "start": 460621,
+   "end": 461090
+  },
+  {
+   "text": "and",
+   "start": 461138,
+   "end": 461445
+  },
+  {
+   "text": "somebody",
+   "start": 461461,
+   "end": 461977
+  },
+  {
+   "text": "laughed",
+   "start": 461994,
+   "end": 462333
+  },
+  {
+   "text": "at",
+   "start": 462333,
+   "end": 462478
+  },
+  {
+   "text": "a",
+   "start": 462478,
+   "end": 462494
+  },
+  {
+   "text": "bad",
+   "start": 462494,
+   "end": 462785
+  },
+  {
+   "text": "joke.",
+   "start": 462962,
+   "end": 463204
+  },
+  {
+   "text": "Nobody",
+   "start": 464825,
+   "end": 465116
+  },
+  {
+   "text": "paid",
+   "start": 465229,
+   "end": 465487
+  },
+  {
+   "text": "much",
+   "start": 465487,
+   "end": 465712
+  },
+  {
+   "text": "attention",
+   "start": 465712,
+   "end": 466148
+  },
+  {
+   "text": "when",
+   "start": 466196,
+   "end": 466357
+  },
+  {
+   "text": "Jack",
+   "start": 466357,
+   "end": 466599
+  },
+  {
+   "text": "McCall",
+   "start": 466615,
+   "end": 466986
+  },
+  {
+   "text": "walked",
+   "start": 467083,
+   "end": 467357
+  },
+  {
+   "text": "through",
+   "start": 467357,
+   "end": 467421
+  },
+  {
+   "text": "the",
+   "start": 467421,
+   "end": 467502
+  },
+  {
+   "text": "saloon",
+   "start": 467502,
+   "end": 468002
+  },
+  {
+   "text": "door.",
+   "start": 468050,
+   "end": 468163
+  },
+  {
+   "text": "He",
+   "start": 469002,
+   "end": 469163
+  },
+  {
+   "text": "spotted",
+   "start": 469163,
+   "end": 469630
+  },
+  {
+   "text": "Hickok",
+   "start": 469647,
+   "end": 470066
+  },
+  {
+   "text": "from",
+   "start": 470066,
+   "end": 470211
+  },
+  {
+   "text": "behind.",
+   "start": 470227,
+   "end": 470791
+  },
+  {
+   "text": "He",
+   "start": 471743,
+   "end": 471904
+  },
+  {
+   "text": "crossed",
+   "start": 471904,
+   "end": 472242
+  },
+  {
+   "text": "the",
+   "start": 472242,
+   "end": 472355
+  },
+  {
+   "text": "wooden",
+   "start": 472388,
+   "end": 472662
+  },
+  {
+   "text": "floor.",
+   "start": 472662,
+   "end": 473065
+  },
+  {
+   "text": "He",
+   "start": 475170,
+   "end": 475202
+  },
+  {
+   "text": "stepped",
+   "start": 475202,
+   "end": 475674
+  },
+  {
+   "text": "right",
+   "start": 475674,
+   "end": 475918
+  },
+  {
+   "text": "up",
+   "start": 475918,
+   "end": 475999
+  },
+  {
+   "text": "behind",
+   "start": 476080,
+   "end": 476422
+  },
+  {
+   "text": "the",
+   "start": 476422,
+   "end": 476519
+  },
+  {
+   "text": "legendary",
+   "start": 476519,
+   "end": 477121
+  },
+  {
+   "text": "gunfighter",
+   "start": 477154,
+   "end": 477772
+  },
+  {
+   "text": "and",
+   "start": 477967,
+   "end": 478178
+  },
+  {
+   "text": "drew",
+   "start": 478195,
+   "end": 478439
+  },
+  {
+   "text": "his",
+   "start": 478439,
+   "end": 478585
+  },
+  {
+   "text": "revolver.",
+   "start": 478683,
+   "end": 479203
+  },
+  {
+   "text": "\"Take",
+   "start": 480950,
+   "end": 481207
+  },
+  {
+   "text": "that!\"",
+   "start": 481207,
+   "end": 481417
+  },
+  {
+   "text": "McCall",
+   "start": 481626,
+   "end": 481965
+  },
+  {
+   "text": "screamed,",
+   "start": 481965,
+   "end": 482528
+  },
+  {
+   "text": "firing",
+   "start": 482577,
+   "end": 483044
+  },
+  {
+   "text": "a",
+   "start": 483141,
+   "end": 483157
+  },
+  {
+   "text": "single",
+   "start": 483173,
+   "end": 483608
+  },
+  {
+   "text": "bullet",
+   "start": 483640,
+   "end": 483946
+  },
+  {
+   "text": "at",
+   "start": 483946,
+   "end": 484011
+  },
+  {
+   "text": "point-blank",
+   "start": 484043,
+   "end": 484688
+  },
+  {
+   "text": "range",
+   "start": 484688,
+   "end": 485026
+  },
+  {
+   "text": "into",
+   "start": 485026,
+   "end": 485203
+  },
+  {
+   "text": "the",
+   "start": 485251,
+   "end": 485413
+  },
+  {
+   "text": "back",
+   "start": 485413,
+   "end": 485654
+  },
+  {
+   "text": "of",
+   "start": 485654,
+   "end": 485799
+  },
+  {
+   "text": "Wild",
+   "start": 485799,
+   "end": 486105
+  },
+  {
+   "text": "Bill's",
+   "start": 486138,
+   "end": 486395
+  },
+  {
+   "text": "head.",
+   "start": 486444,
+   "end": 486669
+  },
+  {
+   "text": "Hickok",
+   "start": 487668,
+   "end": 488087
+  },
+  {
+   "text": "instantly",
+   "start": 488216,
+   "end": 488651
+  },
+  {
+   "text": "slumped",
+   "start": 488651,
+   "end": 489118
+  },
+  {
+   "text": "over.",
+   "start": 489118,
+   "end": 489441
+  },
+  {
+   "text": "The",
+   "start": 489863,
+   "end": 489944
+  },
+  {
+   "text": "saloon",
+   "start": 489944,
+   "end": 490396
+  },
+  {
+   "text": "erupted",
+   "start": 490492,
+   "end": 490993
+  },
+  {
+   "text": "into",
+   "start": 490993,
+   "end": 491106
+  },
+  {
+   "text": "absolute",
+   "start": 491154,
+   "end": 491606
+  },
+  {
+   "text": "chaos.",
+   "start": 491703,
+   "end": 492090
+  },
+  {
+   "text": "McCall",
+   "start": 492687,
+   "end": 492961
+  },
+  {
+   "text": "bolted",
+   "start": 493155,
+   "end": 493478
+  },
+  {
+   "text": "out",
+   "start": 493478,
+   "end": 493639
+  },
+  {
+   "text": "the",
+   "start": 493639,
+   "end": 493720
+  },
+  {
+   "text": "back",
+   "start": 493720,
+   "end": 493849
+  },
+  {
+   "text": "door,",
+   "start": 493994,
+   "end": 494252
+  },
+  {
+   "text": "but",
+   "start": 494301,
+   "end": 494430
+  },
+  {
+   "text": "his",
+   "start": 494430,
+   "end": 494511
+  },
+  {
+   "text": "horse",
+   "start": 494688,
+   "end": 494962
+  },
+  {
+   "text": "slipped",
+   "start": 494962,
+   "end": 495350
+  },
+  {
+   "text": "in",
+   "start": 495350,
+   "end": 495430
+  },
+  {
+   "text": "the",
+   "start": 495430,
+   "end": 495576
+  },
+  {
+   "text": "mud,",
+   "start": 495576,
+   "end": 495801
+  },
+  {
+   "text": "sending",
+   "start": 496011,
+   "end": 496431
+  },
+  {
+   "text": "him",
+   "start": 496463,
+   "end": 496608
+  },
+  {
+   "text": "tumbling.",
+   "start": 496641,
+   "end": 497012
+  },
+  {
+   "text": "He",
+   "start": 497932,
+   "end": 498028
+  },
+  {
+   "text": "didn't",
+   "start": 498028,
+   "end": 498222
+  },
+  {
+   "text": "get",
+   "start": 498238,
+   "end": 498351
+  },
+  {
+   "text": "far",
+   "start": 498399,
+   "end": 498738
+  },
+  {
+   "text": "before",
+   "start": 498738,
+   "end": 499013
+  },
+  {
+   "text": "the",
+   "start": 499061,
+   "end": 499110
+  },
+  {
+   "text": "crowd",
+   "start": 499110,
+   "end": 499437
+  },
+  {
+   "text": "nabbed",
+   "start": 499506,
+   "end": 499817
+  },
+  {
+   "text": "him.",
+   "start": 499817,
+   "end": 499886
+  },
+  {
+   "text": "Since",
+   "start": 504260,
+   "end": 504552
+  },
+  {
+   "text": "Deadwood",
+   "start": 504552,
+   "end": 504860
+  },
+  {
+   "text": "was",
+   "start": 504892,
+   "end": 505070
+  },
+  {
+   "text": "on",
+   "start": 505119,
+   "end": 505265
+  },
+  {
+   "text": "Lakota",
+   "start": 505281,
+   "end": 505848
+  },
+  {
+   "text": "land,",
+   "start": 505848,
+   "end": 506318
+  },
+  {
+   "text": "it",
+   "start": 506836,
+   "end": 506917
+  },
+  {
+   "text": "had",
+   "start": 506917,
+   "end": 507047
+  },
+  {
+   "text": "very",
+   "start": 507144,
+   "end": 507371
+  },
+  {
+   "text": "few",
+   "start": 507387,
+   "end": 507614
+  },
+  {
+   "text": "documented",
+   "start": 507630,
+   "end": 508100
+  },
+  {
+   "text": "laws.",
+   "start": 508197,
+   "end": 508424
+  },
+  {
+   "text": "It",
+   "start": 508959,
+   "end": 509072
+  },
+  {
+   "text": "had",
+   "start": 509088,
+   "end": 509234
+  },
+  {
+   "text": "no",
+   "start": 509331,
+   "end": 509396
+  },
+  {
+   "text": "sheriff",
+   "start": 509429,
+   "end": 509996
+  },
+  {
+   "text": "and",
+   "start": 509996,
+   "end": 510142
+  },
+  {
+   "text": "no",
+   "start": 510142,
+   "end": 510368
+  },
+  {
+   "text": "real",
+   "start": 510385,
+   "end": 510530
+  },
+  {
+   "text": "judge.",
+   "start": 510709,
+   "end": 511049
+  },
+  {
+   "text": "That",
+   "start": 511850,
+   "end": 512124
+  },
+  {
+   "text": "night,",
+   "start": 512124,
+   "end": 512366
+  },
+  {
+   "text": "an",
+   "start": 513012,
+   "end": 513093
+  },
+  {
+   "text": "informal",
+   "start": 513093,
+   "end": 513819
+  },
+  {
+   "text": "miner's",
+   "start": 513819,
+   "end": 514287
+  },
+  {
+   "text": "jury",
+   "start": 514304,
+   "end": 514594
+  },
+  {
+   "text": "gathered",
+   "start": 514933,
+   "end": 515337
+  },
+  {
+   "text": "to",
+   "start": 515337,
+   "end": 515402
+  },
+  {
+   "text": "hear",
+   "start": 515434,
+   "end": 515595
+  },
+  {
+   "text": "the",
+   "start": 515595,
+   "end": 515757
+  },
+  {
+   "text": "case.",
+   "start": 515757,
+   "end": 515967
+  },
+  {
+   "text": "McCall",
+   "start": 516845,
+   "end": 517120
+  },
+  {
+   "text": "spun",
+   "start": 517168,
+   "end": 517604
+  },
+  {
+   "text": "a",
+   "start": 517653,
+   "end": 517669
+  },
+  {
+   "text": "desperate",
+   "start": 517895,
+   "end": 518315
+  },
+  {
+   "text": "lie,",
+   "start": 518380,
+   "end": 518477
+  },
+  {
+   "text": "claiming",
+   "start": 519026,
+   "end": 519397
+  },
+  {
+   "text": "Hickok",
+   "start": 519575,
+   "end": 519866
+  },
+  {
+   "text": "had",
+   "start": 519898,
+   "end": 520011
+  },
+  {
+   "text": "murdered",
+   "start": 520011,
+   "end": 520415
+  },
+  {
+   "text": "his",
+   "start": 520415,
+   "end": 520528
+  },
+  {
+   "text": "brother",
+   "start": 520706,
+   "end": 520965
+  },
+  {
+   "text": "back",
+   "start": 520965,
+   "end": 521223
+  },
+  {
+   "text": "in",
+   "start": 521223,
+   "end": 521336
+  },
+  {
+   "text": "Kansas",
+   "start": 521368,
+   "end": 521772
+  },
+  {
+   "text": "and",
+   "start": 521772,
+   "end": 521918
+  },
+  {
+   "text": "he",
+   "start": 521918,
+   "end": 522079
+  },
+  {
+   "text": "wanted",
+   "start": 522079,
+   "end": 522451
+  },
+  {
+   "text": "Bill",
+   "start": 522483,
+   "end": 522612
+  },
+  {
+   "text": "to",
+   "start": 522725,
+   "end": 522822
+  },
+  {
+   "text": "pay",
+   "start": 522887,
+   "end": 523016
+  },
+  {
+   "text": "for",
+   "start": 523146,
+   "end": 523307
+  },
+  {
+   "text": "the",
+   "start": 523307,
+   "end": 523469
+  },
+  {
+   "text": "deadly",
+   "start": 523469,
+   "end": 523759
+  },
+  {
+   "text": "deed.",
+   "start": 523792,
+   "end": 524130
+  },
+  {
+   "text": "Incredibly,",
+   "start": 525079,
+   "end": 525851
+  },
+  {
+   "text": "the",
+   "start": 526447,
+   "end": 526527
+  },
+  {
+   "text": "miner's",
+   "start": 526592,
+   "end": 527090
+  },
+  {
+   "text": "jury",
+   "start": 527155,
+   "end": 527380
+  },
+  {
+   "text": "bought",
+   "start": 527573,
+   "end": 527814
+  },
+  {
+   "text": "the",
+   "start": 527814,
+   "end": 527911
+  },
+  {
+   "text": "story",
+   "start": 527911,
+   "end": 528426
+  },
+  {
+   "text": "and",
+   "start": 529005,
+   "end": 529150
+  },
+  {
+   "text": "turned",
+   "start": 529182,
+   "end": 529568
+  },
+  {
+   "text": "him",
+   "start": 529568,
+   "end": 529713
+  },
+  {
+   "text": "loose.",
+   "start": 529906,
+   "end": 530115
+  },
+  {
+   "text": "Here's",
+   "start": 532840,
+   "end": 533000
+  },
+  {
+   "text": "the",
+   "start": 533097,
+   "end": 533177
+  },
+  {
+   "text": "thing",
+   "start": 533177,
+   "end": 533386
+  },
+  {
+   "text": "about",
+   "start": 533434,
+   "end": 533627
+  },
+  {
+   "text": "loudmouth",
+   "start": 533739,
+   "end": 534286
+  },
+  {
+   "text": "braggarts-",
+   "start": 534318,
+   "end": 534816
+  },
+  {
+   "text": "McCall",
+   "start": 535523,
+   "end": 535796
+  },
+  {
+   "text": "couldn't",
+   "start": 535925,
+   "end": 536214
+  },
+  {
+   "text": "keep",
+   "start": 536214,
+   "end": 536342
+  },
+  {
+   "text": "his",
+   "start": 536342,
+   "end": 536455
+  },
+  {
+   "text": "mouth",
+   "start": 536487,
+   "end": 536696
+  },
+  {
+   "text": "shut.",
+   "start": 536728,
+   "end": 537049
+  },
+  {
+   "text": "He",
+   "start": 537917,
+   "end": 538014
+  },
+  {
+   "text": "fled",
+   "start": 538014,
+   "end": 538335
+  },
+  {
+   "text": "to",
+   "start": 538335,
+   "end": 538415
+  },
+  {
+   "text": "Wyoming,",
+   "start": 538415,
+   "end": 539026
+  },
+  {
+   "text": "and",
+   "start": 539138,
+   "end": 539267
+  },
+  {
+   "text": "the",
+   "start": 539540,
+   "end": 539620
+  },
+  {
+   "text": "story",
+   "start": 539620,
+   "end": 539990
+  },
+  {
+   "text": "goes",
+   "start": 540022,
+   "end": 540311
+  },
+  {
+   "text": "that",
+   "start": 540343,
+   "end": 540488
+  },
+  {
+   "text": "he",
+   "start": 540488,
+   "end": 540568
+  },
+  {
+   "text": "bragged",
+   "start": 540665,
+   "end": 541002
+  },
+  {
+   "text": "about",
+   "start": 541002,
+   "end": 541291
+  },
+  {
+   "text": "the",
+   "start": 541291,
+   "end": 541324
+  },
+  {
+   "text": "killing",
+   "start": 541388,
+   "end": 541661
+  },
+  {
+   "text": "in",
+   "start": 541709,
+   "end": 541757
+  },
+  {
+   "text": "every",
+   "start": 541950,
+   "end": 542159
+  },
+  {
+   "text": "saloon",
+   "start": 542240,
+   "end": 542554
+  },
+  {
+   "text": "he",
+   "start": 542587,
+   "end": 542686
+  },
+  {
+   "text": "found",
+   "start": 542686,
+   "end": 543348
+  },
+  {
+   "text": "along",
+   "start": 543348,
+   "end": 543646
+  },
+  {
+   "text": "the",
+   "start": 543745,
+   "end": 543828
+  },
+  {
+   "text": "way.",
+   "start": 543828,
+   "end": 543927
+  },
+  {
+   "text": "By",
+   "start": 546507,
+   "end": 546668
+  },
+  {
+   "text": "August",
+   "start": 546668,
+   "end": 546991
+  },
+  {
+   "text": "29th,",
+   "start": 546991,
+   "end": 547718
+  },
+  {
+   "text": "the",
+   "start": 548041,
+   "end": 548283
+  },
+  {
+   "text": "real",
+   "start": 548347,
+   "end": 548638
+  },
+  {
+   "text": "law",
+   "start": 548767,
+   "end": 548961
+  },
+  {
+   "text": "caught",
+   "start": 549009,
+   "end": 549316
+  },
+  {
+   "text": "up",
+   "start": 549316,
+   "end": 549413
+  },
+  {
+   "text": "with",
+   "start": 549413,
+   "end": 549639
+  },
+  {
+   "text": "him",
+   "start": 549639,
+   "end": 549736
+  },
+  {
+   "text": "in",
+   "start": 549736,
+   "end": 549784
+  },
+  {
+   "text": "Laramie,",
+   "start": 549897,
+   "end": 550269
+  },
+  {
+   "text": "Wyoming.",
+   "start": 550382,
+   "end": 550882
+  },
+  {
+   "text": "A",
+   "start": 551593,
+   "end": 551609
+  },
+  {
+   "text": "U.S.",
+   "start": 551738,
+   "end": 552077
+  },
+  {
+   "text": "deputy",
+   "start": 552222,
+   "end": 552578
+  },
+  {
+   "text": "marshal",
+   "start": 552578,
+   "end": 553110
+  },
+  {
+   "text": "heard",
+   "start": 553127,
+   "end": 553611
+  },
+  {
+   "text": "the",
+   "start": 553611,
+   "end": 553692
+  },
+  {
+   "text": "boasting",
+   "start": 553772,
+   "end": 554224
+  },
+  {
+   "text": "and",
+   "start": 554257,
+   "end": 554467
+  },
+  {
+   "text": "took",
+   "start": 554660,
+   "end": 554790
+  },
+  {
+   "text": "McCall's",
+   "start": 554790,
+   "end": 555292
+  },
+  {
+   "text": "bragging",
+   "start": 555308,
+   "end": 555681
+  },
+  {
+   "text": "as",
+   "start": 555778,
+   "end": 555924
+  },
+  {
+   "text": "a",
+   "start": 556022,
+   "end": 556119
+  },
+  {
+   "text": "confession",
+   "start": 556119,
+   "end": 556735
+  },
+  {
+   "text": "and",
+   "start": 557562,
+   "end": 557837
+  },
+  {
+   "text": "arrested",
+   "start": 557902,
+   "end": 558616
+  },
+  {
+   "text": "him.",
+   "start": 558616,
+   "end": 558680
+  },
+  {
+   "text": "Turns",
+   "start": 561158,
+   "end": 561529
+  },
+  {
+   "text": "out",
+   "start": 561529,
+   "end": 561964
+  },
+  {
+   "text": "the",
+   "start": 562029,
+   "end": 562270
+  },
+  {
+   "text": "law",
+   "start": 562496,
+   "end": 562754
+  },
+  {
+   "text": "that",
+   "start": 562754,
+   "end": 562899
+  },
+  {
+   "text": "had",
+   "start": 562899,
+   "end": 563044
+  },
+  {
+   "text": "been",
+   "start": 563077,
+   "end": 563238
+  },
+  {
+   "text": "missing",
+   "start": 563238,
+   "end": 563544
+  },
+  {
+   "text": "in",
+   "start": 563544,
+   "end": 563592
+  },
+  {
+   "text": "Deadwood",
+   "start": 563721,
+   "end": 564173
+  },
+  {
+   "text": "was",
+   "start": 564205,
+   "end": 564415
+  },
+  {
+   "text": "waiting",
+   "start": 564931,
+   "end": 565140
+  },
+  {
+   "text": "for",
+   "start": 565253,
+   "end": 565398
+  },
+  {
+   "text": "him",
+   "start": 565398,
+   "end": 565495
+  },
+  {
+   "text": "in",
+   "start": 565495,
+   "end": 565624
+  },
+  {
+   "text": "Laramie.",
+   "start": 565640,
+   "end": 566027
+  },
+  {
+   "text": "McCall",
+   "start": 567034,
+   "end": 567566
+  },
+  {
+   "text": "was",
+   "start": 567566,
+   "end": 567696
+  },
+  {
+   "text": "dragged",
+   "start": 567792,
+   "end": 568180
+  },
+  {
+   "text": "back",
+   "start": 568292,
+   "end": 568518
+  },
+  {
+   "text": "to",
+   "start": 568518,
+   "end": 568567
+  },
+  {
+   "text": "the",
+   "start": 568615,
+   "end": 568760
+  },
+  {
+   "text": "Dakota",
+   "start": 568760,
+   "end": 569131
+  },
+  {
+   "text": "Territory",
+   "start": 569180,
+   "end": 569793
+  },
+  {
+   "text": "in",
+   "start": 569906,
+   "end": 570051
+  },
+  {
+   "text": "Yankton",
+   "start": 570051,
+   "end": 570438
+  },
+  {
+   "text": "for",
+   "start": 570535,
+   "end": 570874
+  },
+  {
+   "text": "a",
+   "start": 570874,
+   "end": 571003
+  },
+  {
+   "text": "real",
+   "start": 571100,
+   "end": 571309
+  },
+  {
+   "text": "trial.",
+   "start": 571422,
+   "end": 571745
+  },
+  {
+   "text": "This",
+   "start": 573383,
+   "end": 573497
+  },
+  {
+   "text": "time,",
+   "start": 573563,
+   "end": 573971
+  },
+  {
+   "text": "the",
+   "start": 574217,
+   "end": 574445
+  },
+  {
+   "text": "jury",
+   "start": 574445,
+   "end": 574756
+  },
+  {
+   "text": "didn't",
+   "start": 575034,
+   "end": 575589
+  },
+  {
+   "text": "buy",
+   "start": 575606,
+   "end": 575720
+  },
+  {
+   "text": "the",
+   "start": 576096,
+   "end": 576178
+  },
+  {
+   "text": "lies.",
+   "start": 576178,
+   "end": 576717
+  },
+  {
+   "text": "On",
+   "start": 578440,
+   "end": 578472
+  },
+  {
+   "text": "March",
+   "start": 578520,
+   "end": 578681
+  },
+  {
+   "text": "1st,",
+   "start": 578713,
+   "end": 578922
+  },
+  {
+   "text": "1877,",
+   "start": 578938,
+   "end": 580127
+  },
+  {
+   "text": "the",
+   "start": 580641,
+   "end": 580722
+  },
+  {
+   "text": "man",
+   "start": 580722,
+   "end": 580995
+  },
+  {
+   "text": "who",
+   "start": 581123,
+   "end": 581204
+  },
+  {
+   "text": "sought",
+   "start": 581204,
+   "end": 581766
+  },
+  {
+   "text": "revenge",
+   "start": 581766,
+   "end": 582329
+  },
+  {
+   "text": "with",
+   "start": 582329,
+   "end": 582506
+  },
+  {
+   "text": "a",
+   "start": 582506,
+   "end": 582634
+  },
+  {
+   "text": "coward's",
+   "start": 582634,
+   "end": 583197
+  },
+  {
+   "text": "bullet",
+   "start": 583213,
+   "end": 583502
+  },
+  {
+   "text": "met",
+   "start": 584097,
+   "end": 584225
+  },
+  {
+   "text": "his",
+   "start": 584338,
+   "end": 584547
+  },
+  {
+   "text": "demise",
+   "start": 584643,
+   "end": 585109
+  },
+  {
+   "text": "at",
+   "start": 585768,
+   "end": 585864
+  },
+  {
+   "text": "the",
+   "start": 585864,
+   "end": 586089
+  },
+  {
+   "text": "end",
+   "start": 586089,
+   "end": 586266
+  },
+  {
+   "text": "of",
+   "start": 586266,
+   "end": 586363
+  },
+  {
+   "text": "a",
+   "start": 586363,
+   "end": 586427
+  },
+  {
+   "text": "rope",
+   "start": 586427,
+   "end": 586813
+  },
+  {
+   "text": "on",
+   "start": 587231,
+   "end": 587440
+  },
+  {
+   "text": "Yankton's",
+   "start": 587440,
+   "end": 587980
+  },
+  {
+   "text": "gallows.",
+   "start": 588045,
+   "end": 588503
+  },
+  {
+   "text": "News",
+   "start": 591660,
+   "end": 591773
+  },
+  {
+   "text": "spread",
+   "start": 591773,
+   "end": 592176
+  },
+  {
+   "text": "surprisingly",
+   "start": 592176,
+   "end": 592952
+  },
+  {
+   "text": "quickly",
+   "start": 593210,
+   "end": 593759
+  },
+  {
+   "text": "in",
+   "start": 593872,
+   "end": 594001
+  },
+  {
+   "text": "those",
+   "start": 594098,
+   "end": 594324
+  },
+  {
+   "text": "days,",
+   "start": 594421,
+   "end": 594728
+  },
+  {
+   "text": "over",
+   "start": 595406,
+   "end": 595697
+  },
+  {
+   "text": "breakfast",
+   "start": 595729,
+   "end": 596133
+  },
+  {
+   "text": "tables",
+   "start": 596133,
+   "end": 596472
+  },
+  {
+   "text": "from",
+   "start": 596537,
+   "end": 596779
+  },
+  {
+   "text": "Cheyenne",
+   "start": 596779,
+   "end": 597377
+  },
+  {
+   "text": "to",
+   "start": 597490,
+   "end": 597570
+  },
+  {
+   "text": "Chicago.",
+   "start": 597570,
+   "end": 598055
+  },
+  {
+   "text": "The",
+   "start": 598901,
+   "end": 598998
+  },
+  {
+   "text": "nation",
+   "start": 599062,
+   "end": 599370
+  },
+  {
+   "text": "read",
+   "start": 599386,
+   "end": 599613
+  },
+  {
+   "text": "newspaper",
+   "start": 599645,
+   "end": 600147
+  },
+  {
+   "text": "stories",
+   "start": 600147,
+   "end": 600585
+  },
+  {
+   "text": "about",
+   "start": 600682,
+   "end": 600892
+  },
+  {
+   "text": "the",
+   "start": 600941,
+   "end": 601022
+  },
+  {
+   "text": "gunfighter",
+   "start": 601103,
+   "end": 601751
+  },
+  {
+   "text": "who",
+   "start": 601751,
+   "end": 601961
+  },
+  {
+   "text": "died",
+   "start": 602074,
+   "end": 602398
+  },
+  {
+   "text": "at",
+   "start": 602398,
+   "end": 602544
+  },
+  {
+   "text": "a",
+   "start": 602544,
+   "end": 602625
+  },
+  {
+   "text": "card",
+   "start": 602625,
+   "end": 602949
+  },
+  {
+   "text": "table.",
+   "start": 602949,
+   "end": 603273
+  },
+  {
+   "text": "Although",
+   "start": 605040,
+   "end": 605217
+  },
+  {
+   "text": "the",
+   "start": 605217,
+   "end": 605313
+  },
+  {
+   "text": "newspaper",
+   "start": 605313,
+   "end": 605812
+  },
+  {
+   "text": "stories",
+   "start": 605812,
+   "end": 606344
+  },
+  {
+   "text": "and",
+   "start": 606440,
+   "end": 606602
+  },
+  {
+   "text": "dime",
+   "start": 606602,
+   "end": 606859
+  },
+  {
+   "text": "store",
+   "start": 606907,
+   "end": 607117
+  },
+  {
+   "text": "novels",
+   "start": 607181,
+   "end": 607713
+  },
+  {
+   "text": "are",
+   "start": 607713,
+   "end": 607761
+  },
+  {
+   "text": "long",
+   "start": 607954,
+   "end": 608421
+  },
+  {
+   "text": "gone,",
+   "start": 608679,
+   "end": 608985
+  },
+  {
+   "text": "the",
+   "start": 609645,
+   "end": 609742
+  },
+  {
+   "text": "story",
+   "start": 609742,
+   "end": 610321
+  },
+  {
+   "text": "lives",
+   "start": 610370,
+   "end": 610515
+  },
+  {
+   "text": "on",
+   "start": 610692,
+   "end": 610998
+  },
+  {
+   "text": "through",
+   "start": 611594,
+   "end": 611787
+  },
+  {
+   "text": "the",
+   "start": 611900,
+   "end": 612077
+  },
+  {
+   "text": "poker",
+   "start": 612077,
+   "end": 612479
+  },
+  {
+   "text": "cards",
+   "start": 612479,
+   "end": 612930
+  },
+  {
+   "text": "Bill",
+   "start": 613043,
+   "end": 613156
+  },
+  {
+   "text": "was",
+   "start": 613268,
+   "end": 613333
+  },
+  {
+   "text": "holding",
+   "start": 613429,
+   "end": 613816
+  },
+  {
+   "text": "when",
+   "start": 613912,
+   "end": 614041
+  },
+  {
+   "text": "he",
+   "start": 614073,
+   "end": 614170
+  },
+  {
+   "text": "met",
+   "start": 614170,
+   "end": 614363
+  },
+  {
+   "text": "his",
+   "start": 614396,
+   "end": 614463
+  },
+  {
+   "text": "demise.",
+   "start": 614580,
+   "end": 615132
+  },
+  {
+   "text": "You",
+   "start": 616300,
+   "end": 616348
+  },
+  {
+   "text": "see,",
+   "start": 616348,
+   "end": 617301
+  },
+  {
+   "text": "when",
+   "start": 617607,
+   "end": 617753
+  },
+  {
+   "text": "Hickok",
+   "start": 617769,
+   "end": 618173
+  },
+  {
+   "text": "was",
+   "start": 618173,
+   "end": 618269
+  },
+  {
+   "text": "shot,",
+   "start": 618269,
+   "end": 618818
+  },
+  {
+   "text": "his",
+   "start": 619384,
+   "end": 619529
+  },
+  {
+   "text": "lifeless",
+   "start": 619803,
+   "end": 620352
+  },
+  {
+   "text": "fingers",
+   "start": 620352,
+   "end": 620659
+  },
+  {
+   "text": "were",
+   "start": 620691,
+   "end": 620788
+  },
+  {
+   "text": "clutching",
+   "start": 620853,
+   "end": 621224
+  },
+  {
+   "text": "a",
+   "start": 621273,
+   "end": 621450
+  },
+  {
+   "text": "very",
+   "start": 621644,
+   "end": 621870
+  },
+  {
+   "text": "specific",
+   "start": 621902,
+   "end": 622548
+  },
+  {
+   "text": "hand:",
+   "start": 622548,
+   "end": 622952
+  },
+  {
+   "text": "two",
+   "start": 624002,
+   "end": 624098
+  },
+  {
+   "text": "black",
+   "start": 624163,
+   "end": 624421
+  },
+  {
+   "text": "aces.",
+   "start": 624421,
+   "end": 624777
+  },
+  {
+   "text": "Two",
+   "start": 625489,
+   "end": 625601
+  },
+  {
+   "text": "black",
+   "start": 625697,
+   "end": 625954
+  },
+  {
+   "text": "eights.",
+   "start": 625954,
+   "end": 626355
+  },
+  {
+   "text": "It",
+   "start": 627399,
+   "end": 627479
+  },
+  {
+   "text": "is",
+   "start": 627479,
+   "end": 627527
+  },
+  {
+   "text": "known",
+   "start": 627703,
+   "end": 627992
+  },
+  {
+   "text": "as",
+   "start": 628024,
+   "end": 628089
+  },
+  {
+   "text": "the",
+   "start": 628185,
+   "end": 628281
+  },
+  {
+   "text": "dead",
+   "start": 628362,
+   "end": 628586
+  },
+  {
+   "text": "man's",
+   "start": 628586,
+   "end": 628987
+  },
+  {
+   "text": "hand.",
+   "start": 628987,
+   "end": 629421
+  },
+  {
+   "text": "But",
+   "start": 631010,
+   "end": 631106
+  },
+  {
+   "text": "here's",
+   "start": 631154,
+   "end": 631379
+  },
+  {
+   "text": "the",
+   "start": 631411,
+   "end": 631491
+  },
+  {
+   "text": "mystery:",
+   "start": 631491,
+   "end": 631860
+  },
+  {
+   "text": "historians",
+   "start": 632534,
+   "end": 633048
+  },
+  {
+   "text": "cannot",
+   "start": 633096,
+   "end": 633578
+  },
+  {
+   "text": "agree",
+   "start": 633594,
+   "end": 633915
+  },
+  {
+   "text": "on",
+   "start": 634123,
+   "end": 634187
+  },
+  {
+   "text": "what",
+   "start": 634444,
+   "end": 634621
+  },
+  {
+   "text": "Hickok's",
+   "start": 634621,
+   "end": 635070
+  },
+  {
+   "text": "fifth",
+   "start": 635183,
+   "end": 635391
+  },
+  {
+   "text": "card",
+   "start": 635488,
+   "end": 635808
+  },
+  {
+   "text": "was.",
+   "start": 635808,
+   "end": 636033
+  },
+  {
+   "text": "Some",
+   "start": 636804,
+   "end": 636980
+  },
+  {
+   "text": "say",
+   "start": 637028,
+   "end": 637205
+  },
+  {
+   "text": "it",
+   "start": 637205,
+   "end": 637253
+  },
+  {
+   "text": "was",
+   "start": 637253,
+   "end": 637317
+  },
+  {
+   "text": "the",
+   "start": 637365,
+   "end": 637494
+  },
+  {
+   "text": "nine",
+   "start": 637494,
+   "end": 637702
+  },
+  {
+   "text": "of",
+   "start": 637750,
+   "end": 637799
+  },
+  {
+   "text": "diamonds,",
+   "start": 637831,
+   "end": 638280
+  },
+  {
+   "text": "others",
+   "start": 638553,
+   "end": 638794
+  },
+  {
+   "text": "swear",
+   "start": 638794,
+   "end": 639131
+  },
+  {
+   "text": "it",
+   "start": 639131,
+   "end": 639179
+  },
+  {
+   "text": "was",
+   "start": 639179,
+   "end": 639339
+  },
+  {
+   "text": "the",
+   "start": 639339,
+   "end": 639436
+  },
+  {
+   "text": "queen",
+   "start": 639436,
+   "end": 639676
+  },
+  {
+   "text": "of",
+   "start": 639676,
+   "end": 639725
+  },
+  {
+   "text": "hearts,",
+   "start": 639741,
+   "end": 640254
+  },
+  {
+   "text": "others",
+   "start": 640784,
+   "end": 641089
+  },
+  {
+   "text": "believe",
+   "start": 641201,
+   "end": 641522
+  },
+  {
+   "text": "it",
+   "start": 641522,
+   "end": 641602
+  },
+  {
+   "text": "was",
+   "start": 641602,
+   "end": 641731
+  },
+  {
+   "text": "the",
+   "start": 641827,
+   "end": 641875
+  },
+  {
+   "text": "jack",
+   "start": 641923,
+   "end": 642116
+  },
+  {
+   "text": "of",
+   "start": 642180,
+   "end": 642212
+  },
+  {
+   "text": "diamonds.",
+   "start": 642244,
+   "end": 642678
+  },
+  {
+   "text": "I",
+   "start": 643528,
+   "end": 643544
+  },
+  {
+   "text": "suppose",
+   "start": 643593,
+   "end": 644138
+  },
+  {
+   "text": "we'll",
+   "start": 644234,
+   "end": 644636
+  },
+  {
+   "text": "never",
+   "start": 644636,
+   "end": 644893
+  },
+  {
+   "text": "know",
+   "start": 644893,
+   "end": 645133
+  },
+  {
+   "text": "for",
+   "start": 645133,
+   "end": 645278
+  },
+  {
+   "text": "sure.",
+   "start": 645294,
+   "end": 645518
+  },
+  {
+   "text": "What",
+   "start": 646883,
+   "end": 647043
+  },
+  {
+   "text": "do",
+   "start": 647043,
+   "end": 647091
+  },
+  {
+   "text": "you",
+   "start": 647123,
+   "end": 647284
+  },
+  {
+   "text": "think",
+   "start": 647284,
+   "end": 647460
+  },
+  {
+   "text": "the",
+   "start": 647460,
+   "end": 647605
+  },
+  {
+   "text": "fifth",
+   "start": 647605,
+   "end": 647797
+  },
+  {
+   "text": "card",
+   "start": 647846,
+   "end": 648086
+  },
+  {
+   "text": "was?",
+   "start": 648086,
+   "end": 648311
+  },
+  {
+   "text": "Drop",
+   "start": 648825,
+   "end": 649065
+  },
+  {
+   "text": "your",
+   "start": 649065,
+   "end": 649178
+  },
+  {
+   "text": "theory",
+   "start": 649306,
+   "end": 649595
+  },
+  {
+   "text": "in",
+   "start": 649643,
+   "end": 649723
+  },
+  {
+   "text": "the",
+   "start": 649772,
+   "end": 649932
+  },
+  {
+   "text": "comments",
+   "start": 650109,
+   "end": 650590
+  },
+  {
+   "text": "below.",
+   "start": 650590,
+   "end": 650911
+  },
+  {
+   "text": "If",
+   "start": 652739,
+   "end": 652884
+  },
+  {
+   "text": "you",
+   "start": 652884,
+   "end": 652981
+  },
+  {
+   "text": "visit",
+   "start": 652981,
+   "end": 653305
+  },
+  {
+   "text": "Deadwood",
+   "start": 653305,
+   "end": 653710
+  },
+  {
+   "text": "today,",
+   "start": 653710,
+   "end": 653904
+  },
+  {
+   "text": "you'll",
+   "start": 654439,
+   "end": 654698
+  },
+  {
+   "text": "find",
+   "start": 654698,
+   "end": 654989
+  },
+  {
+   "text": "that",
+   "start": 654989,
+   "end": 655151
+  },
+  {
+   "text": "poker",
+   "start": 655151,
+   "end": 655475
+  },
+  {
+   "text": "rooms",
+   "start": 655475,
+   "end": 655669
+  },
+  {
+   "text": "are",
+   "start": 655669,
+   "end": 655831
+  },
+  {
+   "text": "still",
+   "start": 655831,
+   "end": 656204
+  },
+  {
+   "text": "alive",
+   "start": 656301,
+   "end": 656868
+  },
+  {
+   "text": "and",
+   "start": 656868,
+   "end": 656997
+  },
+  {
+   "text": "running",
+   "start": 657175,
+   "end": 657402
+  },
+  {
+   "text": "strong.",
+   "start": 657434,
+   "end": 657709
+  },
+  {
+   "text": "I",
+   "start": 658816,
+   "end": 658832
+  },
+  {
+   "text": "can",
+   "start": 658832,
+   "end": 658929
+  },
+  {
+   "text": "tell",
+   "start": 658994,
+   "end": 659139
+  },
+  {
+   "text": "you",
+   "start": 659139,
+   "end": 659188
+  },
+  {
+   "text": "from",
+   "start": 659252,
+   "end": 659382
+  },
+  {
+   "text": "my",
+   "start": 659382,
+   "end": 659560
+  },
+  {
+   "text": "own",
+   "start": 659560,
+   "end": 659770
+  },
+  {
+   "text": "firsthand",
+   "start": 659867,
+   "end": 660384
+  },
+  {
+   "text": "account,",
+   "start": 660384,
+   "end": 660740
+  },
+  {
+   "text": "gamblers",
+   "start": 661339,
+   "end": 661791
+  },
+  {
+   "text": "who",
+   "start": 661808,
+   "end": 661840
+  },
+  {
+   "text": "belly",
+   "start": 662131,
+   "end": 662438
+  },
+  {
+   "text": "up",
+   "start": 662454,
+   "end": 662568
+  },
+  {
+   "text": "to",
+   "start": 662568,
+   "end": 662649
+  },
+  {
+   "text": "the",
+   "start": 662697,
+   "end": 662794
+  },
+  {
+   "text": "poker",
+   "start": 662794,
+   "end": 663118
+  },
+  {
+   "text": "tables",
+   "start": 663118,
+   "end": 663441
+  },
+  {
+   "text": "in",
+   "start": 663506,
+   "end": 663603
+  },
+  {
+   "text": "Deadwood",
+   "start": 663603,
+   "end": 663975
+  },
+  {
+   "text": "to",
+   "start": 664007,
+   "end": 664136
+  },
+  {
+   "text": "this",
+   "start": 664153,
+   "end": 664411
+  },
+  {
+   "text": "day",
+   "start": 664411,
+   "end": 664638
+  },
+  {
+   "text": "feel",
+   "start": 665204,
+   "end": 665333
+  },
+  {
+   "text": "their",
+   "start": 665398,
+   "end": 665543
+  },
+  {
+   "text": "blood",
+   "start": 665705,
+   "end": 666045
+  },
+  {
+   "text": "run",
+   "start": 666093,
+   "end": 666481
+  },
+  {
+   "text": "cold",
+   "start": 666498,
+   "end": 666934
+  },
+  {
+   "text": "and",
+   "start": 666934,
+   "end": 667096
+  },
+  {
+   "text": "a",
+   "start": 667096,
+   "end": 667274
+  },
+  {
+   "text": "chill",
+   "start": 667306,
+   "end": 667678
+  },
+  {
+   "text": "up",
+   "start": 667888,
+   "end": 668050
+  },
+  {
+   "text": "their",
+   "start": 668050,
+   "end": 668147
+  },
+  {
+   "text": "spine",
+   "start": 668180,
+   "end": 668800
+  },
+  {
+   "text": "when",
+   "start": 668849,
+   "end": 668964
+  },
+  {
+   "text": "they",
+   "start": 669013,
+   "end": 669111
+  },
+  {
+   "text": "are",
+   "start": 669111,
+   "end": 669307
+  },
+  {
+   "text": "dealt",
+   "start": 669356,
+   "end": 669846
+  },
+  {
+   "text": "pairs",
+   "start": 670010,
+   "end": 670467
+  },
+  {
+   "text": "of",
+   "start": 670581,
+   "end": 670728
+  },
+  {
+   "text": "aces",
+   "start": 670908,
+   "end": 671366
+  },
+  {
+   "text": "and",
+   "start": 671562,
+   "end": 671774
+  },
+  {
+   "text": "eights.",
+   "start": 671791,
+   "end": 672052
+  },
+  {
+   "text": "The",
+   "start": 673940,
+   "end": 673988
+  },
+  {
+   "text": "lesson",
+   "start": 673988,
+   "end": 674294
+  },
+  {
+   "text": "from",
+   "start": 674294,
+   "end": 674440
+  },
+  {
+   "text": "Deadwood",
+   "start": 674520,
+   "end": 674875
+  },
+  {
+   "text": "is",
+   "start": 674875,
+   "end": 674956
+  },
+  {
+   "text": "simple:",
+   "start": 674956,
+   "end": 675343
+  },
+  {
+   "text": "a",
+   "start": 676069,
+   "end": 676133
+  },
+  {
+   "text": "high-stakes",
+   "start": 676133,
+   "end": 676940
+  },
+  {
+   "text": "game",
+   "start": 676940,
+   "end": 677214
+  },
+  {
+   "text": "is",
+   "start": 677214,
+   "end": 677327
+  },
+  {
+   "text": "never",
+   "start": 677424,
+   "end": 677827
+  },
+  {
+   "text": "just",
+   "start": 677827,
+   "end": 678021
+  },
+  {
+   "text": "about",
+   "start": 678021,
+   "end": 678311
+  },
+  {
+   "text": "the",
+   "start": 678311,
+   "end": 678408
+  },
+  {
+   "text": "cards.",
+   "start": 678408,
+   "end": 678618
+  },
+  {
+   "text": "Money,",
+   "start": 679554,
+   "end": 679762
+  },
+  {
+   "text": "pride,",
+   "start": 680598,
+   "end": 681177
+  },
+  {
+   "text": "and",
+   "start": 681499,
+   "end": 681708
+  },
+  {
+   "text": "grudges",
+   "start": 681708,
+   "end": 682254
+  },
+  {
+   "text": "usually",
+   "start": 682752,
+   "end": 683186
+  },
+  {
+   "text": "sit",
+   "start": 683186,
+   "end": 683508
+  },
+  {
+   "text": "at",
+   "start": 683508,
+   "end": 683637
+  },
+  {
+   "text": "the",
+   "start": 683637,
+   "end": 683717
+  },
+  {
+   "text": "same",
+   "start": 683717,
+   "end": 683958
+  },
+  {
+   "text": "table,",
+   "start": 684055,
+   "end": 684392
+  },
+  {
+   "text": "and",
+   "start": 685003,
+   "end": 685067
+  },
+  {
+   "text": "holding",
+   "start": 685099,
+   "end": 685389
+  },
+  {
+   "text": "a",
+   "start": 685485,
+   "end": 685501
+  },
+  {
+   "text": "grudge",
+   "start": 685566,
+   "end": 686000
+  },
+  {
+   "text": "rarely",
+   "start": 686546,
+   "end": 686996
+  },
+  {
+   "text": "ends",
+   "start": 687109,
+   "end": 687398
+  },
+  {
+   "text": "well",
+   "start": 687430,
+   "end": 687623
+  },
+  {
+   "text": "for",
+   "start": 688491,
+   "end": 688748
+  },
+  {
+   "text": "anybody.",
+   "start": 688861,
+   "end": 689407
+  },
+  {
+   "text": "So",
+   "start": 690870,
+   "end": 691031
+  },
+  {
+   "text": "if",
+   "start": 691031,
+   "end": 691111
+  },
+  {
+   "text": "you",
+   "start": 691111,
+   "end": 691192
+  },
+  {
+   "text": "ever",
+   "start": 691192,
+   "end": 691433
+  },
+  {
+   "text": "find",
+   "start": 691433,
+   "end": 691690
+  },
+  {
+   "text": "yourself",
+   "start": 691690,
+   "end": 692124
+  },
+  {
+   "text": "in",
+   "start": 692172,
+   "end": 692253
+  },
+  {
+   "text": "an",
+   "start": 692253,
+   "end": 692397
+  },
+  {
+   "text": "Old",
+   "start": 692397,
+   "end": 692606
+  },
+  {
+   "text": "West",
+   "start": 692655,
+   "end": 692831
+  },
+  {
+   "text": "saloon,",
+   "start": 692831,
+   "end": 693265
+  },
+  {
+   "text": "keep",
+   "start": 693780,
+   "end": 693957
+  },
+  {
+   "text": "your",
+   "start": 694005,
+   "end": 694214
+  },
+  {
+   "text": "back",
+   "start": 694262,
+   "end": 694439
+  },
+  {
+   "text": "to",
+   "start": 694503,
+   "end": 694584
+  },
+  {
+   "text": "the",
+   "start": 694600,
+   "end": 694728
+  },
+  {
+   "text": "wall,",
+   "start": 694728,
+   "end": 694857
+  },
+  {
+   "text": "avoid",
+   "start": 695612,
+   "end": 696030
+  },
+  {
+   "text": "the",
+   "start": 696030,
+   "end": 696111
+  },
+  {
+   "text": "dead",
+   "start": 696175,
+   "end": 696320
+  },
+  {
+   "text": "man's",
+   "start": 696368,
+   "end": 696657
+  },
+  {
+   "text": "hand,",
+   "start": 696657,
+   "end": 696866
+  },
+  {
+   "text": "and",
+   "start": 697011,
+   "end": 697525
+  },
+  {
+   "text": "keep",
+   "start": 697718,
+   "end": 697943
+  },
+  {
+   "text": "your",
+   "start": 697943,
+   "end": 698040
+  },
+  {
+   "text": "powder",
+   "start": 698040,
+   "end": 698233
+  },
+  {
+   "text": "dry.",
+   "start": 698361,
+   "end": 698634
+  }
+ ]
+}

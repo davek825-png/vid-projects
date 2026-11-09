@@ -77,6 +77,30 @@ Do steps 1–4 and 7 once; loop 5→6→8→9 until the cut is approved; then 10
 - **Keeps are never deleted.** A fluff span with `status:"auto_applied"` just *hides* the keeps it covers (undo = flip back to `"suggested"`). Reserve `auto_applied` for high-confidence fluff; leave the rest `"suggested"` (suggest-only — the renderer never drops suggested fluff).
 - `flags` = judgment calls surfaced to the user with a `default`.
 
+## Channel narration rules (Old West Stories creator, 2026-11-09 — apply to EVERY video)
+
+These override the defaults below wherever they differ.
+
+1. **Standard intro first.** Every video opens with `media/library/voice/ows-intro-clean.wav`
+   ("Welcome to Old West Stories. Ride with us through tales of the Old West, one good story at a
+   time."). Copy it into the project, wrap it as `Intro.mov` (same espresso-background wrap as the
+   narration), transcribe it as clip `intro`, and put it FIRST in `clip_order`. If the new read has its
+   own "Welcome to Old West Stories..." opening, cut that line (`cat: retake`, note "replaced by the
+   standard intro"). See `media/library/voice/README.md`.
+2. **Always cut false starts.** Any broken-off phrase that is restarted ("McCall spun a-" → "McCall
+   spun a desperate lie") is cut, first attempt out, without asking. Flag it in `flags` for the record.
+3. **Remove breaths and plosives from every narration** before cutting:
+   `python tools/clean_narration.py <in.wav> <transcript.json> <out.wav>` on the raw narration (and the
+   intro). It mutes breaths/mouth noise in the pauses between words and tames p/b pops with a split-band
+   de-plosive; it never cuts, so transcript times stay valid. Wrap the CLEANED wav as the clip's .mov
+   and rebuild `work/audio/<id>.wav` from it. Check the result: integrated loudness within ~0.2 LU of
+   the raw, and speech onsets unchanged (an envelope comparison at any soft onset).
+4. **Pacing = natural-slow with the original sentence pauses.** Between sentences, keep the pause
+   exactly as recorded (capped at 3.0 s); smooth only the mid-sentence pauses. In `cuts.json`
+   `styles.natural-slow` set `"keep_sentence_gaps": true, "sentence_gap_max": 3.0` (cutlib joins the
+   two speech runs around a sentence-ending word when nothing was cut between them). Render
+   natural-slow only, unless the creator asks for a comparison.
+
 ## Cut policy (how to decide)
 
 Calibrated against a hand-made reference cut (the creator's own CapCut edit). **The target pacing = content-aggressive + pause-natural.** The big retention lever is cutting fluff and redundancy, NOT crushing silence — keep ~0.45–0.5s of natural breathing between runs. So:

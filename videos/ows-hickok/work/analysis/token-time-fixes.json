@@ -1,0 +1,19 @@
+{
+  "clip": "narr",
+  "time_fixes": [
+    {
+      "word": "Welcome",
+      "from_ms": 1580,
+      "to_ms": 1450,
+      "why": "RMS onset at 1.45 s; ASR 0.13 s late, clipped the attack (hard entry 00:01)"
+    },
+    {
+      "word": "Since",
+      "from_ms": 511993,
+      "to_ms": 510700,
+      "why": "RMS onset at 510.70 s; ASR 1.29 s late (hard entry 08:31); verify pass checks for untranscribed words"
+    }
+  ],
+  "text_fixes": [],
+  "warning": "transcribe.py --force wipes these; re-apply after any re-transcription"
+}

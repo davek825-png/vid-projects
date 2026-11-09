@@ -1,0 +1,276 @@
+{
+ "id": "9cc860a4-d670-4d1b-8434-ff8e55e3925b",
+ "language_model": "assemblyai_default",
+ "acoustic_model": "assemblyai_default",
+ "language_code": "en",
+ "speech_understanding": null,
+ "translated_texts": null,
+ "status": "completed",
+ "audio_url": "https://cdn.assemblyai.com/upload/1688298959a5c18c0981e4dca608d2ace4648536d1ca06d609a9f2e4f3a1a480/37986808-a393-4100-ade5-6f40902f2ec9",
+ "text": "Welcome to Old West Stories. Ride with us through tales of the Old West, one good story at a time.",
+ "words": [
+  {
+   "text": "Welcome",
+   "start": 677,
+   "end": 1080,
+   "confidence": 0.9882111,
+   "speaker": null
+  },
+  {
+   "text": "to",
+   "start": 1080,
+   "end": 1161,
+   "confidence": 0.9992545,
+   "speaker": null
+  },
+  {
+   "text": "Old",
+   "start": 1386,
+   "end": 1580,
+   "confidence": 0.9684512,
+   "speaker": null
+  },
+  {
+   "text": "West",
+   "start": 1628,
+   "end": 1886,
+   "confidence": 0.9992078,
+   "speaker": null
+  },
+  {
+   "text": "Stories.",
+   "start": 1886,
+   "end": 2499,
+   "confidence": 0.9735996,
+   "speaker": null
+  },
+  {
+   "text": "Ride",
+   "start": 3096,
+   "end": 3321,
+   "confidence": 0.9992379,
+   "speaker": null
+  },
+  {
+   "text": "with",
+   "start": 3321,
+   "end": 3499,
+   "confidence": 0.99997437,
+   "speaker": null
+  },
+  {
+   "text": "us",
+   "start": 3499,
+   "end": 3628,
+   "confidence": 0.999995,
+   "speaker": null
+  },
+  {
+   "text": "through",
+   "start": 3725,
+   "end": 3999,
+   "confidence": 0.99972874,
+   "speaker": null
+  },
+  {
+   "text": "tales",
+   "start": 4047,
+   "end": 4434,
+   "confidence": 0.9608051,
+   "speaker": null
+  },
+  {
+   "text": "of",
+   "start": 4466,
+   "end": 4547,
+   "confidence": 0.999582,
+   "speaker": null
+  },
+  {
+   "text": "the",
+   "start": 4547,
+   "end": 4692,
+   "confidence": 0.99977833,
+   "speaker": null
+  },
+  {
+   "text": "Old",
+   "start": 4708,
+   "end": 4886,
+   "confidence": 0.9435717,
+   "speaker": null
+  },
+  {
+   "text": "West,",
+   "start": 4950,
+   "end": 5369,
+   "confidence": 0.9354763,
+   "speaker": null
+  },
+  {
+   "text": "one",
+   "start": 5757,
+   "end": 5950,
+   "confidence": 0.9840978,
+   "speaker": null
+  },
+  {
+   "text": "good",
+   "start": 6160,
+   "end": 6482,
+   "confidence": 0.9995702,
+   "speaker": null
+  },
+  {
+   "text": "story",
+   "start": 6482,
+   "end": 7095,
+   "confidence": 0.9997718,
+   "speaker": null
+  },
+  {
+   "text": "at",
+   "start": 7143,
+   "end": 7272,
+   "confidence": 0.9999491,
+   "speaker": null
+  },
+  {
+   "text": "a",
+   "start": 7272,
+   "end": 7289,
+   "confidence": 0.9999968,
+   "speaker": null
+  },
+  {
+   "text": "time.",
+   "start": 7289,
+   "end": 7563,
+   "confidence": 0.99916166,
+   "speaker": null
+  }
+ ],
+ "utterances": null,
+ "confidence": 0.98747104,
+ "audio_duration": 9,
+ "punctuate": true,
+ "format_text": true,
+ "webhook_url": null,
+ "webhook_status_code": null,
+ "webhook_auth": false,
+ "webhook_auth_header_name": null,
+ "speed_boost": false,
+ "auto_highlights_result": null,
+ "auto_highlights": false,
+ "audio_start_from": null,
+ "audio_end_at": null,
+ "word_boost": [],
+ "boost_param": null,
+ "prompt": "Verbatim transcription of a solo YouTube tutorial recording with multiple takes. Transcribe exactly as spoken: keep false starts, repeated words, self-corrections, and filler words (um, uh) \u2014 do not clean them up.",
+ "keyterms_prompt": [
+  "Old West Stories",
+  "Wild Bill",
+  "Wild Bill Hickok",
+  "James Butler Hickok",
+  "Hickok",
+  "Agnes Lake Hickok",
+  "Agnes",
+  "Emma",
+  "Buffalo Bill",
+  "Bob Boze Bell",
+  "Jack McCall",
+  "McCall",
+  "Charles Rich",
+  "Deadwood",
+  "Dakota Territory",
+  "Black Hills",
+  "Saloon No. 10",
+  "Lakota",
+  "Kansas",
+  "Wyoming",
+  "Laramie",
+  "Yankton",
+  "Cheyenne",
+  "Chicago",
+  "dead man's hand",
+  "aces and eights",
+  "nine of diamonds",
+  "queen of hearts",
+  "jack of diamonds",
+  "HistoryNet",
+  "premonition",
+  "miner's jury",
+  "deputy marshal",
+  "gallows",
+  "unalived",
+  "boomtowns",
+  "keep your powder dry"
+ ],
+ "filter_profanity": false,
+ "redact_pii": false,
+ "redact_pii_audio": false,
+ "redact_pii_audio_quality": null,
+ "redact_pii_audio_options": null,
+ "redact_pii_policies": null,
+ "redact_pii_sub": null,
+ "redact_static_entities": null,
+ "speaker_labels": false,
+ "speaker_options": null,
+ "content_safety": false,
+ "iab_categories": false,
+ "content_safety_labels": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "iab_categories_result": {
+  "status": "unavailable",
+  "results": [],
+  "summary": {}
+ },
+ "language_detection": true,
+ "language_detection_options": {
+  "expected_languages": null,
+  "fallback_language": null,
+  "code_switching": null,
+  "code_switching_confidence_threshold": null,
+  "on_low_language_confidence": null,
+  "on_no_speech_detected": "fallback",
+  "swiss_german": null,
+  "language_detection_model": null,
+  "localization": null
+ },
+ "language_detection_results": null,
+ "language_confidence_threshold": null,
+ "language_confidence": 0.993,
+ "custom_spelling": null,
+ "throttled": false,
+ "auto_chapters": false,
+ "summarization": false,
+ "summary_type": null,
+ "summary_model": null,
+ "custom_topics": false,
+ "topics": [],
+ "speech_threshold": null,
+ "speech_model": null,
+ "speech_models": [
+  "universal-3-5-pro",
+  "universal-2"
+ ],
+ "speech_model_used": "universal-3-5-pro",
+ "temperature": null,
+ "remove_audio_tags": "all",
+ "chapters": null,
+ "disfluencies": true,
+ "entity_detection": false,
+ "sentiment_analysis": false,
+ "sentiment_analysis_results": null,
+ "entities": null,
+ "speakers_expected": null,
+ "summary": null,
+ "custom_topics_results": null,
+ "is_deleted": null,
+ "multichannel": null,
+ "project_id": 2132490,
+ "token_id": 2178629
+}

@@ -1,0 +1,653 @@
+{
+  "project": "ows-hickok",
+  "clip_order": [
+    "intro",
+    "narr"
+  ],
+  "clips": [
+    {
+      "id": "intro",
+      "file": "Intro.mov",
+      "duration": 8.95,
+      "keeps": [
+        {
+          "s": 0.68,
+          "e": 7.56,
+          "text": "Welcome to Old West Stories. Ride with us through tales of the Old West, one good story at a time."
+        }
+      ],
+      "cuts": [
+        {
+          "s": 0.0,
+          "e": 0.33,
+          "cat": "dead_air",
+          "text": "",
+          "note": "lead-in silence"
+        },
+        {
+          "s": 8.46,
+          "e": 8.95,
+          "cat": "dead_air",
+          "text": "",
+          "note": "trailing silence"
+        }
+      ],
+      "fluff_suggestions": [],
+      "note": "STANDARD CHANNEL INTRO (creator, 2026-11-09): ows-intro.wav opens every video; master copy in media/library/voice/."
+    },
+    {
+      "id": "narr",
+      "file": "Hickok.mov",
+      "duration": 711.04,
+      "keeps": [
+        {
+          "s": 11.24,
+          "e": 14.55,
+          "text": "Every poker player on the American frontier knew the golden rule:"
+        },
+        {
+          "s": 15.37,
+          "e": 16.48,
+          "text": "keep your back to the wall,"
+        },
+        {
+          "s": 17.3,
+          "e": 18.86,
+          "text": "keep the door in your sights."
+        },
+        {
+          "s": 19.84,
+          "e": 22.42,
+          "text": "Give up that view and you give up your edge."
+        },
+        {
+          "s": 24.1,
+          "e": 32.46,
+          "text": "On the sweltering afternoon of August 2nd, 1876, one of the most well-known men in the Dakota Territory broke that rule."
+        },
+        {
+          "s": 34.64,
+          "e": 44.54,
+          "text": "Before that game was over, he would be unalived, and the cards he was holding would birth a legend that still haunts poker players to this day."
+        },
+        {
+          "s": 45.57,
+          "e": 50.91,
+          "text": "Pull up a chair, this is Old West Stories, and this one is gonna be good."
+        },
+        {
+          "s": 54.88,
+          "e": 67.89,
+          "text": "By the time James Butler Hickok, the man the newspapers called Wild Bill, rode into the Black Hills, he was already a living legend. He had scouted for the Union Army, he rode with Buffalo Bill,"
+        },
+        {
+          "s": 68.73,
+          "e": 73.76,
+          "text": "and he had worn a lawman's badge in bloody Kansas boomtowns."
+        },
+        {
+          "s": 75.72,
+          "e": 77.71,
+          "text": "But the summer of 1876,"
+        },
+        {
+          "s": 79.04,
+          "e": 85.29,
+          "text": "the years were starting to catch up to him. His eyesight was failing and the frontier was being tamed."
+        },
+        {
+          "s": 86.39,
+          "e": 92.2,
+          "text": "He came to the Dakota Territory looking for gold, a fresh start, and a new game."
+        },
+        {
+          "s": 94.19,
+          "e": 109.53,
+          "text": "It's a little-known fact that Wild Bill was married at the time he rode into the Dakota Territory. His sweetheart was named Agnes Lake Hickok, and he longed for the day he made enough money to return to her and settle down into a traditional husband's role."
+        },
+        {
+          "s": 110.58,
+          "e": 119.16,
+          "text": "Historian Bob Boze Bell recounted a letter Wild Bill sent to her from Deadwood on July 17th, just a couple of short weeks before he met his fate."
+        },
+        {
+          "s": 120.03,
+          "e": 120.81,
+          "text": "In it, he said,"
+        },
+        {
+          "s": 122.29,
+          "e": 129.48,
+          "text": "my own darling wife Agnes, I have but a few moments left before this letter starts on its way to you."
+        },
+        {
+          "s": 130.94,
+          "e": 134.98,
+          "text": "I never was as well in my life, but you would laugh to see me now."
+        },
+        {
+          "s": 136.07,
+          "e": 142.21,
+          "text": "Just got in from prospecting and will go away again tomorrow, and I will write in the morning."
+        },
+        {
+          "s": 143.52,
+          "e": 150.35,
+          "text": "I don't expect to hear from you, but it is all the same. I know my Agnes, and I only live to love her."
+        },
+        {
+          "s": 151.53,
+          "e": 156.79,
+          "text": "Never mind, pet, we will have a home yet, and then we will be so happy."
+        },
+        {
+          "s": 157.78,
+          "e": 167.95,
+          "text": "I am almost sure I will do well here. The man is hurrying me to finish the letter. Goodbye, my dear wife. Love to Emma, J.B. Hickok, Wild Bill."
+        },
+        {
+          "s": 169.94,
+          "e": 171.53,
+          "text": "But Hickok knew something was wrong."
+        },
+        {
+          "s": 172.46,
+          "e": 175.08,
+          "text": "Something about Deadwood just didn't feel right."
+        },
+        {
+          "s": 176.11,
+          "e": 184.28,
+          "text": "Just one day before he sat down at that fatal poker table, he wrote another letter to his wife Agnes. In it, he confessed a dark premonition."
+        },
+        {
+          "s": 185.2,
+          "e": 188.01,
+          "text": "He did not believe he would leave the Black Hills alive."
+        },
+        {
+          "s": 189.8,
+          "e": 191.98,
+          "text": "According to HistoryNet, Bill wrote,"
+        },
+        {
+          "s": 193.33,
+          "e": 209.46,
+          "text": "\"Agnes, darling, if such should be we ever meet again, while firing my last shot, I will gently breathe the name of my wife, Agnes, and with wishes even for my enemies, I will make the plunge and try to swim to the other shore."
+        },
+        {
+          "s": 210.69,
+          "e": 212.45,
+          "text": "J.B. Hickok, Wild Bill.\""
+        },
+        {
+          "s": 214.76,
+          "e": 226.06,
+          "text": "He was right to be paranoid. Deadwood was a violent, lawless mud pit. The Gold Rush had drawn thousands onto the land that the U.S. government had promised to give to the Lakota tribe."
+        },
+        {
+          "s": 227.18,
+          "e": 233.1,
+          "text": "This meant that the settlers and prospectors had no legal footing in the area. No courts, no sheriff."
+        },
+        {
+          "s": 233.96,
+          "e": 236.28,
+          "text": "Deadwood had grown faster than its laws."
+        },
+        {
+          "s": 238.17,
+          "e": 242.99,
+          "text": "Into this chaos rode Jack McCall, a drifter, a man with a loud mouth,"
+        },
+        {
+          "s": 243.81,
+          "e": 246.9,
+          "text": "little sense, and a massive chip on his shoulder."
+        },
+        {
+          "s": 248.26,
+          "e": 253.38,
+          "text": "McCall was a terrible card player, quick to take offense, and even quicker to brag."
+        },
+        {
+          "s": 255.66,
+          "e": 260.06,
+          "text": "By 1876, the Black Hills were full-blown gold rush country."
+        },
+        {
+          "s": 261.37,
+          "e": 265.43,
+          "text": "Prospectors, merchants, gamblers, and drifters poured into Deadwood."
+        },
+        {
+          "s": 266.43,
+          "e": 272.4,
+          "text": "Its buildings quickly sprang up so fast that pine building planks still smelled of the sawmill."
+        },
+        {
+          "s": 273.75,
+          "e": 277.86,
+          "text": "At night, the camp glowed with lamps and rang with fiddles and drunken shouting."
+        },
+        {
+          "s": 280.49,
+          "e": 286.08,
+          "text": "On the night of August 1st, 1876, the same day he penned his final letter to his true love,"
+        },
+        {
+          "s": 287.74,
+          "e": 298.13,
+          "text": "the air in Nuttall and Mann's Saloon No. 10 was thick with smells of whiskey and tobacco, while sounds of drunken laughter and coins being tossed to the center of poker tables filled the room."
+        },
+        {
+          "s": 299.58,
+          "e": 309.0,
+          "text": "McCall was a drifter who, for one reason or another, had a hard time holding down a steady job. So he did odd jobs around Saloon 10 when they needed a hand."
+        },
+        {
+          "s": 310.08,
+          "e": 314.65,
+          "text": "But on this night, he strolled into the 10 looking to make a quick buck."
+        },
+        {
+          "s": 316.54,
+          "e": 319.85,
+          "text": "He sat down at a poker table, the same table Bill sat,"
+        },
+        {
+          "s": 320.98,
+          "e": 326.32,
+          "text": "and he lost. By the end of the night, McCall's pockets were completely empty."
+        },
+        {
+          "s": 329.07,
+          "e": 339.23,
+          "text": "Hickok had been taking the drifter's money all night, and McCall's face was flush with anger. Bill pushed a few coins back across the table toward McCall. He told the younger man"
+        },
+        {
+          "s": 340.09,
+          "e": 344.58,
+          "text": "this was breakfast money and to stay away from the tables until he could afford to play again."
+        },
+        {
+          "s": 347.36,
+          "e": 353.88,
+          "text": "The table went quiet, the other gamblers unsure how McCall would react to that verbal put-down."
+        },
+        {
+          "s": 356.29,
+          "e": 366.62,
+          "text": "Glaring at Hickok, McCall didn't take the advice. He took the breakfast money and the insult, and the insult burned in his gut like cheap rye whiskey on a cold night."
+        },
+        {
+          "s": 370.02,
+          "e": 380.93,
+          "text": "The next afternoon, August 2nd, Hickok was itching for another game. He stepped onto the boardwalk, knocked the thick Deadwood mud from his boots, and pushed through the doors of Saloon No. 10."
+        },
+        {
+          "s": 382.62,
+          "e": 393.29,
+          "text": "Charles Rich, a regular at the 10, gave Bill a nod, inviting him to join his poker game. But there was only one open seat, and it faced away from the door."
+        },
+        {
+          "s": 394.65,
+          "e": 399.76,
+          "text": "He asked Rich to trade places, but gamblers tend to be superstitious about such things."
+        },
+        {
+          "s": 400.61,
+          "e": 401.5,
+          "text": "Rich said no."
+        },
+        {
+          "s": 403.77,
+          "e": 413.63,
+          "text": "Every survival instinct Hickok had ever developed over the years on the western front screamed at him. Urging him not to sit with his back to the door."
+        },
+        {
+          "s": 415.11,
+          "e": 418.66,
+          "text": "Hickok paused and gazed long and hard at the one empty chair."
+        },
+        {
+          "s": 420.15,
+          "e": 420.28,
+          "text": "Then,"
+        },
+        {
+          "s": 421.53,
+          "e": 425.0,
+          "text": "the man who predicted his own death sat down."
+        },
+        {
+          "s": 428.03,
+          "e": 440.5,
+          "text": "Hickok settled into the game and stared at his cards, and after several poker hands had been played, tunnel vision slowly closed around him the way a room does when a man stops noticing everything but the game."
+        },
+        {
+          "s": 441.75,
+          "e": 445.14,
+          "text": "A few hands later, he was dealt the last hand he would ever play."
+        },
+        {
+          "s": 446.32,
+          "e": 447.19,
+          "text": "Two black pairs,"
+        },
+        {
+          "s": 448.01,
+          "e": 449.57,
+          "text": "aces and eights."
+        },
+        {
+          "s": 451.01,
+          "e": 454.0,
+          "text": "People have been calling it the dead man's hand ever since."
+        },
+        {
+          "s": 456.39,
+          "e": 464.33,
+          "text": "The saloon was lively that afternoon. Miners were bellied up to the bar, swapping prospecting stories. Whiskey bottles clinked against rims of glasses."
+        },
+        {
+          "s": 465.14,
+          "e": 469.47,
+          "text": "Tobacco smoke hung in layers under the rafters, and somebody laughed at a bad joke."
+        },
+        {
+          "s": 471.12,
+          "e": 474.4,
+          "text": "Nobody paid much attention when Jack McCall walked through the saloon door."
+        },
+        {
+          "s": 475.26,
+          "e": 477.05,
+          "text": "He spotted Hickok from behind."
+        },
+        {
+          "s": 477.99,
+          "e": 479.33,
+          "text": "He crossed the wooden floor."
+        },
+        {
+          "s": 481.42,
+          "e": 485.55,
+          "text": "He stepped right up behind the legendary gunfighter and drew his revolver."
+        },
+        {
+          "s": 487.22,
+          "e": 492.95,
+          "text": "\"Take that!\" McCall screamed, firing a single bullet at point-blank range into the back of Wild Bill's head."
+        },
+        {
+          "s": 493.95,
+          "e": 503.21,
+          "text": "Hickok instantly slumped over. The saloon erupted into absolute chaos. McCall bolted out the back door, but his horse slipped in the mud, sending him tumbling."
+        },
+        {
+          "s": 504.13,
+          "e": 506.18,
+          "text": "He didn't get far before the crowd nabbed him."
+        },
+        {
+          "s": 510.7,
+          "e": 518.63,
+          "text": "Since Deadwood was on Lakota land, it had very few documented laws. It had no sheriff and no real judge."
+        },
+        {
+          "s": 519.54,
+          "e": 523.59,
+          "text": "That night, an informal miner's jury gathered to hear the case."
+        },
+        {
+          "s": 527.24,
+          "e": 534.43,
+          "text": "McCall spun a desperate lie, claiming Hickok had murdered his brother back in Kansas and he wanted Bill to pay for the deadly deed."
+        },
+        {
+          "s": 535.4,
+          "e": 540.3,
+          "text": "Incredibly, the miner's jury bought the story and turned him loose."
+        },
+        {
+          "s": 542.95,
+          "e": 554.16,
+          "text": "Here's the thing about loudmouth braggarts: McCall couldn't keep his mouth shut. He fled to Wyoming, and the story goes that he bragged about the killing in every saloon he found along the way."
+        },
+        {
+          "s": 556.68,
+          "e": 566.86,
+          "text": "By August 29th, the real law caught up with him in Laramie, Wyoming. A U.S. deputy marshal heard the boasting and took McCall's bragging as a confession"
+        },
+        {
+          "s": 567.77,
+          "e": 568.97,
+          "text": "and arrested him."
+        },
+        {
+          "s": 571.42,
+          "e": 576.0,
+          "text": "Turns out the law that had been missing in Deadwood was waiting for him in Laramie."
+        },
+        {
+          "s": 577.34,
+          "e": 581.82,
+          "text": "McCall was dragged back to the Dakota Territory in Yankton for a real trial."
+        },
+        {
+          "s": 583.44,
+          "e": 586.8,
+          "text": "This time, the jury didn't buy the lies."
+        },
+        {
+          "s": 588.45,
+          "e": 598.58,
+          "text": "On March 1st, 1877, the man who sought revenge with a coward's bullet met his demise at the end of a rope on Yankton's gallows."
+        },
+        {
+          "s": 601.72,
+          "e": 613.45,
+          "text": "News spread surprisingly quickly in those days. Over breakfast tables from Cheyenne to Chicago, the nation read newspaper stories about the gunfighter who died at a card table."
+        },
+        {
+          "s": 615.15,
+          "e": 625.21,
+          "text": "Although the newspaper stories and dime store novels are long gone, the story lives on through the poker cards Bill was holding when he met his demise."
+        },
+        {
+          "s": 626.31,
+          "e": 626.76,
+          "text": "You see,"
+        },
+        {
+          "s": 627.71,
+          "e": 632.69,
+          "text": "when Hickok was shot, his lifeless fingers were clutching a very specific hand."
+        },
+        {
+          "s": 633.86,
+          "e": 634.65,
+          "text": "Two black aces,"
+        },
+        {
+          "s": 635.56,
+          "e": 636.28,
+          "text": "two black eights."
+        },
+        {
+          "s": 637.43,
+          "e": 639.25,
+          "text": "It is known as the dead man's hand."
+        },
+        {
+          "s": 641.11,
+          "e": 645.93,
+          "text": "But here's the mystery: historians cannot agree on what Hickok's fifth card was."
+        },
+        {
+          "s": 646.75,
+          "e": 652.65,
+          "text": "Some say it was the nine of diamonds, others swear it was the queen of hearts, others believe it was the jack of diamonds."
+        },
+        {
+          "s": 653.49,
+          "e": 655.51,
+          "text": "I suppose we'll never know for sure."
+        },
+        {
+          "s": 656.89,
+          "e": 660.8,
+          "text": "What do you think the fifth card was? Drop your theory in the comments below."
+        },
+        {
+          "s": 662.83,
+          "e": 667.7,
+          "text": "If you visit Deadwood today, you'll find that poker rooms are still alive and running strong."
+        },
+        {
+          "s": 668.66,
+          "e": 681.84,
+          "text": "I can tell you from my own firsthand account, gamblers who belly up to the poker tables in Deadwood to this day feel their blood run cold and a chill up their spine when they are dealt pairs of aces and eights."
+        },
+        {
+          "s": 683.67,
+          "e": 688.3,
+          "text": "The lesson from Deadwood is simple. A high-stakes game is never just about the cards."
+        },
+        {
+          "s": 689.28,
+          "e": 689.57,
+          "text": "Money,"
+        },
+        {
+          "s": 690.4,
+          "e": 697.34,
+          "text": "pride, and grudges usually sit at the same table, and holding a grudge rarely ends well"
+        },
+        {
+          "s": 698.56,
+          "e": 699.42,
+          "text": "for anybody."
+        },
+        {
+          "s": 700.91,
+          "e": 708.75,
+          "text": "So if you ever find yourself in an Old West saloon, keep your back to the wall, avoid the dead man's hand, and keep your powder dry."
+        }
+      ],
+      "cuts": [
+        {
+          "s": 0.0,
+          "e": 10.9,
+          "cat": "retake",
+          "text": "Welcome to Old West Stories. Ride with us through true tales of the frontier, one good story at a time.",
+          "note": "opening line replaced by the standard intro recording (ows-intro.wav, clip 'intro')"
+        },
+        {
+          "s": 524.6,
+          "e": 527.0,
+          "cat": "false_start",
+          "text": "McCall spun a-",
+          "note": "broken off 'McCall spun a-'; the restart at 527.24 ('McCall spun a desperate lie...') supersedes it"
+        },
+        {
+          "s": 709.65,
+          "e": 711.04,
+          "cat": "dead_air",
+          "text": "",
+          "note": "trailing silence after 'keep your powder dry'"
+        }
+      ],
+      "fluff_suggestions": []
+    }
+  ],
+  "styles": {
+    "tight": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.14,
+      "max_tail": 0.4,
+      "head": 0.15
+    },
+    "natural": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.26,
+      "max_tail": 0.45,
+      "head": 0.17
+    },
+    "story": {
+      "internal_gap": 0.6,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 1.2,
+      "soft_margin": 3.0,
+      "min_tail": 0.4,
+      "max_tail": 0.6,
+      "head": 0.35
+    },
+    "natural-slow": {
+      "internal_gap": 0.4,
+      "margin": 5.0,
+      "soft_gap": 1.2,
+      "soft_max_tail": 0.95,
+      "soft_margin": 3.0,
+      "min_tail": 0.5,
+      "max_tail": 0.7,
+      "head": 0.31,
+      "keep_sentence_gaps": true,
+      "sentence_gap_max": 3.0
+    }
+  },
+  "flags": [
+    {
+      "id": 1,
+      "clip": "narr",
+      "at": "08:45",
+      "issue": "False start 'McCall spun a-' cut; the restart right after is kept.",
+      "default": "cut the first"
+    },
+    {
+      "id": 2,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "The read differs from the script in places (e.g. 'bloody Kansas boomtowns', 'if such should be we ever meet again', 'Nuttall and Mann's Saloon No. 10', extra lines about news spreading and dime novels). Channel rule: the narration wins; nothing is cut to match the script.",
+      "default": "keep the read as spoken"
+    },
+    {
+      "id": 3,
+      "clip": "narr",
+      "at": "11:40",
+      "issue": "The read ends on 'keep your powder dry'. The script's closing 'Don't forget to like and share... subscribe' was not recorded.",
+      "default": "end on 'keep your powder dry'; the end screen carries the subscribe ask"
+    },
+    {
+      "id": 4,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "Creator (2026-11-09): natural-slow; between-sentence pauses kept as recorded (capped at 3.0 s), mid-sentence pauses smoothed.",
+      "default": "natural-slow + keep_sentence_gaps"
+    },
+    {
+      "id": 5,
+      "clip": "intro",
+      "at": "00:00",
+      "issue": "Opening line replaced by the standard intro recording.",
+      "default": "intro clip first"
+    },
+    {
+      "id": 6,
+      "clip": "narr",
+      "at": "whole video",
+      "issue": "Breaths muted and plosives tamed by tools/clean_narration.py before cutting (Hickok.mov / Intro.mov carry the cleaned audio; raw hickock.wav kept).",
+      "default": "cleaned audio"
+    }
+  ]
+}

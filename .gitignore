@@ -63,3 +63,9 @@ media/projects/ows-snowshoe/
 # ows-camels source media stays local (same rule as ows-1); archival sources are listed in
 # videos/ows-camels/work/edit-plan.md and media/projects/ows-camels/real/SOURCES.md
 media/projects/ows-camels/
+
+# ows-hickok source media stays local (same rule as ows-1)
+media/projects/ows-hickok/
+
+# standard channel intro (every video opens with it): committed despite the *.wav rule
+!media/library/voice/*.wav
