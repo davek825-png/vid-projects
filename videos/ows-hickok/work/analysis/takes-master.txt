@@ -1,0 +1,194 @@
+# clip master — 1663 words, ends 11:38
+#01 [0.26 - 7.07] (00:00) Welcome to Old West Stories. Ride with us through tales of the Old West, one good story at a time.
+     -- pause 0.9s --
+#02 [7.92 - 13.02] (00:07) Every poker player on the American frontier knew the golden rule: keep your back to the wall,
+     -- pause 0.9s --
+#03 [13.92 - 15.37] (00:13) keep the door in your sights.
+     -- pause 1.0s --
+#04 [16.40 - 19.00] (00:16) Give up that view and you give up your edge.
+     -- pause 1.7s --
+#05 [20.66 - 28.94] (00:20) On the sweltering afternoon of August 2nd, 1876, one of the most well-known men in the Dakota Territory broke that rule.
+     -- pause 2.3s --
+#06 [31.25 - 41.17] (00:31) Before that game was over, he would be unalived, and the cards he was holding would birth a legend that still haunts poker players to this day.
+     -- pause 1.0s --
+#07 [42.22 - 47.83] (00:42) Pull up a chair. This is Old West Stories, and this one is gonna be good.
+     -- pause 3.0s --
+#08 [50.81 - 64.06] (00:50) By the time James Butler Hickok The man the newspapers called "Wild Bill" rode into the Black Hills. He was already a living legend. He had scouted for the Union Army. He rode with Buffalo Bill,
+     -- pause 0.8s --
+#09 [64.89 - 69.97] (01:04) and he had worn a lawman's badge in bloody Kansas boomtowns.
+     -- pause 2.0s --
+#10 [71.92 - 73.58] (01:11) But the summer of 1876,
+     -- pause 1.2s --
+#11 [74.78 - 80.97] (01:14) the years were starting to catch up to him. His eyesight was failing and the frontier was being tamed.
+     -- pause 1.1s --
+#12 [82.04 - 87.87] (01:22) He came to the Dakota Territory looking for gold, a fresh start, and a new game.
+     -- pause 2.1s --
+#13 [89.94 - 105.32] (01:29) It's a little-known fact that Wild Bill was married at the time he rode into the Dakota Territory. His sweetheart was named Agnes Lake Hickok, and he longed for the day he made enough money to return to her and settle down into a traditional husband's role.
+     -- pause 1.1s --
+#14 [106.46 - 114.91] (01:46) Historian Bob Boze Bell recounted a letter Wild Bill sent to her from Deadwood on July 17th. Just a couple of short weeks before he met his fate.
+     -- pause 0.9s --
+#15 [115.83 - 119.35] (01:55) In it he said, "My own darling wife Agnes,
+     -- pause 0.8s --
+#16 [120.18 - 124.58] (02:00) I have but a few moments left before this letter starts on its way to you.
+     -- pause 1.5s --
+#17 [126.04 - 130.24] (02:06) I never was as well in my life, but you would laugh to see me now.
+     -- pause 1.2s --
+#18 [131.40 - 137.61] (02:11) Just got in from prospecting and will go away again tomorrow, and I will write in the morning."
+     -- pause 1.2s --
+#19 [138.79 - 145.86] (02:18) I don't expect to hear from you, but it is all the same. I know my Agnes, and I only live to love her.
+     -- pause 1.1s --
+#20 [146.98 - 152.40] (02:26) Never mind, pet. We will have a home yet, and then we will be so happy.
+     -- pause 0.9s --
+#21 [153.32 - 155.26] (02:33) I am almost sure I will do well here.
+     -- pause 0.8s --
+#22 [156.11 - 163.70] (02:36) The man is hurrying me to finish the letter. Goodbye, my dear wife. Love to Emma. J.B. Hickok, Wild Bill.
+     -- pause 1.9s --
+#23 [165.60 - 167.10] (02:45) But Hickok knew something was wrong.
+     -- pause 0.9s --
+#24 [168.04 - 170.57] (02:48) Something about Deadwood just didn't feel right.
+     -- pause 1.4s --
+#25 [171.94 - 180.03] (02:51) Just one day before he sat down at that fatal poker table, he wrote another letter to his wife Agnes. In it, he confessed a dark premonition.
+     -- pause 0.9s --
+#26 [180.88 - 183.73] (03:00) He did not believe he would leave the Black Hills alive.
+     -- pause 1.8s --
+#27 [185.51 - 187.72] (03:05) According to HistoryNet, Bill wrote,
+     -- pause 0.8s --
+#28 [188.55 - 204.58] (03:08) Agnes, darling, If such should be we ever meet again, while firing my last shot, I will gently breathe the name of my wife, Agnes, and with wishes even for my enemies, I will make the plunge and try to swim to the other shore.
+     -- pause 1.4s --
+#29 [206.03 - 207.69] (03:26) J.B. Hickok, Wild Bill.
+     -- pause 2.3s --
+#30 [210.03 - 221.45] (03:30) He was right to be paranoid. Deadwood was a violent, lawless mud pit. The gold rush had drawn thousands onto the land that the U.S. government had promised to give to the Lakota tribe.
+     -- pause 1.1s --
+#31 [222.58 - 228.49] (03:42) This meant that the settlers and prospectors had no legal footing in the area. No courts, no sheriff.
+     -- pause 0.9s --
+#32 [229.34 - 231.74] (03:49) Deadwood had grown faster than its laws.
+     -- pause 2.0s --
+#33 [233.71 - 238.44] (03:53) Into this chaos rode Jack McCall, a drifter, a man with a loud mouth,
+     -- pause 0.8s --
+#34 [239.27 - 242.28] (03:59) little sense, and a massive chip on his shoulder.
+     -- pause 1.3s --
+#35 [243.58 - 248.74] (04:03) McCall was a terrible card player, quick to take offense. And even quicker to brag.
+     -- pause 2.4s --
+#36 [251.16 - 255.42] (04:11) By 1876, the Black Hills were full-blown gold rush country.
+     -- pause 1.2s --
+#37 [256.65 - 260.92] (04:16) Prospectors, merchants, gamblers, and drifters poured into Deadwood.
+     -- pause 0.9s --
+#38 [261.84 - 267.92] (04:21) Its buildings quickly sprang up so fast that the pine building planks still smelled of the sawmill.
+     -- pause 1.3s --
+#39 [269.23 - 273.19] (04:29) At night, the camp glowed with lamps and rang with fiddles and drunken shouting.
+     -- pause 2.6s --
+#40 [275.83 - 281.44] (04:35) On the night of August 1st, 1876, the same day he penned his final letter to his true love,
+     -- pause 0.9s --
+#41 [282.37 - 292.67] (04:42) the air in Nuttall and Mann's Saloon Number 10 was thick with smells of whiskey and tobacco, while sounds of drunken laughter and coins being tossed to the center of poker tables filled the room.
+     -- pause 1.5s --
+#42 [294.20 - 303.54] (04:54) McCall was a drifter who, for one reason or another, had a hard time holding down a steady job. So he did odd jobs around Saloon 10 when they needed a hand.
+     -- pause 1.1s --
+#43 [304.68 - 309.21] (05:04) But on this night, he strolled into the 10, looking to make a quick buck.
+     -- pause 1.9s --
+#44 [311.12 - 314.43] (05:11) He sat down at a poker table, the same table Bill sat,
+     -- pause 0.8s --
+#45 [315.26 - 316.02] (05:15) and he lost.
+     -- pause 0.9s --
+#46 [316.89 - 320.70] (05:16) By the end of the night, McCall's pockets were completely empty.
+     -- pause 2.7s --
+#47 [323.44 - 338.88] (05:23) Hickok had been taking the drifter's money all night, and McCall's face was flush with anger. Bill pushed a few coins back across the table toward McCall. He told the younger man this was breakfast money and to stay away from the tables until he could afford to play again.
+     -- pause 3.0s --
+#48 [341.84 - 348.32] (05:41) The table went quiet, the other gamblers unsure how McCall would react to that verbal put-down.
+     -- pause 2.7s --
+#49 [351.00 - 361.04] (05:51) Glaring at Hickok, McCall didn't take the advice. He took the breakfast money. And the insult, and the insult burned in his gut like cheap rye whiskey on a cold night.
+     -- pause 3.1s --
+#50 [364.15 - 375.07] (06:04) The next afternoon, August 2nd, Hickok was itching for another game. He stepped onto the boardwalk, knocked the thick Deadwood mud from his boots, and pushed through the doors of Saloon No. 10.
+     -- pause 1.6s --
+#51 [376.72 - 387.19] (06:16) Charles Rich, a regular at the 10, gave Bill a nod, inviting him to join his poker game. But there was only one open seat, and it faced away from the door.
+     -- pause 1.5s --
+#52 [388.68 - 393.75] (06:28) He asked Rich to trade places, but gamblers tend to be superstitious about such things.
+     -- pause 0.8s --
+#53 [394.59 - 395.48] (06:34) Rich said no.
+     -- pause 2.3s --
+#54 [397.80 - 407.76] (06:37) Every survival instinct Hickok had ever developed over the years on the western front screamed at him, urging him not to sit with his back to the door.
+     -- pause 1.4s --
+#55 [409.17 - 412.85] (06:49) Hickok paused and gazed long and hard at the one empty chair.
+     -- pause 1.4s --
+#56 [414.27 - 418.97] (06:54) Then, the man who predicted his own death sat down.
+     -- pause 3.0s --
+#57 [421.97 - 434.27] (07:01) Hickok settled into the game and started his cards, and after several poker hands had been played, tunnel vision slowly closed around him the way a room does when a man stops noticing everything but the game.
+     -- pause 1.3s --
+#58 [435.60 - 438.91] (07:15) A few hands later, he was dealt the last hand he would ever play.
+     -- pause 1.3s --
+#59 [440.19 - 440.98] (07:20) Two black pairs,
+     -- pause 0.8s --
+#60 [441.82 - 443.34] (07:21) aces and eights.
+     -- pause 1.4s --
+#61 [444.74 - 447.81] (07:24) People have been calling it the dead man's hand ever since.
+     -- pause 2.3s --
+#62 [450.09 - 463.20] (07:30) The saloon was lively that afternoon. Miners were bellied up to the bar, swapping prospecting stories. Whiskey bottles clinked against rims of glasses. Tobacco smoke hung in layers under the rafters, and somebody laughed at a bad joke.
+     -- pause 1.6s --
+#63 [464.82 - 468.16] (07:44) Nobody paid much attention when Jack McCall walked through the saloon door.
+     -- pause 0.8s --
+#64 [469.00 - 470.79] (07:49) He spotted Hickok from behind.
+     -- pause 1.0s --
+#65 [471.74 - 473.06] (07:51) He crossed the wooden floor.
+     -- pause 2.1s --
+#66 [475.17 - 479.20] (07:55) He stepped right up behind the legendary gunfighter and drew his revolver.
+     -- pause 1.7s --
+#67 [480.95 - 486.67] (08:00) "Take that!" McCall screamed, firing a single bullet at point-blank range into the back of Wild Bill's head.
+     -- pause 1.0s --
+#68 [487.67 - 497.01] (08:07) Hickok instantly slumped over. The saloon erupted into absolute chaos. McCall bolted out the back door, but his horse slipped in the mud, sending him tumbling.
+     -- pause 0.9s --
+#69 [497.93 - 499.89] (08:17) He didn't get far before the crowd nabbed him.
+     -- pause 4.4s --
+#70 [504.26 - 511.05] (08:24) Since Deadwood was on Lakota land, it had very few documented laws. It had no sheriff and no real judge.
+     -- pause 0.8s --
+#71 [511.85 - 515.97] (08:31) That night, an informal miner's jury gathered to hear the case.
+     -- pause 0.9s --
+#72 [516.85 - 524.13] (08:36) McCall spun a desperate lie, claiming Hickok had murdered his brother back in Kansas and he wanted Bill to pay for the deadly deed.
+     -- pause 0.9s --
+#73 [525.08 - 530.12] (08:45) Incredibly, the miner's jury bought the story and turned him loose.
+     -- pause 2.7s --
+#74 [532.84 - 537.05] (08:52) Here's the thing about loudmouth braggarts- McCall couldn't keep his mouth shut.
+     -- pause 0.9s --
+#75 [537.92 - 543.93] (08:57) He fled to Wyoming, and the story goes that he bragged about the killing in every saloon he found along the way.
+     -- pause 2.6s --
+#76 [546.51 - 556.74] (09:06) By August 29th, the real law caught up with him in Laramie, Wyoming. A U.S. deputy marshal heard the boasting and took McCall's bragging as a confession
+     -- pause 0.8s --
+#77 [557.56 - 558.68] (09:17) and arrested him.
+     -- pause 2.5s --
+#78 [561.16 - 566.03] (09:21) Turns out the law that had been missing in Deadwood was waiting for him in Laramie.
+     -- pause 1.0s --
+#79 [567.03 - 571.75] (09:27) McCall was dragged back to the Dakota Territory in Yankton for a real trial.
+     -- pause 1.6s --
+#80 [573.38 - 576.72] (09:33) This time, the jury didn't buy the lies.
+     -- pause 1.7s --
+#81 [578.44 - 588.50] (09:38) On March 1st, 1877, the man who sought revenge with a coward's bullet met his demise at the end of a rope on Yankton's gallows.
+     -- pause 3.2s --
+#82 [591.66 - 598.05] (09:51) News spread surprisingly quickly in those days, over breakfast tables from Cheyenne to Chicago.
+     -- pause 0.8s --
+#83 [598.90 - 603.27] (09:58) The nation read newspaper stories about the gunfighter who died at a card table.
+     -- pause 1.8s --
+#84 [605.04 - 615.13] (10:05) Although the newspaper stories and dime store novels are long gone, the story lives on through the poker cards Bill was holding when he met his demise.
+     -- pause 1.2s --
+#85 [616.30 - 622.95] (10:16) You see, when Hickok was shot, his lifeless fingers were clutching a very specific hand:
+     -- pause 1.1s --
+#86 [624.00 - 626.36] (10:24) two black aces. Two black eights.
+     -- pause 1.0s --
+#87 [627.40 - 629.42] (10:27) It is known as the dead man's hand.
+     -- pause 1.6s --
+#88 [631.01 - 642.68] (10:31) But here's the mystery: historians cannot agree on what Hickok's fifth card was. Some say it was the nine of diamonds, others swear it was the queen of hearts, others believe it was the jack of diamonds.
+     -- pause 0.8s --
+#89 [643.53 - 645.52] (10:43) I suppose we'll never know for sure.
+     -- pause 1.4s --
+#90 [646.88 - 650.91] (10:46) What do you think the fifth card was? Drop your theory in the comments below.
+     -- pause 1.8s --
+#91 [652.74 - 657.71] (10:52) If you visit Deadwood today, you'll find that poker rooms are still alive and running strong.
+     -- pause 1.1s --
+#92 [658.82 - 672.05] (10:58) I can tell you from my own firsthand account, gamblers who belly up to the poker tables in Deadwood to this day feel their blood run cold and a chill up their spine when they are dealt pairs of aces and eights.
+     -- pause 1.9s --
+#93 [673.94 - 678.62] (11:13) The lesson from Deadwood is simple: a high-stakes game is never just about the cards.
+     -- pause 0.9s --
+#94 [679.55 - 679.76] (11:19) Money,
+     -- pause 0.8s --
+#95 [680.60 - 687.62] (11:20) pride, and grudges usually sit at the same table, and holding a grudge rarely ends well
+     -- pause 0.9s --
+#96 [688.49 - 689.41] (11:28) for anybody.
+     -- pause 1.5s --
+#97 [690.87 - 698.63] (11:30) So if you ever find yourself in an Old West saloon, keep your back to the wall, avoid the dead man's hand, and keep your powder dry.
