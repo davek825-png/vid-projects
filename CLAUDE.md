@@ -23,6 +23,27 @@ The pipeline order is: **cut → visuals → voice → SFX → packaging → upl
 taste). `remotion/src/brand.ts` + `fonts.ts` are the same contract as code — **`/brand-setup` owns all
 three together; they drift silently if you hand-edit one.**
 
+## Remotion's official skills (reference, the pipeline wins)
+
+`.claude/skills/remotion-*` are the 13 official Remotion Agent Skills (router:
+`remotion-best-practices`; also markup, captions, maps, render, studio, docs, multimedia,
+interactivity, create, saas, license, upgrade), copied from `remotion-dev/remotion`
+`packages/skills/skills/` at commit `ba0fbf0` (skills v4.0.542; Remotion packages also 4.0.542, upgraded 2026-11-09).
+Use them as **API and technique reference** inside the pipeline above. Where they disagree with this
+repo, this repo wins:
+- "Make / create a video" means this pipeline (`/clean-cut` → `/make-tsx` → …), never
+  `remotion-create`: the Remotion project already exists in `remotion/`. Don't scaffold another.
+- Shots follow `/make-tsx` + `/vidtsx-2d-generator` conventions (one shot per file under
+  `src/shots/<project>/`, `compositionConfig`, generated registry), not a hand-edited `Root.tsx`.
+- The QA rule overrides their "don't render unless asked": render frames to verify every shot.
+  Opening Remotion Studio is optional, not required, before building.
+- Don't upgrade Remotion (`remotion-upgrade`) without the creator's go-ahead. On Windows `npx remotion
+  upgrade` crashes spawning `npm` (ENOENT): run the `npm i --save-exact ...` line it prints yourself,
+  then `npx remotion versions`. Render a few shots before and after and compare frames.
+- Snapshot install: to refresh, re-copy that folder from the repo (repoint the router's `./remotion-*`
+  links to `../remotion-*`, since the upstream symlinks are dropped on Windows) and update the commit
+  above.
+
 ## Layout
 
 ```
