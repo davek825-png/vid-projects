@@ -14,8 +14,7 @@ import { cueAt } from '../../lib/frontier';
 import { Compass } from '../../lib/inkmap';
 import {
   Stage, Picture, Photo, Label, Hero, StampT, DateTag, Rule, Card, Row, Strike, Mat, Ridge, Pin, Route,
-  Mystery, Center, Bottom, Slot, Pop, useTri, useProg,
-} from '../../lib/tristyle';
+  Mystery, Center, Bottom, Slot, Pop, useTri, useProg, smooth, clay } from '../../lib/tristyle';
 import { SPANS } from './_spans';
 import { Handler, EnvelopeArt, BookArt, PaperArt, HorseArt, TarpArt, SkullArt, DropArt, EyeArt, NoteArt } from './_props';
 
@@ -178,7 +177,7 @@ export const Road: React.FC = () => {
       <Route pts={ROAD} at={c(55.81)} dur={Math.round((57.75 - 55.81) * 30)} />
       <Pin x={350} y={640} label="SOUTHERN CALIFORNIA" at={c(57.27)} seed={63} />
       <Center top={850}><Label at={c(53.5)} size={34} font="mono" seed={25} ink={COLORS.muted}>← WEST</Label></Center>
-      {s === 'default' && <Compass at={c(52)} />}
+      {smooth(s) && <Compass at={c(52)} />}
     </Stage>
   );
 };
@@ -270,11 +269,11 @@ const StripMap: React.FC<{ reveal: boolean; c: (s: number) => number }> = ({ rev
   const a = (t: number, i = 0) => (reveal ? c(t) + i * 4 : 0);
   const bar = useProg(a(96.35), 20);
   const barW = (SX1 - SX0) * (reveal ? bar : 1);
-  const surfaceFilter = s === 'claymation' ? 'url(#clay)' : s === 'cutout' ? 'drop-shadow(6px 8px 0 rgba(26,11,6,0.3))' : 'drop-shadow(0 10px 24px rgba(26,11,6,0.3))';
+  const surfaceFilter = clay(s) ? 'url(#clay)' : s === 'cutout' ? 'drop-shadow(6px 8px 0 rgba(26,11,6,0.3))' : 'drop-shadow(0 10px 24px rgba(26,11,6,0.3))';
   return (
     <>
       <Center top={80}><Label at={reveal ? c(96.0) : 0} size={40} font="mono" seed={56}>JORNADA DEL MUERTO</Label></Center>
-      <div style={{ position: 'absolute', left: SX0, top: SY - 70, width: barW, height: 140, background: '#E2C48C', borderRadius: s === 'claymation' ? 40 : 6, border: s === 'default' ? `3px dashed ${COLORS.muted}` : 'none', filter: surfaceFilter }} />
+      <div style={{ position: 'absolute', left: SX0, top: SY - 70, width: barW, height: 140, background: '#E2C48C', borderRadius: clay(s) ? 40 : 6, border: smooth(s) ? `3px dashed ${COLORS.muted}` : 'none', filter: surfaceFilter }} />
       <div style={{ position: 'absolute', left: SX0, top: SY + 100, width: SX1 - SX0, display: 'flex', justifyContent: 'center' }}>
         <Label at={a(96.99)} size={46} font="mono" seed={57} color={COLORS.warn}>90 MILES</Label>
       </div>
@@ -427,7 +426,7 @@ export const Fates: React.FC = () => {
         if (frame < a) return null;
         const x = 1220 + i * 52;
         const y = 690 + (i % 2) * 26;
-        return <div key={i} style={{ position: 'absolute', left: x, top: y, width: 16, height: 20, borderRadius: '50%', background: COLORS.muted, opacity: s === 'default' ? 0.75 : 1, filter: s === 'claymation' ? 'url(#clay)' : undefined }} />;
+        return <div key={i} style={{ position: 'absolute', left: x, top: y, width: 16, height: 20, borderRadius: '50%', background: COLORS.muted, opacity: smooth(s) ? 0.75 : 1, filter: clay(s) ? 'url(#clay)' : undefined }} />;
       })}
     </Stage>
   );
@@ -565,9 +564,9 @@ export const EndCard: React.FC = () => {
     <Stage scene="night" dipIn={8} dipOut={12}>
       <Center gap={34}>
         <div style={{ display: 'flex', gap: 40 }}>
-          <Label at={c(192.69)} size={34} font="mono" seed={220} color={COLORS.warn} ink={useTri() === 'default' ? COLORS.warn : undefined}>LIKE</Label>
-          <Label at={c(193.09)} size={34} font="mono" seed={221} color={COLORS.warn} ink={useTri() === 'default' ? COLORS.warn : undefined}>SHARE</Label>
-          <Label at={c(193.56)} size={34} font="mono" seed={222} color={COLORS.warn} ink={useTri() === 'default' ? COLORS.warn : undefined}>SUBSCRIBE</Label>
+          <Label at={c(192.69)} size={34} font="mono" seed={220} color={COLORS.warn} ink={smooth(useTri()) ? COLORS.warn : undefined}>LIKE</Label>
+          <Label at={c(193.09)} size={34} font="mono" seed={221} color={COLORS.warn} ink={smooth(useTri()) ? COLORS.warn : undefined}>SHARE</Label>
+          <Label at={c(193.56)} size={34} font="mono" seed={222} color={COLORS.warn} ink={smooth(useTri()) ? COLORS.warn : undefined}>SUBSCRIBE</Label>
         </div>
         <Hero at={c(194.3)} size={128} seed={223}>{BRAND.wordmark.join('')}</Hero>
         <Rule at={c(194.55)} width={520} />

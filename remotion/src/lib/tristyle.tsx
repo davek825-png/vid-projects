@@ -16,23 +16,41 @@ import { FONT_DISPLAY, FONT_BODY, FONT_MONO } from '../fonts';
 import { NightBg, ParchmentBg, Grain, Dip, KenBurns, Scrim, IllustrationTag, ramp, Stamp as InkStamp, SunsetRule } from './frontier';
 import { MountainRange, PlacePin, RouteLine, routeLength, type Pt } from './inkmap';
 import { CraftPaperBg, ClayDefs, ClaySet, ClayText, tornPolygon, boil, stepped, rnd } from './styles';
+import { ClayStage3D } from './clay3d';
 
-export type TriStyle = 'default' | 'cutout' | 'claymation';
+// flat2d (added 2026-11-09): everything drawn in code, no photos. Motion, maps, ledgers and stamps
+// follow the default (smooth) branches; backgrounds/cards are flat; Picture/Photo render the drawn
+// scene registered for that image (StyleProvider `scenes`, keyed by the image src).
+// clay3d (added 2026-11-09): real three.js claymation. Text, cards, stamps and maps use the
+// claymation branches (clay(s)); the Stage background is a lit 3D clay set and Picture/Photo render
+// 3D clay dioramas from the scene registry (lib/clay3d.tsx). Render with --gl=angle.
+export type TriStyle = 'default' | 'cutout' | 'claymation' | 'flat2d' | 'clay3d';
 const CLAMP = { extrapolateLeft: 'clamp' as const, extrapolateRight: 'clamp' as const };
-const HOLD: Record<TriStyle, number> = { default: 1, cutout: 3, claymation: 2 };
+const HOLD: Record<TriStyle, number> = { default: 1, cutout: 3, claymation: 2, flat2d: 1, clay3d: 2 };
+/** Smooth-motion styles (eased fades, no stop-motion): default and flat2d. */
+export const smooth = (s: TriStyle) => s === 'default' || s === 'flat2d';
+/** Clay styles (stop-motion on twos, clay materials): the 2D claymation kit and real 3D clay. */
+export const clay = (s: TriStyle) => s === 'claymation' || s === 'clay3d';
 
+export type DrawnScenes = Record<string, React.FC>;
 const StyleCtx = createContext<TriStyle>('default');
+const ScenesCtx = createContext<DrawnScenes>({});
 const DarkCtx = createContext<boolean>(true);
-export const StyleProvider: React.FC<{ value: TriStyle; children: React.ReactNode }> = ({ value, children }) => (
-  <StyleCtx.Provider value={value}>{children}</StyleCtx.Provider>
+export const StyleProvider: React.FC<{ value: TriStyle; children: React.ReactNode; scenes?: DrawnScenes }> = ({ value, children, scenes = {} }) => (
+  <StyleCtx.Provider value={value}><ScenesCtx.Provider value={scenes}>{children}</ScenesCtx.Provider></StyleCtx.Provider>
 );
 export const useTri = () => useContext(StyleCtx);
+const useDrawn = (src: string) => {
+  const S = useContext(ScenesCtx)[src];
+  if (!S) throw new Error(`flat2d: no drawn scene registered for ${src}`);
+  return S;
+};
 
 /** Frame as the style sees it (stop-motion styles hold poses). */
 export const useStyledFrame = () => {
   const s = useTri();
   const frame = useCurrentFrame();
-  return s === 'default' ? frame : stepped(frame, HOLD[s]);
+  return smooth(s) ? frame : stepped(frame, HOLD[s]);
 };
 
 /** 0..1 progress from `at` over `dur` frames, quantized for stop-motion styles. */
@@ -49,7 +67,7 @@ type From = 'left' | 'right' | 'below' | 'drop' | 'none';
 export const Pop: React.FC<{ at: number; outAt?: number; seed?: number; from?: From; dist?: number; children: React.ReactNode; style?: React.CSSProperties }> = ({ at, outAt, seed = 1, from = 'below', dist, children, style }) => {
   const s = useTri();
   const frame = useCurrentFrame();
-  if (s === 'default') {
+  if (smooth(s)) {
     const d = from === 'none' ? 0 : dist ?? 18;
     // the exit FINISHES at outAt, so a caption replacing this one (same slot, at = outAt) never overlaps it
     const o = outAt === undefined ? ramp(frame, at, at + 16) : Math.min(ramp(frame, at, at + 16), ramp(frame, outAt - 8, outAt, 1, 0, EASINGS.easeIn));
@@ -85,7 +103,22 @@ export const Stage: React.FC<{ scene: Scene; children: React.ReactNode; dipIn?: 
   const s = useTri();
   const dark = scene !== 'parchment';
   let bg: React.ReactNode;
-  if (s === 'default') {
+  if (s === 'clay3d') {
+    bg = <><ClayDefs /><ClayStage3D scene={scene} /></>;
+  } else if (s === 'flat2d') {
+    const sky = { night: [COLORS.d900, COLORS.d600], parchment: [COLORS.paper, '#E2C48C'], storm: ['#3A0F08', COLORS.danger] }[scene];
+    bg = (
+      <AbsoluteFill>
+        <svg width={1920} height={1080}>
+          <defs><linearGradient id={`fbg-${scene}`} x1="0" y1="0" x2="0" y2="1"><stop offset={0} stopColor={sky[0]} /><stop offset={1} stopColor={sky[1]} /></linearGradient></defs>
+          <rect width={1920} height={1080} fill={`url(#fbg-${scene})`} />
+          {scene === 'parchment'
+            ? <rect x={40} y={40} width={1840} height={1000} fill="none" stroke={COLORS.line} strokeWidth={4} rx={18} />
+            : <path d="M 0 1080 L 0 960 L 220 930 L 300 890 L 520 890 L 600 940 L 980 925 L 1080 880 L 1290 880 L 1360 935 L 1700 920 L 1920 950 L 1920 1080 Z" fill={COLORS.d900} opacity={scene === 'storm' ? 0.6 : 0.85} />}
+        </svg>
+      </AbsoluteFill>
+    );
+  } else if (smooth(s)) {
     bg = scene === 'parchment' ? <ParchmentBg /> : <NightBg glow={scene === 'storm' ? COLORS.danger : COLORS.accent2} />;
   } else if (s === 'cutout') {
     const color = { night: '#3B1A0E', parchment: '#E9C98F', storm: '#4A160D' }[scene];
@@ -101,7 +134,7 @@ export const Stage: React.FC<{ scene: Scene; children: React.ReactNode; dipIn?: 
         {bg}
         {children}
         {s === 'default' && <Grain opacity={0.06} />}
-        {s === 'default' && <Dip inFrames={dipIn} outFrames={dipOut} />}
+        {smooth(s) && <Dip inFrames={dipIn} outFrames={dipOut} />}
       </AbsoluteFill>
     </DarkCtx.Provider>
   );
@@ -112,7 +145,10 @@ export const Stage: React.FC<{ scene: Scene; children: React.ReactNode; dipIn?: 
 /** A material box: card (default), torn paper (cutout), clay slab (claymation). */
 export const Surface: React.FC<{ color?: string; padding?: number | string; seed?: number; width?: number | string; children: React.ReactNode; style?: React.CSSProperties; round?: boolean }> = ({ color = COLORS.cream, padding = '18px 34px', seed = 3, width, children, style, round = false }) => {
   const s = useTri();
-  if (s === 'default') {
+  if (s === 'flat2d') {
+    return <div style={{ background: color, padding, width, borderRadius: round ? 999 : 16, boxShadow: '0 10px 0 rgba(26,11,6,0.28)', ...style }}>{children}</div>;
+  }
+  if (smooth(s)) {
     return <div style={{ background: color, padding, width, borderRadius: round ? 999 : 4, boxShadow: '0 18px 50px rgba(26,11,6,0.45)', border: `1px solid ${COLORS.line}`, ...style }}>{children}</div>;
   }
   if (s === 'cutout') {
@@ -147,8 +183,8 @@ export const Label: React.FC<{
 }> = ({ children, at, outAt, size = 56, font = 'body', seed = 5, color, ink, from = 'left', rotate, style, boxed = false }) => {
   const s = useTri();
   const dark = useContext(DarkCtx);
-  const rot = rotate ?? (s === 'default' ? 0 : rnd(seed, 1) * 1.8);
-  if (s === 'default' && !boxed) {
+  const rot = rotate ?? (smooth(s) ? 0 : rnd(seed, 1) * 1.8);
+  if (smooth(s) && !boxed) {
     const c = ink ?? (dark ? COLORS.cream : COLORS.ink);
     return (
       <Pop at={at} outAt={outAt} seed={seed} from={from === 'left' ? 'below' : from} style={style}>
@@ -157,7 +193,7 @@ export const Label: React.FC<{
     );
   }
   return (
-    <Pop at={at} outAt={outAt} seed={seed} from={s === 'claymation' ? 'below' : from} style={style}>
+    <Pop at={at} outAt={outAt} seed={seed} from={clay(s) ? 'below' : from} style={style}>
       <div style={{ transform: `rotate(${rot}deg)` }}>
         <Surface color={color ?? COLORS.cream} seed={seed} padding={`${Math.round(size * 0.24)}px ${Math.round(size * 0.55)}px`}>
           <div style={{ ...fontCss(font, size), color: ink ?? COLORS.ink, whiteSpace: 'nowrap', textAlign: 'center' }}>{children}</div>
@@ -171,7 +207,7 @@ export const Label: React.FC<{
 export const Hero: React.FC<{ children: React.ReactNode; at: number; outAt?: number; size?: number; seed?: number; color?: string; style?: React.CSSProperties }> = ({ children, at, outAt, size = 120, seed = 7, color, style }) => {
   const s = useTri();
   const dark = useContext(DarkCtx);
-  if (s === 'default') {
+  if (smooth(s)) {
     return (
       <Pop at={at} outAt={outAt} seed={seed} dist={30} style={style}>
         <div style={{ fontFamily: FONT_DISPLAY, fontWeight: 800, fontSize: size, lineHeight: 1.04, color: color ?? (dark ? COLORS.cream : COLORS.ink), textAlign: 'center', textShadow: dark ? '0 6px 40px rgba(0,0,0,0.6)' : 'none' }}>{children}</div>
@@ -199,7 +235,7 @@ export const Hero: React.FC<{ children: React.ReactNode; at: number; outAt?: num
 /** Rubber stamp (default) / dropped colored paper (cutout) / colored clay slab (claymation). */
 export const StampT: React.FC<{ text: string; at: number; color?: string; rotate?: number; size?: number; seed?: number; style?: React.CSSProperties }> = ({ text, at, color = COLORS.danger, rotate = -10, size = 80, seed = 11, style }) => {
   const s = useTri();
-  if (s === 'default') return <div style={style}><InkStamp text={text} at={at} color={color} rotate={rotate} size={size} /></div>;
+  if (smooth(s)) return <div style={style}><InkStamp text={text} at={at} color={color} rotate={rotate} size={size} /></div>;
   return (
     <Pop at={at} seed={seed} from={s === 'cutout' ? 'drop' : 'below'} style={style}>
       <div style={{ transform: `rotate(${rotate * 0.6}deg)` }}>
@@ -216,7 +252,7 @@ export const DateTag: React.FC<{ text: string; at: number; outAt?: number }> = (
   const s = useTri();
   const dark = useContext(DarkCtx);
   const pos: React.CSSProperties = { position: 'absolute', left: 90, top: 74 };
-  if (s === 'default') {
+  if (smooth(s)) {
     const c = dark ? COLORS.warn : COLORS.accent;
     return (
       <Pop at={at} outAt={outAt} from="below" dist={10} style={pos}>
@@ -231,7 +267,7 @@ export const DateTag: React.FC<{ text: string; at: number; outAt?: number }> = (
 export const Rule: React.FC<{ at: number; width?: number }> = ({ at, width = 520 }) => {
   const s = useTri();
   const p = useProg(at, 18, EASINGS.easeOut);
-  if (s === 'default') return <SunsetRule at={at} width={width} />;
+  if (smooth(s)) return <SunsetRule at={at} width={width} />;
   if (s === 'cutout') return <div style={{ width, height: 14, background: GRADIENT, clipPath: tornPolygon(19, 8), transform: `scaleX(${p})`, filter: 'drop-shadow(4px 5px 0 rgba(26,11,6,0.3))' }} />;
   return <div style={{ width, height: 22, borderRadius: 999, background: COLORS.accent2, filter: 'url(#clay)', transform: `scaleX(${p})` }} />;
 };
@@ -239,11 +275,11 @@ export const Rule: React.FC<{ at: number; width?: number }> = ({ at, width = 520
 /** Strike-through across its parent (position: relative parent). */
 export const Strike: React.FC<{ at: number; color?: string; thick?: number }> = ({ at, color = COLORS.danger, thick }) => {
   const s = useTri();
-  const p = useProg(at, s === 'default' ? 10 : 6, EASINGS.easeOut);
-  const h = thick ?? (s === 'claymation' ? 14 : s === 'cutout' ? 10 : 7);
+  const p = useProg(at, smooth(s) ? 10 : 6, EASINGS.easeOut);
+  const h = thick ?? (clay(s) ? 14 : s === 'cutout' ? 10 : 7);
   const base: React.CSSProperties = { position: 'absolute', left: -12, right: -12, top: '52%', height: h, background: color, transformOrigin: 'left center', transform: `translateY(-50%) rotate(-4deg) scaleX(${p})` };
   if (s === 'cutout') return <div style={{ ...base, clipPath: tornPolygon(23, 10), filter: 'drop-shadow(3px 4px 0 rgba(26,11,6,0.3))' }} />;
-  if (s === 'claymation') return <div style={{ ...base, borderRadius: 999, filter: 'url(#clay)' }} />;
+  if (clay(s)) return <div style={{ ...base, borderRadius: 999, filter: 'url(#clay)' }} />;
   return <div style={{ ...base, borderRadius: 4 }} />;
 };
 
@@ -280,7 +316,27 @@ export const Picture: React.FC<{ src: string; at?: number; illustration?: boolea
   const s = useTri();
   const frame = useCurrentFrame();
   const W = 1240, H = 692;
-  if (s === 'default') {
+  const Drawn = s === 'flat2d' || s === 'clay3d' ? useDrawn(src) : null;
+  if (Drawn && s === 'clay3d') {
+    // a 3D clay diorama moves its own camera; it pops in on a hard cut (stop-motion: no fade)
+    return frame < at ? null : (
+      <AbsoluteFill style={{ overflow: 'hidden' }}>
+        <Drawn />
+        <Scrim height={460} strength={0.72} />
+      </AbsoluteFill>
+    );
+  }
+  if (Drawn) {
+    // drawn scene, full-bleed, with the same slow camera move the photo would get
+    const t = (k: 's' | 'x' | 'y') => ramp(frame, at, at + 360, from[k], to[k], EASINGS.easeInOut);
+    return (
+      <AbsoluteFill style={{ opacity: at > 0 ? ramp(frame, at, at + 6) : 1, overflow: 'hidden' }}>
+        <AbsoluteFill style={{ transform: `translate(${t('x')}%, ${t('y')}%) scale(${t('s')})` }}><Drawn /></AbsoluteFill>
+        <Scrim height={460} strength={0.78} />
+      </AbsoluteFill>
+    );
+  }
+  if (smooth(s)) {
     return (
       <AbsoluteFill style={{ opacity: at > 0 ? ramp(frame, at, at + 6) : 1 }}>
         <KenBurns src={src} from={from} to={to} grade={grade} />
@@ -291,7 +347,7 @@ export const Picture: React.FC<{ src: string; at?: number; illustration?: boolea
   }
   const drift = interpolate(stepped(frame, HOLD[s]), [0, 600], [0, -26], CLAMP);
   const tag = illustration && (
-    <div style={{ position: 'absolute', right: 26, bottom: 22, fontFamily: FONT_MONO, fontSize: 17, letterSpacing: 3, color: COLORS.cream, background: 'rgba(26,11,6,0.6)', padding: '4px 10px', borderRadius: s === 'claymation' ? 8 : 0 }}>ILLUSTRATION</div>
+    <div style={{ position: 'absolute', right: 26, bottom: 22, fontFamily: FONT_MONO, fontSize: 17, letterSpacing: 3, color: COLORS.cream, background: 'rgba(26,11,6,0.6)', padding: '4px 10px', borderRadius: clay(s) ? 8 : 0 }}>ILLUSTRATION</div>
   );
   if (s === 'cutout') {
     return (
@@ -323,8 +379,28 @@ export const Picture: React.FC<{ src: string; at?: number; illustration?: boolea
 /** A smaller photo (portraits, engravings): framed print / torn print / clay-framed prop. */
 export const Photo: React.FC<{ src: string; w: number; h: number; at: number; seed?: number; rotate?: number; style?: React.CSSProperties; grade?: string }> = ({ src, w, h, at, seed = 21, rotate = -2, style, grade }) => {
   const s = useTri();
-  const img = <Img src={src} style={{ width: w, height: h, objectFit: 'cover', display: 'block', borderRadius: s === 'claymation' ? 10 : 0, filter: grade ?? 'sepia(0.2) contrast(1.05)' }} />;
-  if (s === 'default') {
+  const Drawn = s === 'flat2d' || s === 'clay3d' ? useDrawn(src) : null;
+  if (Drawn && s === 'clay3d') {
+    return (
+      <Pop at={at} seed={seed} style={style}>
+        <div style={{ position: 'relative', padding: 22, transform: `rotate(${rotate}deg)` }}>
+          <div style={{ position: 'absolute', inset: 0, background: COLORS.d800, borderRadius: 26, filter: 'url(#clay)' }} />
+          <div style={{ position: 'relative', width: w, height: h, borderRadius: 10, overflow: 'hidden' }}><Drawn /></div>
+        </div>
+      </Pop>
+    );
+  }
+  if (Drawn) {
+    return (
+      <Pop at={at} dist={24} style={style}>
+        <div style={{ transform: `rotate(${rotate}deg)`, background: COLORS.cream, padding: 14, borderRadius: 18, boxShadow: '0 10px 0 rgba(26,11,6,0.3)' }}>
+          <div style={{ width: w, height: h, borderRadius: 10, overflow: 'hidden', position: 'relative' }}><Drawn /></div>
+        </div>
+      </Pop>
+    );
+  }
+  const img = <Img src={src} style={{ width: w, height: h, objectFit: 'cover', display: 'block', borderRadius: clay(s) ? 10 : 0, filter: grade ?? 'sepia(0.2) contrast(1.05)' }} />;
+  if (smooth(s)) {
     return (
       <Pop at={at} dist={24} style={style}>
         <div style={{ transform: `rotate(${rotate}deg)`, background: COLORS.cream, padding: 16, boxShadow: '0 18px 50px rgba(26,11,6,0.5)', border: `1px solid ${COLORS.line}` }}>{img}</div>
@@ -353,7 +429,7 @@ export const Photo: React.FC<{ src: string; w: number; h: number; at: number; se
 /** Material wrapper for hand-drawn SVG props (figures, envelope, book, newspapers, icons). */
 export const Mat: React.FC<{ at: number; outAt?: number; seed?: number; from?: From; children: React.ReactNode; style?: React.CSSProperties }> = ({ at, outAt, seed = 9, from = 'below', children, style }) => {
   const s = useTri();
-  const filter = s === 'default' ? 'drop-shadow(0 14px 30px rgba(26,11,6,0.45))' : s === 'cutout' ? 'drop-shadow(7px 9px 0 rgba(26,11,6,0.34))' : 'url(#clay) drop-shadow(0 14px 14px rgba(20,8,4,0.4))';
+  const filter = s === 'flat2d' ? 'drop-shadow(0 8px 0 rgba(26,11,6,0.28))' : smooth(s) ? 'drop-shadow(0 14px 30px rgba(26,11,6,0.45))' : s === 'cutout' ? 'drop-shadow(7px 9px 0 rgba(26,11,6,0.34))' : 'url(#clay) drop-shadow(0 14px 14px rgba(20,8,4,0.4))';
   return (
     <Pop at={at} outAt={outAt} seed={seed} from={s === 'cutout' && from === 'below' ? 'drop' : from} style={style}>
       <div style={{ filter }}>{children}</div>
@@ -367,7 +443,7 @@ export const Mat: React.FC<{ at: number; outAt?: number; seed?: number; from?: F
 export const Ridge: React.FC<{ x0: number; x1: number; y: number; at: number; label?: string; seed?: number }> = ({ x0, x1, y, at, label, seed = 4 }) => {
   const s = useTri();
   const frame = useCurrentFrame();
-  if (s === 'default') return <MountainRange x0={x0} x1={x1} y={y} at={at} label={label} />;
+  if (smooth(s)) return <MountainRange x0={x0} x1={x1} y={y} at={at} label={label} />;
   const n = Math.max(3, Math.round((x1 - x0) / 60));
   const peaks = Array.from({ length: n }, (_, i) => ({
     x: x0 + ((x1 - x0) * i) / (n - 1), h: 60 + Math.abs(rnd(seed, i)) * 50, a: at + i * HOLD[s] * 2,
@@ -389,9 +465,9 @@ export const Ridge: React.FC<{ x0: number; x1: number; y: number; at: number; la
 /** A town pin with a label. */
 export const Pin: React.FC<{ x: number; y: number; label: string; sub?: string; at: number; hot?: boolean; above?: boolean; seed?: number }> = ({ x, y, label, sub, at, hot = false, above = false, seed = 60 }) => {
   const s = useTri();
-  if (s === 'default') return <PlacePin x={x} y={y} label={label} sub={sub} at={at} hot={hot} above={above} />;
+  if (smooth(s)) return <PlacePin x={x} y={y} label={label} sub={sub} at={at} hot={hot} above={above} />;
   const col = hot ? COLORS.accent : COLORS.ink;
-  const d = s === 'claymation' ? 40 : 32;
+  const d = clay(s) ? 40 : 32;
   const dot = s === 'cutout'
     ? <div style={{ width: d, height: d, borderRadius: '50%', background: col, filter: 'drop-shadow(4px 5px 0 rgba(26,11,6,0.35))' }} />
     : <div style={{ width: d, height: d, borderRadius: '50%', background: col, filter: 'url(#clay)', boxShadow: 'inset -5px -6px 0 rgba(0,0,0,0.25)' }} />;
@@ -414,7 +490,7 @@ export const Pin: React.FC<{ x: number; y: number; label: string; sub?: string; 
 export const Route: React.FC<{ pts: Pt[]; at: number; dur: number; color?: string; width?: number }> = ({ pts, at, dur, color = COLORS.accent, width }) => {
   const s = useTri();
   const p = useProg(at, dur);
-  if (s === 'default') return <RouteLine pts={pts} at={at} dur={dur} color={color} width={width ?? 7} />;
+  if (smooth(s)) return <RouteLine pts={pts} at={at} dur={dur} color={color} width={width ?? 7} />;
   const len = routeLength(pts);
   const id = `rt${Math.round(pts[0][0])}${Math.round(pts[0][1])}${at}`;
   const pl = pts.map((q) => q.join(',')).join(' ');
@@ -437,20 +513,20 @@ export const Route: React.FC<{ pts: Pt[]; at: number; dur: number; color?: strin
 export const Mystery: React.FC<{ x: number; y: number; at: number; size?: number; seed?: number; outAt?: number }> = ({ x, y, at, size = 70, seed = 70, outAt }) => {
   const s = useTri();
   const frame = useCurrentFrame();
-  const sc = s === 'default' ? ramp(frame, at, at + 12, 0.3, 1, EASINGS.overshoot) : 1;
+  const sc = smooth(s) ? ramp(frame, at, at + 12, 0.3, 1, EASINGS.overshoot) : 1;
   const disc: React.CSSProperties = {
     width: size, height: size, borderRadius: '50%', background: COLORS.warn, display: 'flex', alignItems: 'center', justifyContent: 'center',
     fontFamily: FONT_DISPLAY, fontWeight: 900, fontSize: size * 0.66, color: COLORS.ink, transform: `scale(${sc})`,
   };
-  const look: React.CSSProperties = s === 'default'
+  const look: React.CSSProperties = smooth(s)
     ? { border: `${Math.max(3, size / 16)}px solid ${COLORS.ink}`, boxShadow: '0 6px 18px rgba(26,11,6,0.4)' }
     : s === 'cutout' ? { filter: 'drop-shadow(5px 6px 0 rgba(26,11,6,0.35))' } : { boxShadow: 'inset -6px -8px 0 rgba(0,0,0,0.2)' };
   return (
     <div style={{ position: 'absolute', left: x - size / 2, top: y - size / 2 }}>
       <Pop at={at} outAt={outAt} seed={seed} from="drop" dist={40}>
         <div style={{ position: 'relative', width: size, height: size }}>
-          {s === 'claymation' && <div style={{ position: 'absolute', inset: 0, borderRadius: '50%', background: COLORS.warn, filter: 'url(#clay)' }} />}
-          <div style={{ ...disc, ...look, position: 'relative', background: s === 'claymation' ? 'transparent' : COLORS.warn }}>?</div>
+          {clay(s) && <div style={{ position: 'absolute', inset: 0, borderRadius: '50%', background: COLORS.warn, filter: 'url(#clay)' }} />}
+          <div style={{ ...disc, ...look, position: 'relative', background: clay(s) ? 'transparent' : COLORS.warn }}>?</div>
         </div>
       </Pop>
     </div>
@@ -467,7 +543,7 @@ export const Center: React.FC<{ children: React.ReactNode; gap?: number; top?: n
 /** Caption band at the bottom (below Picture prints in cutout/claymation). Children stack. */
 export const Bottom: React.FC<{ children: React.ReactNode; gap?: number }> = ({ children, gap = 14 }) => {
   const s = useTri();
-  const pos: React.CSSProperties = s === 'default' ? { bottom: 92 } : { top: 790, bottom: 14, justifyContent: 'center' };
+  const pos: React.CSSProperties = smooth(s) ? { bottom: 92 } : { top: 790, bottom: 14, justifyContent: 'center' };
   return <div style={{ position: 'absolute', left: 0, right: 0, display: 'flex', flexDirection: 'column', alignItems: 'center', gap, ...pos }}>{children}</div>;
 };
 

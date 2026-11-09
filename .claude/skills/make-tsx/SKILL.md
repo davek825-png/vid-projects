@@ -51,7 +51,7 @@ with fades and dips.
 
 **Cutout (paper collage, stop-motion).**
 - Motion: everything is stop-motion. Drive animation through `stepRamp(frame, a, b, 3)` (poses held
-  on threes, 10/s) and give every piece `boil`. **No fades and no smooth Ken Burns**: paper slides,
+  on threes, 10/s). No `boil` wobble (creator rule: no shaky effects; `BOIL_ENABLED` stays false). **No fades and no smooth Ken Burns**: paper slides,
   drops or swaps in (`PaperPiece from="drop|left|right|below"`); scene changes are hard cuts or a
   paper piece sliding across.
 - Backgrounds: `CraftPaperBg` in brand paper colors, with torn `strips` for horizons and mountains
@@ -66,7 +66,8 @@ with fades and dips.
   appended to each prompt, so their art matches the collage.
 
 **Claymation (plasticine set, stop-motion).**
-- Motion: stop-motion on twos (`stepped(frame, 2)`, 15 poses/s) with `boil`. Entrances use
+- Motion: stop-motion on twos (`stepped(frame, 2)`, 15 poses/s), held poses perfectly still (no
+  `boil`, no shake). Entrances use
   `ClayPiece` squash-and-stretch (pop up from the floor), not fades. Scene changes are hard cuts.
 - Every shot renders `<ClayDefs />` once, then builds a set: `ClaySet` (wall + rolled-clay floor +
   key light), `ClayMountains` / clay blobs for scenery.
@@ -99,6 +100,10 @@ real historical photos as props/prints (honest, still on-style) and ask for rest
 - Design shots at 1920×1080; render-all `--scale=2` → 4K for final. Preview bakes 1080p30; final delivery is 4K60.
 
 ## Principles (the house style — apply them)
+
+- **No shaky effects (creator rule, 2026-11-09).** No camera/screen shake (not even on an impact,
+  capsize or gunshot), no jitter, no boil wobble, no trembling text, in any style. Convey drama with
+  timing, a slow push, a dim or a held still frame instead. See brand.md §6.
 
 - **Sync to the words (P1).** Reveal sub-elements on their narration cue, timed from `edited-transcript.json`. "Show everything then hold" is a smell.
 - **Don't pre-empt (P2).** Never put on screen a thing mentioned *later* (don't show "skill" before the skill is introduced; don't show example tiles before "more examples").

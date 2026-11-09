@@ -16,6 +16,10 @@ const stillMode = args.includes('--still');
 const scaleArg = args.find((a) => a.startsWith('--scale='));
 const SCALE = scaleArg ? Number(scaleArg.split('=')[1]) : 2;
 const onlyIds = args.filter((a) => !a.startsWith('--'));
+// --gl=angle (or swangle/egl/vulkan): WebGL backend for @remotion/three (3D) shots. Omitted = Remotion's
+// default, which is what every 2D shot has always used.
+const glArg = args.find((a) => a.startsWith('--gl='));
+const chromiumOptions = glArg ? { gl: glArg.split('=')[1] } : {};
 
 const manifest = JSON.parse(readFileSync(path.join(root, 'src', 'shots.manifest.json'), 'utf8'));
 const outDir = path.join(root, 'out');
@@ -29,12 +33,12 @@ const serveUrl = await bundle({ entryPoint: path.join(root, 'src', 'index.ts'), 
 let n = 0;
 for (const shot of manifest) {
   if (onlyIds.length && !onlyIds.includes(shot.id)) continue;
-  const composition = await selectComposition({ serveUrl, id: shot.id });
+  const composition = await selectComposition({ serveUrl, id: shot.id, chromiumOptions });
 
   if (stillMode) {
     const out = path.join(outDir, `${shot.id}.png`);
     await renderStill({
-      serveUrl, composition, output: out, scale: SCALE, overwrite: true,
+      serveUrl, composition, output: out, scale: SCALE, overwrite: true, chromiumOptions,
       frame: Math.floor(composition.durationInFrames * 0.6),
       imageFormat: shot.transparent ? 'png' : 'jpeg',
     });
@@ -43,7 +47,7 @@ for (const shot of manifest) {
     const transparent = !!shot.transparent;
     const out = path.join(outDir, `${shot.id}.${transparent ? 'mov' : 'mp4'}`);
     await renderMedia({
-      serveUrl, composition, outputLocation: out, scale: SCALE, overwrite: true,
+      serveUrl, composition, outputLocation: out, scale: SCALE, overwrite: true, chromiumOptions,
       codec: transparent ? 'prores' : 'h264',
       proResProfile: transparent ? '4444' : undefined,
       pixelFormat: transparent ? 'yuva444p10le' : 'yuv420p',

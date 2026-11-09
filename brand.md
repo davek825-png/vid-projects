@@ -100,6 +100,11 @@ Translated to video (Remotion, 30fps):
 - **Camera:** slow Ken Burns push-ins on photos, maps and documents (5–10% over the beat).
 - **Backgrounds:** slow drifting sunset gradient, dust/grain, gentle vignette; 10–20s loops.
 - **Feel:** documentary suspense. No spins, no elastic, no bounce (`overshoot` is a faint settle).
+- **No shaky effects (creator rule, 2026-11-09, every future video, every style).** No camera shake,
+  no screen shake on impacts or capsizes, no jitter, no stop-motion "boil" wobble, no trembling text.
+  Stop-motion styles (cutout, claymation, 3D clay) still hold poses, but held pieces stay perfectly
+  still. In code: `BOIL_ENABLED = false` in `remotion/src/lib/styles.tsx` (also governs
+  `lib/clay3d.tsx`); never hand-roll a `sin(frame)` shake in a shot.
 
 ## 7. Video delivery specs
 

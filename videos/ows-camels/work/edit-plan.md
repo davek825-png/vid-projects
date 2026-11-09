@@ -12,6 +12,27 @@ three shot sets, three previews:
 | default (documentary) | `remotion/src/shots/ows-camels/` `Cm*` | `work/timeline.json` | `output/ows-camels-preview.mp4` |
 | cutout (paper, on threes) | `remotion/src/shots/ows-camels-cutout/` `Cut*` | `work/timeline-cutout.json` | `output/ows-camels-preview-cutout.mp4` |
 | claymation (clay, on twos) | `remotion/src/shots/ows-camels-clay/` `Clay*` | `work/timeline-clay.json` | `output/ows-camels-preview-clay.mp4` |
+| **all-2D / flat2d** (2026-11-09, second version) | `remotion/src/shots/ows-camels-2d/` `Flat*` | `work/timeline-2d.json` | `output/ows-camels-final-2d.mp4` (with SFX + music) |
+
+**All-2D version (creator request 2026-11-09):** every photo and AI image replaced by a scene drawn in
+code, in an Old West flat-vector poster look (creator's choice). Same beats, timing, reveal rule and
+approved sound (`sfx-plan-2d.json`, `music-plan-2d.json` = the approved plans pointed at the 2D
+picture). Drawn scenes: `ows-camels/_scenes2d.tsx` (keyed by the `IMG` srcs) on the reusable kit
+`lib/flatwest.tsx`; the `flat2d` style lives in `lib/tristyle.tsx`. Beale is a drawn silhouette cameo,
+not his photograph. Camels are drawn only in the reveal and wild-camel scenes.
+Generate: `python tools/gen_camels_shots.py --only flat2d`.
+
+**3D claymation version (creator request 2026-11-09):** real three.js claymation via `@remotion/three`
+(+ `@react-three/fiber` 8, `three` 0.169). Every beat sits on a lit 3D clay set (desert with mesas for
+night/storm beats; a clay paper sheet on a wooden table for ledger/map beats), and every image is a 3D
+clay diorama (`ows-camels/_scenes3d.tsx` on the reusable kit `lib/clay3d.tsx`: camels, people,
+wagons, fort, ship on a rolled-clay sea, adobes, saguaros, skull, vultures, a clay bust standing in
+for Beale's photo). Text, ledgers, stamps and maps are the claymation slabs over the 3D set.
+Stop-motion on twos with per-pose boil. Same beats, timing, reveal rule and approved sound
+(`sfx-plan-3d.json`, `music-plan-3d.json`). Shots `remotion/src/shots/ows-camels-3d/Clay3d*`,
+`work/timeline-3d.json`, final `output/ows-camels-final-3d.mp4`.
+Generate: `python tools/gen_camels_shots.py --only clay3d`; render with
+`node scripts/render-all.mjs --scale=1 --gl=angle <ids>` (WebGL on the GPU; 28 shots ≈ 9 min).
 
 Beat timing and cue words are shared: `remotion/src/shots/ows-camels/_beats.ts` holds every span
 and cue time, and all three styles read it, so a retime happens once.

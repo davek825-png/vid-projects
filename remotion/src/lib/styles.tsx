@@ -29,8 +29,17 @@ export const rnd = (seed: number, n: number) => {
   return (x - Math.floor(x)) * 2 - 1;
 };
 
-/** Per-pose wobble: {x, y, r} that changes every `hold` frames. amp px / deg. */
+/**
+ * CREATOR RULE (2026-11-09): NO SHAKY EFFECTS in future videos. The per-pose "boil" wobble (and any
+ * camera shake / jitter) is OFF. Stop-motion styles still hold poses (stepped motion), they just
+ * don't tremble. Only set this true if the creator explicitly asks for a wobble again. Renders made
+ * before this date (ows-camels cutout / claymation / 3D clay) were made with it on.
+ */
+export const BOIL_ENABLED = false;
+
+/** Per-pose wobble: {x, y, r} that changes every `hold` frames. amp px / deg. Zero while BOIL_ENABLED is false. */
 export const boil = (frame: number, seed: number, amp = 1.5, hold = 3) => {
+  if (!BOIL_ENABLED) return { x: 0, y: 0, r: 0 };
   const n = Math.floor(frame / hold);
   return { x: rnd(seed, n) * amp, y: rnd(seed + 9, n) * amp, r: rnd(seed + 17, n) * amp * 0.25 };
 };
